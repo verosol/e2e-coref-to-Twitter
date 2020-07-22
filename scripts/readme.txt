@@ -6,6 +6,7 @@ You should launch shell file, indicating the separetor (blank space or tabulatio
 
 3. taketheverbmentionsout takes a train folder of the ontonotes and another empty one with the same structure of folders (like wb/eng/00, etc )and excludes verbal mentions from the ontonotes putting them into the second "train2" folder.
 You shall indicated dirs inside.
+There are 2 files in nw/xinhua which have a token annotated with 3+ mentions not covered by this script, which will give error with e2e-coref "setup_train" scripts. They have to be corrected manually.
 
 4. create_json_files_for_json2conll works with the output of the e2e-coref prediction mode, separetes the files into one document per one json file needed for json2conll.
 
