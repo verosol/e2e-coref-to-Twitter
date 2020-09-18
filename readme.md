@@ -1,5 +1,7 @@
 ## USAGE
 
+Here you will get instruction on how to obtain the Twitter corpus and get the train and test sets used for the experiments.
+
 ### Required
 - CoNLL skeleton files in which the words are anonymized (one file for each conversation/thread, provided in ``conll_skeleton``)
 - files with token differences to re-create the tokenization (one file per tweet, provided in ``diff``)
@@ -41,11 +43,8 @@ As a final step, running ``python make_conll.py <PATH TO TWEET TEXT FILES>`` wil
 
 ### Split into train and test set
 
-TODO: To split into training and test sets used in re-training e2e (Lee et al, 2018), run ``python split_test_train.py <PATH TO CONLL FILES>``, the file format will appear in ``train`` and ``test``
+To split into training and test sets used in re-training e2e (Lee et al, 2018), run ``python split_test_train.py <PATH TO CONLL FILES>``, the file format will appear in ``train`` and ``test``
 
-### Remove Verb mentions from Twitter Corpus and Ontonotes
-
-TODO: how to use the script + manual corrections
 
 ### The CoNLL format
 
