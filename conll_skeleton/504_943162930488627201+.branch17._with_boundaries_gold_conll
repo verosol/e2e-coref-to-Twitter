@@ -1,0 +1,55 @@
+#begin document (504_943162930488627201+.branch17.); part 164
+504_943162930488627201+.branch17.	164	0	_	:	(ROOT(PRN*	-	-	-	infinitejaysee	*	-	-	CL0	-	-	-	-	0_0_0	943162930488627201
+504_943162930488627201+.branch17.	164	1	_	NN	(S(VP*	-	-	-	infinitejaysee	*	defnp/none	(1003)	-	NP_S()	NP_L()	-	-	0_0_1	943162930488627201
+504_943162930488627201+.branch17.	164	2	_	VB	(VP(VP*	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_0_2	943162930488627201
+504_943162930488627201+.branch17.	164	3	_	VBN	(VP*))	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_0_3	943162930488627201
+504_943162930488627201+.branch17.	164	4	_	,	(PRN*	-	-	-	infinitejaysee	*	-	-	CL0	-	-	-	-	0_0_4	943162930488627201
+504_943162930488627201+.branch17.	164	5	_	FW	(S(NP*)	-	-	-	infinitejaysee	*	ppers/exophora	(1001)	CLX	NP_S()	NP_L()	-	-	0_0_5	943162930488627201
+504_943162930488627201+.branch17.	164	6	_	RB	(ADVP*)	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_0_6	943162930488627201
+504_943162930488627201+.branch17.	164	7	_	VBD	(VP*	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_0_7	943162930488627201
+504_943162930488627201+.branch17.	164	8	_	PRP$	(NP*))	-	-	-	infinitejaysee	*	ppos/none	(1000)	-	NP_S()	NP_L()	-	-	0_0_8	943162930488627201
+504_943162930488627201+.branch17.	164	9	_	.	*))	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_0_9	943162930488627201
+504_943162930488627201+.branch17.	164	10	_	FW	(NP*))))))	-	-	-	infinitejaysee	*	-	-	CLX	-	-	-	-	0_0_10	943162930488627201
+
+504_943162930488627201+.branch17.	164	0	_	NN	(ROOT(FRAG(NP(NP*	-	-	-	infinitejaysee	*	-	-	CL1	-	-	-	-	0_1_0	943162930488627201
+504_943162930488627201+.branch17.	164	1	_	NN	*)	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_1_1	943162930488627201
+504_943162930488627201+.branch17.	164	2	_	DT	(SBAR(S(NP*	-	-	-	infinitejaysee	*	defnp/none	(3	-	NP_S(	NP_L(	sbj	specific	0_1_2	943162930488627201
+504_943162930488627201+.branch17.	164	3	_	VBG	*)	-	-	-	infinitejaysee	*	-	3)	-	)NP_S	)NP_L	-	-	0_1_3	943162930488627201
+504_943162930488627201+.branch17.	164	4	_	VBD	(VP*	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_1_4	943162930488627201
+504_943162930488627201+.branch17.	164	5	_	RB	(ADVP*)	-	-	-	infinitejaysee	*	-	-	CL1	-	-	-	-	0_1_5	943162930488627201
+504_943162930488627201+.branch17.	164	6	_	CC	(SBAR*	-	-	-	infinitejaysee	*	-	-	CL3	-	-	-	-	0_1_6	943162930488627201
+504_943162930488627201+.branch17.	164	7	_	FW	(S(NP*)	-	-	-	infinitejaysee	*	ppers/exophora	(1002)	-	NP_S()	NP_L()	-	-	0_1_7	943162930488627201
+504_943162930488627201+.branch17.	164	8	_	VBP	(VP*	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_1_8	943162930488627201
+504_943162930488627201+.branch17.	164	9	_	PRP	(S(NP*)	-	-	-	infinitejaysee	*	-	-	CL4	NP_S()	NP_L()	-	-	0_1_9	943162930488627201
+504_943162930488627201+.branch17.	164	10	_	VB	(VP*	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_1_10	943162930488627201
+504_943162930488627201+.branch17.	164	11	_	PRP	(S(NP*)	-	-	-	infinitejaysee	*	ppers/anaphora	(3)	CL4	NP_S()	NP_L()	dir_obj	not_assigned	0_1_11	943162930488627201
+504_943162930488627201+.branch17.	164	12	_	VB	(VP*)))))))))))))	-	-	-	infinitejaysee	*	-	-	CL3	-	-	-	-	0_1_12	943162930488627201
+
+504_943162930488627201+.branch17.	164	0	_	NN	(ROOT(NP(NP(NP*)	-	-	-	infinitejaysee	*	-	-	CL6	-	-	-	-	0_2_0	943162930488627201
+504_943162930488627201+.branch17.	164	1	_	NN	(SBAR(S(VP(NP(INTJ*	-	-	-	infinitejaysee	*	ne/none	(2)	-	NP_S()	NP_L()	dir_obj	specific	0_2_1	943162930488627201
+504_943162930488627201+.branch17.	164	2	_	.	*)	-	-	-	infinitejaysee	*	-	-	-	-	-	-	-	0_2_2	943162930488627201
+504_943162930488627201+.branch17.	164	3	_	FW	(NP*	-	-	-	infinitejaysee	*	-	-	CL6	-	-	-	-	0_2_3	943162930488627201
+504_943162930488627201+.branch17.	164	4	_	FW	*))))))	-	-	-	infinitejaysee	*	-	-	-	NP_S()	NP_L()	-	-	0_2_4	943162930488627201
+504_943162930488627201+.branch17.	164	5	_	NN	(NP*)))	-	-	-	infinitejaysee	(URL)	-	-	-	-	-	-	-	0_2_5	943162930488627201
+
+504_943162930488627201+.branch17.	164	0	_	JJ	(ROOT(NP(NP*	-	-	-	infinitejaysee	(HANDLE*	-	-	-	NP_S(	NP_L(	-	-	1_0_0	943180184898940930
+504_943162930488627201+.branch17.	164	1	_	NN	*)	-	-	-	infinitejaysee	*)	-	-	-	)NP_S	)NP_L	-	-	1_0_1	943180184898940930
+504_943162930488627201+.branch17.	164	2	_	NN	(NP*	-	-	-	infinitejaysee	*	-	-	CL7	-	-	-	-	1_0_2	943180184898940930
+504_943162930488627201+.branch17.	164	3	_	NN	*)))	-	-	-	infinitejaysee	*	defnp/none	(2)	CL7	NP_S()	NP_L()	other/vocative	not_assigned	1_0_3	943180184898940930
+
+504_943162930488627201+.branch17.	164	0	_	NN	(ROOT(S(NP*	-	-	-	KinkyEthanD	(HANDLE*	-	-	-	NP_S(	NP_L(	-	-	2_0_0	943188435078209536
+504_943162930488627201+.branch17.	164	1	_	NN	*)	-	-	-	KinkyEthanD	*)	-	-	-	)NP_S	)NP_L	-	-	2_0_1	943188435078209536
+504_943162930488627201+.branch17.	164	2	_	PRP	(NP*)	-	-	-	KinkyEthanD	*	ppers/anaphora	(3)	CL8	NP_S()	NP_L()	sbj	not_assigned	2_0_2	943188435078209536
+504_943162930488627201+.branch17.	164	3	_	VBZ	(VP*	-	-	-	KinkyEthanD	*	-	-	-	-	-	-	-	2_0_3	943188435078209536
+504_943162930488627201+.branch17.	164	4	_	JJ	(ADJP*)	-	-	-	KinkyEthanD	*	-	-	-	-	-	-	-	2_0_4	943188435078209536
+504_943162930488627201+.branch17.	164	5	_	,	*	-	-	-	KinkyEthanD	*	-	-	CL8	-	-	-	-	2_0_5	943188435078209536
+504_943162930488627201+.branch17.	164	6	_	JJ	(S(ADJP*)	-	-	-	KinkyEthanD	(HANDLE)	-	-	CL9	NP_S()	NP_L()	-	-	2_0_6	943188435078209536
+504_943162930488627201+.branch17.	164	7	_	PRP	(SBAR(S(NP*)	-	-	-	KinkyEthanD	*	ppers/exophora	(2)	-	NP_S()	NP_L()	sbj	not_assigned	2_0_7	943188435078209536
+504_943162930488627201+.branch17.	164	8	_	VBP	(VP*	-	-	-	KinkyEthanD	*	-	-	-	-	-	-	-	2_0_8	943188435078209536
+504_943162930488627201+.branch17.	164	9	_	VBG	(VP*	-	-	-	KinkyEthanD	*	-	-	-	-	-	-	-	2_0_9	943188435078209536
+504_943162930488627201+.branch17.	164	10	_	TO	(S(VP*))	-	-	-	KinkyEthanD	*	-	-	CL10	-	-	-	-	2_0_10	943188435078209536
+504_943162930488627201+.branch17.	164	11	_	IN	(PP*	-	-	-	KinkyEthanD	*	-	-	-	-	-	-	-	2_0_11	943188435078209536
+504_943162930488627201+.branch17.	164	12	_	DT	(NP*))))))))	-	-	-	KinkyEthanD	*	pds/anaphora	(3)	CL10	NP_S()	NP_L()	dir_obj	not_assigned	2_0_12	943188435078209536
+504_943162930488627201+.branch17.	164	13	_	.	*))	-	-	-	KinkyEthanD	*	-	-	CL9	-	-	-	-	2_0_13	943188435078209536
+
+#end document
