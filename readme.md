@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## The Corpus
 
 This is an instruction on how to reproduce the Twitter Conversation Corpus used in *Adapting Coreference Resolution to Twitter Conversations*, which conforms with the Ontonotes annotation style except for the annotation of verb mention, which are annotated in Ontonotes but not this corpus. To conform with Twitter's Developer Policy, we only share our annotations as text files without including the full tweet contents and authors. Instead we provide the tweet IDs and also share an additional script and data to map our tokenization and annotations to the original tweets.
@@ -41,10 +42,54 @@ Jks
 ```
 
 As a final step, running ``python make_conll.py <PATH TO TWEET TEXT FILES> <PATH TO AUTHOR FILES>`` will create the CoNLL files in ``conll``.
+=======
+## USAGE
+
+Here you will get instruction on how to obtain the Twitter corpus and get the train and test sets used for the experiments.
+
+### Required
+- CoNLL skeleton files in which the words are anonymized (one file for each conversation/thread, provided in ``conll_skeleton``)
+- files with token differences to re-create the tokenization (one file per tweet, provided in ``diff``)
+- text files containing the message of each tweet. The tweets can be found and downloaded via their Tweet ID (all IDs are listed in ``tweet_ids.txt``).
+
+### Make CoNLL-format files
+
+After downloading all the tweets via their Tweet IDs, the text of each tweet should be saved in an individual text file, with the Tweet ID as the name and the .txt extension (e.g. ``0123456789.txt``).
+
+ Example tweet: ``This is just a test. Hi Twitter!``
+
+The texts have to be tokenized on spaces (only spaces, not on punctuation etc.), with one token per line. A file should look like this:
+
+ ```
+ This
+ is
+ just
+ a
+ test.
+ Hi
+ Twitter!
+ ```
+
+If a tweet is no longer available, no file should be created (not even an empty one); the words from this tweet will stay anonymized.
+
+**Note:** Some tweets contain unusual characters like zero-width spaces, which make the spacing invisible. At those spaces, words should separated just like at visible spaces.
+Specifically, in the tweet with ID ``950216535125082112``, the tokenized version of ``*** I can'tJks ***`` should be
+
+```
+***
+I
+can't
+Jks
+****
+```
+
+As a final step, running ``python make_conll.py <PATH TO TWEET TEXT FILES>`` will create the CoNLL files in ``conll``.
+>>>>>>> 9a91175ea89c273f7efd7678223190249abda4a1
 
 
 ### Split into train and test set
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 To split into training and test sets used in re-training e2e (Lee et al, 2018), run ``python split_test_train.py <PATH TO CONLL FILES>``, the file format will appear in ``train`` and ``test``
 =======
@@ -54,6 +99,10 @@ TODO: To split into training and test sets used in re-training e2e (Lee et al, 2
 
 TODO: how to use the script + manual corrections
 >>>>>>> 3ca73beda320a26c59c57a8946586583ca5b12b5
+=======
+To split into training and test sets used in re-training e2e (Lee et al, 2018), run ``python split_test_train.py <PATH TO CONLL FILES>``, the file format will appear in ``train`` and ``test``
+
+>>>>>>> 9a91175ea89c273f7efd7678223190249abda4a1
 
 ### The CoNLL format
 
