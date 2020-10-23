@@ -1,0 +1,129 @@
+#begin document (wb/eng/00/eng_0071); part 000
+wb/eng/00/eng_0071	0	0	Shoes	NNS	(ROOT(S(NP*)	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	1	all	DT	(VP(VP(NP*)	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	2	over	IN	(PP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	3	the	DT	(NP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	4	place	NN	*)))	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	5	and	CC	*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	6	was	VBD	(VP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	7	killing	VBG	(VP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	8	my	PRP$	(NP*	-	-	-	ChrisErb	*	(0|(2)	
+wb/eng/00/eng_0071	0	9	wife	NN	*))))	-	-	-	ChrisErb	*	0)	
+wb/eng/00/eng_0071	0	10	.	.	*))	-	-	-	ChrisErb	*	-	
+
+wb/eng/00/eng_0071	0	0	She	PRP	(ROOT(S(NP*)	-	-	-	ChrisErb	*	(0)	
+wb/eng/00/eng_0071	0	1	asked	VBD	(VP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	2	me	PRP	(S(NP*)	-	-	-	ChrisErb	*	(2)	
+wb/eng/00/eng_0071	0	3	to	TO	(VP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	4	pull	VB	(VP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	5	it	PRP	(NP*)	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	6	together	RB	(ADVP*)))))	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	7	.	.	*))	-	-	-	ChrisErb	*	-	
+
+wb/eng/00/eng_0071	0	0	So	RB	(ROOT(S*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	1	moved	VBN	(S(VP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	2	all	DT	(NP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	3	her	PRP$	*	-	-	-	ChrisErb	*	(0)	
+wb/eng/00/eng_0071	0	4	shoes	NNS	*)	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	5	to	TO	(PP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	6	the	DT	(NP(NP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	7	garage	NN	*)	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	8	and	CC	*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	9	Jordans	NNP	(NP*)))))	-	-	-	ChrisErb	(MISC)	-	
+wb/eng/00/eng_0071	0	10	took	VBD	(VP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	11	over	RP	(PRT*)	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	12	the	DT	(NP*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	13	closet	NN	*))	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	14	!	.	*))	-	-	-	ChrisErb	*	-	
+
+wb/eng/00/eng_0071	0	0	Problem	NNP	(ROOT(S(NP*)	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	1	solved	VBD	(VP*)	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	2	.	.	*	-	-	-	ChrisErb	*	-	
+wb/eng/00/eng_0071	0	3	https://t.co/bR5dOtxPYG	NN	*))	-	-	-	ChrisErb	(URL)	-	
+
+wb/eng/00/eng_0071	0	0	@ChrisErb	NN	(ROOT(S(NP*)	-	-	-	milbhatguy	(HANDLE)	-	
+wb/eng/00/eng_0071	0	1	I	PRP	(NP*)	-	-	-	milbhatguy	*	(8)	
+wb/eng/00/eng_0071	0	2	'm	VBP	(VP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	3	not	RB	*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	4	a	DT	(NP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	5	shoe	NN	*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	6	guy	NN	*))	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	7	.	.	*))	-	-	-	milbhatguy	*	-	
+
+wb/eng/00/eng_0071	0	0	What	WP	(ROOT(SBARQ(WHNP*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	1	's	VBZ	(SQ*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	2	the	DT	(NP(NP*	-	-	-	milbhatguy	*	(5	
+wb/eng/00/eng_0071	0	3	shoe	NN	*)	-	-	-	milbhatguy	*	5)	
+wb/eng/00/eng_0071	0	4	that	WDT	(SBAR(WHNP*)	-	-	-	milbhatguy	*	(5)	
+wb/eng/00/eng_0071	0	5	's	VBZ	(S(VP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	6	second	JJ	(NP*	-	-	-	milbhatguy	(ORDINAL)	-	
+wb/eng/00/eng_0071	0	7	shelf	NN	*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	8	up	RB	(ADVP*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	9	,	,	*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	10	stacked	VBN	(S(VP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	11	on	IN	(PP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	12	top	NN	(NP(NP*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	13	of	IN	(PP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	14	each	DT	(NP*	-	-	-	milbhatguy	*	(5	
+wb/eng/00/eng_0071	0	15	other	JJ	*)))))))))))	-	-	-	milbhatguy	*	5)	
+wb/eng/00/eng_0071	0	16	?	.	*))	-	-	-	milbhatguy	*	-	
+
+wb/eng/00/eng_0071	0	0	@milbhatguy	JJ	(ROOT(NP(NP*	-	-	-	Richie59FIFTY	(HANDLE*	-	
+wb/eng/00/eng_0071	0	1	@ChrisErb	NN	*)	-	-	-	Richie59FIFTY	*)	-	
+wb/eng/00/eng_0071	0	2	Rafa	NNP	(NP*	-	-	-	Richie59FIFTY	*	(5	
+wb/eng/00/eng_0071	0	3	Nadal	NNP	*	-	-	-	Richie59FIFTY	*	-	
+wb/eng/00/eng_0071	0	4	Zoom	NNP	*	-	-	-	Richie59FIFTY	*	-	
+wb/eng/00/eng_0071	0	5	Vapors	NNP	*)	-	-	-	Richie59FIFTY	*	5)	
+wb/eng/00/eng_0071	0	6	https://t.co/kp50zEgWTQ	NN	(NP*)))	-	-	-	Richie59FIFTY	(URL)	-	
+
+wb/eng/00/eng_0071	0	0	@Richie59FIFTY	NN	(ROOT(NP(NP*)	-	-	-	milbhatguy	(HANDLE*	-	
+wb/eng/00/eng_0071	0	1	@ChrisErb	NN	(NP(NP*)	-	-	-	milbhatguy	*)	-	
+wb/eng/00/eng_0071	0	2	Thanks	NNS	(NP*))	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	3	!	.	*))	-	-	-	milbhatguy	*	-	
+
+wb/eng/00/eng_0071	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	milbhatguy	*	(8)	
+wb/eng/00/eng_0071	0	1	like	VBP	(VP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	2	the	DT	(NP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	3	heel	NN	*))	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	4	.	.	*))	-	-	-	milbhatguy	*	-	
+
+wb/eng/00/eng_0071	0	0	Not	RB	(ROOT(FRAG(ADJP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	1	sure	JJ	*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	2	how	WRB	(SBAR(WHADVP*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	3	I	PRP	(S(NP*)	-	-	-	milbhatguy	*	(8)	
+wb/eng/00/eng_0071	0	4	feel	VBP	(VP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	5	about	IN	(PP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	6	the	DT	(NP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	7	fish	NN	*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	8	gills	NNS	*)))))	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	9	.	.	*))	-	-	-	milbhatguy	*	-	
+
+wb/eng/00/eng_0071	0	0	But	CC	(ROOT(S*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	1	I	PRP	(NP*)	-	-	-	milbhatguy	*	(8)	
+wb/eng/00/eng_0071	0	2	've	VBP	(VP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	3	always	RB	(ADVP*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	4	been	VBN	(VP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	5	a	DT	(NP(NP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	6	sucker	NN	*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	7	for	IN	(PP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	8	those	DT	(NP(NP*	-	-	-	milbhatguy	*	(5	
+wb/eng/00/eng_0071	0	9	Bulls	NNPS	*)	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	10	colored	VBN	(VP*	-	-	-	milbhatguy	*	-	
+wb/eng/00/eng_0071	0	11	Nike	NNP	(S(NP*	-	-	-	milbhatguy	(ORGANIZATION)	-	
+wb/eng/00/eng_0071	0	12	's	POS	*))))))))	-	-	-	milbhatguy	*	5)	
+wb/eng/00/eng_0071	0	13	.	.	*))	-	-	-	milbhatguy	*	-	
+
+wb/eng/00/eng_0071	0	0	@milbhatguy	JJ	(ROOT(S(NP(NP*	-	-	-	Richie59FIFTY	(HANDLE*	-	
+wb/eng/00/eng_0071	0	1	@ChrisErb	NN	*)	-	-	-	Richie59FIFTY	*)	-	
+wb/eng/00/eng_0071	0	2	Yeah	UH	(SBAR(S(INTJ*)	-	-	-	Richie59FIFTY	*	-	
+wb/eng/00/eng_0071	0	3	I	PRP	(NP*)	-	-	-	Richie59FIFTY	*	(9)	
+wb/eng/00/eng_0071	0	4	sold	VBD	(VP*	-	-	-	Richie59FIFTY	*	-	
+wb/eng/00/eng_0071	0	5	my	PRP$	(NP*	-	-	-	Richie59FIFTY	*	(9)	
+wb/eng/00/eng_0071	0	6	pair	NN	*)	-	-	-	Richie59FIFTY	*	-	
+wb/eng/00/eng_0071	0	7	but	CC	(PP*	-	-	-	Richie59FIFTY	*	-	
+wb/eng/00/eng_0071	0	8	they	PRP	(NP*))))))	-	-	-	Richie59FIFTY	*	(5)	
+wb/eng/00/eng_0071	0	9	're	VBP	(VP*	-	-	-	Richie59FIFTY	*	-	
+wb/eng/00/eng_0071	0	10	nice	JJ	(ADJP*))	-	-	-	Richie59FIFTY	*	-	
+wb/eng/00/eng_0071	0	11	.	.	*))	-	-	-	Richie59FIFTY	*	-	
+
+#end document

@@ -1,0 +1,85 @@
+#begin document (wb/eng/00/eng_0108); part 000
+wb/eng/00/eng_0108	0	0	Love	NN	(ROOT(FRAG(NP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	1	that	WDT	(SBAR(WHNP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	2	%emoji	VBP	(S(VP*)))))	-	-	-	SheezyClarke	*	-	
+
+wb/eng/00/eng_0108	0	0	Firstly	RB	(ROOT(S(ADVP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	1	I	PRP	(NP*)	-	-	-	SheezyClarke	*	(4)	
+wb/eng/00/eng_0108	0	2	'd	MD	(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	3	like	VB	(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	4	to	TO	(S(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	5	thank	VB	(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	6	@davefrecks	NNS	(NP*)	-	-	-	SheezyClarke	(HANDLE)	-	
+wb/eng/00/eng_0108	0	7	for	IN	(PP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	8	not	RB	(S*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	9	dragging	VBG	(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	10	me	PRP	(NP*)	-	-	-	SheezyClarke	*	(4)	
+wb/eng/00/eng_0108	0	11	before	IN	(PP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	12	HT	NNP	(NP*))))))))))	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	13	...	:	*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	14	.	.	*))	-	-	-	SheezyClarke	*	-	
+
+wb/eng/00/eng_0108	0	0	Secondly	RB	(ROOT(FRAG(ADVP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	1	the	DT	(NP(NP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	2	Darlo	NNP	*	-	-	-	SheezyClarke	(MISC)	-	
+wb/eng/00/eng_0108	0	3	defenders	NNS	*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	4	for	IN	(PP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	5	going	VBG	(S(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	6	for	IN	(PP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	7	a	DT	(NP(NP(NP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	8	kebab	NN	*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	9	when	WRB	(SBAR(WHADVP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	10	I	PRP	(S(NP*)	-	-	-	SheezyClarke	*	(4)	
+wb/eng/00/eng_0108	0	11	chopped	VBD	(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	12	inside	RB	(ADVP*)))))	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	13	and	CC	*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	14	the	DT	(NP(NP*	-	-	-	SheezyClarke	*	(0	
+wb/eng/00/eng_0108	0	15	GK	NNP	*)	-	-	-	SheezyClarke	*	0)	
+wb/eng/00/eng_0108	0	16	for	IN	(PP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	17	waving	VBG	(S(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	18	at	IN	(PP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	19	his	PRP$	(NP*	-	-	-	SheezyClarke	*	(0)	
+wb/eng/00/eng_0108	0	20	mrs	NNS	*))	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	21	as	IN	(SBAR*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	22	he	PRP	(S(NP*)	-	-	-	SheezyClarke	*	(0)	
+wb/eng/00/eng_0108	0	23	watched	VBD	(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	24	it	PRP	(S(NP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	25	go	VB	(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	26	in	IN	(PP*))))))))))))))))	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	27	.	.	*))	-	-	-	SheezyClarke	*	-	
+
+wb/eng/00/eng_0108	0	0	Lastly	RB	(ROOT(UCP(ADVP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	1	to	TO	(PP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	2	everybody	NN	(NP(NP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	3	that	WDT	(SBAR(WHNP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	4	voted	VBD	(S(VP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	5	%emoji	RB	(ADVP*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	6	much	JJ	(NP-TMP(NP*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	7	love	NN	*	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	8	%emoji	NNS	*)	-	-	-	SheezyClarke	*	-	
+wb/eng/00/eng_0108	0	9	https://t.co/Nd2t88a9uK	NN	(NP*)))))))))	-	-	-	SheezyClarke	(URL)	-	
+
+wb/eng/00/eng_0108	0	0	@SheezyClarke	NN	(ROOT(S(NP*	-	-	-	RossDurrant	(HANDLE*	-	
+wb/eng/00/eng_0108	0	1	@davefrecks	NNS	*)	-	-	-	RossDurrant	*)	-	
+wb/eng/00/eng_0108	0	2	Fixed	VBN	(VP*)))	-	-	-	RossDurrant	*	-	
+
+wb/eng/00/eng_0108	0	0	@RossDurrant	JJ	(ROOT(NP(NP*	-	-	-	SheezyClarke	(HANDLE*	-	
+wb/eng/00/eng_0108	0	1	@davefrecks	NNS	*)	-	-	-	SheezyClarke	*)	-	
+wb/eng/00/eng_0108	0	2	Now	RB	(PRN(ADVP*)	-	-	-	SheezyClarke	(DATE*	-	
+wb/eng/00/eng_0108	0	3	now	RB	(NP(ADVP*)	-	-	-	SheezyClarke	*)	-	
+wb/eng/00/eng_0108	0	4	Ross	NNP	*))	-	-	-	SheezyClarke	(PERSON*	(3)	
+wb/eng/00/eng_0108	0	5	%emoji	NNS	(NP*)))	-	-	-	SheezyClarke	*)	-	
+
+wb/eng/00/eng_0108	0	0	@SheezyClarke	NN	(ROOT(FRAG(NP*	-	-	-	RossDurrant	(HANDLE*	-	
+wb/eng/00/eng_0108	0	1	@davefrecks	NNS	*)	-	-	-	RossDurrant	*)	-	
+wb/eng/00/eng_0108	0	2	Just	RB	(SBAR(X(ADVP*)	-	-	-	RossDurrant	*	-	
+wb/eng/00/eng_0108	0	3	jealous	JJ	(NP*	-	-	-	RossDurrant	*	-	
+wb/eng/00/eng_0108	0	4	mate	NN	*))	-	-	-	RossDurrant	*	(4)	
+wb/eng/00/eng_0108	0	5	I	PRP	(S(NP*)	-	-	-	RossDurrant	*	(3)	
+wb/eng/00/eng_0108	0	6	'd	MD	(VP*	-	-	-	RossDurrant	*	-	
+wb/eng/00/eng_0108	0	7	love	VB	(VP*	-	-	-	RossDurrant	*	-	
+wb/eng/00/eng_0108	0	8	a	DT	(NP*	-	-	-	RossDurrant	*	-	
+wb/eng/00/eng_0108	0	9	left	JJ	*	-	-	-	RossDurrant	*	-	
+wb/eng/00/eng_0108	0	10	foot	NN	*)))))))	-	-	-	RossDurrant	*	-	
+
+#end document

@@ -1,0 +1,146 @@
+#begin document (wb/eng/00/eng_0190); part 000
+wb/eng/00/eng_0190	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	laurenxjessica	*	(2)	
+wb/eng/00/eng_0190	0	1	was	VBD	(VP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	2	playing	VBG	(VP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	3	Mic	NNP	(S(NP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	4	Drop	NNP	*)	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	5	really	RB	(ADJP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	6	loud	JJ	*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	7	in	IN	(PP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	8	my	PRP$	(NP(NP*	-	-	-	laurenxjessica	*	(2)	
+wb/eng/00/eng_0190	0	9	car	NN	*)	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	10	and	CC	*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	11	the	DT	(NP(NP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	12	car	NN	*)	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	13	next	JJ	(VP(ADVP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	14	to	TO	(PP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	15	me	PRP	(NP*)))	-	-	-	laurenxjessica	*	(2)	
+wb/eng/00/eng_0190	0	16	goes	VBZ	*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	17	``	``	(NP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	18	AYYYYYYYE	NNP	(S(NP*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	19	BTS	NNP	*)	-	-	-	laurenxjessica	*	(3)	
+wb/eng/00/eng_0190	0	20	!!!!	.	(VP*))	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	21	''	''	*	-	-	-	laurenxjessica	*	-	
+wb/eng/00/eng_0190	0	22	@BTS_twt	NN	*)))))))))))	-	-	-	laurenxjessica	(HANDLE)	(3)	
+
+wb/eng/00/eng_0190	0	0	@laurenxjessica	NN	(ROOT(NP(NP*	-	-	-	AyyyRee	(HANDLE*	-	
+wb/eng/00/eng_0190	0	1	@BTSRequest	NN	*)	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	2	@BTS_twt	NN	(NP*	-	-	-	AyyyRee	*)	-	
+wb/eng/00/eng_0190	0	3	%emoji	FW	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	4	%emoji	FW	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	5	%emoji	FW	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	6	%emoji	FW	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	7	%emoji	FW	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	8	%emoji	FW	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	9	ayyyyyyyyy	FW	*)	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	10	https://t.co/MIwoJPs0qL	NN	(NP*)))	-	-	-	AyyyRee	(URL)	-	
+
+wb/eng/00/eng_0190	0	0	@AyyyRee	NN	(ROOT(FRAG(NP*	-	-	-	taani98	(HANDLE*	-	
+wb/eng/00/eng_0190	0	1	@laurenxjessica	NN	*	-	-	-	taani98	*	-	
+wb/eng/00/eng_0190	0	2	@BTSRequest	NN	*	-	-	-	taani98	*	-	
+wb/eng/00/eng_0190	0	3	@BTS_twt	NN	*)	-	-	-	taani98	*)	-	
+wb/eng/00/eng_0190	0	4	Can	MD	(VP*	-	-	-	taani98	*	-	
+wb/eng/00/eng_0190	0	5	u	VB	(VP*	-	-	-	taani98	*	(6)	
+wb/eng/00/eng_0190	0	6	send	VB	(VP*	-	-	-	taani98	*	-	
+wb/eng/00/eng_0190	0	7	this	DT	(NP(NP(NP*)	-	-	-	taani98	*	(9)	
+wb/eng/00/eng_0190	0	8	to	TO	(PP*	-	-	-	taani98	*	-	
+wb/eng/00/eng_0190	0	9	me	PRP	(NP*)))	-	-	-	taani98	*	(4)	
+wb/eng/00/eng_0190	0	10	!?	SYM	(X*)))))))	-	-	-	taani98	*	-	
+
+wb/eng/00/eng_0190	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	taani98	*	(4)	
+wb/eng/00/eng_0190	0	1	love	VBP	(VP*	-	-	-	taani98	*	-	
+wb/eng/00/eng_0190	0	2	it	PRP	(NP*))	-	-	-	taani98	*	(9)	
+wb/eng/00/eng_0190	0	3	!	.	*))	-	-	-	taani98	*	-	
+
+wb/eng/00/eng_0190	0	0	@taani98	NN	(ROOT(FRAG(NP*	-	-	-	AyyyRee	(HANDLE*	-	
+wb/eng/00/eng_0190	0	1	@laurenxjessica	NN	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	2	@BTSRequest	NN	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	3	@BTS_twt	NN	*)	-	-	-	AyyyRee	*)	-	
+wb/eng/00/eng_0190	0	4	The	DT	(NP*	-	-	-	AyyyRee	*	(9	
+wb/eng/00/eng_0190	0	5	gif	NN	*)	-	-	-	AyyyRee	*	9)	
+wb/eng/00/eng_0190	0	6	?	.	*))	-	-	-	AyyyRee	*	-	
+
+wb/eng/00/eng_0190	0	0	It	PRP	(ROOT(S(NP*)	-	-	-	AyyyRee	*	(9)	
+wb/eng/00/eng_0190	0	1	's	VBZ	(VP*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	2	in	IN	(PP*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	3	the	DT	(NP*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	4	gif	NN	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	5	search	NN	*))	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	6	but	CC	(SBAR*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	7	I	PRP	(S(NP*)	-	-	-	AyyyRee	*	(6)	
+wb/eng/00/eng_0190	0	8	'll	MD	(VP*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	9	just	RB	(ADVP*)	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	10	give	VB	(VP*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	11	you	PRP	(NP*)	-	-	-	AyyyRee	*	(4)	
+wb/eng/00/eng_0190	0	12	the	DT	(NP*	-	-	-	AyyyRee	*	(7	
+wb/eng/00/eng_0190	0	13	link	NN	(ADJP*	-	-	-	AyyyRee	*	7)	
+wb/eng/00/eng_0190	0	14	%emoji	FW	*)	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	15	https://t.co/wklMz4wdTY	NN	*))))))))	-	-	-	AyyyRee	(URL)	-	
+
+wb/eng/00/eng_0190	0	0	@AyyyRee	NN	(ROOT(S(SBAR(X(X(SBARQ(WHNP(WHNP*)	-	-	-	q_sera83	(HANDLE)	-	
+wb/eng/00/eng_0190	0	1	@taani98	CD	(NP(NP*	-	-	-	q_sera83	(NUMBER)	-	
+wb/eng/00/eng_0190	0	2	@laurenxjessica	NN	*	-	-	-	q_sera83	(HANDLE*	-	
+wb/eng/00/eng_0190	0	3	@BTSRequest	NN	*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	4	@BTS_twt	NN	(NP*	-	-	-	q_sera83	*)	-	
+wb/eng/00/eng_0190	0	5	Excuse	NN	*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	6	fam	NN	*)))	-	-	-	q_sera83	*	(6)	
+wb/eng/00/eng_0190	0	7	.	.	*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	8	.	.	*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	9	just	RB	(NP(NP*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	10	curious	JJ	*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	11	about	IN	(PP*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	12	the	DT	(NP(NP*	-	-	-	q_sera83	*	(9	
+wb/eng/00/eng_0190	0	13	gif	NN	*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	14	vkook	NN	*	-	-	-	q_sera83	*	(10)	
+wb/eng/00/eng_0190	0	15	kissing	NN	*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	16	in	IN	(PP*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	17	the	DT	(NP*	-	-	-	q_sera83	*	(7	
+wb/eng/00/eng_0190	0	18	link	NN	*))))))	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	19	your	PRP$	(S(NP*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	20	are	VBP	(VP*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	21	giving	VBG	(VP*))))	-	-	-	q_sera83	*	7)|9)	
+wb/eng/00/eng_0190	0	22	,	,	*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	23	it	PRP	(NP*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	24	's	VBZ	(VP*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	25	that	IN	(UCP(ADJP(WHADVP*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	26	real	JJ	*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	27	or	CC	*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	28	planted	VBN	(VP*)))	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	29	?	.	*))	-	-	-	q_sera83	*	-	
+
+wb/eng/00/eng_0190	0	0	@q_sera83	NN	(ROOT(NP(NP*	-	-	-	AyyyRee	(HANDLE)	-	
+wb/eng/00/eng_0190	0	1	@taani98	CD	*	-	-	-	AyyyRee	(NUMBER)	-	
+wb/eng/00/eng_0190	0	2	@laurenxjessica	NN	*	-	-	-	AyyyRee	(HANDLE*	-	
+wb/eng/00/eng_0190	0	3	@BTSRequest	NN	*)	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	4	@BTS_twt	NN	(NP*)	-	-	-	AyyyRee	*)	-	
+wb/eng/00/eng_0190	0	5	?????	.	*))	-	-	-	AyyyRee	*	-	
+
+wb/eng/00/eng_0190	0	0	What	WP	(ROOT(SBARQ(WHNP*)	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	1	are	VBP	(SQ*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	2	you	PRP	(NP*)	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	3	talking	VBG	(VP*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	4	about	IN	*))	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	5	?	.	*))	-	-	-	AyyyRee	*	-	
+
+wb/eng/00/eng_0190	0	0	This	DT	(ROOT(S(NP*)	-	-	-	AyyyRee	*	(9)	
+wb/eng/00/eng_0190	0	1	is	VBZ	(VP*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	2	the	DT	(NP(NP*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	3	Yasss	NNP	*	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	4	ARMY	NNP	*)	-	-	-	AyyyRee	*	-	
+wb/eng/00/eng_0190	0	5	one	CD	(NP*)))	-	-	-	AyyyRee	(NUMBER)	-	
+wb/eng/00/eng_0190	0	6	.	.	*))	-	-	-	AyyyRee	*	-	
+
+wb/eng/00/eng_0190	0	0	@AyyyRee	NN	(ROOT(NP(NP(NP*)	-	-	-	q_sera83	(HANDLE)	-	
+wb/eng/00/eng_0190	0	1	@taani98	CD	(SBAR(S(NP*	-	-	-	q_sera83	(NUMBER)	-	
+wb/eng/00/eng_0190	0	2	@laurenxjessica	NN	*	-	-	-	q_sera83	(HANDLE*	-	
+wb/eng/00/eng_0190	0	3	@BTSRequest	NN	*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	4	@BTS_twt	NN	*)	-	-	-	q_sera83	*)	-	
+wb/eng/00/eng_0190	0	5	thank	VB	(VP*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	6	god	NN	(NP(NP*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	7	that	WDT	(SBAR(WHNP*)	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	8	's	VBZ	(S(VP*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	9	not	RB	*	-	-	-	q_sera83	*	-	
+wb/eng/00/eng_0190	0	10	them	PRP	(NP*)))))))))	-	-	-	q_sera83	*	(10)	
+wb/eng/00/eng_0190	0	11	...	:	*))	-	-	-	q_sera83	*	-	
+
+#end document

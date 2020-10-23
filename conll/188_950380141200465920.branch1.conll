@@ -1,0 +1,66 @@
+#begin document (188_950380141200465920.branch1.); part 151
+188_950380141200465920.branch1.	151	0	Last	JJ	(ROOT(S(S(NP-TMP*	-	-	-	Kait_Carroll	(DATE*	-
+188_950380141200465920.branch1.	151	1	night	NN	*)	-	-	-	Kait_Carroll	*)	-
+188_950380141200465920.branch1.	151	2	,	,	*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	3	I	PRP	(NP*)	ppers/exophora/nominal	sbj	-	Kait_Carroll	*	(0)
+188_950380141200465920.branch1.	151	4	got	VBD	(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	5	voted	VBD	(SBAR(SBAR(S(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	6	to	TO	(S(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	7	have	VB	(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	8	the	DT	(NP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	9	most	RBS	(ADJP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	10	interesting	JJ	*)	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	11	story	NN	*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	12	to	TO	(S(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	13	tell	VB	(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	14	on	IN	(PP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	15	Maury	NNP	(NP*))	-	-	-	Kait_Carroll	(PERSON)	-
+188_950380141200465920.branch1.	151	16	out	IN	(PP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	17	of	IN	*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	18	my	PRP$	(NP(NP*	ppos/anaphora/nominal	prep_phrase	-	Kait_Carroll	*	(0)
+188_950380141200465920.branch1.	151	19	group	NN	*)	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	20	of	IN	(PP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	21	friends	NNS	(NP*))))))))))))))	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	22	and	CC	*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	23	if	IN	(SBAR*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	24	that	DT	(S(NP*)	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	25	does	VBZ	(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	26	n't	RB	*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	27	sum	VB	(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	28	up	RP	(PRT*)	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	29	my	PRP$	(NP*	ppos/anaphora/nominal	dir_obj	-	Kait_Carroll	*	(0)
+188_950380141200465920.branch1.	151	30	life	NN	*))))))))	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	31	,	,	*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	32	I	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	Kait_Carroll	*	(0)
+188_950380141200465920.branch1.	151	33	do	VBP	(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	34	n't	RB	*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	35	know	VB	(VP*	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	36	what	WP	(SBAR(WHNP*)	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	37	does	VBZ	(S(VP*)))))	-	-	-	Kait_Carroll	*	-
+188_950380141200465920.branch1.	151	38	.	.	*))	-	-	-	Kait_Carroll	*	-
+
+188_950380141200465920.branch1.	151	0	@Kait_Carroll	NN	(ROOT(FRAG(NP(NP*)	-	-	-	emma_xoxo	(HANDLE)	-
+188_950380141200465920.branch1.	151	1	I	PRP	(SBAR(S(NP*)	-	-	-	emma_xoxo	*	-
+188_950380141200465920.branch1.	151	2	blame	VBP	(VP*	-	-	-	emma_xoxo	*	-
+188_950380141200465920.branch1.	151	3	it	PRP	(NP*)	-	-	-	emma_xoxo	*	-
+188_950380141200465920.branch1.	151	4	on	IN	(PP*	-	-	-	emma_xoxo	*	-
+188_950380141200465920.branch1.	151	5	Carol	NNP	(NP*	-	-	-	emma_xoxo	(PERSON*	-
+188_950380141200465920.branch1.	151	6	Carroll	NNP	*))))))))	ne/none/none	other/vocative	-	emma_xoxo	*)	(0)
+
+188_950380141200465920.branch1.	151	0	@emma_xoxo	NN	(ROOT(S(NP(NP*	-	-	-	kelseymarie_b	(HANDLE*	-
+188_950380141200465920.branch1.	151	1	@Kait_Carroll	NN	*)	-	-	-	kelseymarie_b	*)	-
+188_950380141200465920.branch1.	151	2	Honestly	RB	(ADJP(ADVP*)	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	3	that	DT	*))	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	4	's	VBZ	(VP*	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	5	exactly	RB	(SBAR(WHADJP*	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	6	what	WP	*)	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	7	I	PRP	(S(NP*)	ppers/exophora/nominal	sbj	-	kelseymarie_b	*	(2)
+188_950380141200465920.branch1.	151	8	was	VBD	(VP*	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	9	thinking	VBG	(VP*	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	10	about	IN	(PP*	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	11	when	WRB	(SBAR(WHADVP*)	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	12	I	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	kelseymarie_b	*	(2)
+188_950380141200465920.branch1.	151	13	voted	VBD	(VP*	-	-	-	kelseymarie_b	*	-
+188_950380141200465920.branch1.	151	14	her	PRP$	(NP*))))))))))))	ppers/anaphora/nominal	dir_obj	-	kelseymarie_b	*	(0)
+
+#end document

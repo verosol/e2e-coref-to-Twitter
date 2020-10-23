@@ -1,0 +1,65 @@
+#begin document (012_947174225365946368.branch101.); part 9
+012_947174225365946368.branch101.	9	0	Lusaka	NNP	(ROOT(FRAG(NP*)	ne/none/none	other/other	-	citizentvkenya	(CITY)	(0)
+012_947174225365946368.branch101.	9	1	:	:	*	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	2	I	PRP	(S(NP*)	ppers/exophora/nominal	sbj	-	citizentvkenya	*	(0)
+012_947174225365946368.branch101.	9	3	am	VBP	(VP*	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	4	holding	VBG	(VP*	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	5	the	DT	(NP(NP*	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	6	highest	JJS	*	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	7	office	NN	*)	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	8	in	IN	(PP*	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	9	Western	JJ	(NP*	-	-	-	citizentvkenya	(MISC)	-
+012_947174225365946368.branch101.	9	10	region	NN	*	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	11	#Events2017	NN	*	-	-	-	citizentvkenya	*	-
+012_947174225365946368.branch101.	9	12	https://t.co/PNzURLw1so	NN	*))))))))	-	-	-	citizentvkenya	(URL)	-
+
+012_947174225365946368.branch101.	9	0	@citizentvkenya	NN	(ROOT(NP(NP*)	-	-	-	ngungah	(HANDLE)	-
+012_947174225365946368.branch101.	9	1	Higher	JJR	(NP(NP*)	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	2	than	IN	(PP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	3	a	DT	(NP(NP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	4	the	DT	*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	5	office	NN	*)	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	6	of	IN	(PP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	7	a	DT	(NP*	indefnp/none/none	prep_phrase	-	ngungah	*	(1
+012_947174225365946368.branch101.	9	8	Governor	NN	*)))))	-	-	-	ngungah	(TITLE)	1)
+012_947174225365946368.branch101.	9	9	??	.	*))	-	-	-	ngungah	*	-
+
+012_947174225365946368.branch101.	9	0	Or	CC	(ROOT(S*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	1	he	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	ngungah	*	(0)
+012_947174225365946368.branch101.	9	2	's	VBZ	(VP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	3	talking	VBG	(VP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	4	of	IN	(PP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	5	the	DT	(NP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	6	offices	NNS	*))	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	7	when	WRB	(SBAR(WHADVP*)	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	8	turned	VBN	(S(VP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	9	upside	RB	(ADVP*	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	10	down	RB	*))))))	-	-	-	ngungah	*	-
+012_947174225365946368.branch101.	9	11	?	.	*))	-	-	-	ngungah	*	-
+
+012_947174225365946368.branch101.	9	0	@ngungah	JJ	(ROOT(S(NP(NP*	-	-	-	edwinfanice	(HANDLE*	-
+012_947174225365946368.branch101.	9	1	@citizentvkenya	NN	*)	-	-	-	edwinfanice	*)	-
+012_947174225365946368.branch101.	9	2	A	DT	(NP*	-	-	-	edwinfanice	*	-
+012_947174225365946368.branch101.	9	3	speaker	NN	*))	-	-	-	edwinfanice	*	-
+012_947174225365946368.branch101.	9	4	is	VBZ	(VP*	-	-	-	edwinfanice	*	-
+012_947174225365946368.branch101.	9	5	higher	JJR	(ADJP(ADJP*)	-	-	-	edwinfanice	*	-
+012_947174225365946368.branch101.	9	6	than	IN	(PP*	-	-	-	edwinfanice	*	-
+012_947174225365946368.branch101.	9	7	the	DT	(NP*	defnp/none/none	other/other	-	edwinfanice	*	(1
+012_947174225365946368.branch101.	9	8	governor	NN	*))))))	-	-	-	edwinfanice	(TITLE)	1)
+
+012_947174225365946368.branch101.	9	0	@edwinfanice	NN	(ROOT(S(NP*	-	-	-	TheRealAgassi	(HANDLE*	-
+012_947174225365946368.branch101.	9	1	@ngungah	NN	*	-	-	-	TheRealAgassi	*	-
+012_947174225365946368.branch101.	9	2	@citizentvkenya	NN	*)	-	-	-	TheRealAgassi	*)	-
+012_947174225365946368.branch101.	9	3	He	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	TheRealAgassi	*	(0)
+012_947174225365946368.branch101.	9	4	was	VBD	(VP*	-	-	-	TheRealAgassi	*	-
+012_947174225365946368.branch101.	9	5	rejected	VBN	(VP*	-	-	-	TheRealAgassi	*	-
+012_947174225365946368.branch101.	9	6	by	IN	(PP*	-	-	-	TheRealAgassi	*	-
+012_947174225365946368.branch101.	9	7	the	DT	(NP*	-	-	-	TheRealAgassi	*	-
+012_947174225365946368.branch101.	9	8	electorate	NN	*))))	-	-	-	TheRealAgassi	*	-
+012_947174225365946368.branch101.	9	9	.	.	*))	-	-	-	TheRealAgassi	*	-
+
+012_947174225365946368.branch101.	9	0	Accepted	JJ	(ROOT(NP(NP*)	-	-	-	TheRealAgassi	*	-
+012_947174225365946368.branch101.	9	1	by	IN	(PP*	-	-	-	TheRealAgassi	*	-
+012_947174225365946368.branch101.	9	2	Jubilee	NN	(NP*))))	-	-	-	TheRealAgassi	(PERSON)	-
+
+#end document

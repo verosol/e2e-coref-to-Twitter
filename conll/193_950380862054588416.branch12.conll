@@ -1,0 +1,73 @@
+#begin document (193_950380862054588416.branch12.); part 156
+193_950380862054588416.branch12.	156	0	6	CD	(ROOT(S(ADVP(NP*	-	-	-	Giants	(DATE*	-
+193_950380862054588416.branch12.	156	1	years	NNS	*)	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	2	ago	IN	*)	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	3	today	NN	(ADVP*)	-	-	-	Giants	*)	-
+193_950380862054588416.branch12.	156	4	,	,	*	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	5	the	DT	(NP*	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	6	#NYGiants	NNPS	*)	ne/none/none	sbj	-	Giants	*	(3)
+193_950380862054588416.branch12.	156	7	beat	VBD	(VP*	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	8	the	DT	(S(NP*	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	9	Falcons	NNPS	*)	-	-	-	Giants	(ORGANIZATION)	-
+193_950380862054588416.branch12.	156	10	24-2	CD	(NP(NP*)	-	-	-	Giants	(NUMBER)	-
+193_950380862054588416.branch12.	156	11	on	IN	(PP*	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	12	Wild	NNP	(NP*	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	13	Card	NNP	*	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	14	Weekend	NNP	*	-	-	-	Giants	(DATE)	-
+193_950380862054588416.branch12.	156	15	.	.	*	-	-	-	Giants	*	-
+193_950380862054588416.branch12.	156	16	https://t.co/R1U1kzsfW0	NN	*)))))))	-	-	-	Giants	(URL)	-
+
+193_950380862054588416.branch12.	156	0	@Giants	NNS	(ROOT(S(NP(NP*)	-	-	-	Goodles128	(HANDLE)	-
+193_950380862054588416.branch12.	156	1	Fast	JJ	(ADJP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	2	forward	RB	(PP(ADVP*)	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	3	to	TO	*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	4	today	NN	(NP(NP*)	-	-	-	Goodles128	(DATE)	-
+193_950380862054588416.branch12.	156	5	and	CC	*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	6	we	PRP	(NP*)))))	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	7	've	VBP	(VP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	8	become	VBN	(VP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	9	the	DT	(NP(NP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	10	biggest	JJS	*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	11	joke	NN	*)	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	12	in	IN	(PP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	13	football	NN	(NP*)))	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	14	with	IN	(PP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	15	mcadouche	NN	(NP*))	ne/none/none	sbj	-	Goodles128	*	(1)
+193_950380862054588416.branch12.	156	16	as	IN	(PP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	17	the	DT	(NP*	defnp/none/none	other/other	-	Goodles128	*	(1
+193_950380862054588416.branch12.	156	18	coach	NN	*))))	-	-	-	Goodles128	(TITLE)	1)
+193_950380862054588416.branch12.	156	19	.	.	*))	-	-	-	Goodles128	*	-
+
+193_950380862054588416.branch12.	156	0	@Goodles128	NN	(ROOT(FRAG(NP(NP*	-	-	-	DaddyDRC_	(HANDLE*	-
+193_950380862054588416.branch12.	156	1	@Giants	NNS	*)	-	-	-	DaddyDRC_	*)	-
+193_950380862054588416.branch12.	156	2	He	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	DaddyDRC_	*	(1)
+193_950380862054588416.branch12.	156	3	's	VBZ	(VP*	-	-	-	DaddyDRC_	*	-
+193_950380862054588416.branch12.	156	4	gone	VBN	(VP*	-	-	-	DaddyDRC_	*	-
+193_950380862054588416.branch12.	156	5	now	RB	(ADVP*	-	-	-	DaddyDRC_	(DATE)	-
+193_950380862054588416.branch12.	156	6	so	RB	*))))))))	-	-	-	DaddyDRC_	*	-
+
+193_950380862054588416.branch12.	156	0	@DaddyDRC_	NN	(ROOT(S(NP(NP*	-	-	-	Goodles128	(HANDLE*	-
+193_950380862054588416.branch12.	156	1	@Giants	NNS	*)	-	-	-	Goodles128	*)	-
+193_950380862054588416.branch12.	156	2	Still	RB	(ADVP*))	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	3	does	VBZ	(VP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	4	n't	RB	*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	5	erase	VB	(VP*	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	6	what	WP	(SBAR(WHNP*)	-	-	-	Goodles128	*	-
+193_950380862054588416.branch12.	156	7	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	Goodles128	*	(1)
+193_950380862054588416.branch12.	156	8	did	VBD	(VP*)))))))	-	-	-	Goodles128	*	-
+
+193_950380862054588416.branch12.	156	0	@Goodles128	NN	(ROOT(FRAG(NP(NP*	-	-	-	DaddyDRC_	(HANDLE*	-
+193_950380862054588416.branch12.	156	1	@Giants	NNS	*)	-	-	-	DaddyDRC_	*)	-
+193_950380862054588416.branch12.	156	2	How	WRB	(SBAR(WHADVP*)	-	-	-	DaddyDRC_	*	-
+193_950380862054588416.branch12.	156	3	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	DaddyDRC_	*	(1)
+193_950380862054588416.branch12.	156	4	single	JJ	(VP(ADVP(ADJP*)	-	-	-	DaddyDRC_	*	-
+193_950380862054588416.branch12.	156	5	handedly	RB	(ADVP*))	-	-	-	DaddyDRC_	*	-
+193_950380862054588416.branch12.	156	6	destroyed	VBD	*	-	-	-	DaddyDRC_	*	-
+193_950380862054588416.branch12.	156	7	the	DT	(NP*	defnp/none/none	dir_obj	-	DaddyDRC_	*	(3
+193_950380862054588416.branch12.	156	8	team	NN	*)))))	-	-	-	DaddyDRC_	*	3)
+193_950380862054588416.branch12.	156	9	?	.	*))	-	-	-	DaddyDRC_	*	-
+
+193_950380862054588416.branch12.	156	0	No	DT	(ROOT(ADVP*	-	-	-	DaddyDRC_	*	-
+193_950380862054588416.branch12.	156	1	doubt	NN	*))	-	-	-	DaddyDRC_	*	-
+
+#end document

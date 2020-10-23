@@ -1,0 +1,114 @@
+#begin document (wb/eng/00/eng_0098); part 000
+wb/eng/00/eng_0098	0	0	Wife	NN	(ROOT(S(NP*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	1	is	VBZ	(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	2	back	RB	(ADVP*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	3	to	TO	(S(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	4	work	VB	(VP*)))	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	5	,	,	*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	6	so	IN	(SBAR*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	7	the	DT	(S(S(NP(NP*	-	-	-	itshannahflynn	*	(0|(6	
+wb/eng/00/eng_0098	0	8	baby	NN	*)	-	-	-	itshannahflynn	*	0)	
+wb/eng/00/eng_0098	0	9	and	CC	*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	10	I	PRP	(NP*))	-	-	-	itshannahflynn	*	6)|(5)	
+wb/eng/00/eng_0098	0	11	are	VBP	(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	12	listening	VBG	(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	13	to	TO	(PP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	14	90s	CD	(NP*	-	-	-	itshannahflynn	(NUMBER)	-	
+wb/eng/00/eng_0098	0	15	club	NN	*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	16	bangers	NNS	*))	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	17	while	IN	(SBAR*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	18	I	PRP	(S(NP*)	-	-	-	itshannahflynn	*	(5)	
+wb/eng/00/eng_0098	0	19	clean	VBP	(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	20	the	DT	(NP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	21	house	NN	*)))))))	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	22	and	CC	*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	23	she	PRP	(S(NP*)	-	-	-	itshannahflynn	*	(0)	
+wb/eng/00/eng_0098	0	24	tears	NNS	(NP(NP*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	25	up	IN	(PP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	26	her	PRP$	(NP*	-	-	-	itshannahflynn	*	(0)	
+wb/eng/00/eng_0098	0	27	floor	NN	*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	28	mats	NNS	*)))))))))	-	-	-	itshannahflynn	*	-	
+
+wb/eng/00/eng_0098	0	0	@itshannahflynn	NN	(ROOT(FRAG(NP(NP*)	-	-	-	Tim_H	(HANDLE)	-	
+wb/eng/00/eng_0098	0	1	That	WDT	(SBAR(S(NP*)	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	2	sounds	VBZ	(VP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	3	magnificent	JJ	(NP*)))))))	-	-	-	Tim_H	*	-	
+
+wb/eng/00/eng_0098	0	0	@Tim_H	NN	(ROOT(S(S(S(NP*	-	-	-	itshannahflynn	(HANDLE)	-	
+wb/eng/00/eng_0098	0	1	M8	NN	*))	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	2	we	PRP	(NP*)	-	-	-	itshannahflynn	*	(6)	
+wb/eng/00/eng_0098	0	3	just	RB	(ADVP*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	4	put	VBD	(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	5	youtube	NN	(NP*)	-	-	-	itshannahflynn	*	(1)	
+wb/eng/00/eng_0098	0	6	on	IN	(PP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	7	random	JJ	(ADJP*))))	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	8	and	CC	*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	9	it	PRP	(S(NP*)	-	-	-	itshannahflynn	*	(1)	
+wb/eng/00/eng_0098	0	10	was	VBD	(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	11	SERVING	VBG	(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	12	UP	RP	(PRT*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	13	THE	DT	(NP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	14	HITS	NNS	*))))	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	15	.	.	*))	-	-	-	itshannahflynn	*	-	
+
+wb/eng/00/eng_0098	0	0	Rhythm	NN	(ROOT(NP(NP*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	1	of	IN	(PP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	2	the	DT	(NP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	3	night	NN	*))	-	-	-	itshannahflynn	(TIME)	-	
+wb/eng/00/eng_0098	0	4	!	.	*))	-	-	-	itshannahflynn	*	-	
+
+wb/eng/00/eng_0098	0	0	Ride	NN	(ROOT(NP(NP*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	1	on	IN	(PP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	2	time	NN	(NP*))	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	3	!	.	*))	-	-	-	itshannahflynn	*	-	
+
+wb/eng/00/eng_0098	0	0	Finally	RB	(ROOT(S(ADVP*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	1	,	,	*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	2	Show	NNP	(NP(NP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	3	Me	NNP	(NX(NX(NX*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	4	Love	NNP	*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	5	,	,	(PRN*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	6	and	CC	*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	7	about	IN	(PP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	8	3	CD	(NP*))))	-	-	-	itshannahflynn	(NUMBER)	-	
+wb/eng/00/eng_0098	0	9	by	IN	(PP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	10	Real	JJ	(NP*	-	-	-	itshannahflynn	(PERSON*	-	
+wb/eng/00/eng_0098	0	11	McCoy	NNP	*))))	-	-	-	itshannahflynn	*)	-	
+wb/eng/00/eng_0098	0	12	that	IN	(SBAR*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	13	I	PRP	(S(NP*)	-	-	-	itshannahflynn	*	(5)	
+wb/eng/00/eng_0098	0	14	had	VBD	(VP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	15	forgotten	VBN	(VP*)))))	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	16	existed	VBD	(VP*)	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	17	.	.	*))	-	-	-	itshannahflynn	*	-	
+
+wb/eng/00/eng_0098	0	0	2REAL	NN	(ROOT(NP*	-	-	-	itshannahflynn	*	-	
+wb/eng/00/eng_0098	0	1	.	.	*))	-	-	-	itshannahflynn	*	-	
+
+wb/eng/00/eng_0098	0	0	@itshannahflynn	NNP	(ROOT(S(NP*	-	-	-	Tim_H	(HANDLE)	-	
+wb/eng/00/eng_0098	0	1	Pandora	NNP	*)	-	-	-	Tim_H	(PERSON)	-	
+wb/eng/00/eng_0098	0	2	has	VBZ	(VP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	3	a	DT	(NP(NP*	-	-	-	Tim_H	*	(4	
+wb/eng/00/eng_0098	0	4	station	NN	*)	-	-	-	Tim_H	*	4)	
+wb/eng/00/eng_0098	0	5	called	VBN	(VP*))	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	6	``	``	*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	7	summer	NN	(NP(NP*	-	-	-	Tim_H	(DATE)	(4	
+wb/eng/00/eng_0098	0	8	hits	NNS	*)	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	9	of	IN	(PP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	10	the	DT	(NP(NP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	11	90	CD	(NP*	-	-	-	Tim_H	(NUMBER)	-	
+wb/eng/00/eng_0098	0	12	's	POS	*))	-	-	-	Tim_H	*	4)	
+wb/eng/00/eng_0098	0	13	,	,	*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	14	just	RB	(ADVP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	15	in	IN	(PP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	16	case	NN	(NP*)))))	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	17	you	PRP	(SBAR(S(NP*)	-	-	-	Tim_H	*	(5)	
+wb/eng/00/eng_0098	0	18	need	VBP	(VP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	19	that	IN	(PP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	20	kinda	NN	(NP*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	21	thing	NN	*	-	-	-	Tim_H	*	-	
+wb/eng/00/eng_0098	0	22	:D	NN	*)))))))))	-	-	-	Tim_H	*	-	
+
+wb/eng/00/eng_0098	0	0	@Tim_H	NN	(ROOT(NP*	-	-	-	itshannahflynn	(HANDLE)	-	
+wb/eng/00/eng_0098	0	1	ALWAYS	NNS	*))	-	-	-	itshannahflynn	*	-	
+
+#end document

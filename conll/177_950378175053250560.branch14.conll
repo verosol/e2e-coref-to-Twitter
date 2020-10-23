@@ -1,0 +1,89 @@
+#begin document (177_950378175053250560.branch14.); part 141
+177_950378175053250560.branch14.	141	0	Orin	NNP	(ROOT(S(NP*)	ne/none/none	sbj	-	hankgreen	(PERSON)	(0)
+177_950378175053250560.branch14.	141	1	claps	VBZ	(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	2	when	WRB	(SBAR(WHADVP*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	3	other	JJ	(S(S(NP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	4	people	NNS	*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	5	clap	VBP	(VP*))	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	6	,	,	*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	7	so	IN	*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	8	it	PRP	(S(NP*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	9	was	VBD	(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	10	pretty	RB	(NP(ADJP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	11	cool	JJ	*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	12	to	TO	(S(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	13	watch	VB	(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	14	him	PRP	(S(NP*)	ppers/anaphora/nominal	dir_obj	-	hankgreen	*	(0)
+177_950378175053250560.branch14.	141	15	applaud	VB	(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	16	Oprah	NNP	(NP*)	ne/none/none	dir_obj	-	hankgreen	(PERSON)	(4)
+177_950378175053250560.branch14.	141	17	just	RB	(ADVP(ADVP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	18	now	RB	*)	-	-	-	hankgreen	(DATE)	-
+177_950378175053250560.branch14.	141	19	even	RB	(SBAR*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	20	though	IN	*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	21	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	hankgreen	*	(0)
+177_950378175053250560.branch14.	141	22	's	VBZ	(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	23	only	RB	(ADJP(NP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	24	14	CD	*	-	-	-	hankgreen	(DURATION*	-
+177_950378175053250560.branch14.	141	25	months	NNS	*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	26	old	JJ	*)))	-	-	-	hankgreen	*)	-
+177_950378175053250560.branch14.	141	27	.	.	*))))))))	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	28	https://t.co/SYixI4br3R	NN	*))))))))	-	-	-	hankgreen	(URL)	-
+
+177_950378175053250560.branch14.	141	0	If	IN	(ROOT(SBAR*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	1	you	PRP	(S(NP*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	2	want	VBP	(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	3	an	DT	(NP(NP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	4	example	NN	*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	5	of	IN	(PP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	6	someone	NN	(NP*))	indefnp/none/none	sbj	-	hankgreen	*	(4
+177_950378175053250560.branch14.	141	7	who	WP	(SBAR(WHNP*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	8	is	VBZ	(S(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	9	actually	RB	(ADVP*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	10	a	DT	(NP(NP*	indefnp/none/none	copula_rel	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	11	cunning	JJ	*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	12	and	CC	*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	13	savvy	JJ	*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	14	business	NN	*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	15	person	NN	*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	16	who	WP	(SBAR(WHNP*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	17	built	VBD	(S(VP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	18	their	PRP$	(NP*	ppos/anaphora/nominal	dir_obj	-	hankgreen	*	(4)
+177_950378175053250560.branch14.	141	19	billion	CD	*	-	-	-	hankgreen	(MONEY*	-
+177_950378175053250560.branch14.	141	20	dollar	NN	*	-	-	-	hankgreen	*)	-
+177_950378175053250560.branch14.	141	21	empire	NN	*)	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	22	from	IN	(PP*	-	-	-	hankgreen	*	-
+177_950378175053250560.branch14.	141	23	nothing	NN	(NP*)))))))	-	-	-	hankgreen	*	4)
+177_950378175053250560.branch14.	141	24	...	:	*)))))))	-	-	-	hankgreen	*	-
+
+177_950378175053250560.branch14.	141	0	@hankgreen	JJ	(ROOT(S(NP(NP*	-	-	-	Mr_Strongshell	(HANDLE*	-
+177_950378175053250560.branch14.	141	1	@hankgreen	NNS	*)	-	-	-	Mr_Strongshell	*)	-
+177_950378175053250560.branch14.	141	2	Oprah	NNP	(NP*))	ne/none/none	sbj	-	Mr_Strongshell	(PERSON)	(4)
+177_950378175053250560.branch14.	141	3	gave	VBD	(VP*	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	4	America	NNP	(NP*)	-	-	-	Mr_Strongshell	(COUNTRY)	-
+177_950378175053250560.branch14.	141	5	a	DT	(NP(NP*	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	6	platform	NN	*)	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	7	of	IN	(PP*	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	8	rampant	JJ	(NP*	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	9	,	,	*	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	10	exploitative	JJ	*	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	11	pseudoscience	NN	*))))	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	12	.	.	*))	-	-	-	Mr_Strongshell	*	-
+
+177_950378175053250560.branch14.	141	0	You	PRP	(ROOT(S(NP*)	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	1	gave	VBD	(VP*	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	2	us	PRP	(NP*)	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	3	SciShow	NNP	(NP*))	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	4	.	.	*))	-	-	-	Mr_Strongshell	*	-
+
+177_950378175053250560.branch14.	141	0	I	PRP	(ROOT(S(NP*)	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	1	expect	VBP	(VP*	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	2	better	JJR	(ADJP*))	-	-	-	Mr_Strongshell	*	-
+177_950378175053250560.branch14.	141	3	.	.	*))	-	-	-	Mr_Strongshell	*	-
+
+177_950378175053250560.branch14.	141	0	@Mr_Strongshell	NN	(ROOT(S(NP*	-	-	-	slickhorrible	(HANDLE*	-
+177_950378175053250560.branch14.	141	1	@hankgreen	NN	*	-	-	-	slickhorrible	*)	-
+177_950378175053250560.branch14.	141	2	%emoji	NNS	*)	-	-	-	slickhorrible	*	-
+177_950378175053250560.branch14.	141	3	%emoji	VBP	(VP*	-	-	-	slickhorrible	*	-
+177_950378175053250560.branch14.	141	4	%emoji	NNS	(NP*))))	-	-	-	slickhorrible	*	-
+
+#end document

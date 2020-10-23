@@ -1,0 +1,143 @@
+#begin document (wb/eng/00/eng_0181); part 000
+wb/eng/00/eng_0181	0	0	``	``	(ROOT(S*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	1	My	PRP$	(NP*	-	-	-	_Omobolaji_	*	(1)	
+wb/eng/00/eng_0181	0	2	God	NNP	*)	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	3	will	MD	(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	4	not	RB	*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	5	allow	VB	(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	6	me	PRP	(S(NP*)	-	-	-	_Omobolaji_	*	(1)	
+wb/eng/00/eng_0181	0	7	to	TO	(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	8	have	VB	(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	9	abstained	VBN	(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	10	for	IN	(PP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	11	so	RB	(NP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	12	long	JJ	*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	13	to	TO	(S(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	14	have	VB	(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	15	rubbish	JJ	(NP*	-	-	-	_Omobolaji_	*	(0	
+wb/eng/00/eng_0181	0	16	sex	NN	*))))))))))))	-	-	-	_Omobolaji_	*	0)	
+wb/eng/00/eng_0181	0	17	''	''	*))	-	-	-	_Omobolaji_	*	-	
+
+wb/eng/00/eng_0181	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	_Omobolaji_	*	(8)	
+wb/eng/00/eng_0181	0	1	felt	VBD	(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	2	that	IN	(ADVP*)	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	3	on	IN	(PP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	4	a	DT	(NP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	5	spiritual	JJ	*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	6	level	NN	*)))	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	7	.	.	*))	-	-	-	_Omobolaji_	*	-	
+
+wb/eng/00/eng_0181	0	0	@_Omobolaji_	NN	(ROOT(FRAG(NP*	-	-	-	iamdayoII	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	Lol	NN	*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	2	%emoji	RB	(ADJP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	3	well	RB	*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	4	not	RB	(ADVP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	5	for	IN	(PP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	6	virgins	NNS	(NP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	7	tho	NN	*)))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	8	.	.	*))	-	-	-	iamdayoII	*	-	
+
+wb/eng/00/eng_0181	0	0	@iamdayoII	NN	(ROOT(S(NP(NP(NP*)	-	-	-	_Omobolaji_	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	What	WP	(SBAR(WHNP*)	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	2	do	VBP	(S(VP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	3	you	PRP	(FRAG(NP*)	-	-	-	_Omobolaji_	*	(9)	
+wb/eng/00/eng_0181	0	4	mean	VB	(S(VP*))	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	5	?	.	*)))))	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	6	%emoji	FW	(NP*))))	-	-	-	_Omobolaji_	*	-	
+
+wb/eng/00/eng_0181	0	0	@_Omobolaji_	NNP	(ROOT(S(NP*)	-	-	-	iamdayoII	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	You	PRP	(PRN(S(NP*)	-	-	-	iamdayoII	*	(8)	
+wb/eng/00/eng_0181	0	2	sure	RB	(VP(ADVP*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	3	know	VBP	*))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	4	,	,	*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	5	lol	VBP	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	6	do	VBP	(SBAR(S(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	7	n't	RB	*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	8	act	VB	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	9	the	DT	(NP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	10	fool	NN	*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	11	abeg	NN	*))))))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	12	.	.	*))	-	-	-	iamdayoII	*	-	
+
+wb/eng/00/eng_0181	0	0	@iamdayoII	NN	(ROOT(NP*	-	-	-	_Omobolaji_	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	https://t.co/2akAuplMM6	NN	*))	-	-	-	_Omobolaji_	(URL)	-	
+
+wb/eng/00/eng_0181	0	0	@_Omobolaji_	NNP	(ROOT(S(NP(NP*)	-	-	-	iamdayoII	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	And	CC	(SBAR(S(S*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	2	you	PRP	(NP*)	-	-	-	iamdayoII	*	(8)	
+wb/eng/00/eng_0181	0	3	would	MD	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	4	n't	RB	*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	5	know	VB	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	6	if	IN	(SBAR*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	7	it	PRP	(S(NP*)	-	-	-	iamdayoII	*	(0)	
+wb/eng/00/eng_0181	0	8	's	VBZ	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	9	rubbish	JJ	(ADJP*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	10	until	IN	(SBAR*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	11	you	PRP	(S(NP*)	-	-	-	iamdayoII	*	(8)	
+wb/eng/00/eng_0181	0	12	are	VBP	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	13	married	VBN	(VP*))))))))))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	14	,	,	*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	15	so	RB	*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	16	ending	VBG	(S(S(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	17	up	RP	(PRT*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	18	with	IN	(PP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	19	rubbish	JJ	(FRAG(NP*	-	-	-	iamdayoII	*	(0	
+wb/eng/00/eng_0181	0	20	sex	NN	*)	-	-	-	iamdayoII	*	0)	
+wb/eng/00/eng_0181	0	21	or	CC	*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	22	not	RB	*))))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	23	can	MD	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	24	only	RB	(ADVP*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	25	be	VB	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	26	known	VBN	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	27	after	IN	(PP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	28	your	PRP$	(NP*	-	-	-	iamdayoII	*	(8)	
+wb/eng/00/eng_0181	0	29	wedding	NN	*)))))))))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	30	vows	VBZ	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	31	%emoji	NNS	(NP*))))	-	-	-	iamdayoII	*	-	
+
+wb/eng/00/eng_0181	0	0	so	RB	(ROOT(FRAG(ADVP*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	1	till	IN	(SBAR*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	2	then	RB	(S(ADVP*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	3	stay	VB	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	4	away	RB	(ADJP(ADVP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	5	from	IN	(PP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	6	the	DT	(NP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	7	rod	NN	*)))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	8	okay	JJ	*))))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	9	!	.	*))	-	-	-	iamdayoII	*	-	
+
+wb/eng/00/eng_0181	0	0	@iamdayoII	NN	(ROOT(NP(NP*)	-	-	-	_Omobolaji_	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	Lmfao	NN	(NP*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	2	%emoji	FW	*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	3	%emoji	FW	*	-	-	-	_Omobolaji_	*	-	
+wb/eng/00/eng_0181	0	4	%emoji	FW	*)))	-	-	-	_Omobolaji_	*	-	
+
+wb/eng/00/eng_0181	0	0	@_Omobolaji_	NN	(ROOT(NP(NP*)	-	-	-	iamdayoII	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	Lol	NN	(NP*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	2	.	.	*))	-	-	-	iamdayoII	*	-	
+
+wb/eng/00/eng_0181	0	0	Gotcha	NNP	(ROOT(FRAG(NP*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	1	you	PRP	(NP*)	-	-	-	iamdayoII	*	(8)	
+wb/eng/00/eng_0181	0	2	!	.	*))	-	-	-	iamdayoII	*	-	
+
+wb/eng/00/eng_0181	0	0	You	PRP	(ROOT(S(NP*)	-	-	-	iamdayoII	*	(8)	
+wb/eng/00/eng_0181	0	1	think	VBP	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	2	you	PRP	(SBAR(S(NP*)	-	-	-	iamdayoII	*	(8)	
+wb/eng/00/eng_0181	0	3	can	MD	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	4	finesse	VB	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	5	me	PRP	(S(NP*)	-	-	-	iamdayoII	*	(9)	
+wb/eng/00/eng_0181	0	6	huh	VB	(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	7	%emoji	NNS	(NP*))))))))))	-	-	-	iamdayoII	*	-	
+
+wb/eng/00/eng_0181	0	0	@iamdayoII	NN	(ROOT(NP*	-	-	-	_Omobolaji_	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	https://t.co/qlnd1zSY5Y	NN	*))	-	-	-	_Omobolaji_	(URL)	-	
+
+wb/eng/00/eng_0181	0	0	@_Omobolaji_	NNP	(ROOT(S(NP(NP(NP*	-	-	-	iamdayoII	(HANDLE)	-	
+wb/eng/00/eng_0181	0	1	Lmaooo	NNP	*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	2	what	WP	(SBAR(FRAG(SBAR(WHNP*)	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	3	's	VBZ	(S(VP*	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	4	this	DT	(NP*))))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	5	?	.	*)))	-	-	-	iamdayoII	*	-	
+wb/eng/00/eng_0181	0	6	%emoji	FW	(NP*))))	-	-	-	iamdayoII	*	-	
+
+#end document

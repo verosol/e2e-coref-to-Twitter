@@ -1,0 +1,66 @@
+#begin document (wb/eng/00/eng_0169); part 000
+wb/eng/00/eng_0169	0	0	Last	JJ	(ROOT(S(S(NP-TMP*	-	-	-	Kait_Carroll	(DATE*	-	
+wb/eng/00/eng_0169	0	1	night	NN	*)	-	-	-	Kait_Carroll	*)	-	
+wb/eng/00/eng_0169	0	2	,	,	*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	3	I	PRP	(NP*)	-	-	-	Kait_Carroll	*	(0)	
+wb/eng/00/eng_0169	0	4	got	VBD	(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	5	voted	VBD	(SBAR(SBAR(S(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	6	to	TO	(S(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	7	have	VB	(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	8	the	DT	(NP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	9	most	RBS	(ADJP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	10	interesting	JJ	*)	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	11	story	NN	*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	12	to	TO	(S(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	13	tell	VB	(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	14	on	IN	(PP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	15	Maury	NNP	(NP*))	-	-	-	Kait_Carroll	(PERSON)	-	
+wb/eng/00/eng_0169	0	16	out	IN	(PP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	17	of	IN	*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	18	my	PRP$	(NP(NP*	-	-	-	Kait_Carroll	*	(0)	
+wb/eng/00/eng_0169	0	19	group	NN	*)	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	20	of	IN	(PP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	21	friends	NNS	(NP*))))))))))))))	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	22	and	CC	*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	23	if	IN	(SBAR*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	24	that	DT	(S(NP*)	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	25	does	VBZ	(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	26	n't	RB	*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	27	sum	VB	(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	28	up	RP	(PRT*)	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	29	my	PRP$	(NP*	-	-	-	Kait_Carroll	*	(0)	
+wb/eng/00/eng_0169	0	30	life	NN	*))))))))	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	31	,	,	*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	32	I	PRP	(NP*)	-	-	-	Kait_Carroll	*	(0)	
+wb/eng/00/eng_0169	0	33	do	VBP	(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	34	n't	RB	*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	35	know	VB	(VP*	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	36	what	WP	(SBAR(WHNP*)	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	37	does	VBZ	(S(VP*)))))	-	-	-	Kait_Carroll	*	-	
+wb/eng/00/eng_0169	0	38	.	.	*))	-	-	-	Kait_Carroll	*	-	
+
+wb/eng/00/eng_0169	0	0	@Kait_Carroll	NN	(ROOT(FRAG(NP(NP*)	-	-	-	emma_xoxo	(HANDLE)	-	
+wb/eng/00/eng_0169	0	1	I	PRP	(SBAR(S(NP*)	-	-	-	emma_xoxo	*	-	
+wb/eng/00/eng_0169	0	2	blame	VBP	(VP*	-	-	-	emma_xoxo	*	-	
+wb/eng/00/eng_0169	0	3	it	PRP	(NP*)	-	-	-	emma_xoxo	*	-	
+wb/eng/00/eng_0169	0	4	on	IN	(PP*	-	-	-	emma_xoxo	*	-	
+wb/eng/00/eng_0169	0	5	Carol	NNP	(NP*	-	-	-	emma_xoxo	(PERSON*	-	
+wb/eng/00/eng_0169	0	6	Carroll	NNP	*))))))))	-	-	-	emma_xoxo	*)	(0)	
+
+wb/eng/00/eng_0169	0	0	@emma_xoxo	NN	(ROOT(S(NP(NP*	-	-	-	kelseymarie_b	(HANDLE*	-	
+wb/eng/00/eng_0169	0	1	@Kait_Carroll	NN	*)	-	-	-	kelseymarie_b	*)	-	
+wb/eng/00/eng_0169	0	2	Honestly	RB	(ADJP(ADVP*)	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	3	that	DT	*))	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	4	's	VBZ	(VP*	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	5	exactly	RB	(SBAR(WHADJP*	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	6	what	WP	*)	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	7	I	PRP	(S(NP*)	-	-	-	kelseymarie_b	*	(2)	
+wb/eng/00/eng_0169	0	8	was	VBD	(VP*	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	9	thinking	VBG	(VP*	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	10	about	IN	(PP*	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	11	when	WRB	(SBAR(WHADVP*)	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	12	I	PRP	(S(NP*)	-	-	-	kelseymarie_b	*	(2)	
+wb/eng/00/eng_0169	0	13	voted	VBD	(VP*	-	-	-	kelseymarie_b	*	-	
+wb/eng/00/eng_0169	0	14	her	PRP$	(NP*))))))))))))	-	-	-	kelseymarie_b	*	(0)	
+
+#end document

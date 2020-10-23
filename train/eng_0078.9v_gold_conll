@@ -1,0 +1,48 @@
+#begin document (wb/eng/00/eng_0078); part 000
+wb/eng/00/eng_0078	0	0	>	JJR	(ROOT(FRAG(NP(NP*)	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	1	a	DT	(SBAR(S(NP(NP*	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	2	Sudanese	JJ	*	-	-	-	NukeMelbourne	(NATIONALITY)	-	
+wb/eng/00/eng_0078	0	3	public	JJ	*	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	4	figure	NN	*)	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	5	mocking	VBG	(VP*	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	6	White	NNP	(NP*)))	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	7	fears	VBZ	(VP*	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	8	about	IN	(PP*	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	9	Sudanese	JJ	(NP*	-	-	-	NukeMelbourne	(NATIONALITY)	-	
+wb/eng/00/eng_0078	0	10	gangs	NNS	*))))))))	-	-	-	NukeMelbourne	*	-	
+
+wb/eng/00/eng_0078	0	0	Well	RB	(ROOT(S(ADVP*)	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	1	imagine	VB	(VP*	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	2	my	PRP$	(NP*	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	3	shock	NN	*	-	-	-	NukeMelbourne	*	-	
+wb/eng/00/eng_0078	0	4	https://t.co/NLhkIt3PXX	NN	*))))	-	-	-	NukeMelbourne	(URL)	-	
+
+wb/eng/00/eng_0078	0	0	@NukeMelbourne	NNP	(ROOT(NP(NP*	-	-	-	TerraFulliu5	(HANDLE)	-	
+wb/eng/00/eng_0078	0	1	Enjoy	NNP	*)	-	-	-	TerraFulliu5	*	-	
+wb/eng/00/eng_0078	0	2	your	PRP$	(NP(NP*	-	-	-	TerraFulliu5	*	(0)	
+wb/eng/00/eng_0078	0	3	South	NNP	*	-	-	-	TerraFulliu5	(MISC)	-	
+wb/eng/00/eng_0078	0	4	Sudanese	NNP	*	-	-	-	TerraFulliu5	(NATIONALITY)	-	
+wb/eng/00/eng_0078	0	5	problem	NN	*)	-	-	-	TerraFulliu5	*	-	
+wb/eng/00/eng_0078	0	6	my	PRP$	(NP*	-	-	-	TerraFulliu5	*	(0	
+wb/eng/00/eng_0078	0	7	fellow	JJ	*	-	-	-	TerraFulliu5	*	-	
+wb/eng/00/eng_0078	0	8	Australians	NNPS	*))	-	-	-	TerraFulliu5	(MISC)	0)	
+wb/eng/00/eng_0078	0	9	https://t.co/sVyfrJjY02	NN	(NP*)))	-	-	-	TerraFulliu5	(URL)	-	
+
+wb/eng/00/eng_0078	0	0	@TerraFulliu5	NN	(ROOT(S(NP*	-	-	-	Ozkek1788	(HANDLE*	-	
+wb/eng/00/eng_0078	0	1	@NukeMelbourne	NN	*	-	-	-	Ozkek1788	*)	-	
+wb/eng/00/eng_0078	0	2	She	NN	*)	-	-	-	Ozkek1788	*	-	
+wb/eng/00/eng_0078	0	3	does	VBZ	(VP*	-	-	-	Ozkek1788	*	-	
+wb/eng/00/eng_0078	0	4	the	DT	(NP*	-	-	-	Ozkek1788	*	-	
+wb/eng/00/eng_0078	0	5	open	JJ	(ADJP*	-	-	-	Ozkek1788	*	-	
+wb/eng/00/eng_0078	0	6	mouth	NN	*)	-	-	-	Ozkek1788	*	-	
+wb/eng/00/eng_0078	0	7	bugman	NN	*	-	-	-	Ozkek1788	*	-	
+wb/eng/00/eng_0078	0	8	thing	NN	*)	-	-	-	Ozkek1788	*	-	
+wb/eng/00/eng_0078	0	9	too	RB	(ADVP*))	-	-	-	Ozkek1788	*	-	
+wb/eng/00/eng_0078	0	10	.	.	*))	-	-	-	Ozkek1788	*	-	
+
+wb/eng/00/eng_0078	0	0	@Ozkek1788	NN	(ROOT(FRAG(NP*	-	-	-	Heil_Emu	(HANDLE*	-	
+wb/eng/00/eng_0078	0	1	@TerraFulliu5	NN	*	-	-	-	Heil_Emu	*	-	
+wb/eng/00/eng_0078	0	2	@NukeMelbourne	NN	*	-	-	-	Heil_Emu	*)	-	
+wb/eng/00/eng_0078	0	3	https://t.co/UBJvjFgBnt	NN	*)))	-	-	-	Heil_Emu	(URL)	-	
+
+#end document

@@ -1,0 +1,192 @@
+#begin document (187_950380084417966081.branch100.); part 150
+187_950380084417966081.branch100.	150	0	Hope	NNP	(ROOT(S(NP*)	defnp/none/none	sbj	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	1	is	VBZ	(VP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	2	a	DT	(NP*	indefnp/none/none	copula_rel	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	3	dangerous	JJ	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	4	thing	NN	*))	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	5	.	.	*))	-	-	-	ZAbbasOfficial	*	-
+
+187_950380084417966081.branch100.	150	0	That	DT	(ROOT(S(NP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	1	bowling	NN	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	2	performance	NN	*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	3	must	MD	(VP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	4	have	VB	(VP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	5	given	VBN	(VP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	6	India	NNP	(NP*)	ne/none/none	dir_obj	-	ZAbbasOfficial	(COUNTRY)	(2)
+187_950380084417966081.branch100.	150	7	that	IN	(SBAR*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	8	boost	NN	(S(NP(NP*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	9	but	CC	(PP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	10	first	JJ	(NP(NP*	-	-	-	ZAbbasOfficial	(ORDINAL)	-
+187_950380084417966081.branch100.	150	11	inns	NNS	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	12	score	NN	*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	13	of	IN	(PP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	14	SA	NNP	(NP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	15	,	,	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	16	India	NNP	*)))))	ne/none/none	sbj	-	ZAbbasOfficial	(COUNTRY)	(2)
+187_950380084417966081.branch100.	150	17	gave	VBD	(VP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	18	the	DT	(NP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	19	advantage	NN	*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	20	away	RB	(ADVP(ADVP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	21	there	RB	*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	22	and	CC	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	23	then	RB	(ADVP*))	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	24	,	,	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	25	not	RB	(PP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	26	a	DT	(NP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	27	286	CD	*	-	-	-	ZAbbasOfficial	(NUMBER)	-
+187_950380084417966081.branch100.	150	28	wicket	NN	*))))))))	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	29	!	.	*))	-	-	-	ZAbbasOfficial	*	-
+
+187_950380084417966081.branch100.	150	0	Also	RB	(ROOT(VP(ADVP*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	1	missed	VBN	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	2	the	DT	(NP-TMP(NP(NP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	3	trick	NN	*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	4	by	IN	(PP(PP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	5	not	RB	(S(VP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	6	having	VBG	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	7	Rahane	NN	(NP*))))	-	-	-	ZAbbasOfficial	(PERSON)	-
+187_950380084417966081.branch100.	150	8	in	IN	(PP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	9	the	DT	(FRAG(NP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	10	line	NN	*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	11	up	RP	(ADVP*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	12	.	.	*))))	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	13	#SAvsIND	NN	(NP*))))	-	-	-	ZAbbasOfficial	*	-
+
+187_950380084417966081.branch100.	150	0	Also	RB	(ROOT(PRN(ADVP*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	1	,	,	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	2	how	WRB	(SBAR(WHNP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	3	good	JJ	*)	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	4	is	VBZ	(S(VP*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	5	Philander	NNP	(NP*	-	-	-	ZAbbasOfficial	(PERSON)	-
+187_950380084417966081.branch100.	150	6	?!	NNP	*	-	-	-	ZAbbasOfficial	*	-
+187_950380084417966081.branch100.	150	7	%emoji	NNS	*))))))	-	-	-	ZAbbasOfficial	*	-
+
+187_950380084417966081.branch100.	150	0	@ZAbbasOfficial	NNP	(ROOT(NP(NP*)	-	-	-	KshitijDisIz	(HANDLE)	-
+187_950380084417966081.branch100.	150	1	Much	RB	(NP(NP*)	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	2	better	JJR	(NP(ADJP*	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	3	than	IN	*	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	4	overrated	JJ	*)	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	5	Mohd	NNP	*	-	-	-	KshitijDisIz	(PERSON)	-
+187_950380084417966081.branch100.	150	6	.	.	*	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	7	Aamir	NNP	*))	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	8	!!	.	*))	-	-	-	KshitijDisIz	*	-
+
+187_950380084417966081.branch100.	150	0	@KshitijDisIz	NN	(ROOT(NP(NP*)	-	-	-	nasir_22	(HANDLE*	-
+187_950380084417966081.branch100.	150	1	@ZAbbasOfficial	JJ	(NP*	-	-	-	nasir_22	*)	-
+187_950380084417966081.branch100.	150	2	Ask	NN	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	3	rohit	NN	*)	ne/none/none	dir_obj	-	nasir_22	*	(0
+187_950380084417966081.branch100.	150	4	sharma	NN	(NP*	-	-	-	nasir_22	*	0)
+187_950380084417966081.branch100.	150	5	%emoji	NNS	*)))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	@nasir_22	NN	(ROOT(S(NP*	-	-	-	KshitijDisIz	(HANDLE*	-
+187_950380084417966081.branch100.	150	1	@ZAbbasOfficial	NNP	*	-	-	-	KshitijDisIz	*)	-
+187_950380084417966081.branch100.	150	2	First	NNP	*)	-	-	-	KshitijDisIz	(ORDINAL)	-
+187_950380084417966081.branch100.	150	3	tell	VB	(VP*	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	4	him	PRP	(S(NP*)	ppers/anaphora/nominal	dir_obj	-	KshitijDisIz	*	(0)
+187_950380084417966081.branch100.	150	5	to	TO	(VP*	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	6	get	VB	(VP*	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	7	Karunaratne	NNP	(NP*)	ne/none/none	dir_obj	-	KshitijDisIz	(PERSON)	(3)
+187_950380084417966081.branch100.	150	8	out	RP	(PRT*)))))	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	9	.	.	*))	-	-	-	KshitijDisIz	*	-
+
+187_950380084417966081.branch100.	150	0	@KshitijDisIz	NNP	(ROOT(S(NP*	-	-	-	nasir_22	(HANDLE*	-
+187_950380084417966081.branch100.	150	1	@ZAbbasOfficial	NNP	*)	-	-	-	nasir_22	*)	-
+187_950380084417966081.branch100.	150	2	If	IN	(SBAR*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	3	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	nasir_22	*	(0)
+187_950380084417966081.branch100.	150	4	can	MD	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	5	damage	VB	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	6	indian	JJ	(NP*	-	-	-	nasir_22	(NATIONALITY)	-
+187_950380084417966081.branch100.	150	7	top	JJ	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	8	orders	NNS	*)	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	9	easily	RB	(ADVP(ADVP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	10	then	RB	*)	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	11	who	WP	(SBAR(WHNP*)	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	12	is	VBZ	(S(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	13	karu	FW	(NP*)	ne/none/none	sbj	-	nasir_22	*	(3)
+187_950380084417966081.branch100.	150	14	then	RB	(ADVP*)))))))))	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	15	.	.	*))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	@nasir_22	NN	(ROOT(NP(NP*)	-	-	-	KshitijDisIz	(HANDLE*	-
+187_950380084417966081.branch100.	150	1	@ZAbbasOfficial	NNP	(NP*	-	-	-	KshitijDisIz	*)	-
+187_950380084417966081.branch100.	150	2	Enjoy	NNP	*)	-	-	-	KshitijDisIz	*	-
+187_950380084417966081.branch100.	150	3	https://t.co/o6qlCIYNL5	NN	(NP*)))	-	-	-	KshitijDisIz	(URL)	-
+
+187_950380084417966081.branch100.	150	0	@KshitijDisIz	NN	(ROOT(S(NP(NP*)	-	-	-	nasir_22	(HANDLE*	-
+187_950380084417966081.branch100.	150	1	@ZAbbasOfficial	JJ	(NP*	-	-	-	nasir_22	*)	-
+187_950380084417966081.branch100.	150	2	Omg	NN	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	3	u	NN	*))	ppers/exophora/nominal	sbj	-	nasir_22	*	(7)
+187_950380084417966081.branch100.	150	4	are	VBP	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	5	so	RB	(ADVP*)	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	6	kid	NN	(NP*))	indefnp/none/none	copula_rel	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	7	.	.	*))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	Little	JJ	(ROOT(S(NP(NP*	defnp/none/none	other/vocative	-	nasir_22	*	(7
+187_950380084417966081.branch100.	150	1	kid	NN	*)	-	-	-	nasir_22	*	7)
+187_950380084417966081.branch100.	150	2	this	DT	(SBAR(S(NP*)	pds/exophora/nominal	sbj	-	nasir_22	*	(5)
+187_950380084417966081.branch100.	150	3	is	VBZ	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	4	cricket	NN	(NP(NP*)	defnp/none/none	copula_rel	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	5	and	CC	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	6	this	DT	(NP*))))))	pds/anaphora/nominal	sbj	-	nasir_22	*	(5)
+187_950380084417966081.branch100.	150	7	is	VBZ	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	8	sports	NNS	(NP*))	defnp/none/none	copula_rel	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	9	.	.	*))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	Win	VB	(ROOT(S(S(VP*	defnp/none/none	sbj	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	1	and	CC	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	2	lose	VB	*))	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	3	is	VBZ	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	4	part	NN	(NP(NP*)	defnp/none/none	copula_rel	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	5	of	IN	(PP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	6	game	NN	(NP*))))	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	7	.	.	*))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	Grow	VB	(ROOT(S(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	1	up	RP	(PRT*)	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	2	toddler	NN	(NP*))	defnp/none/none	other/vocative	-	nasir_22	*	(7)
+187_950380084417966081.branch100.	150	3	.	.	*))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	I	PRP	(ROOT(S(NP*)	ppers/exophora/nominal	sbj	-	nasir_22	*	(8)
+187_950380084417966081.branch100.	150	1	can	MD	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	2	also	RB	(ADVP*)	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	3	go	VB	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	4	to	TO	(PP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	5	past	JJ	(NP(NP*	-	-	-	nasir_22	(DATE)	-
+187_950380084417966081.branch100.	150	6	and	CC	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	7	tag	NN	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	8	h	NN	*)	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	9	in	IN	(PP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	10	many	JJ	(NP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	11	things	NNS	*))))))	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	12	.	.	*))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	But	CC	(ROOT(S*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	1	i	FW	(S(NP*)	ppers/anaphora/nominal	sbj	-	nasir_22	*	(8)
+187_950380084417966081.branch100.	150	2	am	VBP	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	3	mature	JJ	(ADJP*)))	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	4	and	CC	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	5	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	nasir_22	*	(7)
+187_950380084417966081.branch100.	150	6	are	VBP	(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	7	toddler	NN	(NP*)))	indefnp/none/none	copula_rel	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	8	.	.	*))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	Have	VBP	(ROOT(SINV(VP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	1	a	DT	(NP*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	2	lolipop	JJ	*	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	3	bacha	NN	*))	-	-	-	nasir_22	*	-
+187_950380084417966081.branch100.	150	4	%emoji	NNS	(NP*)))	-	-	-	nasir_22	*	-
+
+187_950380084417966081.branch100.	150	0	@nasir_22	NN	(ROOT(FRAG(NP(NP*	-	-	-	krishnasm1	(HANDLE*	-
+187_950380084417966081.branch100.	150	1	@KshitijDisIz	NN	*	-	-	-	krishnasm1	*	-
+187_950380084417966081.branch100.	150	2	@ZAbbasOfficial	NNP	*	-	-	-	krishnasm1	*)	-
+187_950380084417966081.branch100.	150	3	Kyu	NNP	*	-	-	-	krishnasm1	(PERSON*	-
+187_950380084417966081.branch100.	150	4	Sach	NNP	*)	-	-	-	krishnasm1	*)	-
+187_950380084417966081.branch100.	150	5	baat	NN	(SBAR(S(NP*	-	-	-	krishnasm1	*	-
+187_950380084417966081.branch100.	150	6	gale	NN	*	-	-	-	krishnasm1	*	-
+187_950380084417966081.branch100.	150	7	nahi	NN	*	-	-	-	krishnasm1	*	-
+187_950380084417966081.branch100.	150	8	utar	JJ	*	-	-	-	krishnasm1	*	-
+187_950380084417966081.branch100.	150	9	rahi	NNS	*)	-	-	-	krishnasm1	*	-
+187_950380084417966081.branch100.	150	10	hai	VBP	(VP*	-	-	-	krishnasm1	*	-
+187_950380084417966081.branch100.	150	11	%emoji	JJ	(NP*	-	-	-	krishnasm1	*	-
+187_950380084417966081.branch100.	150	12	%emoji	NNS	*)))))))	-	-	-	krishnasm1	*	-
+
+#end document

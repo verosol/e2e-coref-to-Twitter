@@ -1,0 +1,139 @@
+#begin document (wb/eng/00/eng_0062); part 000
+wb/eng/00/eng_0062	0	0	Today	NN	(ROOT(S(NP*)	-	-	-	willripleyCNN	(DATE)	-	
+wb/eng/00/eng_0062	0	1	is	VBZ	(VP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	2	Kim	NNP	(NP(NP*	-	-	-	willripleyCNN	(PERSON*	(0|(1	
+wb/eng/00/eng_0062	0	3	Jong	NNP	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	4	Un	NNP	*	-	-	-	willripleyCNN	*)	-	
+wb/eng/00/eng_0062	0	5	's	POS	*)	-	-	-	willripleyCNN	*	0)	
+wb/eng/00/eng_0062	0	6	birthday	NN	*))	-	-	-	willripleyCNN	*	1)	
+wb/eng/00/eng_0062	0	7	.	.	*))	-	-	-	willripleyCNN	*	-	
+
+wb/eng/00/eng_0062	0	0	Widely	RB	(ROOT(S(S(ADVP*)	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	1	believed	VBN	(VP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	2	to	TO	(S(VP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	3	be	VB	(VP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	4	in	IN	(PP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	5	his	PRP$	(NP(NP*	-	-	-	willripleyCNN	*	(0)	
+wb/eng/00/eng_0062	0	6	early/mid	JJ	*)	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	7	-30	CD	(NP*	-	-	-	willripleyCNN	(NUMBER)	-	
+wb/eng/00/eng_0062	0	8	's	POS	*))))))))	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	9	,	,	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	10	his	PRP$	(NP*	-	-	-	willripleyCNN	*	(0)	
+wb/eng/00/eng_0062	0	11	exact	JJ	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	12	birth	NN	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	13	year	NN	*)	-	-	-	willripleyCNN	(DURATION)	-	
+wb/eng/00/eng_0062	0	14	is	VBZ	(VP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	15	unconfirmed	JJ	(ADJP*))	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	16	.	.	*))	-	-	-	willripleyCNN	*	-	
+
+wb/eng/00/eng_0062	0	0	Unlike	IN	(ROOT(S(PP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	1	his	PRP$	(NP(NP*	-	-	-	willripleyCNN	*	(0)	
+wb/eng/00/eng_0062	0	2	father	NN	*)	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	3	&	CC	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	4	grandfather	NN	(NP*)))	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	5	,	,	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	6	Kim	NNP	(NP(NP*	-	-	-	willripleyCNN	(PERSON)	(0|(1	
+wb/eng/00/eng_0062	0	7	's	POS	*)	-	-	-	willripleyCNN	*	0)	
+wb/eng/00/eng_0062	0	8	birthday	NN	*)	-	-	-	willripleyCNN	*	1)	
+wb/eng/00/eng_0062	0	9	is	VBZ	(VP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	10	not	RB	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	11	marked	VBN	(VP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	12	by	IN	(PP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	13	huge	JJ	(NP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	14	celebrations	NNS	*))))	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	15	.	.	*))	-	-	-	willripleyCNN	*	-	
+
+wb/eng/00/eng_0062	0	0	Two	CD	(ROOT(S(ADVP(NP*	-	-	-	willripleyCNN	(DATE*	-	
+wb/eng/00/eng_0062	0	1	years	NNS	*)	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	2	ago	IN	*)	-	-	-	willripleyCNN	*)	-	
+wb/eng/00/eng_0062	0	3	he	PRP	(NP*)	-	-	-	willripleyCNN	*	(0)	
+wb/eng/00/eng_0062	0	4	ordered	VBD	(VP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	5	a	DT	(NP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	6	nuke	JJ	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	7	test	NN	*)	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	8	on	IN	(PP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	9	his	PRP$	(NP*	-	-	-	willripleyCNN	*	(0)	
+wb/eng/00/eng_0062	0	10	birthday	NN	*))	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	11	week	NN	(NP-TMP*))	-	-	-	willripleyCNN	(DURATION)	-	
+wb/eng/00/eng_0062	0	12	.	.	*))	-	-	-	willripleyCNN	*	-	
+
+wb/eng/00/eng_0062	0	0	This	DT	(ROOT(NP(NP*	-	-	-	willripleyCNN	(DATE*	-	
+wb/eng/00/eng_0062	0	1	year	NN	*)	-	-	-	willripleyCNN	*)	-	
+wb/eng/00/eng_0062	0	2	,	,	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	3	peace	NN	(NP*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	4	talks	NNS	*	-	-	-	willripleyCNN	*	-	
+wb/eng/00/eng_0062	0	5	https://t.co/sdBFUAry9v	NN	*)))	-	-	-	willripleyCNN	(URL)	-	
+
+wb/eng/00/eng_0062	0	0	@willripleyCNN	NNP	(ROOT(S(NP*	-	-	-	JWCanes2	(HANDLE)	-	
+wb/eng/00/eng_0062	0	1	Trump	NNP	*)	-	-	-	JWCanes2	(PERSON)	-	
+wb/eng/00/eng_0062	0	2	has	VBZ	(VP*	-	-	-	JWCanes2	*	-	
+wb/eng/00/eng_0062	0	3	him	PRP	(NP(NP*)	-	-	-	JWCanes2	*	(0)	
+wb/eng/00/eng_0062	0	4	scared	VBN	(ADJP*	-	-	-	JWCanes2	*	-	
+wb/eng/00/eng_0062	0	5	shitless	JJ	*)))))	-	-	-	JWCanes2	*	-	
+
+wb/eng/00/eng_0062	0	0	@JWCanes2	NN	(ROOT(S(NP-TMP(NP*	-	-	-	TheSeaFarmer	(HANDLE*	-	
+wb/eng/00/eng_0062	0	1	@willripleyCNN	NN	*)	-	-	-	TheSeaFarmer	*)	-	
+wb/eng/00/eng_0062	0	2	Sure	NNP	(NP*))	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	3	,	,	*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	4	that	DT	(NP*)	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	5	's	VBZ	(VP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	6	why	WRB	(SBAR(WHADVP*)	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	7	he	PRP	(S(NP*)	-	-	-	TheSeaFarmer	*	(0)	
+wb/eng/00/eng_0062	0	8	stopped	VBD	(VP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	9	testing	VBG	(S(VP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	10	missiles	NNS	(NP*)))))))	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	11	.	.	*))	-	-	-	TheSeaFarmer	*	-	
+
+wb/eng/00/eng_0062	0	0	Oh	UH	(ROOT(S*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	1	wait	VB	(VP*)	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	2	...	:	*))	-	-	-	TheSeaFarmer	*	-	
+
+wb/eng/00/eng_0062	0	0	@TheSeaFarmer	NN	(ROOT(FRAG(NP(NP*	-	-	-	JWCanes2	(HANDLE*	-	
+wb/eng/00/eng_0062	0	1	@willripleyCNN	NN	*)	-	-	-	JWCanes2	*)	-	
+wb/eng/00/eng_0062	0	2	Wow	UH	(SBAR(S(INTJ*)	-	-	-	JWCanes2	*	-	
+wb/eng/00/eng_0062	0	3	you	PRP	(NP*)	-	-	-	JWCanes2	*	(3)	
+wb/eng/00/eng_0062	0	4	're	VBP	(VP*	-	-	-	JWCanes2	*	-	
+wb/eng/00/eng_0062	0	5	dumb	JJ	(ADJP*)))))))	-	-	-	JWCanes2	*	-	
+
+wb/eng/00/eng_0062	0	0	@JWCanes2	NN	(ROOT(S(NP(NP*	-	-	-	TheSeaFarmer	(HANDLE*	-	
+wb/eng/00/eng_0062	0	1	@willripleyCNN	NN	*)	-	-	-	TheSeaFarmer	*)	-	
+wb/eng/00/eng_0062	0	2	Actually	RB	(RRC(ADVP*)	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	3	I	PRP	(NP*)))	-	-	-	TheSeaFarmer	*	(3)	
+wb/eng/00/eng_0062	0	4	went	VBD	(VP(VP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	5	to	TO	(PP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	6	the	DT	(NP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	7	best	JJS	*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	8	colleges	NNS	*)))	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	9	and	CC	*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	10	am	VBP	(VP*)	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	11	a	DT	(NP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	12	very	RB	(ADJP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	13	stable	JJ	*)	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	14	genius	NN	*))	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	15	.	.	*))	-	-	-	TheSeaFarmer	*	-	
+
+wb/eng/00/eng_0062	0	0	Any	DT	(ROOT(S(NP(NP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	1	word	NN	*)	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	2	to	TO	(PP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	3	the	DT	(NP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	4	contrary	NN	*)))	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	5	is	VBZ	(VP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	6	Fake	NNP	(NP*	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	7	News	NNP	*))	-	-	-	TheSeaFarmer	*	-	
+wb/eng/00/eng_0062	0	8	.	.	*))	-	-	-	TheSeaFarmer	*	-	
+
+wb/eng/00/eng_0062	0	0	@TheSeaFarmer	NN	(ROOT(FRAG(NP*	-	-	-	rissa_griffin	(HANDLE*	-	
+wb/eng/00/eng_0062	0	1	@JWCanes2	NN	*	-	-	-	rissa_griffin	*	-	
+wb/eng/00/eng_0062	0	2	@willripleyCNN	NN	*	-	-	-	rissa_griffin	*)	-	
+wb/eng/00/eng_0062	0	3	Dammit	NN	*)	-	-	-	rissa_griffin	*	-	
+wb/eng/00/eng_0062	0	4	.	.	*))	-	-	-	rissa_griffin	*	-	
+
+wb/eng/00/eng_0062	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	rissa_griffin	*	-	
+wb/eng/00/eng_0062	0	1	just	RB	(VP(ADVP*)	-	-	-	rissa_griffin	*	-	
+wb/eng/00/eng_0062	0	2	saw	VBD	*	-	-	-	rissa_griffin	*	-	
+wb/eng/00/eng_0062	0	3	what	WP	(SBAR(WHNP*)	-	-	-	rissa_griffin	*	-	
+wb/eng/00/eng_0062	0	4	you	PRP	(S(NP*)	-	-	-	rissa_griffin	*	-	
+wb/eng/00/eng_0062	0	5	did	VBD	(VP*	-	-	-	rissa_griffin	*	-	
+wb/eng/00/eng_0062	0	6	there	EX	(S(NP*))))))))	-	-	-	rissa_griffin	*	-	
+
+#end document

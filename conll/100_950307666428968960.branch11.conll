@@ -1,0 +1,114 @@
+#begin document (100_950307666428968960.branch11.); part 79
+100_950307666428968960.branch11.	79	0	I	PRP	(ROOT(S(NP*)	ppers/exophora/nominal	sbj	-	mattcolville	*	(1)
+100_950307666428968960.branch11.	79	1	just	RB	(ADVP*)	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	2	remembered	VBD	(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	3	being	VBG	(S(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	4	a	DT	(NP*	indefnp/none/none	dir_obj	-	mattcolville	*	(2
+100_950307666428968960.branch11.	79	5	kid	NN	*)))	-	-	-	mattcolville	*	2)
+100_950307666428968960.branch11.	79	6	after	IN	(PP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	7	seeing	VBG	(S(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	8	Superman	NNP	(NP(NP(NP*	-	-	-	mattcolville	(PERSON)	-
+100_950307666428968960.branch11.	79	9	'	POS	*)	-	-	-	mattcolville	(DATE*	-
+100_950307666428968960.branch11.	79	10	78	CD	(NP*))	-	-	-	mattcolville	*)	-
+100_950307666428968960.branch11.	79	11	and	CC	*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	12	how	WRB	(SBAR(WHNP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	13	much	JJ	*)	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	14	I	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	mattcolville	*	(1)
+100_950307666428968960.branch11.	79	15	loved	VBD	(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	16	and	CC	(ADVP*)	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	17	*	SYM	(X*)))))	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	18	emulated	VBN	(S(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	19	*	SYM	(S(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	20	Lex	NNP	(NP*	ne/none/none	dir_obj	-	mattcolville	(PERSON*	(0
+100_950307666428968960.branch11.	79	21	Luthor	NNP	*)))))))))	-	-	-	mattcolville	*)	0)
+100_950307666428968960.branch11.	79	22	.	.	*))	-	-	-	mattcolville	*	-
+
+100_950307666428968960.branch11.	79	0	I	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	mattcolville	*	(1)
+100_950307666428968960.branch11.	79	1	quoted	VBD	(VP(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	2	his	PRP$	(NP*	ppos/anaphora/nominal	dir_obj	-	mattcolville	*	(0)
+100_950307666428968960.branch11.	79	3	dialog	NN	*))	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	4	and	CC	*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	5	tried	VBD	(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	6	to	TO	(S(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	7	act	VB	(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	8	like	IN	(PP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	9	him	PRP	(NP*)))))))	ppers/anaphora/nominal	dir_obj	-	mattcolville	*	(0)
+100_950307666428968960.branch11.	79	10	.	.	*))	-	-	-	mattcolville	*	-
+
+100_950307666428968960.branch11.	79	0	Man	NN	(ROOT(S(NP*)	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	1	I	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	mattcolville	*	(1)
+100_950307666428968960.branch11.	79	2	loved	VBD	(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	3	bad	JJ	(NP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	4	guys	NNS	*)	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	5	when	WRB	(SBAR(WHADVP*)	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	6	I	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	mattcolville	*	(1)
+100_950307666428968960.branch11.	79	7	was	VBD	(VP*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	8	a	DT	(NP*	indefnp/none/none	copula_rel	-	mattcolville	*	(2
+100_950307666428968960.branch11.	79	9	kid	NN	*)))))	-	-	-	mattcolville	*	2)
+100_950307666428968960.branch11.	79	10	!	.	*))	-	-	-	mattcolville	*	-
+
+100_950307666428968960.branch11.	79	0	Lex	NNP	(ROOT(NP(NP*	ne/none/none	other/appositive	-	mattcolville	(PERSON*	(0
+100_950307666428968960.branch11.	79	1	Luthor	NNP	*)	-	-	-	mattcolville	*)	0)
+100_950307666428968960.branch11.	79	2	,	,	*	-	-	-	mattcolville	*	-
+100_950307666428968960.branch11.	79	3	Darth	NNP	(NP*	-	-	-	mattcolville	(PERSON*	-
+100_950307666428968960.branch11.	79	4	Vader	NNP	*)	-	-	-	mattcolville	*)	-
+100_950307666428968960.branch11.	79	5	.	.	*))	-	-	-	mattcolville	*	-
+
+100_950307666428968960.branch11.	79	0	@mattcolville	NN	(ROOT(S(NP*	-	-	-	bfam91	(HANDLE)	-
+100_950307666428968960.branch11.	79	1	I	NN	*)	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	2	did	VBD	(VP*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	3	the	DT	(NP*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	4	same	JJ	*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	5	thing	NN	*)	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	6	with	IN	(PP*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	7	the	DT	(NP*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	8	Batman	NNP	*	-	-	-	bfam91	(TITLE)	-
+100_950307666428968960.branch11.	79	9	Animated	NNP	*	-	-	-	bfam91	(MISC*	-
+100_950307666428968960.branch11.	79	10	Series	NNP	*))	-	-	-	bfam91	*)	-
+100_950307666428968960.branch11.	79	11	in	IN	(PP*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	12	the	DT	(NP(NP*)	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	13	90	CD	(NP*	-	-	-	bfam91	(NUMBER)	-
+100_950307666428968960.branch11.	79	14	's	POS	*))))	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	15	.	.	*))	-	-	-	bfam91	*	-
+
+100_950307666428968960.branch11.	79	0	The	DT	(ROOT(S(NP*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	1	villains	NNS	*)	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	2	were	VBD	(VP*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	3	so	RB	(VP(ADVP*	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	4	well	RB	*)	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	5	written	VBN	*))	-	-	-	bfam91	*	-
+100_950307666428968960.branch11.	79	6	.	.	*))	-	-	-	bfam91	*	-
+
+100_950307666428968960.branch11.	79	0	@bfam91	NN	(ROOT(S(NP*	-	-	-	JustinOSmith12	(HANDLE*	-
+100_950307666428968960.branch11.	79	1	@mattcolville	NN	*	-	-	-	JustinOSmith12	*)	-
+100_950307666428968960.branch11.	79	2	TAS	NN	*)	ne/none/none	sbj	-	JustinOSmith12	*	(7)
+100_950307666428968960.branch11.	79	3	remains	VBZ	(VP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	4	to	TO	(PP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	5	me	PRP	(NP*))	ppers/anaphora/nominal	prep_phrase	-	JustinOSmith12	*	(5)
+100_950307666428968960.branch11.	79	6	the	DT	(NP(NP*	defnp/none/none	dir_obj	-	JustinOSmith12	*	(7
+100_950307666428968960.branch11.	79	7	best	JJS	*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	8	rendition	NN	*)	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	9	of	IN	(PP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	10	Batman	NNP	(NP*))	-	-	-	JustinOSmith12	(PERSON)	7)
+100_950307666428968960.branch11.	79	11	,	,	*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	12	just	RB	(ADVP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	13	for	IN	(PP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	14	that	DT	(NP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	15	reason	NN	*)))))	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	16	.	.	*))	-	-	-	JustinOSmith12	*	-
+
+100_950307666428968960.branch11.	79	0	I	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	JustinOSmith12	*	(5)
+100_950307666428968960.branch11.	79	1	like	VBP	(VP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	2	how	WRB	(SBAR(WHADVP*)	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	3	the	DT	(S(NP*	defnp/none/none	sbj	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	4	Arkham	NNP	*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	5	games	NNS	*)	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	6	were	VBD	(VP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	7	the	DT	(NP(NP*	defnp/none/none	copula_rel	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	8	successor	NN	*)	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	9	of	IN	(PP*	-	-	-	JustinOSmith12	*	-
+100_950307666428968960.branch11.	79	10	that	DT	(NP*	defnp/none/none	prep_phrase	-	JustinOSmith12	*	(7
+100_950307666428968960.branch11.	79	11	series	NN	*)))))))	-	-	-	JustinOSmith12	*	7)
+100_950307666428968960.branch11.	79	12	.	.	*))	-	-	-	JustinOSmith12	*	-
+
+#end document

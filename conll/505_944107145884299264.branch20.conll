@@ -1,0 +1,101 @@
+#begin document (505_944107145884299264.branch20.); part 165
+505_944107145884299264.branch20.	165	0	''	''	(ROOT(S(VP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	1	Wow	UH	(NP*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	2	this	DT	(NP(NP*	defnp/none/none	sbj	-	JimMFelton	*	(2
+505_944107145884299264.branch20.	165	3	passport	NN	*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	4	's	POS	*)	-	-	-	JimMFelton	*	2)
+505_944107145884299264.branch20.	165	5	fancy	NN	*))	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	6	.	.	*))	-	-	-	JimMFelton	*	-
+
+505_944107145884299264.branch20.	165	0	Must	MD	(ROOT(S(VP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	1	have	VB	(VP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	2	some	DT	(NP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	3	kickass	NN	*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	4	features	NNS	*)))	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	5	.	.	*))	-	-	-	JimMFelton	*	-
+
+505_944107145884299264.branch20.	165	0	How	WRB	(ROOT(SBARQ(WHNP(WHADJP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	1	many	JJ	*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	2	countries	NNS	*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	3	do	VBP	(SQ*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	4	you	PRP	(NP*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	5	have	VB	(VP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	6	the	DT	(NP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	7	right	NN	*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	8	to	TO	(S(VP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	9	work	VB	(VP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	10	in	IN	(PP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	11	on	IN	(PP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	12	this	DT	(NP*	defnp/none/none	prep_phrase	-	JimMFelton	*	(2
+505_944107145884299264.branch20.	165	13	bad	JJ	*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	14	boy	NN	*)))))))))	-	-	-	JimMFelton	*	2)
+505_944107145884299264.branch20.	165	15	?	.	*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	16	''	''	*))	-	-	-	JimMFelton	*	-
+
+505_944107145884299264.branch20.	165	0	''	''	(ROOT(S(VP*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	1	1	CD	*	-	-	-	JimMFelton	(NUMBER)	-
+505_944107145884299264.branch20.	165	2	''	''	*))	-	-	-	JimMFelton	*	-
+
+505_944107145884299264.branch20.	165	0	''	''	(ROOT(NP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	1	Huh	NNP	*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	2	.	.	*))	-	-	-	JimMFelton	*	-
+
+505_944107145884299264.branch20.	165	0	Still	RB	(ROOT(NP(NP*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	1	,	,	*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	2	blue	JJ	(NP(NP*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	3	though	IN	(ADJP*))	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	4	...	:	*))	-	-	-	JimMFelton	*	-
+
+505_944107145884299264.branch20.	165	0	Pretty	NNP	(ROOT(FRAG(NP(NP(NP*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	1	fucking	RB	(PP*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	2	snazzy	JJ	(ADJP*))	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	3	.	.	*	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	4	''	''	*)	-	-	-	JimMFelton	*	-
+505_944107145884299264.branch20.	165	5	https://t.co/DrB14V2XI8	NN	(NP*))))	-	-	-	JimMFelton	(URL)	-
+
+505_944107145884299264.branch20.	165	0	@JimMFelton	NN	(ROOT(S(NP*	-	-	-	patriciaohara	(HANDLE*	-
+505_944107145884299264.branch20.	165	1	@MattGrahamKent	NN	*)	-	-	-	patriciaohara	*)	-
+505_944107145884299264.branch20.	165	2	used	VBN	(VP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	3	to	TO	(S(VP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	4	be	VB	(VP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	5	black	JJ	(ADJP(ADJP(ADJP(ADJP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	6	though	IN	*)	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	7	-	:	(PRN*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	8	that	IN	(SBAR*	defnp/none/none	other/appositive	-	patriciaohara	*	(3
+505_944107145884299264.branch20.	165	9	old	JJ	(FRAG(NP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	10	blighty	NN	*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	11	passport	NN	*)))	-	-	-	patriciaohara	*	3)
+505_944107145884299264.branch20.	165	12	-	:	*))	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	13	not	RB	(ADJP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	14	blue	JJ	*))	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	15	-	:	*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	16	black	JJ	(ADJP*))))))))	-	-	-	patriciaohara	(PERSON)	-
+
+505_944107145884299264.branch20.	165	0	@patriciaohara	NN	(ROOT(FRAG(NP(NP*	-	-	-	MattGrahamKent	(HANDLE*	-
+505_944107145884299264.branch20.	165	1	@JimMFelton	NN	*)	-	-	-	MattGrahamKent	*)	-
+505_944107145884299264.branch20.	165	2	I	PRP	(SBAR(S(NP*)	-	-	-	MattGrahamKent	*	-
+505_944107145884299264.branch20.	165	3	think	VBP	(VP*	-	-	-	MattGrahamKent	*	-
+505_944107145884299264.branch20.	165	4	it	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	MattGrahamKent	*	(3)
+505_944107145884299264.branch20.	165	5	was	VBD	(VP*	-	-	-	MattGrahamKent	*	-
+505_944107145884299264.branch20.	165	6	blue	JJ	(ADJP*	-	-	-	MattGrahamKent	*	-
+505_944107145884299264.branch20.	165	7	in	IN	(PP*	-	-	-	MattGrahamKent	*	-
+505_944107145884299264.branch20.	165	8	1892	CD	(NP*))))))))))))	-	-	-	MattGrahamKent	(DATE)	-
+
+505_944107145884299264.branch20.	165	0	@MattGrahamKent	JJ	(ROOT(FRAG(NP*	-	-	-	patriciaohara	(HANDLE*	-
+505_944107145884299264.branch20.	165	1	@JimMFelton	NN	*	-	-	-	patriciaohara	*)	-
+505_944107145884299264.branch20.	165	2	hahaah	NN	*)	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	3	like	IN	(PP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	4	tory	JJ	(NP(NP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	5	policies	NNS	*)	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	6	-	:	(PRN*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	7	progress	NN	(S(NP*)	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	8	is	VBZ	(VP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	9	about	IN	(PP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	10	going	VBG	(S(VP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	11	backwards	RB	(ADVP*	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	12	now	RB	*))))))	-	-	-	patriciaohara	(DATE)	-
+505_944107145884299264.branch20.	165	13	-	:	*)	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	14	who	WP	(SBAR(WHNP*)	-	-	-	patriciaohara	*	-
+505_944107145884299264.branch20.	165	15	knew	VBD	(S(VP*)))))))	-	-	-	patriciaohara	*	-
+
+#end document

@@ -1,0 +1,107 @@
+#begin document (143_950358179350745088.branch3.); part 112
+143_950358179350745088.branch3.	112	0	So	RB	(ROOT(S*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	1	for	IN	(PP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	2	starters	NNS	(NP*))	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	3	,	,	*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	4	it	PRP	(NP*)	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	5	was	VBD	(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	6	n't	RB	*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	7	in	IN	(PP(PP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	8	the	DT	(NP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	9	elevator	NN	*))	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	10	but	CC	*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	11	in	IN	(PP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	12	the	DT	(NP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	13	building	NN	*)))	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	14	as	IN	(SBAR*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	15	Veselnitskaya	NNP	(S(NP*)	ne/none/none	sbj	-	aliasvaughn	(PERSON)	(1)
+143_950358179350745088.branch3.	112	16	was	VBD	(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	17	waiting	VBG	(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	18	,	,	*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	19	as	IN	(SBAR*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	20	I	PRP	(S(NP*)	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	21	had	VBD	(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	22	understood	VBN	(VP*)))))))))	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	23	.	.	*))	-	-	-	aliasvaughn	*	-
+
+143_950358179350745088.branch3.	112	0	And	CC	(ROOT(S(NP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	1	second	JJ	(NP(NP*)	-	-	-	aliasvaughn	(ORDINAL)	-
+143_950358179350745088.branch3.	112	2	,	,	*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	3	she	PRP	(NP*)))	ppers/anaphora/nominal	sbj	-	aliasvaughn	*	(1)
+143_950358179350745088.branch3.	112	4	was	VBD	(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	5	n't	RB	*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	6	even	RB	(NP(ADJP(ADJP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	7	sure	JJ	*)	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	8	that	IN	(SBAR(WHNP*)	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	9	was	VBD	(S(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	10	Ivanka	NNP	(NP(NP*)	ne/none/none	copula_rel	-	aliasvaughn	(PERSON)	(3)
+143_950358179350745088.branch3.	112	11	,	,	*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	12	which	WDT	(SBAR(WHNP*)	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	13	means	VBZ	(S(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	14	it	PRP	(SBAR(S(NP*)	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	15	was	VBD	(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	16	IVANKA	NNP	(NP(NP*)	ne/none/none	copula_rel	-	aliasvaughn	(PERSON)	(3
+143_950358179350745088.branch3.	112	17	who	WP	(SBAR(WHNP*)	prel/anaphora/nominal	sbj	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	18	knew	VBD	(S(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	19	she	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	aliasvaughn	*	(3)
+143_950358179350745088.branch3.	112	20	had	VBD	(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	21	to	TO	(S(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	22	address	VB	(VP*	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	23	her	PRP	(NP*))))))))))))))))))))	ppers/anaphora/nominal	dir_obj	-	aliasvaughn	*	(1)|3)
+143_950358179350745088.branch3.	112	24	.	.	*))	-	-	-	aliasvaughn	*	-
+143_950358179350745088.branch3.	112	25	https://t.co/UjCFYmorOE	NN	*))))	-	-	-	aliasvaughn	(URL)	-
+
+143_950358179350745088.branch3.	112	0	@aliasvaughn	NN	(ROOT(S(NP(NP*)	-	-	-	KeyserSozeBro1	(HANDLE)	-
+143_950358179350745088.branch3.	112	1	Every	DT	(NP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	2	Manhattan	NNP	*	-	-	-	KeyserSozeBro1	(CITY)	-
+143_950358179350745088.branch3.	112	3	office	NN	*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	4	building	NN	*))	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	5	has	VBZ	(VP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	6	elevator	NN	(NP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	7	video	NN	*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	8	cameras	NNS	*))	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	9	.	.	*))	-	-	-	KeyserSozeBro1	*	-
+
+143_950358179350745088.branch3.	112	0	Seems	VBZ	(ROOT(S(VP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	1	this	DT	(SBAR(S(NP*)	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	2	would	MD	(VP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	3	be	VB	(VP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	4	an	DT	(NP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	5	easy	JJ	*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	6	projection	NN	*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	7	to	TO	(S(VP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	8	authenticate	VB	(VP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	9	if	IN	(SBAR*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	10	these	DT	(S(NP*	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	11	assertions	NNS	*)	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	12	truthful	JJ	(ADJP*))))))))))))	-	-	-	KeyserSozeBro1	*	-
+143_950358179350745088.branch3.	112	13	.	.	*))	-	-	-	KeyserSozeBro1	*	-
+
+143_950358179350745088.branch3.	112	0	@KeyserSozeBro1	NN	(ROOT(S(NP*	-	-	-	jonesmatt1957	(HANDLE*	-
+143_950358179350745088.branch3.	112	1	@aliasvaughn	NN	*	-	-	-	jonesmatt1957	*)	-
+143_950358179350745088.branch3.	112	2	Mueller	NNP	*)	ne/none/none	sbj	-	jonesmatt1957	(PERSON)	(0)
+143_950358179350745088.branch3.	112	3	has	VBZ	(VP*	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	4	the	DT	(NP*	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	5	SIGINT	NNP	*))	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	6	...	:	*))	-	-	-	jonesmatt1957	*	-
+
+143_950358179350745088.branch3.	112	0	he	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	jonesmatt1957	*	(0)
+143_950358179350745088.branch3.	112	1	knows	VBZ	(VP*	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	2	what	WP	(SBAR(WHNP*)	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	3	was	VBD	(S(VP*	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	4	said	VBD	(VP*)))))	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	5	...	:	*))	-	-	-	jonesmatt1957	*	-
+
+143_950358179350745088.branch3.	112	0	methinks	NNS	(ROOT(NP(NP(NP(NP*)	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	1	he	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	jonesmatt1957	*	(0)
+143_950358179350745088.branch3.	112	2	wants	VBZ	(VP*	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	3	them	PRP	(S(NP*)	ppers/anaphora/nominal	dir_obj	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	4	all	DT	(ADVP*)	other/anaphora/nominal	other/appositive	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	5	to	TO	(VP*	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	6	lie	VB	(VP*	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	7	and	CC	*	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	8	get	VB	*)))))))	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	9	caught	VBN	(VP*))	-	-	-	jonesmatt1957	*	-
+143_950358179350745088.branch3.	112	10	...	:	*))	-	-	-	jonesmatt1957	*	-
+
+#end document

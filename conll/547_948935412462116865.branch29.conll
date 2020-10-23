@@ -1,0 +1,133 @@
+#begin document (547_948935412462116865.branch29.); part 178
+547_948935412462116865.branch29.	178	0	Bring	VB	(ROOT(S(VP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	1	a	DT	(NP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	2	little	JJ	*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	3	luck	NN	*)	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	4	to	TO	(PP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	5	battle	NN	(NP(NP*)	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	6	with	IN	(PP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	7	the	DT	(NP*	ne/none/none	prep_phrase	-	Rainbow6Game	*	(3
+547_948935412462116865.branch29.	178	8	IQ	NNP	*	-	-	-	Rainbow6Game	(MISC*	-
+547_948935412462116865.branch29.	178	9	Luck-Bringer	NNP	*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	10	Bundle	NNP	*)))))	-	-	-	Rainbow6Game	*)	3)
+547_948935412462116865.branch29.	178	11	.	.	*))	-	-	-	Rainbow6Game	*	-
+
+547_948935412462116865.branch29.	178	0	Comes	VBZ	(ROOT(SINV(VP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	1	with	IN	(PP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	2	the	DT	(NP(NP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	3	Lilac	NNP	*	-	-	-	Rainbow6Game	(ORGANIZATION*	-
+547_948935412462116865.branch29.	178	4	Splinter	NNP	*	-	-	-	Rainbow6Game	*)	-
+547_948935412462116865.branch29.	178	5	uniform	NN	*)	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	6	,	,	*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	7	Commander	NNP	(NP*	-	-	-	Rainbow6Game	(TITLE)	-
+547_948935412462116865.branch29.	178	8	headgear	NNP	*)	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	9	,	,	*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	10	Glcksschwein	NNP	(NP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	11	charm	NN	*)	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	12	,	,	*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	13	and	CC	*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	14	Chromatic	JJ	(NP(NP*	-	-	-	Rainbow6Game	(MISC)	-
+547_948935412462116865.branch29.	178	15	weapon	NN	*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	16	skin	NN	*)	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	17	for	IN	(PP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	18	the	DT	(NP(NP*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	19	552	CD	*	-	-	-	Rainbow6Game	(NUMBER)	-
+547_948935412462116865.branch29.	178	20	COMMANDO	NNP	*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	21	assault	NN	*)	-	-	-	Rainbow6Game	(CRIMINAL_CHARGE)	-
+547_948935412462116865.branch29.	178	22	rifle	NN	(FRAG(INTJ*	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	23	.	.	*))))))))	-	-	-	Rainbow6Game	*	-
+547_948935412462116865.branch29.	178	24	https://t.co/ZkAgf8BBpC	NN	(NP*)))	-	-	-	Rainbow6Game	(URL)	-
+
+547_948935412462116865.branch29.	178	0	@Rainbow6Game	NN	(ROOT(FRAG(NP(NP*	-	-	-	AaronBStudio	(HANDLE*	-
+547_948935412462116865.branch29.	178	1	@vSean__	NN	*)	-	-	-	AaronBStudio	*)	-
+547_948935412462116865.branch29.	178	2	this	DT	(SBAR(S(NP*)	pds/anaphora/nominal	sbj	-	AaronBStudio	*	(3)
+547_948935412462116865.branch29.	178	3	actually	RB	(ADVP*)	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	4	looks	VBZ	(VP*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	5	pretty	RB	(ADJP*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	6	good	JJ	*)))))))	-	-	-	AaronBStudio	*	-
+
+547_948935412462116865.branch29.	178	0	@AaronBStudio	NN	(ROOT(FRAG(NP(NP*	-	-	-	vSean__	(HANDLE*	-
+547_948935412462116865.branch29.	178	1	@Rainbow6Game	NN	*)	-	-	-	vSean__	*)	-
+547_948935412462116865.branch29.	178	2	How	WRB	(SBAR(WHNP*	-	-	-	vSean__	*	-
+547_948935412462116865.branch29.	178	3	much	JJ	*)	-	-	-	vSean__	*	-
+547_948935412462116865.branch29.	178	4	is	VBZ	(S(VP*	-	-	-	vSean__	*	-
+547_948935412462116865.branch29.	178	5	it	PRP	(NP*)))))	ppers/anaphora/nominal	dir_obj	-	vSean__	*	(3)
+547_948935412462116865.branch29.	178	6	?	.	*))	-	-	-	vSean__	*	-
+
+547_948935412462116865.branch29.	178	0	@vSean__	NN	(ROOT(NP(NP*	-	-	-	AaronBStudio	(HANDLE*	-
+547_948935412462116865.branch29.	178	1	@Rainbow6Game	NN	*)	-	-	-	AaronBStudio	*)	-
+547_948935412462116865.branch29.	178	2	45,000	CD	(NP(NP*	-	-	-	AaronBStudio	(NUMBER)	-
+547_948935412462116865.branch29.	178	3	renown	NN	*)	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	4	or	CC	*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	5	1,200	CD	(NP*	-	-	-	AaronBStudio	(NUMBER)	-
+547_948935412462116865.branch29.	178	6	R6	NN	*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	7	points	NNS	*))))	-	-	-	AaronBStudio	*	-
+
+547_948935412462116865.branch29.	178	0	@AaronBStudio	NN	(ROOT(NP(NP*)	-	-	-	vSean__	(HANDLE*	-
+547_948935412462116865.branch29.	178	1	@Rainbow6Game	NN	(NP*	-	-	-	vSean__	*)	-
+547_948935412462116865.branch29.	178	2	Oof	NN	*)))	-	-	-	vSean__	*	-
+
+547_948935412462116865.branch29.	178	0	@vSean__	NN	(ROOT(FRAG(NP(NP*	-	-	-	AaronBStudio	(HANDLE*	-
+547_948935412462116865.branch29.	178	1	@Rainbow6Game	NN	*)	-	-	-	AaronBStudio	*)	-
+547_948935412462116865.branch29.	178	2	I	PRP	(SBAR(S(NP*)	ppers/exophora/nominal	sbj	-	AaronBStudio	*	(2)
+547_948935412462116865.branch29.	178	3	got	VBD	(VP*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	4	my	PRP$	(NP*	ppos/anaphora/nominal	dir_obj	-	AaronBStudio	*	(2)
+547_948935412462116865.branch29.	178	5	1.2	CD	*	-	-	-	AaronBStudio	(NUMBER)	-
+547_948935412462116865.branch29.	178	6	k	NN	*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	7	R6	NN	*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	8	points	NNS	*)))))))	-	-	-	AaronBStudio	*	-
+
+547_948935412462116865.branch29.	178	0	But	CC	(ROOT(S*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	1	I	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	AaronBStudio	*	(2)
+547_948935412462116865.branch29.	178	2	'm	VBP	(VP*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	3	not	RB	*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	4	sure	JJ	(ADJP*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	5	I	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	AaronBStudio	*	(2)
+547_948935412462116865.branch29.	178	6	'll	MD	(VP*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	7	buy	VB	(VP*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	8	that	IN	(ADVP*	defnp/none/none	dir_obj	-	AaronBStudio	*	(3
+547_948935412462116865.branch29.	178	9	one	CD	(NP*))))))))))	-	-	-	AaronBStudio	(NUMBER)	3)
+
+547_948935412462116865.branch29.	178	0	@AaronBStudio	NN	(ROOT(FRAG(NP*	-	-	-	vSean__	(HANDLE*	-
+547_948935412462116865.branch29.	178	1	@Rainbow6Game	NN	*)	-	-	-	vSean__	*)	-
+547_948935412462116865.branch29.	178	2	Get	VB	(VP*	-	-	-	vSean__	*	-
+547_948935412462116865.branch29.	178	3	one	CD	(NP(NP*)	-	-	-	vSean__	(NUMBER)	-
+547_948935412462116865.branch29.	178	4	of	IN	(PP*	-	-	-	vSean__	*	-
+547_948935412462116865.branch29.	178	5	them	PRP	(NP*)))	-	-	-	vSean__	*	-
+547_948935412462116865.branch29.	178	6	sexy	JJ	(NP*	-	-	-	vSean__	*	-
+547_948935412462116865.branch29.	178	7	25k	JJ	*	-	-	-	vSean__	*	-
+547_948935412462116865.branch29.	178	8	camos	NNS	*))))	-	-	-	vSean__	*	-
+
+547_948935412462116865.branch29.	178	0	@vSean__	NN	(ROOT(S(NP(NP*	-	-	-	AaronBStudio	(HANDLE*	-
+547_948935412462116865.branch29.	178	1	@Rainbow6Game	NN	*)	-	-	-	AaronBStudio	*)	-
+547_948935412462116865.branch29.	178	2	Ye	PRP	(SBAR(S(NP*)	-	-	-	AaronBStudio	(PERSON)	-
+547_948935412462116865.branch29.	178	3	fam	VBP	(VP*))))	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	4	,	,	*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	5	might	MD	(VP*	-	-	-	AaronBStudio	*	-
+547_948935412462116865.branch29.	178	6	do	VB	(VP*))))	-	-	-	AaronBStudio	*	-
+
+547_948935412462116865.branch29.	178	0	@AaronBStudio	NN	(ROOT(NP(S(NP*	-	-	-	ltsparklez85	(HANDLE*	-
+547_948935412462116865.branch29.	178	1	@vSean__	NN	*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	2	@Rainbow6Game	NN	*)	-	-	-	ltsparklez85	*)	-
+547_948935412462116865.branch29.	178	3	Spend	VB	(VP(VP*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	4	$	$	(NP(ADJP*	defnp/none/none	dir_obj	-	ltsparklez85	(MONEY*	(0
+547_948935412462116865.branch29.	178	5	5	CD	*)	-	-	-	ltsparklez85	*)	0)
+547_948935412462116865.branch29.	178	6	more	JJR	*))	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	7	and	CC	*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	8	get	VB	(VP*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	9	an	DT	(NP*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	10	elite	NN	*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	11	bundle	NN	*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	12	,	,	*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	13	higher	JJR	*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	14	value	NN	*)	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	15	than	IN	(PP*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	16	spending	VBG	(S(VP*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	17	it	PRP	(NP*)	ppers/anaphora/nominal	dir_obj	-	ltsparklez85	*	(0)
+547_948935412462116865.branch29.	178	18	in	IN	(PP*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	19	a	DT	(NP(ADJP(NP*	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	20	reknown	NN	*)	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	21	accessible	JJ	*)	-	-	-	ltsparklez85	*	-
+547_948935412462116865.branch29.	178	22	camo	NN	*))))))))))	-	-	-	ltsparklez85	*	-
+
+#end document

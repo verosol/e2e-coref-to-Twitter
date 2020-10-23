@@ -1,0 +1,49 @@
+#begin document (173_950376758183940101.branch3.); part 138
+173_950376758183940101.branch3.	138	0	He	PRP	(ROOT(S(NP*)	ppers/exophora/nominal	sbj	-	mc5506	*	-
+173_950376758183940101.branch3.	138	1	was	VBD	(VP*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	2	a	DT	(NP*	indefnp/none/none	copula_rel	-	mc5506	*	-
+173_950376758183940101.branch3.	138	3	nonce	JJ	*))	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	4	!	.	*))	-	-	-	mc5506	*	-
+
+173_950376758183940101.branch3.	138	0	Her	PRP$	(ROOT(S(NP*	ppos/exophora/nominal	sbj	-	mc5506	*	(1)
+173_950376758183940101.branch3.	138	1	gob	NN	*)	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	2	goes	VBZ	(VP*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	3	right	RB	(ADVP*)	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	4	through	IN	(PP*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	5	me	PRP	(S(NP*)	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	6	%emoji	VBP	(VP*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	7	https://t.co/t22Jj26JJz	NN	(NP*)))))))	-	-	-	mc5506	(URL)	-
+
+173_950376758183940101.branch3.	138	0	@mc5506	NN	(ROOT(NP*	-	-	-	Crazyparklady1	(HANDLE)	-
+173_950376758183940101.branch3.	138	1	https://t.co/jH1lrBDXqM	NN	*))	-	-	-	Crazyparklady1	(URL)	-
+
+173_950376758183940101.branch3.	138	0	@Crazyparklady1	NN	(ROOT(FRAG(NP(NP*)	-	-	-	mc5506	(HANDLE)	-
+173_950376758183940101.branch3.	138	1	She	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	mc5506	*	(1)
+173_950376758183940101.branch3.	138	2	's	VBZ	(VP*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	3	a	DT	(NP*	indefnp/none/none	copula_rel	-	mc5506	*	-
+173_950376758183940101.branch3.	138	4	horrible	JJ	(ADJP*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	5	manipulative	JJ	*)	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	6	cow	NN	*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	7	%emoji	NNS	*)))))))	-	-	-	mc5506	*	-
+
+173_950376758183940101.branch3.	138	0	@mc5506	NN	(ROOT(SINV(FRAG(NP*))	-	-	-	Crazyparklady1	(HANDLE)	-
+173_950376758183940101.branch3.	138	1	Ca	MD	(VP*	-	-	-	Crazyparklady1	*	-
+173_950376758183940101.branch3.	138	2	n't	RB	*	-	-	-	Crazyparklady1	*	-
+173_950376758183940101.branch3.	138	3	stand	VB	(VP*	-	-	-	Crazyparklady1	*	-
+173_950376758183940101.branch3.	138	4	her	PRP$	(FRAG(NP(NP*	ppos/anaphora/nominal	dir_obj	-	Crazyparklady1	*	(1)
+173_950376758183940101.branch3.	138	5	voice	NN	*)	-	-	-	Crazyparklady1	*	-
+173_950376758183940101.branch3.	138	6	either	CC	(ADVP*))	-	-	-	Crazyparklady1	*	-
+173_950376758183940101.branch3.	138	7	.	.	*)))	-	-	-	Crazyparklady1	*	-
+173_950376758183940101.branch3.	138	8	#LindaSarsour	NN	(NP*)))	ne/none/none	none	-	Crazyparklady1	*	(1)
+
+173_950376758183940101.branch3.	138	0	@Crazyparklady1	NN	(ROOT(FRAG(NP(NP*)	-	-	-	mc5506	(HANDLE)	-
+173_950376758183940101.branch3.	138	1	She	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	mc5506	*	(1)
+173_950376758183940101.branch3.	138	2	's	VBZ	(VP*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	3	a	DT	(NP*	indefnp/none/none	copula_rel	-	mc5506	*	-
+173_950376758183940101.branch3.	138	4	right	JJ	*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	5	squeaky	RB	(ADJP*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	6	Whiney	JJ	*)	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	7	bastard	NN	*	-	-	-	mc5506	*	-
+173_950376758183940101.branch3.	138	8	haha	NN	*)))))))	-	-	-	mc5506	*	-
+
+#end document

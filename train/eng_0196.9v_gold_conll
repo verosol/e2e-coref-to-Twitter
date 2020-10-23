@@ -1,0 +1,133 @@
+#begin document (wb/eng/00/eng_0196); part 000
+wb/eng/00/eng_0196	0	0	Bring	VB	(ROOT(S(VP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	1	a	DT	(NP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	2	little	JJ	*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	3	luck	NN	*)	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	4	to	TO	(PP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	5	battle	NN	(NP(NP*)	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	6	with	IN	(PP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	7	the	DT	(NP*	-	-	-	Rainbow6Game	*	(3	
+wb/eng/00/eng_0196	0	8	IQ	NNP	*	-	-	-	Rainbow6Game	(MISC*	-	
+wb/eng/00/eng_0196	0	9	Luck-Bringer	NNP	*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	10	Bundle	NNP	*)))))	-	-	-	Rainbow6Game	*)	3)	
+wb/eng/00/eng_0196	0	11	.	.	*))	-	-	-	Rainbow6Game	*	-	
+
+wb/eng/00/eng_0196	0	0	Comes	VBZ	(ROOT(SINV(VP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	1	with	IN	(PP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	2	the	DT	(NP(NP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	3	Lilac	NNP	*	-	-	-	Rainbow6Game	(ORGANIZATION*	-	
+wb/eng/00/eng_0196	0	4	Splinter	NNP	*	-	-	-	Rainbow6Game	*)	-	
+wb/eng/00/eng_0196	0	5	uniform	NN	*)	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	6	,	,	*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	7	Commander	NNP	(NP*	-	-	-	Rainbow6Game	(TITLE)	-	
+wb/eng/00/eng_0196	0	8	headgear	NNP	*)	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	9	,	,	*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	10	Glcksschwein	NNP	(NP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	11	charm	NN	*)	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	12	,	,	*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	13	and	CC	*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	14	Chromatic	JJ	(NP(NP*	-	-	-	Rainbow6Game	(MISC)	-	
+wb/eng/00/eng_0196	0	15	weapon	NN	*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	16	skin	NN	*)	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	17	for	IN	(PP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	18	the	DT	(NP(NP*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	19	552	CD	*	-	-	-	Rainbow6Game	(NUMBER)	-	
+wb/eng/00/eng_0196	0	20	COMMANDO	NNP	*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	21	assault	NN	*)	-	-	-	Rainbow6Game	(CRIMINAL_CHARGE)	-	
+wb/eng/00/eng_0196	0	22	rifle	NN	(FRAG(INTJ*	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	23	.	.	*))))))))	-	-	-	Rainbow6Game	*	-	
+wb/eng/00/eng_0196	0	24	https://t.co/ZkAgf8BBpC	NN	(NP*)))	-	-	-	Rainbow6Game	(URL)	-	
+
+wb/eng/00/eng_0196	0	0	@Rainbow6Game	NN	(ROOT(FRAG(NP(NP*	-	-	-	AaronBStudio	(HANDLE*	-	
+wb/eng/00/eng_0196	0	1	@vSean__	NN	*)	-	-	-	AaronBStudio	*)	-	
+wb/eng/00/eng_0196	0	2	this	DT	(SBAR(S(NP*)	-	-	-	AaronBStudio	*	(3)	
+wb/eng/00/eng_0196	0	3	actually	RB	(ADVP*)	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	4	looks	VBZ	(VP*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	5	pretty	RB	(ADJP*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	6	good	JJ	*)))))))	-	-	-	AaronBStudio	*	-	
+
+wb/eng/00/eng_0196	0	0	@AaronBStudio	NN	(ROOT(FRAG(NP(NP*	-	-	-	vSean__	(HANDLE*	-	
+wb/eng/00/eng_0196	0	1	@Rainbow6Game	NN	*)	-	-	-	vSean__	*)	-	
+wb/eng/00/eng_0196	0	2	How	WRB	(SBAR(WHNP*	-	-	-	vSean__	*	-	
+wb/eng/00/eng_0196	0	3	much	JJ	*)	-	-	-	vSean__	*	-	
+wb/eng/00/eng_0196	0	4	is	VBZ	(S(VP*	-	-	-	vSean__	*	-	
+wb/eng/00/eng_0196	0	5	it	PRP	(NP*)))))	-	-	-	vSean__	*	(3)	
+wb/eng/00/eng_0196	0	6	?	.	*))	-	-	-	vSean__	*	-	
+
+wb/eng/00/eng_0196	0	0	@vSean__	NN	(ROOT(NP(NP*	-	-	-	AaronBStudio	(HANDLE*	-	
+wb/eng/00/eng_0196	0	1	@Rainbow6Game	NN	*)	-	-	-	AaronBStudio	*)	-	
+wb/eng/00/eng_0196	0	2	45,000	CD	(NP(NP*	-	-	-	AaronBStudio	(NUMBER)	-	
+wb/eng/00/eng_0196	0	3	renown	NN	*)	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	4	or	CC	*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	5	1,200	CD	(NP*	-	-	-	AaronBStudio	(NUMBER)	-	
+wb/eng/00/eng_0196	0	6	R6	NN	*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	7	points	NNS	*))))	-	-	-	AaronBStudio	*	-	
+
+wb/eng/00/eng_0196	0	0	@AaronBStudio	NN	(ROOT(NP(NP*)	-	-	-	vSean__	(HANDLE*	-	
+wb/eng/00/eng_0196	0	1	@Rainbow6Game	NN	(NP*	-	-	-	vSean__	*)	-	
+wb/eng/00/eng_0196	0	2	Oof	NN	*)))	-	-	-	vSean__	*	-	
+
+wb/eng/00/eng_0196	0	0	@vSean__	NN	(ROOT(FRAG(NP(NP*	-	-	-	AaronBStudio	(HANDLE*	-	
+wb/eng/00/eng_0196	0	1	@Rainbow6Game	NN	*)	-	-	-	AaronBStudio	*)	-	
+wb/eng/00/eng_0196	0	2	I	PRP	(SBAR(S(NP*)	-	-	-	AaronBStudio	*	(2)	
+wb/eng/00/eng_0196	0	3	got	VBD	(VP*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	4	my	PRP$	(NP*	-	-	-	AaronBStudio	*	(2)	
+wb/eng/00/eng_0196	0	5	1.2	CD	*	-	-	-	AaronBStudio	(NUMBER)	-	
+wb/eng/00/eng_0196	0	6	k	NN	*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	7	R6	NN	*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	8	points	NNS	*)))))))	-	-	-	AaronBStudio	*	-	
+
+wb/eng/00/eng_0196	0	0	But	CC	(ROOT(S*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	1	I	PRP	(NP*)	-	-	-	AaronBStudio	*	(2)	
+wb/eng/00/eng_0196	0	2	'm	VBP	(VP*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	3	not	RB	*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	4	sure	JJ	(ADJP*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	5	I	PRP	(SBAR(S(NP*)	-	-	-	AaronBStudio	*	(2)	
+wb/eng/00/eng_0196	0	6	'll	MD	(VP*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	7	buy	VB	(VP*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	8	that	IN	(ADVP*	-	-	-	AaronBStudio	*	(3	
+wb/eng/00/eng_0196	0	9	one	CD	(NP*))))))))))	-	-	-	AaronBStudio	(NUMBER)	3)	
+
+wb/eng/00/eng_0196	0	0	@AaronBStudio	NN	(ROOT(FRAG(NP*	-	-	-	vSean__	(HANDLE*	-	
+wb/eng/00/eng_0196	0	1	@Rainbow6Game	NN	*)	-	-	-	vSean__	*)	-	
+wb/eng/00/eng_0196	0	2	Get	VB	(VP*	-	-	-	vSean__	*	-	
+wb/eng/00/eng_0196	0	3	one	CD	(NP(NP*)	-	-	-	vSean__	(NUMBER)	-	
+wb/eng/00/eng_0196	0	4	of	IN	(PP*	-	-	-	vSean__	*	-	
+wb/eng/00/eng_0196	0	5	them	PRP	(NP*)))	-	-	-	vSean__	*	-	
+wb/eng/00/eng_0196	0	6	sexy	JJ	(NP*	-	-	-	vSean__	*	-	
+wb/eng/00/eng_0196	0	7	25k	JJ	*	-	-	-	vSean__	*	-	
+wb/eng/00/eng_0196	0	8	camos	NNS	*))))	-	-	-	vSean__	*	-	
+
+wb/eng/00/eng_0196	0	0	@vSean__	NN	(ROOT(S(NP(NP*	-	-	-	AaronBStudio	(HANDLE*	-	
+wb/eng/00/eng_0196	0	1	@Rainbow6Game	NN	*)	-	-	-	AaronBStudio	*)	-	
+wb/eng/00/eng_0196	0	2	Ye	PRP	(SBAR(S(NP*)	-	-	-	AaronBStudio	(PERSON)	-	
+wb/eng/00/eng_0196	0	3	fam	VBP	(VP*))))	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	4	,	,	*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	5	might	MD	(VP*	-	-	-	AaronBStudio	*	-	
+wb/eng/00/eng_0196	0	6	do	VB	(VP*))))	-	-	-	AaronBStudio	*	-	
+
+wb/eng/00/eng_0196	0	0	@AaronBStudio	NN	(ROOT(NP(S(NP*	-	-	-	ltsparklez85	(HANDLE*	-	
+wb/eng/00/eng_0196	0	1	@vSean__	NN	*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	2	@Rainbow6Game	NN	*)	-	-	-	ltsparklez85	*)	-	
+wb/eng/00/eng_0196	0	3	Spend	VB	(VP(VP*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	4	$	$	(NP(ADJP*	-	-	-	ltsparklez85	(MONEY*	(0	
+wb/eng/00/eng_0196	0	5	5	CD	*)	-	-	-	ltsparklez85	*)	0)	
+wb/eng/00/eng_0196	0	6	more	JJR	*))	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	7	and	CC	*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	8	get	VB	(VP*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	9	an	DT	(NP*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	10	elite	NN	*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	11	bundle	NN	*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	12	,	,	*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	13	higher	JJR	*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	14	value	NN	*)	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	15	than	IN	(PP*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	16	spending	VBG	(S(VP*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	17	it	PRP	(NP*)	-	-	-	ltsparklez85	*	(0)	
+wb/eng/00/eng_0196	0	18	in	IN	(PP*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	19	a	DT	(NP(ADJP(NP*	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	20	reknown	NN	*)	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	21	accessible	JJ	*)	-	-	-	ltsparklez85	*	-	
+wb/eng/00/eng_0196	0	22	camo	NN	*))))))))))	-	-	-	ltsparklez85	*	-	
+
+#end document

@@ -1,0 +1,139 @@
+#begin document (063_950148395036848128.branch25.); part 44
+063_950148395036848128.branch25.	44	0	Today	NN	(ROOT(S(NP*)	-	-	-	willripleyCNN	(DATE)	-
+063_950148395036848128.branch25.	44	1	is	VBZ	(VP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	2	Kim	NNP	(NP(NP*	ne/none/none|defnp/none/none	copula_rel|dir_obj	-	willripleyCNN	(PERSON*	(0|(1
+063_950148395036848128.branch25.	44	3	Jong	NNP	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	4	Un	NNP	*	-	-	-	willripleyCNN	*)	-
+063_950148395036848128.branch25.	44	5	's	POS	*)	-	-	-	willripleyCNN	*	0)
+063_950148395036848128.branch25.	44	6	birthday	NN	*))	-	-	-	willripleyCNN	*	1)
+063_950148395036848128.branch25.	44	7	.	.	*))	-	-	-	willripleyCNN	*	-
+
+063_950148395036848128.branch25.	44	0	Widely	RB	(ROOT(S(S(ADVP*)	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	1	believed	VBN	(VP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	2	to	TO	(S(VP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	3	be	VB	(VP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	4	in	IN	(PP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	5	his	PRP$	(NP(NP*	ppos/anaphora/nominal	prep_phrase	-	willripleyCNN	*	(0)
+063_950148395036848128.branch25.	44	6	early/mid	JJ	*)	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	7	-30	CD	(NP*	-	-	-	willripleyCNN	(NUMBER)	-
+063_950148395036848128.branch25.	44	8	's	POS	*))))))))	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	9	,	,	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	10	his	PRP$	(NP*	ppos/anaphora/nominal	sbj	-	willripleyCNN	*	(0)
+063_950148395036848128.branch25.	44	11	exact	JJ	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	12	birth	NN	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	13	year	NN	*)	-	-	-	willripleyCNN	(DURATION)	-
+063_950148395036848128.branch25.	44	14	is	VBZ	(VP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	15	unconfirmed	JJ	(ADJP*))	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	16	.	.	*))	-	-	-	willripleyCNN	*	-
+
+063_950148395036848128.branch25.	44	0	Unlike	IN	(ROOT(S(PP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	1	his	PRP$	(NP(NP*	ppos/anaphora/nominal	other/other	-	willripleyCNN	*	(0)
+063_950148395036848128.branch25.	44	2	father	NN	*)	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	3	&	CC	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	4	grandfather	NN	(NP*)))	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	5	,	,	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	6	Kim	NNP	(NP(NP*	ne/none/none|defnp/none/none	sbj|sbj	-	willripleyCNN	(PERSON)	(0|(1
+063_950148395036848128.branch25.	44	7	's	POS	*)	-	-	-	willripleyCNN	*	0)
+063_950148395036848128.branch25.	44	8	birthday	NN	*)	-	-	-	willripleyCNN	*	1)
+063_950148395036848128.branch25.	44	9	is	VBZ	(VP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	10	not	RB	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	11	marked	VBN	(VP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	12	by	IN	(PP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	13	huge	JJ	(NP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	14	celebrations	NNS	*))))	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	15	.	.	*))	-	-	-	willripleyCNN	*	-
+
+063_950148395036848128.branch25.	44	0	Two	CD	(ROOT(S(ADVP(NP*	-	-	-	willripleyCNN	(DATE*	-
+063_950148395036848128.branch25.	44	1	years	NNS	*)	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	2	ago	IN	*)	-	-	-	willripleyCNN	*)	-
+063_950148395036848128.branch25.	44	3	he	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	willripleyCNN	*	(0)
+063_950148395036848128.branch25.	44	4	ordered	VBD	(VP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	5	a	DT	(NP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	6	nuke	JJ	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	7	test	NN	*)	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	8	on	IN	(PP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	9	his	PRP$	(NP*	ppos/anaphora/nominal	prep_phrase	-	willripleyCNN	*	(0)
+063_950148395036848128.branch25.	44	10	birthday	NN	*))	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	11	week	NN	(NP-TMP*))	-	-	-	willripleyCNN	(DURATION)	-
+063_950148395036848128.branch25.	44	12	.	.	*))	-	-	-	willripleyCNN	*	-
+
+063_950148395036848128.branch25.	44	0	This	DT	(ROOT(NP(NP*	-	-	-	willripleyCNN	(DATE*	-
+063_950148395036848128.branch25.	44	1	year	NN	*)	-	-	-	willripleyCNN	*)	-
+063_950148395036848128.branch25.	44	2	,	,	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	3	peace	NN	(NP*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	4	talks	NNS	*	-	-	-	willripleyCNN	*	-
+063_950148395036848128.branch25.	44	5	https://t.co/sdBFUAry9v	NN	*)))	-	-	-	willripleyCNN	(URL)	-
+
+063_950148395036848128.branch25.	44	0	@willripleyCNN	NNP	(ROOT(S(NP*	-	-	-	JWCanes2	(HANDLE)	-
+063_950148395036848128.branch25.	44	1	Trump	NNP	*)	-	-	-	JWCanes2	(PERSON)	-
+063_950148395036848128.branch25.	44	2	has	VBZ	(VP*	-	-	-	JWCanes2	*	-
+063_950148395036848128.branch25.	44	3	him	PRP	(NP(NP*)	ppers/anaphora/nominal	dir_obj	-	JWCanes2	*	(0)
+063_950148395036848128.branch25.	44	4	scared	VBN	(ADJP*	-	-	-	JWCanes2	*	-
+063_950148395036848128.branch25.	44	5	shitless	JJ	*)))))	-	-	-	JWCanes2	*	-
+
+063_950148395036848128.branch25.	44	0	@JWCanes2	NN	(ROOT(S(NP-TMP(NP*	-	-	-	TheSeaFarmer	(HANDLE*	-
+063_950148395036848128.branch25.	44	1	@willripleyCNN	NN	*)	-	-	-	TheSeaFarmer	*)	-
+063_950148395036848128.branch25.	44	2	Sure	NNP	(NP*))	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	3	,	,	*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	4	that	DT	(NP*)	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	5	's	VBZ	(VP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	6	why	WRB	(SBAR(WHADVP*)	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	7	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	TheSeaFarmer	*	(0)
+063_950148395036848128.branch25.	44	8	stopped	VBD	(VP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	9	testing	VBG	(S(VP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	10	missiles	NNS	(NP*)))))))	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	11	.	.	*))	-	-	-	TheSeaFarmer	*	-
+
+063_950148395036848128.branch25.	44	0	Oh	UH	(ROOT(S*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	1	wait	VB	(VP*)	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	2	...	:	*))	-	-	-	TheSeaFarmer	*	-
+
+063_950148395036848128.branch25.	44	0	@TheSeaFarmer	NN	(ROOT(FRAG(NP(NP*	-	-	-	JWCanes2	(HANDLE*	-
+063_950148395036848128.branch25.	44	1	@willripleyCNN	NN	*)	-	-	-	JWCanes2	*)	-
+063_950148395036848128.branch25.	44	2	Wow	UH	(SBAR(S(INTJ*)	-	-	-	JWCanes2	*	-
+063_950148395036848128.branch25.	44	3	you	PRP	(NP*)	ppers/exophora/nominal	sbj	-	JWCanes2	*	(3)
+063_950148395036848128.branch25.	44	4	're	VBP	(VP*	-	-	-	JWCanes2	*	-
+063_950148395036848128.branch25.	44	5	dumb	JJ	(ADJP*)))))))	-	-	-	JWCanes2	*	-
+
+063_950148395036848128.branch25.	44	0	@JWCanes2	NN	(ROOT(S(NP(NP*	-	-	-	TheSeaFarmer	(HANDLE*	-
+063_950148395036848128.branch25.	44	1	@willripleyCNN	NN	*)	-	-	-	TheSeaFarmer	*)	-
+063_950148395036848128.branch25.	44	2	Actually	RB	(RRC(ADVP*)	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	3	I	PRP	(NP*)))	ppers/anaphora/nominal	sbj	-	TheSeaFarmer	*	(3)
+063_950148395036848128.branch25.	44	4	went	VBD	(VP(VP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	5	to	TO	(PP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	6	the	DT	(NP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	7	best	JJS	*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	8	colleges	NNS	*)))	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	9	and	CC	*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	10	am	VBP	(VP*)	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	11	a	DT	(NP*	indefnp/none/none	copula_rel	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	12	very	RB	(ADJP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	13	stable	JJ	*)	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	14	genius	NN	*))	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	15	.	.	*))	-	-	-	TheSeaFarmer	*	-
+
+063_950148395036848128.branch25.	44	0	Any	DT	(ROOT(S(NP(NP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	1	word	NN	*)	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	2	to	TO	(PP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	3	the	DT	(NP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	4	contrary	NN	*)))	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	5	is	VBZ	(VP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	6	Fake	NNP	(NP*	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	7	News	NNP	*))	-	-	-	TheSeaFarmer	*	-
+063_950148395036848128.branch25.	44	8	.	.	*))	-	-	-	TheSeaFarmer	*	-
+
+063_950148395036848128.branch25.	44	0	@TheSeaFarmer	NN	(ROOT(FRAG(NP*	-	-	-	rissa_griffin	(HANDLE*	-
+063_950148395036848128.branch25.	44	1	@JWCanes2	NN	*	-	-	-	rissa_griffin	*	-
+063_950148395036848128.branch25.	44	2	@willripleyCNN	NN	*	-	-	-	rissa_griffin	*)	-
+063_950148395036848128.branch25.	44	3	Dammit	NN	*)	-	-	-	rissa_griffin	*	-
+063_950148395036848128.branch25.	44	4	.	.	*))	-	-	-	rissa_griffin	*	-
+
+063_950148395036848128.branch25.	44	0	I	PRP	(ROOT(S(NP*)	-	-	-	rissa_griffin	*	-
+063_950148395036848128.branch25.	44	1	just	RB	(VP(ADVP*)	-	-	-	rissa_griffin	*	-
+063_950148395036848128.branch25.	44	2	saw	VBD	*	-	-	-	rissa_griffin	*	-
+063_950148395036848128.branch25.	44	3	what	WP	(SBAR(WHNP*)	-	-	-	rissa_griffin	*	-
+063_950148395036848128.branch25.	44	4	you	PRP	(S(NP*)	-	-	-	rissa_griffin	*	-
+063_950148395036848128.branch25.	44	5	did	VBD	(VP*	-	-	-	rissa_griffin	*	-
+063_950148395036848128.branch25.	44	6	there	EX	(S(NP*))))))))	-	-	-	rissa_griffin	*	-
+
+#end document

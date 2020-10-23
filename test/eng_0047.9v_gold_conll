@@ -1,0 +1,73 @@
+#begin document (wb/eng/00/eng_0047); part 000
+wb/eng/00/eng_0047	0	0	appreciation	NN	(ROOT(S(NP(NP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	1	tweet	NN	*)	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	2	for	IN	(PP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	3	one	CD	(NP(NP*)	-	-	-	roumanticpoetry	(NUMBER)	(0	
+wb/eng/00/eng_0047	0	4	of	IN	(PP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	5	the	DT	(NP(NP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	6	most	RBS	(ADJP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	7	underrated	JJ	*)	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	8	lesbian	JJ	*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	9	characters	NNS	*)	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	10	of	IN	(PP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	11	tv	NN	(NP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	12	history	NN	*)))))))	-	-	-	roumanticpoetry	*	0)	
+wb/eng/00/eng_0047	0	13	,	,	*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	14	susan	NN	(NP(NP*)	-	-	-	roumanticpoetry	*	(0)	
+wb/eng/00/eng_0047	0	15	was	VBD	(SBAR(S(VP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	16	a	DT	(NP(NP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	17	real	JJ	*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	18	badass	NN	*)	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	19	with	IN	(PP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	20	killer	NN	(NP*)))))))	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	21	looks	VBZ	(VP(VP*)	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	22	and	CC	*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	23	took	VBD	(VP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	24	NONE	NN	(NP(NP*)	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	25	of	IN	(PP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	26	ross	NN	(NP(NP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	27	'	''	*)	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	28	sexist	JJ	(ADJP*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	29	homophobic	JJ	*)	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	30	bullshit	NN	*	-	-	-	roumanticpoetry	*	-	
+wb/eng/00/eng_0047	0	31	https://t.co/ku3yCbi3AT	NN	*)))))))	-	-	-	roumanticpoetry	(URL)	-	
+
+wb/eng/00/eng_0047	0	0	@roumanticpoetry	NN	(ROOT(FRAG(NP(NP*	-	-	-	lilyaIexandra	(HANDLE*	-	
+wb/eng/00/eng_0047	0	1	@sothepennydrops	NNS	*)	-	-	-	lilyaIexandra	*)	-	
+wb/eng/00/eng_0047	0	2	i	FW	(SBAR(S(NP*)	-	-	-	lilyaIexandra	*	(1)	
+wb/eng/00/eng_0047	0	3	know	VBP	(VP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	4	you	PRP	(SBAR(S(NP*)	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	5	've	VBP	(VP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	6	liked	VBD	(VP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	7	it	PRP	(NP*)	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	8	but	CC	(PP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	9	fuckin	JJ	(NP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	10	PREACH	NN	*))))))))))))	-	-	-	lilyaIexandra	*	-	
+
+wb/eng/00/eng_0047	0	0	@lilyaIexandra	NN	(ROOT(NP(NP*)	-	-	-	sothepennydrops	(HANDLE*	-	
+wb/eng/00/eng_0047	0	1	@roumanticpoetry	JJ	(NP*	-	-	-	sothepennydrops	*)	-	
+wb/eng/00/eng_0047	0	2	RIGHT	NN	*)	-	-	-	sothepennydrops	*	-	
+wb/eng/00/eng_0047	0	3	??	.	*))	-	-	-	sothepennydrops	*	-	
+
+wb/eng/00/eng_0047	0	0	She	PRP	(ROOT(S(NP*)	-	-	-	sothepennydrops	*	(0)	
+wb/eng/00/eng_0047	0	1	was	VBD	(VP*	-	-	-	sothepennydrops	*	-	
+wb/eng/00/eng_0047	0	2	the	DT	(NP*	-	-	-	sothepennydrops	*	-	
+wb/eng/00/eng_0047	0	3	best	JJS	*))	-	-	-	sothepennydrops	*	-	
+wb/eng/00/eng_0047	0	4	!!	.	*))	-	-	-	sothepennydrops	*	-	
+
+wb/eng/00/eng_0047	0	0	@sothepennydrops	NNS	(ROOT(S(NP*)	-	-	-	lilyaIexandra	(HANDLE)	-	
+wb/eng/00/eng_0047	0	1	@roumanticpoetry	VBP	(VP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	2	she	PRP	(SBAR(S(NP*)	-	-	-	lilyaIexandra	*	(0)	
+wb/eng/00/eng_0047	0	3	's	VBZ	(VP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	4	the	DT	(NP(NP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	5	love	NN	*)	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	6	of	IN	(PP*	-	-	-	lilyaIexandra	*	-	
+wb/eng/00/eng_0047	0	7	my	PRP$	(NP*	-	-	-	lilyaIexandra	*	(1)	
+wb/eng/00/eng_0047	0	8	life	NN	*)))))))))	-	-	-	lilyaIexandra	*	-	
+
+wb/eng/00/eng_0047	0	0	@lilyaIexandra	NN	(ROOT(FRAG(NP*	-	-	-	sothepennydrops	(HANDLE*	-	
+wb/eng/00/eng_0047	0	1	@roumanticpoetry	NN	*)	-	-	-	sothepennydrops	*)	-	
+wb/eng/00/eng_0047	0	2	literally	RB	(NP*	-	-	-	sothepennydrops	*	-	
+wb/eng/00/eng_0047	0	3	same	JJ	*)))	-	-	-	sothepennydrops	*	-	
+
+#end document

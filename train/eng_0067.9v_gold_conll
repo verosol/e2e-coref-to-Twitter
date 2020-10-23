@@ -1,0 +1,82 @@
+#begin document (wb/eng/00/eng_0067); part 000
+wb/eng/00/eng_0067	0	0	Stephen	NNP	(ROOT(S(NP*	-	-	-	wvjoe911	(PERSON*	(0	
+wb/eng/00/eng_0067	0	1	Miller	NNP	*)	-	-	-	wvjoe911	*)	0)	
+wb/eng/00/eng_0067	0	2	was	VBD	(VP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	3	escorted	VBN	(VP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	4	out	IN	(ADVP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	5	of	IN	(PP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	6	CNN	NNP	(NP*)))	-	-	-	wvjoe911	(ORGANIZATION)	-	
+wb/eng/00/eng_0067	0	7	by	IN	(PP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	8	security	NN	(NP*))	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	9	when	WRB	(SBAR(WHADVP*)	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	10	he	PRP	(S(NP*)	-	-	-	wvjoe911	*	(0)	
+wb/eng/00/eng_0067	0	11	refused	VBD	(VP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	12	to	TO	(S(VP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	13	leave	VB	(VP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	14	after	IN	(PP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	15	disastrous	JJ	(NP*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	16	interview	NN	*	-	-	-	wvjoe911	*	-	
+wb/eng/00/eng_0067	0	17	https://t.co/eXd59CRuW3	NN	*))))))))))))	-	-	-	wvjoe911	(URL)	-	
+
+wb/eng/00/eng_0067	0	0	@wvjoe911	NN	(ROOT(FRAG(S(ADJP*	-	-	-	willieapreston1	(HANDLE)	-	
+wb/eng/00/eng_0067	0	1	Hey	UH	(PP(NP(INTJ*))	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	2	@realDonaldTrump	NN	(NP*))))))	-	-	-	willieapreston1	(HANDLE)	(4)	
+
+wb/eng/00/eng_0067	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	1	remember	VBP	(VP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	2	your	PRP$	(NP*	-	-	-	willieapreston1	*	(4)	
+wb/eng/00/eng_0067	0	3	Tweet	NNP	*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	4	yesterday	NN	*	-	-	-	willieapreston1	(DATE*	-	
+wb/eng/00/eng_0067	0	5	morning	NN	*)	-	-	-	willieapreston1	*)	-	
+wb/eng/00/eng_0067	0	6	after	IN	(SBAR*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	7	you	PRP	(S(NP*)	-	-	-	willieapreston1	*	(4)	
+wb/eng/00/eng_0067	0	8	watched	VBD	(VP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	9	him	PRP	(NP*)	-	-	-	willieapreston1	*	(0)	
+wb/eng/00/eng_0067	0	10	with	IN	(PP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	11	Jake	NNP	(NP*	-	-	-	willieapreston1	(PERSON*	-	
+wb/eng/00/eng_0067	0	12	Tapper	NNP	*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	13	%emoji	NNS	*))))))))	-	-	-	willieapreston1	*)	-	
+
+wb/eng/00/eng_0067	0	0	well	RB	(ROOT(SINV(ADVP*)	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	1	looks	VBZ	(VP*)	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	2	like	IN	(SBAR*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	3	he	PRP	(S(NP*)	-	-	-	willieapreston1	*	(0)	
+wb/eng/00/eng_0067	0	4	is	VBZ	(VP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	5	a	DT	(NP(NP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	6	pretty	RB	(ADJP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	7	stupid	JJ	*)	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	8	man	NN	*)	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	9	%emoji	FW	(ADJP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	10	%emoji	FW	*)))))))	-	-	-	willieapreston1	*	-	
+
+wb/eng/00/eng_0067	0	0	do	VB	(ROOT(SQ(VP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	1	you	PRP	(S(NP*)	-	-	-	willieapreston1	*	(4)	
+wb/eng/00/eng_0067	0	2	hire	VB	(VP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	3	all	DT	(NP*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	4	stupid	JJ	*	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	5	people	NNS	*))))	-	-	-	willieapreston1	*	-	
+wb/eng/00/eng_0067	0	6	?	.	*))	-	-	-	willieapreston1	*	-	
+
+wb/eng/00/eng_0067	0	0	@willieapreston1	NN	(ROOT(S(NP*	-	-	-	Lizaland	(HANDLE*	-	
+wb/eng/00/eng_0067	0	1	@wvjoe911	NN	*)	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	2	@realDonaldTrump	NN	(VP*	-	-	-	Lizaland	*)	-	
+wb/eng/00/eng_0067	0	3	Yes	UH	(NP*))	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	4	.	.	*))	-	-	-	Lizaland	*	-	
+
+wb/eng/00/eng_0067	0	0	He	PRP	(ROOT(S(NP*)	-	-	-	Lizaland	*	(4)	
+wb/eng/00/eng_0067	0	1	has	VBZ	(VP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	2	to	TO	(S(VP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	3	hire	VB	(VP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	4	the	DT	(NP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	5	ignorant	JJ	(ADJP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	6	and	CC	*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	7	stupid	JJ	*)))))	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	8	to	TO	(S(VP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	9	make	VB	(VP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	10	him	PRP	(S(NP*)	-	-	-	Lizaland	*	(4)	
+wb/eng/00/eng_0067	0	11	look	VB	(VP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	12	less	RBR	(ADVP*	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	13	so	RB	*)))))))	-	-	-	Lizaland	*	-	
+wb/eng/00/eng_0067	0	14	.	.	*))	-	-	-	Lizaland	*	-	
+
+#end document

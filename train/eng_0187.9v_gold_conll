@@ -1,0 +1,215 @@
+#begin document (wb/eng/00/eng_0187); part 000
+wb/eng/00/eng_0187	0	0	Get	VB	(ROOT(S(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	1	the	DT	(NP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	2	right	JJ	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	3	GIF	NN	*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	4	every	DT	(NP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	5	time	NN	*))	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	6	.	.	*))	-	-	-	AppleSupport	*	-	
+
+wb/eng/00/eng_0187	0	0	In	IN	(ROOT(S(PP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	1	iOS	NNP	(NP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	2	11	CD	*))	-	-	-	AppleSupport	(NUMBER)	-	
+wb/eng/00/eng_0187	0	3	you	PRP	(NP*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	4	can	MD	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	5	play	VB	(VP(VP*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	6	and	CC	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	7	share	VB	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	8	them	PRP	(NP*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	9	all	DT	(FRAG(NP*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	10	,	,	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	11	right	RB	(PP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	12	from	IN	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	13	Photos	NNPS	(NP*))	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	14	.	.	*))	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	15	https://t.co/jo615y45bG	NN	(NP*)))))	-	-	-	AppleSupport	(URL)	-	
+
+wb/eng/00/eng_0187	0	0	@AppleSupport	NN	(ROOT(NP(NP*)	-	-	-	Medimiguell	(HANDLE)	-	
+wb/eng/00/eng_0187	0	1	Hi	UH	(SBAR(S(INTJ*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	,	,	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	Safari	NNP	(NP*)	-	-	-	Medimiguell	*	(0)	
+wb/eng/00/eng_0187	0	4	is	VBZ	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	going	VBG	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	6	from	IN	(PP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	7	bad	JJ	(ADJP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	8	to	TO	(PP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	9	worse	JJR	(ADJP*))))))))	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	10	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	Youtube	NNP	(ROOT(S(NP*)	-	-	-	Medimiguell	*	(14	
+wb/eng/00/eng_0187	0	1	plays	VBZ	(VP*	-	-	-	Medimiguell	*	14)	
+wb/eng/00/eng_0187	0	2	do	VBP	(SBAR(S(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	not	RB	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	4	go	VB	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	without	IN	(PP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	6	first	JJ	(NP(NP*	-	-	-	Medimiguell	(ORDINAL)	-	
+wb/eng/00/eng_0187	0	7	pause	NN	*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	8	+	CC	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	9	play	NN	(NP*))))))))	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	10	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	Safari	NNP	(ROOT(S(NP*)	-	-	-	Medimiguell	*	(0)	
+wb/eng/00/eng_0187	0	1	does	VBZ	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	not	RB	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	load	VB	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	4	images	NNS	(NP*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	sometimes	RB	(ADVP*)))	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	6	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	it	PRP	(ROOT(S(NP*)	-	-	-	Medimiguell	*	(0)	
+wb/eng/00/eng_0187	0	1	reinitializes	VBZ	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	itself	PRP	(NP*))	-	-	-	Medimiguell	*	(0)	
+wb/eng/00/eng_0187	0	3	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	The	DT	(ROOT(S(NP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	1	Extensions	NNS	*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	do	VBP	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	not	RB	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	4	go	VB	(VP*))	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	Many	JJ	(ROOT(S(NP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	1	websites	NNS	*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	do	VBP	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	not	RB	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	4	load	VB	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	on	IN	(PP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	6	safari	JJ	(NP*))))	-	-	-	Medimiguell	*	(0)	
+wb/eng/00/eng_0187	0	7	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	why	WRB	(ROOT(FRAG*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	1	?	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	What	WP	(ROOT(SBAR(WHNP*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	1	is	VBZ	(S(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	happening	VBG	(NP(SBAR(FRAG(ADJP*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	?	.	*))))	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	4	@AppleSupport	NN	(NP*))))	-	-	-	Medimiguell	(HANDLE)	-	
+
+wb/eng/00/eng_0187	0	0	@Medimiguell	NNP	(ROOT(S(NP*	-	-	-	AppleSupport	(HANDLE)	-	
+wb/eng/00/eng_0187	0	1	You	PRP	*)	-	-	-	AppleSupport	*	(9)	
+wb/eng/00/eng_0187	0	2	're	VBP	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	3	in	IN	(PP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	4	the	DT	(NP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	5	right	JJ	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	6	spot	NN	*))	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	7	to	TO	(S(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	8	get	VB	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	9	help	VB	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	10	with	IN	(PP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	11	Safari	NNP	(NP*)))))))	-	-	-	AppleSupport	*	(0)	
+wb/eng/00/eng_0187	0	12	.	.	*))	-	-	-	AppleSupport	*	-	
+
+wb/eng/00/eng_0187	0	0	First	RB	(ROOT(S(ADVP*	-	-	-	AppleSupport	(ORDINAL)	-	
+wb/eng/00/eng_0187	0	1	up	RB	*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	2	,	,	(PRN*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	3	can	MD	(SINV*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	4	you	PRP	(NP*)	-	-	-	AppleSupport	*	(9)	
+wb/eng/00/eng_0187	0	5	let	VB	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	6	us	PRP	(S(NP*)	-	-	-	AppleSupport	*	(14)	
+wb/eng/00/eng_0187	0	7	know	VB	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	8	which	WDT	(S(NP*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	9	device	NN	(NP(NP*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	10	and	CC	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	11	software	NN	(NP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	12	version	NN	*))))))))	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	13	you	PRP	(NP*)	-	-	-	AppleSupport	*	(9)	
+wb/eng/00/eng_0187	0	14	're	VBP	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	15	using	VBG	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	16	so	IN	(SBAR*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	17	we	PRP	(S(NP*)	-	-	-	AppleSupport	*	(14)	
+wb/eng/00/eng_0187	0	18	can	MD	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	19	plan	VB	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	20	our	PRP$	(NP*	-	-	-	AppleSupport	*	(14)	
+wb/eng/00/eng_0187	0	21	next	JJ	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	22	steps	NNS	*)))))))	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	23	?	.	*))	-	-	-	AppleSupport	*	-	
+
+wb/eng/00/eng_0187	0	0	@AppleSupport	NN	(ROOT(NP(NP*)	-	-	-	Medimiguell	(HANDLE)	-	
+wb/eng/00/eng_0187	0	1	Hi	UH	(SBAR(S(INTJ*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	,	,	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	I	PRP	(NP*)	-	-	-	Medimiguell	*	(9)	
+wb/eng/00/eng_0187	0	4	'm	VBP	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	using	VBG	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	6	Macbook	NNP	(NP(NP*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	7	Pro	FW	(NP(NP*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	8	13	CD	(NP*)))	-	-	-	Medimiguell	(NUMBER)	-	
+wb/eng/00/eng_0187	0	9	''	''	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	10	early	JJ	(NP*	-	-	-	Medimiguell	(DATE*	-	
+wb/eng/00/eng_0187	0	11	2011	CD	*)))))	-	-	-	Medimiguell	*)	-	
+wb/eng/00/eng_0187	0	12	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	Software	NNP	(ROOT(NP(NP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	1	OS	NNP	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	X	NNP	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	El	NNP	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	4	Capitan	NNP	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	Version	NNP	*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	6	10.11.4	CD	(NP*)	-	-	-	Medimiguell	(NUMBER)	-	
+wb/eng/00/eng_0187	0	7	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	Note	VB	(ROOT(S(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	1	that	IN	(SBAR*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	I	PRP	(S(NP*)	-	-	-	Medimiguell	*	(9)	
+wb/eng/00/eng_0187	0	3	literally	RB	(ADVP*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	4	refuse	VBP	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	to	TO	(S(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	6	update	VB	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	7	the	DT	(NP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	8	software	NN	*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	9	to	TO	(PP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	10	any	DT	(NP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	11	recent	JJ	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	12	version	NN	*))	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	13	,	,	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	14	as	IN	(PP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	15	every	DT	(NP(NP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	16	time	NN	*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	17	I	PRP	(SBAR(S(NP*)	-	-	-	Medimiguell	*	(9)	
+wb/eng/00/eng_0187	0	18	did	VBD	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	19	update	VB	(S(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	20	I	PRP	(SBAR(S(NP*)	-	-	-	Medimiguell	*	(9)	
+wb/eng/00/eng_0187	0	21	finished	VBD	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	22	regretting	VBG	(S(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	23	much	RB	(NP*))))))))))))))))))))	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	24	.	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	Apple	NNP	(ROOT(S(NP*)	-	-	-	Medimiguell	(ORGANIZATION)	-	
+wb/eng/00/eng_0187	0	1	spoils	VBZ	(VP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	our	PRP$	(NP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	3	devices	NNS	*)	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	4	with	IN	(PP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	5	updates	NNS	(NP*)))	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	6	!	.	*))	-	-	-	Medimiguell	*	-	
+
+wb/eng/00/eng_0187	0	0	Sad	JJ	(ROOT(FRAG(NP*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	1	reality	NN	*	-	-	-	Medimiguell	*	-	
+wb/eng/00/eng_0187	0	2	@AppleSupport	NN	*)))	-	-	-	Medimiguell	(HANDLE)	(14)	
+
+wb/eng/00/eng_0187	0	0	@Medimiguell	NNP	(ROOT(S(NP*	-	-	-	AppleSupport	(HANDLE)	-	
+wb/eng/00/eng_0187	0	1	Let	NNP	(NX*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	2	's	POS	*))	-	-	-	AppleSupport	*	(14)	
+wb/eng/00/eng_0187	0	3	take	VB	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	4	a	DT	(VP(ADVP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	5	closer	RBR	*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	6	look	VB	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	7	into	IN	(PP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	8	this	DT	(NP(NP*)	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	9	in	IN	(PP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	10	DM	NN	(NP*))))))	-	-	-	AppleSupport	*	(16)	
+wb/eng/00/eng_0187	0	11	.	.	*))	-	-	-	AppleSupport	*	-	
+
+wb/eng/00/eng_0187	0	0	Send	VB	(ROOT(SINV(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	1	us	PRP	(UCP(NP(NP*)	-	-	-	AppleSupport	*	(14)	
+wb/eng/00/eng_0187	0	2	a	DT	(NP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	3	message	NN	*))	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	4	and	CC	*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	5	we	PRP	(S(NP*)	-	-	-	AppleSupport	*	(14)	
+wb/eng/00/eng_0187	0	6	'll	MD	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	7	continue	VB	(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	8	troubleshooting	VBG	(S(VP*	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	9	there	RB	(ADVP*))))))	-	-	-	AppleSupport	*	(16)	
+wb/eng/00/eng_0187	0	10	.	.	*))	-	-	-	AppleSupport	*	-	
+wb/eng/00/eng_0187	0	11	https://t.co/GDrqU22YpT	NN	(NP*)))	-	-	-	AppleSupport	(URL)	-	
+
+#end document

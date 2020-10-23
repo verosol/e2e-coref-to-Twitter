@@ -1,0 +1,128 @@
+#begin document (wb/eng/00/eng_0115); part 000
+wb/eng/00/eng_0115	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	Dazelar29	*	(8)	
+wb/eng/00/eng_0115	0	1	keep	VBP	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	2	seeing	VBG	(S(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	3	it	PRP	(S(NP*)	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	4	being	VBG	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	5	said	VBD	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	6	so	IN	(SBAR*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	7	I	PRP	(S(NP*)	-	-	-	Dazelar29	*	(8)	
+wb/eng/00/eng_0115	0	8	just	RB	(ADVP*)	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	9	wan	VBP	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	10	na	TO	(S(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	11	make	VB	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	12	it	PRP	(S(NP*)	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	13	abundantly	RB	(ADJP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	14	clear	JJ	*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	15	to	TO	(PP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	16	people	NNS	(NP*)))	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	17	again	RB	(ADVP*))))))))))))))	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	18	.	.	*))	-	-	-	Dazelar29	*	-	
+
+wb/eng/00/eng_0115	0	0	Grot	NNP	(ROOT(S(NP*	-	-	-	Dazelar29	(PERSON)	(0)	
+wb/eng/00/eng_0115	0	1	CAN	NNP	*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	2	NOT	NNP	*)	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	3	be	VB	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	4	sent	VBN	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	5	out	RP	(PRT*)	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	6	on	IN	(PP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	7	loan	NN	(NP*))))	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	8	.	.	*))	-	-	-	Dazelar29	*	-	
+
+wb/eng/00/eng_0115	0	0	He	PRP	(ROOT(S(NP*)	-	-	-	Dazelar29	*	(0)	
+wb/eng/00/eng_0115	0	1	has	VBZ	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	2	played	VBN	(VP(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	3	for	IN	(PP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	4	both	DT	(NP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	5	NEC	NNP	*)))	-	-	-	Dazelar29	(ORGANIZATION)	(6)	
+wb/eng/00/eng_0115	0	6	and	CC	*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	7	#lufc	VB	(VP*	-	-	-	Dazelar29	*	(5)	
+wb/eng/00/eng_0115	0	8	this	DT	(NP*	-	-	-	Dazelar29	*	(4	
+wb/eng/00/eng_0115	0	9	season	NN	*))))	-	-	-	Dazelar29	*	4)	
+wb/eng/00/eng_0115	0	10	.	.	*))	-	-	-	Dazelar29	*	-	
+
+wb/eng/00/eng_0115	0	0	Ca	MD	(ROOT(S(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	1	n't	RB	*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	2	play	VB	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	3	for	IN	(PP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	4	a	DT	(NP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	5	third	JJ	*	-	-	-	Dazelar29	(ORDINAL)	-	
+wb/eng/00/eng_0115	0	6	team	NN	*))))	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	7	.	.	*))	-	-	-	Dazelar29	*	-	
+
+wb/eng/00/eng_0115	0	0	Article	NNP	(ROOT(S(NP(NP(NP*)	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	1	5.3	CD	(SBAR(S(NP(NP*)	-	-	-	Dazelar29	(NUMBER)	-	
+wb/eng/00/eng_0115	0	2	of	IN	(PP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	3	FIFA	NNP	(NP(NP*	-	-	-	Dazelar29	(ORGANIZATION)	-	
+wb/eng/00/eng_0115	0	4	's	POS	*)	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	5	regulations	NNS	*)))	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	6	prevent	VBP	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	7	this	DT	(NP*))	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	8	.	.	*)))	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	9	https://t.co/DJ55i0ENJI	NN	(NP*))))	-	-	-	Dazelar29	(URL)	-	
+
+wb/eng/00/eng_0115	0	0	@Dazelar29	NN	(ROOT(S(NP*)	-	-	-	Latest_Journo	(HANDLE)	-	
+wb/eng/00/eng_0115	0	1	You	PRP	(ADVP*)	-	-	-	Latest_Journo	*	(8)	
+wb/eng/00/eng_0115	0	2	sure	RB	(ADVP*)	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	3	he	PRP	(NP*)	-	-	-	Latest_Journo	*	(0)	
+wb/eng/00/eng_0115	0	4	's	VBZ	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	5	played	VBN	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	6	for	IN	(PP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	7	NEC	NNP	(NP*))	-	-	-	Latest_Journo	(ORGANIZATION)	(6)	
+wb/eng/00/eng_0115	0	8	this	DT	(NP-TMP*	-	-	-	Latest_Journo	*	(4	
+wb/eng/00/eng_0115	0	9	season	NN	*)))	-	-	-	Latest_Journo	*	4)	
+wb/eng/00/eng_0115	0	10	?	.	*))	-	-	-	Latest_Journo	*	-	
+
+wb/eng/00/eng_0115	0	0	Soccerbase	NN	(ROOT(SINV(FRAG(NP*))	-	-	-	Latest_Journo	(PERSON)	(9)	
+wb/eng/00/eng_0115	0	1	says	VBZ	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	2	he	PRP	(SBAR(S(NP*)	-	-	-	Latest_Journo	*	(0)	
+wb/eng/00/eng_0115	0	3	's	VBZ	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	4	only	RB	(ADVP*)	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	5	played	VBN	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	6	for	IN	(PP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	7	LUFC	NN	(NP*))	-	-	-	Latest_Journo	(ORGANIZATION)	(5)	
+wb/eng/00/eng_0115	0	8	.	.	*)))))	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	9	https://t.co/A6BwXv5cFD	NN	(NP*)))	-	-	-	Latest_Journo	(URL)	-	
+
+wb/eng/00/eng_0115	0	0	@Latest_Journo	NNP	(ROOT(S(NP(NP*	-	-	-	Dazelar29	(HANDLE)	-	
+wb/eng/00/eng_0115	0	1	Played	NNP	*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	2	90	CD	*	-	-	-	Dazelar29	(DURATION*	-	
+wb/eng/00/eng_0115	0	3	mins	NNS	*)	-	-	-	Dazelar29	*)	-	
+wb/eng/00/eng_0115	0	4	in	IN	(PP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	5	their	PRP$	(NP*	-	-	-	Dazelar29	*	(6)	
+wb/eng/00/eng_0115	0	6	3-1	CD	*)))	-	-	-	Dazelar29	(NUMBER)	-	
+wb/eng/00/eng_0115	0	7	win	VBP	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	8	against	IN	(PP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	9	Almere	NNP	(NP(NP*	-	-	-	Dazelar29	(CITY)	-	
+wb/eng/00/eng_0115	0	10	City	NNP	*)	-	-	-	Dazelar29	(LOCATION)	-	
+wb/eng/00/eng_0115	0	11	on	IN	(PP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	12	18	CD	(NP*))	-	-	-	Dazelar29	(DATE*	-	
+wb/eng/00/eng_0115	0	13	August	NNP	(NP-TMP*))))))	-	-	-	Dazelar29	*)	-	
+
+wb/eng/00/eng_0115	0	0	@Dazelar29	NN	(ROOT(NP(NP(NP*)	-	-	-	Latest_Journo	(HANDLE)	-	
+wb/eng/00/eng_0115	0	1	Cheers	NNP	(SBAR(S(NP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	2	pal	NN	*)	-	-	-	Latest_Journo	*	(8)	
+wb/eng/00/eng_0115	0	3	,	,	*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	4	was	VBD	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	5	n't	RB	*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	6	doubting	VBG	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	7	you	PRP	(SBAR(S(NP*)	-	-	-	Latest_Journo	*	(8)	
+wb/eng/00/eng_0115	0	8	was	VBD	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	9	just	RB	(ADVP*)	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	10	asking	VBG	(VP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	11	because	IN	(PP*))))))))))	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	12	of	IN	(PP*	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	13	what	WP	(SBAR(WHNP*)	-	-	-	Latest_Journo	*	-	
+wb/eng/00/eng_0115	0	14	Soccerbase	NNP	(S(NP*)	-	-	-	Latest_Journo	(PERSON)	(9)	
+wb/eng/00/eng_0115	0	15	said	VBD	(VP*))))))	-	-	-	Latest_Journo	*	-	
+
+wb/eng/00/eng_0115	0	0	@Latest_Journo	NNP	(ROOT(S(NP*)	-	-	-	Dazelar29	(HANDLE)	-	
+wb/eng/00/eng_0115	0	1	Not	RB	(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	2	a	DT	(S(NP(NP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	3	problem	NN	*)	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	4	,	,	*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	5	happy	JJ	(ADJP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	6	to	TO	(S(VP*	-	-	-	Dazelar29	*	-	
+wb/eng/00/eng_0115	0	7	help	VB	(VP*)))))))))	-	-	-	Dazelar29	*	-	
+
+#end document

@@ -1,0 +1,34 @@
+#begin document (145_950359319517782016.branch1.); part 114
+145_950359319517782016.branch1.	114	0	Praying	VBG	(ROOT(S(VP*	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	1	for	IN	(PP*	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	2	her	PRP$	(NP*	ppers/exophora/nominal	dir_obj	-	LauraMonteverdi	*	(0)
+145_950359319517782016.branch1.	114	3	safe	JJ	*	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	4	return	NN	*)))	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	5	.	.	*))	-	-	-	LauraMonteverdi	*	-
+
+145_950359319517782016.branch1.	114	0	PLEASE	VB	(ROOT(SINV(VP*	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	1	SHARE	NN	(FRAG(NP*)	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	2	!	.	*))	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	3	https://t.co/oCO9RUU03y	NN	(NP*)))	-	-	-	LauraMonteverdi	(URL)	-
+
+145_950359319517782016.branch1.	114	0	@LauraMonteverdi	NNP	(ROOT(FRAG(NP(NP*)	-	-	-	SCHWEITZ24	(HANDLE)	-
+145_950359319517782016.branch1.	114	1	She	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	SCHWEITZ24	*	(0)
+145_950359319517782016.branch1.	114	2	has	VBZ	(VP*	-	-	-	SCHWEITZ24	*	-
+145_950359319517782016.branch1.	114	3	been	VBN	(VP*	-	-	-	SCHWEITZ24	*	-
+145_950359319517782016.branch1.	114	4	found	VBN	(VP*	-	-	-	SCHWEITZ24	*	-
+145_950359319517782016.branch1.	114	5	%emoji	NNS	(NP*)))))))))	-	-	-	SCHWEITZ24	*	-
+
+145_950359319517782016.branch1.	114	0	@SCHWEITZ24	NN	(ROOT(S(NP(NP*)	-	-	-	LauraMonteverdi	(HANDLE)	-
+145_950359319517782016.branch1.	114	1	Yes	UH	(SBAR(S(INTJ*)	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	2	I	PRP	(NP*)	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	3	sent	VBD	(VP*	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	4	out	RP	(PRT*)	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	5	an	DT	(NP*)))))	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	6	update	VBP	(VP*)	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	7	!	.	*))	-	-	-	LauraMonteverdi	*	-
+
+145_950359319517782016.branch1.	114	0	Thank	VB	(ROOT(S(VP*	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	1	God	NNP	(NP*))	-	-	-	LauraMonteverdi	*	-
+145_950359319517782016.branch1.	114	2	!	.	*))	-	-	-	LauraMonteverdi	*	-
+
+#end document

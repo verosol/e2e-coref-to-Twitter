@@ -1,0 +1,107 @@
+#begin document (wb/eng/00/eng_0179); part 000
+wb/eng/00/eng_0179	0	0	%emoji	NN	(ROOT(S(S(NP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	1	True	JJ	*	-	-	-	Hipollyti	*	(2	
+wb/eng/00/eng_0179	0	2	love	NN	*)	-	-	-	Hipollyti	*	2)	
+wb/eng/00/eng_0179	0	3	is	VBZ	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	4	rare	JJ	(ADJP*)))	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	5	,	,	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	6	and	CC	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	7	it	PRP	(S(NP*)	-	-	-	Hipollyti	*	(2)	
+wb/eng/00/eng_0179	0	8	's	VBZ	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	9	the	DT	(NP(NP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	10	only	JJ	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	11	thing	NN	*)	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	12	that	WDT	(SBAR(WHNP*)	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	13	gives	VBZ	(S(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	14	life	NN	(NP(NP(NP*)	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	15	real	JJ	(NP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	16	meaning	NN	*))	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	17	%emoji	SYM	(X*))))))))	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	18	-	:	*))	-	-	-	Hipollyti	*	-	
+
+wb/eng/00/eng_0179	0	0	N	NN	(ROOT(SINV(FRAG(INTJ*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	1	.	.	*))	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	2	Sparks	VBZ	(VP*)	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	3	-	:	(NP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	4	https://t.co/sllDFgn8PR	NN	*)))	-	-	-	Hipollyti	(URL)	-	
+
+wb/eng/00/eng_0179	0	0	@Hipollyti	NN	(ROOT(S(NP*	-	-	-	idk_just_annie	(HANDLE)	-	
+wb/eng/00/eng_0179	0	1	True	JJ	*	-	-	-	idk_just_annie	*	(2	
+wb/eng/00/eng_0179	0	2	love	NN	*)	-	-	-	idk_just_annie	*	2)	
+wb/eng/00/eng_0179	0	3	is	VBZ	(VP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	4	the	DT	(NP(NP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	5	rarest	JJS	*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	6	gift	NN	*)	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	7	of	IN	(PP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	8	all	DT	(FRAG(NP*)	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	9	.	.	*))	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	10	%emoji	FW	(ADJP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	11	%emoji	FW	*)))))	-	-	-	idk_just_annie	*	-	
+
+wb/eng/00/eng_0179	0	0	@idk_just_annie	NN	(ROOT(FRAG(NP(NP*)	-	-	-	Hipollyti	(HANDLE)	-	
+wb/eng/00/eng_0179	0	1	That	DT	(SBAR(S(NP*)	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	2	's	VBZ	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	3	why	WRB	(SBAR(WHADVP*)	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	4	when	WRB	(S(SBAR(WHADVP*)	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	5	we	PRP	(S(NP*)	-	-	-	Hipollyti	*	(3)	
+wb/eng/00/eng_0179	0	6	find	VBP	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	7	it	PRP	(NP*))))	-	-	-	Hipollyti	*	(2)	
+wb/eng/00/eng_0179	0	8	we	PRP	(NP*)	-	-	-	Hipollyti	*	(3)	
+wb/eng/00/eng_0179	0	9	should	MD	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	10	cherish	VB	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	11	it	PRP	(S(NP*)	-	-	-	Hipollyti	*	(2)	
+wb/eng/00/eng_0179	0	12	%emoji	VB	(VP*))))))))))))	-	-	-	Hipollyti	*	-	
+
+wb/eng/00/eng_0179	0	0	Have	VBP	(ROOT(SINV(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	1	a	DT	(NP*	-	-	-	Hipollyti	*	(6	
+wb/eng/00/eng_0179	0	2	beautiful	JJ	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	3	day	NN	*))	-	-	-	Hipollyti	(DURATION)	6)	
+wb/eng/00/eng_0179	0	4	Angelica	NNP	(NP(NP*)	-	-	-	Hipollyti	*	(7)	
+wb/eng/00/eng_0179	0	5	%emoji	FW	(NP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	6	%emoji	FW	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	7	%emoji	FW	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	8	%emoji	FW	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	9	%emoji	FW	*))))	-	-	-	Hipollyti	*	-	
+
+wb/eng/00/eng_0179	0	0	@Hipollyti	NNP	(ROOT(S(NP*)	-	-	-	idk_just_annie	(HANDLE)	-	
+wb/eng/00/eng_0179	0	1	Thank	VB	(VP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	2	you	PRP	(NP*))	-	-	-	idk_just_annie	*	(4)	
+wb/eng/00/eng_0179	0	3	.	.	*))	-	-	-	idk_just_annie	*	-	
+
+wb/eng/00/eng_0179	0	0	May	NNP	(ROOT(S(NP(NP(NP*)	-	-	-	idk_just_annie	(DATE)	-	
+wb/eng/00/eng_0179	0	1	your	PRP$	(SBAR(S(NP*	-	-	-	idk_just_annie	*	(4)	
+wb/eng/00/eng_0179	0	2	day	NN	*)	-	-	-	idk_just_annie	(DURATION)	-	
+wb/eng/00/eng_0179	0	3	be	VB	(VP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	4	filled	VBN	(VP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	5	with	IN	(PP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	6	love	NN	(NP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	7	,	,	*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	8	blessings	NNS	*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	9	and	CC	*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	10	joy	NN	*))	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	11	.	.	*)))))	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	12	%emoji	FW	(NP*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	13	%emoji	FW	*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	14	%emoji	FW	*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	15	%emoji	FW	*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	16	%emoji	FW	*	-	-	-	idk_just_annie	*	-	
+wb/eng/00/eng_0179	0	17	%emoji	FW	*))))	-	-	-	idk_just_annie	*	-	
+
+wb/eng/00/eng_0179	0	0	@idk_just_annie	NN	(ROOT(FRAG(NP*)	-	-	-	Hipollyti	(HANDLE)	-	
+wb/eng/00/eng_0179	0	1	Thank	VB	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	2	you	PRP	(S(NP*)	-	-	-	Hipollyti	*	(7)	
+wb/eng/00/eng_0179	0	3	%emoji	VB	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	4	Have	VBP	(VP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	5	a	DT	(NP*	-	-	-	Hipollyti	*	(6	
+wb/eng/00/eng_0179	0	6	lovely	JJ	(ADJP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	7	Thursday	NNP	(NP-TMP*))	-	-	-	Hipollyti	(DATE)	6)	
+wb/eng/00/eng_0179	0	8	my	PRP$	(NP(NP*	-	-	-	Hipollyti	*	(7|(4)	
+wb/eng/00/eng_0179	0	9	sweet	JJ	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	10	friend	NN	*)	-	-	-	Hipollyti	*	7)	
+wb/eng/00/eng_0179	0	11	%emoji	FW	(NP*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	12	%emoji	FW	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	13	%emoji	FW	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	14	%emoji	FW	*	-	-	-	Hipollyti	*	-	
+wb/eng/00/eng_0179	0	15	%emoji	FW	*)))))))))	-	-	-	Hipollyti	*	-	
+
+#end document

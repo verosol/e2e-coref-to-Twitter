@@ -1,0 +1,80 @@
+#begin document (106_950324989756104704.branch4.); part 84
+106_950324989756104704.branch4.	84	0	#GoldenGlobes	NNS	(ROOT(S(NP(NP(NP*)	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	1	:	:	*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	2	Which	WDT	(SBAR(WHNP*)	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	3	film	NN	(S(NP*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	4	or	CC	*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	5	television	NN	*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	6	series	NN	*)	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	7	do	VBP	(VP*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	8	you	PRP	(S(NP*)	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	9	think	VB	(VP*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	10	should	MD	(SBAR(S(VP*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	11	have	VB	(VP*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	12	gone	VBN	(VP*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	13	home	NN	(PP(ADVP*)	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	14	with	IN	*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	15	some	DT	(NP*	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	16	awards	NNS	*))	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	17	?	.	*)))))))))))	-	-	-	THR	*	-
+106_950324989756104704.branch4.	84	18	https://t.co/bNnriB7oD6	NN	(NP*))))	-	-	-	THR	(URL)	-
+
+106_950324989756104704.branch4.	84	0	@THR	NNP	(ROOT(S(NP*	-	-	-	johnzjargo	(HANDLE)	-
+106_950324989756104704.branch4.	84	1	Meryl	NNP	*)	ne/none/none	sbj	-	johnzjargo	*	(0)
+106_950324989756104704.branch4.	84	2	did	VBD	(VP*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	3	n't	RB	*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	4	win	VB	(VP*))	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	5	?	.	*))	-	-	-	johnzjargo	*	-
+
+106_950324989756104704.branch4.	84	0	This	DT	(ROOT(S(NP*)	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	1	will	MD	(VP*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	2	not	RB	*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	3	end	VB	(VP*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	4	well	RB	(ADVP*)))	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	5	.	.	*))	-	-	-	johnzjargo	*	-
+
+106_950324989756104704.branch4.	84	0	Meeting	VBG	(ROOT(S(VP*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	1	at	IN	(PP*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	2	SAF	NNP	(NP(NP*)	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	3	,	,	*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	4	DGA	NNP	(NP*)	-	-	-	johnzjargo	(ORGANIZATION)	-
+106_950324989756104704.branch4.	84	5	,	,	*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	6	MPAA	NNP	(NP*)	-	-	-	johnzjargo	(ORGANIZATION)	-
+106_950324989756104704.branch4.	84	7	,	,	*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	8	her	PRP$	(NP*	ppos/anaphora/nominal	other/appositive	-	johnzjargo	*	(0)
+106_950324989756104704.branch4.	84	9	stylist	NN	*)	-	-	-	johnzjargo	(TITLE)	-
+106_950324989756104704.branch4.	84	10	,	,	*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	11	the	DT	(NP*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	12	foreign	JJ	*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	13	press	NN	*))))	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	14	.	.	*))	-	-	-	johnzjargo	*	-
+
+106_950324989756104704.branch4.	84	0	Heads	NNS	(ROOT(S(NP*)	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	1	will	MD	(VP*	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	2	roll	VB	(VP*))	-	-	-	johnzjargo	*	-
+106_950324989756104704.branch4.	84	3	.	.	*))	-	-	-	johnzjargo	*	-
+
+106_950324989756104704.branch4.	84	0	@johnzjargo	JJ	(ROOT(S(NP*	-	-	-	bellabac	(HANDLE*	-
+106_950324989756104704.branch4.	84	1	@THR	NN	*	-	-	-	bellabac	*)	-
+106_950324989756104704.branch4.	84	2	%emoji	NNS	*)	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	3	%emoji	VBP	(VP*	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	4	%emoji	NNS	(S(NP(NP*)	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	5	that	WDT	(SBAR(WHNP*)	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	6	's	VBZ	(S(VP*	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	7	because	IN	(SBAR*	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	8	#Harvey	NNP	(S(NP(NP*	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	9	's	POS	*)	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	10	dirty	JJ	*	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	11	little	JJ	*	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	12	fingers	NNS	*)	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	13	were	VBD	(VP*	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	14	n't	RB	*	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	15	involved	VBN	(VP*)))	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	16	.	.	*)))))	-	-	-	bellabac	*	-
+106_950324989756104704.branch4.	84	17	#GoldenGlobes	NNS	(NP*)))))	-	-	-	bellabac	*	-
+
+106_950324989756104704.branch4.	84	0	@bellabac	JJ	(ROOT(FRAG(NP*	-	-	-	johnzjargo	(HANDLE*	-
+106_950324989756104704.branch4.	84	1	@THR	NN	*	-	-	-	johnzjargo	*)	-
+106_950324989756104704.branch4.	84	2	Lolol	NN	*)))	-	-	-	johnzjargo	*	-
+
+#end document

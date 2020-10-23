@@ -1,0 +1,132 @@
+#begin document (523_947492661950337024.branch94.); part 174
+523_947492661950337024.branch94.	174	0	RT	NN	(ROOT(FRAG(NP*)	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	1	:	:	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	2	''	''	(S(NP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	3	Our	PRP$	(NP*	ppos/exophora/nominal	sbj	-	nikkihaley	*	(1)
+523_947492661950337024.branch94.	174	4	hopes	NNS	*)	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	5	&	CC	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	6	prayers	NNS	(NP*))	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	7	are	VBP	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	8	with	IN	(PP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	9	the	DT	(NP(NP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	10	millions	NNS	*)	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	11	of	IN	(PP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	12	people	NNS	(NP*))))	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	13	suffering	VBG	(S(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	14	from	IN	(PP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	15	repressive	JJ	(NP(NP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	16	govts	NNS	*)	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	17	in	IN	(PP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	18	NKorea	NNP	(NP*	-	-	-	nikkihaley	(ORGANIZATION)	-
+523_947492661950337024.branch94.	174	19	,	,	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	20	Venezuela	NNP	*	-	-	-	nikkihaley	(COUNTRY)	-
+523_947492661950337024.branch94.	174	21	,	,	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	22	Cuba	NNP	*	-	-	-	nikkihaley	(COUNTRY)	-
+523_947492661950337024.branch94.	174	23	&	CC	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	24	esp	NNP	*))))	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	25	in	IN	(PP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	26	Iran	NNP	(NP*))))	ne/none/none	prep_phrase	-	nikkihaley	(COUNTRY)	-
+523_947492661950337024.branch94.	174	27	,	,	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	28	where	WRB	(SBAR(WHADVP*)	prel/anaphora/nominal	adv	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	29	the	DT	(S(NP*	defnp/none/none	sbj	-	nikkihaley	*	(3
+523_947492661950337024.branch94.	174	30	Iranian	JJ	*	-	-	-	nikkihaley	(NATIONALITY)	-
+523_947492661950337024.branch94.	174	31	people	NNS	*)	-	-	-	nikkihaley	*	3)
+523_947492661950337024.branch94.	174	32	are	VBP	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	33	finding	VBG	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	34	their	PRP$	(NP*	ppos/anaphora/nominal	dir_obj	-	nikkihaley	*	(3)
+523_947492661950337024.branch94.	174	35	voice	NN	*)))))))	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	36	.	.	*))	-	-	-	nikkihaley	*	-
+
+523_947492661950337024.branch94.	174	0	The	DT	(ROOT(S(NP*	defnp/none/none	sbj	-	nikkihaley	*	(0
+523_947492661950337024.branch94.	174	1	Iranian	JJ	*	-	-	-	nikkihaley	(NATIONALITY)	-
+523_947492661950337024.branch94.	174	2	govt	NN	*)	-	-	-	nikkihaley	*	0)
+523_947492661950337024.branch94.	174	3	is	VBZ	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	4	being	VBG	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	5	tested	VBN	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	6	by	IN	(PP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	7	its	PRP$	(NP*	defnp/none/none|ppos/anaphora/nominal	prep_phrase|prep_phrase	-	nikkihaley	*	(3|(0)
+523_947492661950337024.branch94.	174	8	own	JJ	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	9	people	NNS	*)))))	-	-	-	nikkihaley	*	3)
+523_947492661950337024.branch94.	174	10	.	.	*))	-	-	-	nikkihaley	*	-
+
+523_947492661950337024.branch94.	174	0	We	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	nikkihaley	*	(1)
+523_947492661950337024.branch94.	174	1	pray	VBP	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	2	freedom	NN	(SBAR(S(NP(NP*)	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	3	&	CC	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	4	human	JJ	(NP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	5	rights	NNS	*))	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	6	will	MD	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	7	carry	VB	(VP*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	8	the	DT	(NP*	-	-	-	nikkihaley	(DATE*	-
+523_947492661950337024.branch94.	174	9	day	NN	*	-	-	-	nikkihaley	*)	-
+523_947492661950337024.branch94.	174	10	.	.	*	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	11	''	''	*)	-	-	-	nikkihaley	*	-
+523_947492661950337024.branch94.	174	12	https://t.co/2KncUVfiiq	NN	(NP*))))))))	-	-	-	nikkihaley	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/qGqdMcIFxZ	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/zapPa9Yl0h	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/kyAJzKI1ic	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/Xlqkji1fOs	NNS	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/wuubw2UvnQ	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/xRdz4tQdQe	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/p3NoJFvej9	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/XfneCe50VG	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/61AkkutkzD	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/7phNznDWoM	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/VPQ767ERAk	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/TKoeezDgiC	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/n09UQW071P	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/UwwNkNgUU2	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/mO68oqRXjF	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/r5AXWAiwMN	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/Nr5zkpKtDx	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/IlkBOiKvAG	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/GxNCku7z5u	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/MscKnO1xL5	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/t6qM7fwPi4	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+523_947492661950337024.branch94.	174	0	@nikkihaley	NN	(ROOT(NP*	-	-	-	CourtofLawbleed	(HANDLE)	-
+523_947492661950337024.branch94.	174	1	https://t.co/8CQj9DNfDx	NN	*))	-	-	-	CourtofLawbleed	(URL)	-
+
+#end document

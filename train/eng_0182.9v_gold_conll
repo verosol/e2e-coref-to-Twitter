@@ -1,0 +1,55 @@
+#begin document (wb/eng/00/eng_0182); part 000
+wb/eng/00/eng_0182	0	0	--	:	(ROOT(PRN*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	1	truth	NN	(S(VP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	2	be	VB	(VP(VP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	3	told	VBN	(VP*))	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	4	,	,	(PRN*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	5	i	FW	(S(NP*)	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	6	never	RB	(ADVP*)	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	7	was	VBD	(VP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	8	yours	PRP$	(NP*))	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	9	.	.	*))	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	10	%emoji	FW	(NP*))))))	-	-	-	infinitejaysee	*	-	
+
+wb/eng/00/eng_0182	0	0	~	NN	(ROOT(FRAG(NP(NP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	1	astaghfurallah	NN	*)	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	2	this	DT	(SBAR(S(NP*	-	-	-	infinitejaysee	*	(3	
+wb/eng/00/eng_0182	0	3	drawing	VBG	*)	-	-	-	infinitejaysee	*	3)	
+wb/eng/00/eng_0182	0	4	took	VBD	(VP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	5	forever	RB	(ADVP*)	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	6	but	CC	(SBAR*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	7	i	FW	(S(NP*)	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	8	hope	VBP	(VP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	9	you	PRP	(S(NP*)	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	10	enjoy	VB	(VP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	11	it	PRP	(S(NP*)	-	-	-	infinitejaysee	*	(3)	
+wb/eng/00/eng_0182	0	12	%smiley	VB	(VP*)))))))))))))	-	-	-	infinitejaysee	*	-	
+
+wb/eng/00/eng_0182	0	0	tag	NN	(ROOT(NP(NP(NP*)	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	1	ethan	NN	(SBAR(S(VP(NP(INTJ*	-	-	-	infinitejaysee	*	(2)	
+wb/eng/00/eng_0182	0	2	?	.	*)	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	3	%emoji	FW	(NP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	4	@EthanDolan	FW	*))))))	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	5	https://t.co/dN8vpTRROe	NN	(NP*)))	-	-	-	infinitejaysee	(URL)	-	
+
+wb/eng/00/eng_0182	0	0	@EthanDolan	JJ	(ROOT(NP(NP*	-	-	-	infinitejaysee	(HANDLE*	-	
+wb/eng/00/eng_0182	0	1	@EthanDolan	NN	*)	-	-	-	infinitejaysee	*)	-	
+wb/eng/00/eng_0182	0	2	heya	NN	(NP*	-	-	-	infinitejaysee	*	-	
+wb/eng/00/eng_0182	0	3	boy	NN	*)))	-	-	-	infinitejaysee	*	(2)	
+
+wb/eng/00/eng_0182	0	0	@infinitejaysee	NN	(ROOT(S(NP*	-	-	-	KinkyEthanD	(HANDLE*	-	
+wb/eng/00/eng_0182	0	1	@EthanDolan	NN	*)	-	-	-	KinkyEthanD	*)	-	
+wb/eng/00/eng_0182	0	2	It	PRP	(NP*)	-	-	-	KinkyEthanD	*	(3)	
+wb/eng/00/eng_0182	0	3	's	VBZ	(VP*	-	-	-	KinkyEthanD	*	-	
+wb/eng/00/eng_0182	0	4	awesome	JJ	(ADJP*)	-	-	-	KinkyEthanD	*	-	
+wb/eng/00/eng_0182	0	5	,	,	*	-	-	-	KinkyEthanD	*	-	
+wb/eng/00/eng_0182	0	6	@EthanDolan	JJ	(S(ADJP*)	-	-	-	KinkyEthanD	(HANDLE)	-	
+wb/eng/00/eng_0182	0	7	you	PRP	(SBAR(S(NP*)	-	-	-	KinkyEthanD	*	(2)	
+wb/eng/00/eng_0182	0	8	're	VBP	(VP*	-	-	-	KinkyEthanD	*	-	
+wb/eng/00/eng_0182	0	9	gon	VBG	(VP*	-	-	-	KinkyEthanD	*	-	
+wb/eng/00/eng_0182	0	10	na	TO	(S(VP*))	-	-	-	KinkyEthanD	*	-	
+wb/eng/00/eng_0182	0	11	like	IN	(PP*	-	-	-	KinkyEthanD	*	-	
+wb/eng/00/eng_0182	0	12	this	DT	(NP*))))))))	-	-	-	KinkyEthanD	*	(3)	
+wb/eng/00/eng_0182	0	13	!	.	*))	-	-	-	KinkyEthanD	*	-	
+
+#end document

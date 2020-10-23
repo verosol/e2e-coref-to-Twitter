@@ -1,0 +1,154 @@
+#begin document (155_950362082985127937.branch2.); part 122
+155_950362082985127937.branch2.	122	0	Fucking	VBG	(ROOT(S(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	1	hell	NN	(NP*))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	2	.	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	How	WRB	(ROOT(SBARQ(WHADVP*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	1	would	MD	(SQ*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	2	you	PRP	(NP*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	3	chase	VB	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	down	RP	(PRT*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	5	186	CD	(NP*)	-	-	-	IndianMourinho	(NUMBER)	-
+155_950362082985127937.branch2.	122	6	against	IN	(PP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	7	an	DT	(NP(NP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	8	attack	NN	*)	-	-	-	IndianMourinho	(CAUSE_OF_DEATH)	-
+155_950362082985127937.branch2.	122	9	that	WDT	(SBAR(WHNP*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	10	has	VBZ	(S(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	11	Bravo	NNP	(NP(NP*	-	-	-	IndianMourinho	(PERSON)	-
+155_950362082985127937.branch2.	122	12	,	,	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	13	Nabi	NNP	*	-	-	-	IndianMourinho	(PERSON)	-
+155_950362082985127937.branch2.	122	14	and	CC	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	15	Hogg	NNP	*)	-	-	-	IndianMourinho	(PERSON)	-
+155_950362082985127937.branch2.	122	16	with	IN	(PP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	17	that	DT	(NP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	18	batting	NN	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	19	line-up	NN	*))))))))))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	20	?	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	Perth	NNP	(ROOT(S(NP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	1	Scorchers	NNPS	*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	2	are	VBP	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	3	dope	NN	(NP*))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	.	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	@IndianMourinho	NNP	(ROOT(S(NP*)	-	-	-	Aaditya_LFC	(HANDLE)	-
+155_950362082985127937.branch2.	122	1	Was	VBD	(VP(VP*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	2	Turner	NNP	(S(NP*)	ne/none/none	sbj	-	Aaditya_LFC	*	(1)
+155_950362082985127937.branch2.	122	3	always	RB	(ADVP*)	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	4	a	DT	(NP*	indefnp/none/none	copula_rel	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	5	power	NN	*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	6	hitter	NN	*)))	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	7	or	CC	*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	8	is	VBZ	(VP*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	9	it	PRP	(NP*))	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	10	something	NN	(NP(NP*)	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	11	he	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	Aaditya_LFC	*	(1)
+155_950362082985127937.branch2.	122	12	's	VBZ	(VP*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	13	developed	VBN	(VP*))))))	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	14	?	.	*))	-	-	-	Aaditya_LFC	*	-
+
+155_950362082985127937.branch2.	122	0	@Aaditya_LFC	NN	(ROOT(S(NP*)	-	-	-	IndianMourinho	(HANDLE)	-
+155_950362082985127937.branch2.	122	1	He	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	IndianMourinho	*	(1)
+155_950362082985127937.branch2.	122	2	was	VBD	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	3	always	RB	(ADVP(ADVP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	one	CD	(NP*))	other/anaphora/nominal	copula_rel	-	IndianMourinho	(NUMBER)	-
+155_950362082985127937.branch2.	122	5	,	,	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	6	but	CC	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	7	never	RB	(ADVP*))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	8	this	DT	(ADJP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	9	sensible	JJ	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	10	or	CC	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	11	consistent	JJ	*))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	12	.	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	Today	NN	(ROOT(S(NP(NP*	-	-	-	IndianMourinho	(DATE)	-
+155_950362082985127937.branch2.	122	1	's	POS	*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	2	innings	NNS	*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	3	was	VBD	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	exceptional	JJ	(ADJP*))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	5	.	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	Targeted	VBN	(ROOT(S(VP(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	1	the	DT	(NP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	2	right	JJ	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	3	bowlers	NNS	*))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	,	,	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	5	rotated	VBD	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	6	strike	NN	(NP*))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	7	and	CC	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	8	ran	VBD	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	9	hard	RB	(ADVP*)))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	10	.	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	@IndianMourinho	NNP	(ROOT(S(NP*	-	-	-	Aaditya_LFC	(HANDLE)	-
+155_950362082985127937.branch2.	122	1	The	NNP	*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	2	consistency	NN	*)	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	3	has	VBZ	(VP*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	4	been	VBN	(VP*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	5	unreal	JJ	(ADJP*)))	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	6	.	.	*))	-	-	-	Aaditya_LFC	*	-
+
+155_950362082985127937.branch2.	122	0	Option	NN	(ROOT(NP(NP*)	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	1	in	IN	(PP*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	2	the	DT	(NP*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	3	Oz	NNP	*	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	4	team	NN	*))	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	5	soon	RB	(ADVP*)	-	-	-	Aaditya_LFC	*	-
+155_950362082985127937.branch2.	122	6	?	.	*))	-	-	-	Aaditya_LFC	*	-
+
+155_950362082985127937.branch2.	122	0	@Aaditya_LFC	NN	(ROOT(S(NP*)	-	-	-	IndianMourinho	(HANDLE)	-
+155_950362082985127937.branch2.	122	1	He	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	IndianMourinho	*	(1)
+155_950362082985127937.branch2.	122	2	would	MD	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	3	be	VB	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	considered	VBN	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	5	,	,	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	6	yes	UH	(NP*))))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	7	.	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	IIRC	NNP	(ROOT(S(NP*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	1	,	,	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	2	he	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	IndianMourinho	*	(1)
+155_950362082985127937.branch2.	122	3	has	VBZ	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	been	VBN	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	5	picked	VBN	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	6	already	RB	(ADVP(ADVP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	7	once	RB	*)	-	-	-	IndianMourinho	(DATE)	-
+155_950362082985127937.branch2.	122	8	-	:	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	9	for	IN	(PP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	10	the	DT	(NP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	11	SL	NNP	*	-	-	-	IndianMourinho	(MISC)	-
+155_950362082985127937.branch2.	122	12	T20	NN	*	-	-	-	IndianMourinho	(TIME)	-
+155_950362082985127937.branch2.	122	13	series	NN	*))))))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	14	.	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	I	PRP	(ROOT(S(NP*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	1	am	VBP	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	2	not	RB	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	3	still	RB	(ADJP(ADJP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	not	RB	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	5	convinced	VBN	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	6	about	IN	(PP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	7	his	PRP$	(NP*	ppos/anaphora/nominal	prep_phrase	-	IndianMourinho	*	(1)
+155_950362082985127937.branch2.	122	8	balance	NN	*)))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	9	when	WRB	(SBAR(WHADVP*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	10	it	PRP	(S(NP*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	11	comes	VBZ	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	12	to	TO	(PP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	13	hitting	VBG	(S(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	14	pace	NN	(NP*))))))))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	15	,	,	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	16	though	RB	(ADVP*))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	17	.	.	*))	-	-	-	IndianMourinho	*	-
+
+155_950362082985127937.branch2.	122	0	If	IN	(ROOT(FRAG(SBAR*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	1	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	IndianMourinho	*	(1)
+155_950362082985127937.branch2.	122	2	could	MD	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	3	work	VB	(VP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	4	on	IN	(PP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	5	that	DT	(NP(NP*)	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	6	,	,	*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	7	good	JJ	(NP*	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	8	prospect	NN	*)))))))	-	-	-	IndianMourinho	*	-
+155_950362082985127937.branch2.	122	9	.	.	*))	-	-	-	IndianMourinho	*	-
+
+#end document

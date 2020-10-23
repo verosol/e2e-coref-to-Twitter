@@ -1,0 +1,192 @@
+#begin document (wb/eng/00/eng_0168); part 000
+wb/eng/00/eng_0168	0	0	Hope	NNP	(ROOT(S(NP*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	1	is	VBZ	(VP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	2	a	DT	(NP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	3	dangerous	JJ	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	4	thing	NN	*))	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	5	.	.	*))	-	-	-	ZAbbasOfficial	*	-	
+
+wb/eng/00/eng_0168	0	0	That	DT	(ROOT(S(NP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	1	bowling	NN	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	2	performance	NN	*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	3	must	MD	(VP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	4	have	VB	(VP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	5	given	VBN	(VP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	6	India	NNP	(NP*)	-	-	-	ZAbbasOfficial	(COUNTRY)	(2)	
+wb/eng/00/eng_0168	0	7	that	IN	(SBAR*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	8	boost	NN	(S(NP(NP*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	9	but	CC	(PP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	10	first	JJ	(NP(NP*	-	-	-	ZAbbasOfficial	(ORDINAL)	-	
+wb/eng/00/eng_0168	0	11	inns	NNS	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	12	score	NN	*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	13	of	IN	(PP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	14	SA	NNP	(NP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	15	,	,	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	16	India	NNP	*)))))	-	-	-	ZAbbasOfficial	(COUNTRY)	(2)	
+wb/eng/00/eng_0168	0	17	gave	VBD	(VP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	18	the	DT	(NP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	19	advantage	NN	*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	20	away	RB	(ADVP(ADVP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	21	there	RB	*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	22	and	CC	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	23	then	RB	(ADVP*))	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	24	,	,	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	25	not	RB	(PP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	26	a	DT	(NP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	27	286	CD	*	-	-	-	ZAbbasOfficial	(NUMBER)	-	
+wb/eng/00/eng_0168	0	28	wicket	NN	*))))))))	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	29	!	.	*))	-	-	-	ZAbbasOfficial	*	-	
+
+wb/eng/00/eng_0168	0	0	Also	RB	(ROOT(VP(ADVP*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	1	missed	VBN	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	2	the	DT	(NP-TMP(NP(NP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	3	trick	NN	*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	4	by	IN	(PP(PP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	5	not	RB	(S(VP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	6	having	VBG	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	7	Rahane	NN	(NP*))))	-	-	-	ZAbbasOfficial	(PERSON)	-	
+wb/eng/00/eng_0168	0	8	in	IN	(PP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	9	the	DT	(FRAG(NP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	10	line	NN	*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	11	up	RP	(ADVP*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	12	.	.	*))))	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	13	#SAvsIND	NN	(NP*))))	-	-	-	ZAbbasOfficial	*	-	
+
+wb/eng/00/eng_0168	0	0	Also	RB	(ROOT(PRN(ADVP*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	1	,	,	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	2	how	WRB	(SBAR(WHNP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	3	good	JJ	*)	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	4	is	VBZ	(S(VP*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	5	Philander	NNP	(NP*	-	-	-	ZAbbasOfficial	(PERSON)	-	
+wb/eng/00/eng_0168	0	6	?!	NNP	*	-	-	-	ZAbbasOfficial	*	-	
+wb/eng/00/eng_0168	0	7	%emoji	NNS	*))))))	-	-	-	ZAbbasOfficial	*	-	
+
+wb/eng/00/eng_0168	0	0	@ZAbbasOfficial	NNP	(ROOT(NP(NP*)	-	-	-	KshitijDisIz	(HANDLE)	-	
+wb/eng/00/eng_0168	0	1	Much	RB	(NP(NP*)	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	2	better	JJR	(NP(ADJP*	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	3	than	IN	*	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	4	overrated	JJ	*)	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	5	Mohd	NNP	*	-	-	-	KshitijDisIz	(PERSON)	-	
+wb/eng/00/eng_0168	0	6	.	.	*	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	7	Aamir	NNP	*))	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	8	!!	.	*))	-	-	-	KshitijDisIz	*	-	
+
+wb/eng/00/eng_0168	0	0	@KshitijDisIz	NN	(ROOT(NP(NP*)	-	-	-	nasir_22	(HANDLE*	-	
+wb/eng/00/eng_0168	0	1	@ZAbbasOfficial	JJ	(NP*	-	-	-	nasir_22	*)	-	
+wb/eng/00/eng_0168	0	2	Ask	NN	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	3	rohit	NN	*)	-	-	-	nasir_22	*	(0	
+wb/eng/00/eng_0168	0	4	sharma	NN	(NP*	-	-	-	nasir_22	*	0)	
+wb/eng/00/eng_0168	0	5	%emoji	NNS	*)))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	@nasir_22	NN	(ROOT(S(NP*	-	-	-	KshitijDisIz	(HANDLE*	-	
+wb/eng/00/eng_0168	0	1	@ZAbbasOfficial	NNP	*	-	-	-	KshitijDisIz	*)	-	
+wb/eng/00/eng_0168	0	2	First	NNP	*)	-	-	-	KshitijDisIz	(ORDINAL)	-	
+wb/eng/00/eng_0168	0	3	tell	VB	(VP*	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	4	him	PRP	(S(NP*)	-	-	-	KshitijDisIz	*	(0)	
+wb/eng/00/eng_0168	0	5	to	TO	(VP*	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	6	get	VB	(VP*	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	7	Karunaratne	NNP	(NP*)	-	-	-	KshitijDisIz	(PERSON)	(3)	
+wb/eng/00/eng_0168	0	8	out	RP	(PRT*)))))	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	9	.	.	*))	-	-	-	KshitijDisIz	*	-	
+
+wb/eng/00/eng_0168	0	0	@KshitijDisIz	NNP	(ROOT(S(NP*	-	-	-	nasir_22	(HANDLE*	-	
+wb/eng/00/eng_0168	0	1	@ZAbbasOfficial	NNP	*)	-	-	-	nasir_22	*)	-	
+wb/eng/00/eng_0168	0	2	If	IN	(SBAR*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	3	he	PRP	(S(NP*)	-	-	-	nasir_22	*	(0)	
+wb/eng/00/eng_0168	0	4	can	MD	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	5	damage	VB	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	6	indian	JJ	(NP*	-	-	-	nasir_22	(NATIONALITY)	-	
+wb/eng/00/eng_0168	0	7	top	JJ	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	8	orders	NNS	*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	9	easily	RB	(ADVP(ADVP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	10	then	RB	*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	11	who	WP	(SBAR(WHNP*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	12	is	VBZ	(S(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	13	karu	FW	(NP*)	-	-	-	nasir_22	*	(3)	
+wb/eng/00/eng_0168	0	14	then	RB	(ADVP*)))))))))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	15	.	.	*))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	@nasir_22	NN	(ROOT(NP(NP*)	-	-	-	KshitijDisIz	(HANDLE*	-	
+wb/eng/00/eng_0168	0	1	@ZAbbasOfficial	NNP	(NP*	-	-	-	KshitijDisIz	*)	-	
+wb/eng/00/eng_0168	0	2	Enjoy	NNP	*)	-	-	-	KshitijDisIz	*	-	
+wb/eng/00/eng_0168	0	3	https://t.co/o6qlCIYNL5	NN	(NP*)))	-	-	-	KshitijDisIz	(URL)	-	
+
+wb/eng/00/eng_0168	0	0	@KshitijDisIz	NN	(ROOT(S(NP(NP*)	-	-	-	nasir_22	(HANDLE*	-	
+wb/eng/00/eng_0168	0	1	@ZAbbasOfficial	JJ	(NP*	-	-	-	nasir_22	*)	-	
+wb/eng/00/eng_0168	0	2	Omg	NN	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	3	u	NN	*))	-	-	-	nasir_22	*	(7)	
+wb/eng/00/eng_0168	0	4	are	VBP	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	5	so	RB	(ADVP*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	6	kid	NN	(NP*))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	7	.	.	*))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	Little	JJ	(ROOT(S(NP(NP*	-	-	-	nasir_22	*	(7	
+wb/eng/00/eng_0168	0	1	kid	NN	*)	-	-	-	nasir_22	*	7)	
+wb/eng/00/eng_0168	0	2	this	DT	(SBAR(S(NP*)	-	-	-	nasir_22	*	(5)	
+wb/eng/00/eng_0168	0	3	is	VBZ	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	4	cricket	NN	(NP(NP*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	5	and	CC	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	6	this	DT	(NP*))))))	-	-	-	nasir_22	*	(5)	
+wb/eng/00/eng_0168	0	7	is	VBZ	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	8	sports	NNS	(NP*))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	9	.	.	*))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	Win	VB	(ROOT(S(S(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	1	and	CC	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	2	lose	VB	*))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	3	is	VBZ	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	4	part	NN	(NP(NP*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	5	of	IN	(PP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	6	game	NN	(NP*))))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	7	.	.	*))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	Grow	VB	(ROOT(S(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	1	up	RP	(PRT*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	2	toddler	NN	(NP*))	-	-	-	nasir_22	*	(7)	
+wb/eng/00/eng_0168	0	3	.	.	*))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	nasir_22	*	(8)	
+wb/eng/00/eng_0168	0	1	can	MD	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	2	also	RB	(ADVP*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	3	go	VB	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	4	to	TO	(PP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	5	past	JJ	(NP(NP*	-	-	-	nasir_22	(DATE)	-	
+wb/eng/00/eng_0168	0	6	and	CC	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	7	tag	NN	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	8	h	NN	*)	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	9	in	IN	(PP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	10	many	JJ	(NP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	11	things	NNS	*))))))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	12	.	.	*))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	But	CC	(ROOT(S*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	1	i	FW	(S(NP*)	-	-	-	nasir_22	*	(8)	
+wb/eng/00/eng_0168	0	2	am	VBP	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	3	mature	JJ	(ADJP*)))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	4	and	CC	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	5	you	PRP	(S(NP*)	-	-	-	nasir_22	*	(7)	
+wb/eng/00/eng_0168	0	6	are	VBP	(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	7	toddler	NN	(NP*)))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	8	.	.	*))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	Have	VBP	(ROOT(SINV(VP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	1	a	DT	(NP*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	2	lolipop	JJ	*	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	3	bacha	NN	*))	-	-	-	nasir_22	*	-	
+wb/eng/00/eng_0168	0	4	%emoji	NNS	(NP*)))	-	-	-	nasir_22	*	-	
+
+wb/eng/00/eng_0168	0	0	@nasir_22	NN	(ROOT(FRAG(NP(NP*	-	-	-	krishnasm1	(HANDLE*	-	
+wb/eng/00/eng_0168	0	1	@KshitijDisIz	NN	*	-	-	-	krishnasm1	*	-	
+wb/eng/00/eng_0168	0	2	@ZAbbasOfficial	NNP	*	-	-	-	krishnasm1	*)	-	
+wb/eng/00/eng_0168	0	3	Kyu	NNP	*	-	-	-	krishnasm1	(PERSON*	-	
+wb/eng/00/eng_0168	0	4	Sach	NNP	*)	-	-	-	krishnasm1	*)	-	
+wb/eng/00/eng_0168	0	5	baat	NN	(SBAR(S(NP*	-	-	-	krishnasm1	*	-	
+wb/eng/00/eng_0168	0	6	gale	NN	*	-	-	-	krishnasm1	*	-	
+wb/eng/00/eng_0168	0	7	nahi	NN	*	-	-	-	krishnasm1	*	-	
+wb/eng/00/eng_0168	0	8	utar	JJ	*	-	-	-	krishnasm1	*	-	
+wb/eng/00/eng_0168	0	9	rahi	NNS	*)	-	-	-	krishnasm1	*	-	
+wb/eng/00/eng_0168	0	10	hai	VBP	(VP*	-	-	-	krishnasm1	*	-	
+wb/eng/00/eng_0168	0	11	%emoji	JJ	(NP*	-	-	-	krishnasm1	*	-	
+wb/eng/00/eng_0168	0	12	%emoji	NNS	*)))))))	-	-	-	krishnasm1	*	-	
+
+#end document

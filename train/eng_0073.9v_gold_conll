@@ -1,0 +1,85 @@
+#begin document (wb/eng/00/eng_0073); part 000
+wb/eng/00/eng_0073	0	0	CODE	NN	(ROOT(NP(NP*)	-	-	-	wishRBLX	*	-	
+wb/eng/00/eng_0073	0	1	OUT	NN	(NP*	-	-	-	wishRBLX	*	-	
+wb/eng/00/eng_0073	0	2	TOMORROW	NN	*)))	-	-	-	wishRBLX	(DATE)	-	
+
+wb/eng/00/eng_0073	0	0	@wishRBLX	NNP	(ROOT(NP*	-	-	-	Patrick_Kane__	(HANDLE)	-	
+wb/eng/00/eng_0073	0	1	LAZY	NNP	*))	-	-	-	Patrick_Kane__	*	-	
+
+wb/eng/00/eng_0073	0	0	@Patrick_Kane__	NN	(ROOT(FRAG(NP(NP*	-	-	-	FLY8NGGYARADOS	(HANDLE*	-	
+wb/eng/00/eng_0073	0	1	@wishRBLX	NN	*	-	-	-	FLY8NGGYARADOS	*)	-	
+wb/eng/00/eng_0073	0	2	Yo	NN	*)	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	3	it	PRP	(SBAR(S(NP*)	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	4	takes	VBZ	(VP*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	5	time	NN	(S(NP(NP*)	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	6	for	IN	(PP*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	7	@wishRBLX	NN	(NP*)))	-	-	-	FLY8NGGYARADOS	(HANDLE)	(0)	
+wb/eng/00/eng_0073	0	8	to	TO	(VP*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	9	do	VB	(VP*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	10	coding	VBG	(S(VP*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	11	so	RB	(ADJP*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	12	shut	VBN	*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	13	up	RP	(PRT*)))))))))))))	-	-	-	FLY8NGGYARADOS	*	-	
+
+wb/eng/00/eng_0073	0	0	@FLY8NGGYARADOS	NN	(ROOT(S(NP(NP*)	-	-	-	Torracat350	(HANDLE*	-	
+wb/eng/00/eng_0073	0	1	@Patrick_Kane__	NN	(VP(NP(NP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	2	@wishRBLX	NN	*)	-	-	-	Torracat350	*)	-	
+wb/eng/00/eng_0073	0	3	Yes	UH	(FRAG(INTJ*)))	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	4	but	CC	(PP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	5	he	PRP	(NP*))))	-	-	-	Torracat350	*	(0)	
+wb/eng/00/eng_0073	0	6	said	VBD	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	7	himself	PRP	(NP*)	-	-	-	Torracat350	*	(0)	
+wb/eng/00/eng_0073	0	8	that	IN	(SBAR*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	9	weekly	JJ	(S(NP*	-	-	-	Torracat350	(SET)	-	
+wb/eng/00/eng_0073	0	10	codes	NNS	*)	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	11	will	MD	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	12	come	VB	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	13	every	DT	(NP*	-	-	-	Torracat350	(SET)	-	
+wb/eng/00/eng_0073	0	14	Saturday	NNP	*)	-	-	-	Torracat350	(DATE)	-	
+wb/eng/00/eng_0073	0	15	so	IN	(SBAR*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	16	people	NNS	(S(NP*)	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	17	would	MD	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	18	expect	VB	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	19	him	PRP	(S(NP*)	-	-	-	Torracat350	*	(0)	
+wb/eng/00/eng_0073	0	20	to	TO	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	21	keep	VB	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	22	his	PRP$	(NP*	-	-	-	Torracat350	*	(0)	
+wb/eng/00/eng_0073	0	23	promise	NN	*)))))))))))))))	-	-	-	Torracat350	*	-	
+
+wb/eng/00/eng_0073	0	0	@Torracat350	NN	(ROOT(FRAG(NP(NP*	-	-	-	FLY8NGGYARADOS	(HANDLE*	-	
+wb/eng/00/eng_0073	0	1	@Patrick_Kane__	NN	*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	2	@wishRBLX	NN	*)	-	-	-	FLY8NGGYARADOS	*)	-	
+wb/eng/00/eng_0073	0	3	We	PRP	(SBAR(S(NP*)	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	4	can	MD	(VP*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	5	wait	VB	(VP*)))))))	-	-	-	FLY8NGGYARADOS	*	-	
+
+wb/eng/00/eng_0073	0	0	@FLY8NGGYARADOS	NN	(ROOT(FRAG(NP(NP*	-	-	-	Torracat350	(HANDLE*	-	
+wb/eng/00/eng_0073	0	1	@Patrick_Kane__	NN	*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	2	@wishRBLX	NN	*)	-	-	-	Torracat350	*)	-	
+wb/eng/00/eng_0073	0	3	I	PRP	(SBAR(S(NP*)	-	-	-	Torracat350	*	(1)	
+wb/eng/00/eng_0073	0	4	hope	VBP	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	5	so	IN	(ADVP*)))))))	-	-	-	Torracat350	*	-	
+
+wb/eng/00/eng_0073	0	0	@Torracat350	NN	(ROOT(FRAG(NP(NP*	-	-	-	FLY8NGGYARADOS	(HANDLE*	-	
+wb/eng/00/eng_0073	0	1	@Patrick_Kane__	NN	*	-	-	-	FLY8NGGYARADOS	*	-	
+wb/eng/00/eng_0073	0	2	@wishRBLX	NN	*)	-	-	-	FLY8NGGYARADOS	*)	-	
+wb/eng/00/eng_0073	0	3	I	PRP	(SBAR(S(NP*)	-	-	-	FLY8NGGYARADOS	*	(2)	
+wb/eng/00/eng_0073	0	4	can	MD	(VP*))))))	-	-	-	FLY8NGGYARADOS	*	-	
+
+wb/eng/00/eng_0073	0	0	@FLY8NGGYARADOS	NN	(ROOT(FRAG(NP(NP*	-	-	-	Torracat350	(HANDLE*	-	
+wb/eng/00/eng_0073	0	1	@Patrick_Kane__	NN	*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	2	@wishRBLX	NN	*)	-	-	-	Torracat350	*)	-	
+wb/eng/00/eng_0073	0	3	I	PRP	(SBAR(S(NP*)	-	-	-	Torracat350	*	(1)	
+wb/eng/00/eng_0073	0	4	ca	MD	(VP*	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	5	n't	RB	*))))))	-	-	-	Torracat350	*	-	
+
+wb/eng/00/eng_0073	0	0	Jks	NNS	(ROOT(FRAG(NP(NP*)	-	-	-	Torracat350	*	-	
+wb/eng/00/eng_0073	0	1	I	PRP	(SBAR(S(NP*)	-	-	-	Torracat350	*	(2)	
+wb/eng/00/eng_0073	0	2	can	MD	(VP*))))))	-	-	-	Torracat350	*	-	
+
+wb/eng/00/eng_0073	0	0	@Torracat350	NN	(ROOT(FRAG(NP*	-	-	-	%UsernameMissing	(HANDLE*	-	
+wb/eng/00/eng_0073	0	1	@Patrick_Kane__	NN	*	-	-	-	%UsernameMissing	*	-	
+wb/eng/00/eng_0073	0	2	@wishRBLX	NN	*	-	-	-	%UsernameMissing	*)	-	
+wb/eng/00/eng_0073	0	3	Idc	NN	*)))	-	-	-	%UsernameMissing	*	-	
+
+#end document

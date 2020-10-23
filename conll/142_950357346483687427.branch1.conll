@@ -1,0 +1,126 @@
+#begin document (142_950357346483687427.branch1.); part 111
+142_950357346483687427.branch1.	111	0	Keep	VB	(ROOT(S(S(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	1	going	VBG	(S(NP(NP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	2	on	IN	(PP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	3	Twitter	NNP	(NP*))	ne/none/none	prep_phrase	-	lee_harris6	*	(1)
+142_950357346483687427.branch1.	111	4	thinking	VBG	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	5	to	TO	(PP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	6	myself	PRP	(NP*))))	prefl/exophora/nominal	prep_phrase	-	lee_harris6	*	(4)
+142_950357346483687427.branch1.	111	7	,	,	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	8	''	''	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	9	okay	JJ	(ADJP*))))	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	10	,	,	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	11	it	PRP	(NP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	12	's	VBZ	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	13	been	VBN	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	14	a	DT	(NP*	-	-	-	lee_harris6	(DURATION*	-
+142_950357346483687427.branch1.	111	15	week	NN	*)	-	-	-	lee_harris6	*)	-
+142_950357346483687427.branch1.	111	16	now	RB	(ADVP*	defnp/exophora/nominal	adv	-	lee_harris6	(DATE)	(5)
+142_950357346483687427.branch1.	111	17	surely	RB	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	18	we	PRP	(SBAR(S(NP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	19	'll	MD	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	20	be	VB	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	21	close	JJ	(ADJP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	22	to	TO	(PP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	23	signing	VBG	(S(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	24	someone	NN	(NP*)))))))	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	25	.	.	*)))))	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	26	.	.	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	27	''	''	*))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	*	SYM	(ROOT(X(X*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	1	checks	NNS	(NP(NP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	2	Twitter	NNP	(SBAR(S(NP*)	ne/none/none	dir_obj	-	lee_harris6	*	(1)
+142_950357346483687427.branch1.	111	3	*	SYM	(VP(X*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	4	...	:	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	5	...	:	(VP*)))))))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	Nothing	NN	(ROOT(NP*	indefnp/none/none	other/other	-	lee_harris6	*	(2)
+142_950357346483687427.branch1.	111	1	...	:	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	2	...	:	*))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	Checks	NNS	(ROOT(NP(NP(NP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	(NP(NP*	-	-	-	lee_harris6	(HANDLE)	-
+142_950357346483687427.branch1.	111	2	's	POS	*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	3	page	NN	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	4	...	:	*))	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	5	...	:	*))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	Still	RB	(ROOT(S(NP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	1	nothing	NN	*)	indefnp/none/none	other/other	-	lee_harris6	*	(2)
+142_950357346483687427.branch1.	111	2	...	:	(VP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	3	...	:	*))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	*	SYM	(ROOT(FRAG(X*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	1	scrolling	VBG	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	2	up	RP	(PRT*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	3	*	SYM	(S(VP(X*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	4	...	:	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	5	...	:	(VP*))))))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	Gino	NNP	(ROOT(NP(NP(NP*	-	-	-	lee_harris6	(PERSON)	-
+142_950357346483687427.branch1.	111	1	?!	NNP	*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	2	*	SYM	(SBAR(S(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	3	repeat	NN	(NP*)))))	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	4	10	CD	(NP(NP*)	-	-	-	lee_harris6	(DATE*	-
+142_950357346483687427.branch1.	111	5	mins	NNS	(SBAR(S(VP(NP(NP(NP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	6	later	RB	(ADVP*))	-	-	-	lee_harris6	*)	-
+142_950357346483687427.branch1.	111	7	*	SYM	(X*))))))))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	@lee_harris6	NN	(ROOT(FRAG(NP(NP*	-	-	-	rillo15	(HANDLE*	-
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	*)	-	-	-	rillo15	*)	-
+142_950357346483687427.branch1.	111	2	You	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	rillo15	*	(4)
+142_950357346483687427.branch1.	111	3	forgot	VBD	(VP*	-	-	-	rillo15	*	-
+142_950357346483687427.branch1.	111	4	Holebas	NNP	(NP*)))))))	ne/none/none	sbj	-	rillo15	(PERSON)	(0)
+
+142_950357346483687427.branch1.	111	0	@rillo15	NN	(ROOT(S(NP(NP*	-	-	-	lee_harris6	(HANDLE*	-
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	*)	-	-	-	lee_harris6	*)	-
+142_950357346483687427.branch1.	111	2	And	CC	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	3	I	PRP	(NP*))	ppers/anaphora/nominal	sbj	-	lee_harris6	*	(4)
+142_950357346483687427.branch1.	111	4	'm	VBP	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	5	going	VBG	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	6	to	TO	(S(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	7	continue	VB	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	8	to	TO	(S(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	9	do	VB	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	10	so	RB	(SBAR*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	11	until	IN	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	12	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	lee_harris6	*	(0)
+142_950357346483687427.branch1.	111	13	leaves	VBZ	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	14	haha	NN	(NP*))))))))))))))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	@lee_harris6	NN	(ROOT(FRAG(NP*	-	-	-	rillo15	(HANDLE*	-
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	*)	-	-	-	rillo15	*)	-
+142_950357346483687427.branch1.	111	2	Not	RB	(ADVP*	-	-	-	rillo15	*	-
+142_950357346483687427.branch1.	111	3	for	IN	(PP*	-	-	-	rillo15	*	-
+142_950357346483687427.branch1.	111	4	two	CD	(ADVP(NP*	-	-	-	rillo15	(DURATION*	-
+142_950357346483687427.branch1.	111	5	years	NNS	*)	-	-	-	rillo15	*)	-
+142_950357346483687427.branch1.	111	6	now	RB	*)))	defnp/anaphora/nominal	adv	-	rillo15	(DATE)	(5)
+142_950357346483687427.branch1.	111	7	!	.	*))	-	-	-	rillo15	*	-
+
+142_950357346483687427.branch1.	111	0	@rillo15	NN	(ROOT(S(NP*	-	-	-	lee_harris6	(HANDLE*	-
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	*)	-	-	-	lee_harris6	*)	-
+142_950357346483687427.branch1.	111	2	He	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	lee_harris6	*	(0)
+142_950357346483687427.branch1.	111	3	wo	MD	(VP(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	4	n't	RB	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	5	be	VB	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	6	here	RB	(SBAR(ADVP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	7	that	IN	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	8	long	RB	(FRAG(ADVP*)))))	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	9	,	,	*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	10	pretty	RB	(VP(ADJP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	11	certain	JJ	*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	12	of	IN	(PP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	13	that	DT	(NP*))))	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	14	.	.	*))	-	-	-	lee_harris6	*	-
+
+142_950357346483687427.branch1.	111	0	Doubt	NN	(ROOT(S(NP*)	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	1	he	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	lee_harris6	*	(0)
+142_950357346483687427.branch1.	111	2	'll	MD	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	3	last	VB	(VP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	4	past	IN	(PP*	-	-	-	lee_harris6	(DATE)	-
+142_950357346483687427.branch1.	111	5	the	DT	(NP*	-	-	-	lee_harris6	*	-
+142_950357346483687427.branch1.	111	6	Summer	NN	*))))	-	-	-	lee_harris6	(DATE)	-
+142_950357346483687427.branch1.	111	7	.	.	*))	-	-	-	lee_harris6	*	-
+
+#end document

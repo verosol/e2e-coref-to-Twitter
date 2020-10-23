@@ -1,0 +1,121 @@
+#begin document (016_947452530899988480.branch4.); part 12
+016_947452530899988480.branch4.	12	0	So	RB	(ROOT(S(ADVP*)	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	1	let	VB	(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	2	's	POS	(S(NP*)	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	3	address	VB	(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	4	your	PRP$	(NP*	ppos/cataphora/nominal	dir_obj	-	SheRa_Marley	*	(0)
+016_947452530899988480.branch4.	12	5	points	NNS	*)	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	6	here	RB	(ADVP*)	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	7	,	,	*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	8	@OwenJones84	NN	(SBAR(NP*)	ne/none/none	other/vocative	-	SheRa_Marley	(HANDLE)	(0)
+016_947452530899988480.branch4.	12	9	as	IN	*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	10	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	SheRa_Marley	*	(0)
+016_947452530899988480.branch4.	12	11	appear	VBP	(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	12	to	TO	(S(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	13	be	VB	(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	14	living	VBG	(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	15	in	IN	(PP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	16	a	DT	(NP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	17	vacuum	NN	*)))))))	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	18	whilst	IN	(SBAR*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	19	claiming	VBG	(S(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	20	to	TO	(S(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	21	hear	VB	(VP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	22	the	DT	(NP(NP(NP*	defnp/none/none	dir_obj	-	SheRa_Marley	*	(1
+016_947452530899988480.branch4.	12	23	voices	NNS	*)	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	24	of	IN	(PP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	25	the	DT	(NP*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	26	people	NNS	*)))	-	-	-	SheRa_Marley	*	1)
+016_947452530899988480.branch4.	12	27	:	:	*	-	-	-	SheRa_Marley	*	-
+016_947452530899988480.branch4.	12	28	https://t.co/2m2syyHQHD	NN	(NP*)))))))))))))))	-	-	-	SheRa_Marley	(URL)	-
+
+016_947452530899988480.branch4.	12	0	@SheRa_Marley	NN	(ROOT(S(VP(NP(NP*	-	-	-	valko665	(HANDLE*	-
+016_947452530899988480.branch4.	12	1	@OwenJones84	NN	*)	-	-	-	valko665	*)	-
+016_947452530899988480.branch4.	12	2	''	''	*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	3	Remainers	NNPS	(SBAR(S(NP(NP(NP*)	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	4	''	''	*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	5	like	IN	(PP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	6	Owen	NNP	(NP*)))	ne/none/none	dir_obj	-	valko665	(PERSON)	(0)
+016_947452530899988480.branch4.	12	7	spending	VBG	(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	8	more	JJR	(NP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	9	time	NN	*)	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	10	bashing	VBG	(S(VP*))))	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	11	remain	VBP	(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	12	cause	NN	(S(NP(NP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	13	&	CC	*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	14	people	NNS	*)	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	15	like	IN	(PP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	16	Blair	NNP	(NP*	-	-	-	valko665	(ORGANIZATION*	-
+016_947452530899988480.branch4.	12	17	&	CC	*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	18	Adonis	NNP	*)))	-	-	-	valko665	*)	-
+016_947452530899988480.branch4.	12	19	than	IN	(VP(ADVP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	20	the	DT	*)	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	21	Leave	VB	*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	22	campaigners	NNS	(NP*))))))))	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	23	.	.	*))	-	-	-	valko665	*	-
+
+016_947452530899988480.branch4.	12	0	Agreeing	VBG	(ROOT(S(S(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	1	more	RBR	(PP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	2	with	IN	*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	3	Leave	VB	(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	4	lies	NNS	(NP(NP*)	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	5	like	IN	(PP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	6	imaginary	JJ	(NP*))	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	7	''	''	*)))))	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	8	will	MD	(VP*	defnp/none/none	other/other	-	valko665	*	(1
+016_947452530899988480.branch4.	12	9	of	IN	(PP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	10	the	DT	(NP(NP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	11	people	NNS	*)	-	-	-	valko665	*	1)
+016_947452530899988480.branch4.	12	12	''	''	*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	13	then	RB	(PP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	14	UKIP	NNP	(NP*)))))	-	-	-	valko665	(ORGANIZATION)	-
+016_947452530899988480.branch4.	12	15	.	.	*))	-	-	-	valko665	*	-
+
+016_947452530899988480.branch4.	12	0	Asking	VBG	(ROOT(S(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	1	to	TO	(S(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	2	hear	VB	(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	3	us	PRP	(NP*)))))	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	4	.	.	*))	-	-	-	valko665	*	-
+
+016_947452530899988480.branch4.	12	0	Read	VB	(ROOT(S(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	1	what	WP	(SBAR(WHNP*)	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	2	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	valko665	*	(2)
+016_947452530899988480.branch4.	12	3	write	VB	(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	4	for	IN	(PP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	5	gawd	NN	(NP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	6	sake	NN	*))))))	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	7	.	.	*))	-	-	-	valko665	*	-
+
+016_947452530899988480.branch4.	12	0	You	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	valko665	*	(2)
+016_947452530899988480.branch4.	12	1	're	VBP	(VP*	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	2	the	DT	(NP*	defnp/none/none	copula_rel	-	valko665	*	-
+016_947452530899988480.branch4.	12	3	problem	NN	*))	-	-	-	valko665	*	-
+016_947452530899988480.branch4.	12	4	.	.	*))	-	-	-	valko665	*	-
+
+016_947452530899988480.branch4.	12	0	@valko665	NN	(ROOT(NP(NP(NP*	-	-	-	fascinatorfun	(HANDLE*	-
+016_947452530899988480.branch4.	12	1	@SheRa_Marley	NN	*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	2	@OwenJones84	NN	*)	-	-	-	fascinatorfun	*)	-
+016_947452530899988480.branch4.	12	3	He	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	copula_rel	-	fascinatorfun	*	(0)
+016_947452530899988480.branch4.	12	4	's	VBZ	(VP*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	5	a	DT	(NP*	indefnp/none/none	copula_rel	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	6	leaver	NN	*)))))	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	7	...	:	*))	-	-	-	fascinatorfun	*	-
+
+016_947452530899988480.branch4.	12	0	Loves	VBZ	(ROOT(S(VP*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	1	dishing	VBG	(S(VP*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	2	out	RP	(PRT*)	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	3	the	DT	(NP(NP*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	4	criticism	NN	*)	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	5	about	IN	(PP*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	6	others	NNS	(NP*))))))	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	7	.	.	*))	-	-	-	fascinatorfun	*	-
+
+016_947452530899988480.branch4.	12	0	Ca	MD	(ROOT(SINV(VP*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	1	n't	RB	*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	2	take	VB	(VP*	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	3	it	PRP	(NP*)	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	4	himself	PRP	(FRAG(NP*)	prefl/anaphora/nominal	other/appositive	-	fascinatorfun	*	(0)
+016_947452530899988480.branch4.	12	5	.	.	*)))	-	-	-	fascinatorfun	*	-
+016_947452530899988480.branch4.	12	6	https://t.co/dE01DM5YEk	NN	(NP*)))	-	-	-	fascinatorfun	(URL)	-
+
+#end document

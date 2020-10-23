@@ -1,0 +1,245 @@
+#begin document (wb/eng/00/eng_0029); part 000
+wb/eng/00/eng_0029	0	0	Florida	NNP	(ROOT(S(NP*	-	-	-	lulumcflew	(STATE_OR_PROVINCE)	-	
+wb/eng/00/eng_0029	0	1	Rep.	NNP	*	-	-	-	lulumcflew	(TITLE)	-	
+wb/eng/00/eng_0029	0	2	Matt	NNP	*	-	-	-	lulumcflew	(PERSON*	-	
+wb/eng/00/eng_0029	0	3	Gaetz	NNP	*)	-	-	-	lulumcflew	*)	-	
+wb/eng/00/eng_0029	0	4	was	VBD	(VP*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	5	literally	RB	(ADVP*)	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	6	the	DT	(NP*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	7	only	JJ	*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	8	person	NN	*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	9	to	TO	(S(VP*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	10	vote	VB	(VP*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	11	against	IN	(PP*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	12	an	DT	(NP*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	13	anti-human	JJ	*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	14	trafficking	NN	*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	15	bill	NN	*	-	-	-	lulumcflew	*	-	
+wb/eng/00/eng_0029	0	16	https://t.co/T6v0YBOSbT	NN	*)))))))))	-	-	-	lulumcflew	(URL)	-	
+
+wb/eng/00/eng_0029	0	0	@lulumcflew	NN	(ROOT(NP*	-	-	-	BillPrus	(HANDLE)	-	
+wb/eng/00/eng_0029	0	1	https://t.co/tdjQ7VijTE	NN	*))	-	-	-	BillPrus	(URL)	-	
+
+wb/eng/00/eng_0029	0	0	@BillPrus	NN	(ROOT(SINV(VP(NP(NP*	-	-	-	Olsonjam808	(HANDLE*	-	
+wb/eng/00/eng_0029	0	1	@lulumcflew	NN	*)	-	-	-	Olsonjam808	*)	-	
+wb/eng/00/eng_0029	0	2	Not	RB	(ADVP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	3	everything	NN	(NP*)))	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	4	bad	JJ	(ADJP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	5	you	PRP	(SBAR(S(NP*)	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	6	hear	VBP	(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	7	about	IN	(SBAR*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	8	Trump	NNP	(S(NP*)	-	-	-	Olsonjam808	(PERSON)	-	
+wb/eng/00/eng_0029	0	9	is	VBZ	(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	10	true	JJ	(ADJP*)))))))))	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	11	:	:	*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	12	https://t.co/3RlDvqPLa8	NN	(NP*)))	-	-	-	Olsonjam808	(URL)	-	
+
+wb/eng/00/eng_0029	0	0	@Olsonjam808	NN	(ROOT(S(NP(NP(NP*	-	-	-	BillPrus	(HANDLE*	-	
+wb/eng/00/eng_0029	0	1	@lulumcflew	NN	*)	-	-	-	BillPrus	*)	-	
+wb/eng/00/eng_0029	0	2	That	WDT	(NP*	-	-	-	BillPrus	*	(0	
+wb/eng/00/eng_0029	0	3	whole	JJ	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	4	article	NN	*))	-	-	-	BillPrus	*	0)	
+wb/eng/00/eng_0029	0	5	and	CC	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	6	its	PRP$	(NP*	-	-	-	BillPrus	*	(0)	
+wb/eng/00/eng_0029	0	7	RIS	NNP	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	8	writer	NN	*))	-	-	-	BillPrus	(TITLE)	-	
+wb/eng/00/eng_0029	0	9	has	VBZ	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	10	been	VBN	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	11	debunked	VBN	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	12	long	RB	(ADVP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	13	ago	RB	*))))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	14	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	Run	NNP	(ROOT(NP(NP*)	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	1	along	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	2	troll	NN	(NP*))	-	-	-	BillPrus	*	(5)	
+wb/eng/00/eng_0029	0	3	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	@BillPrus	NN	(ROOT(NP(NP*	-	-	-	Olsonjam808	(HANDLE*	-	
+wb/eng/00/eng_0029	0	1	@lulumcflew	NN	*	-	-	-	Olsonjam808	*)	-	
+wb/eng/00/eng_0029	0	2	Uh	NN	*)	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	3	...	:	*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	4	documentation	NN	(NP*)	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	5	?	.	*))	-	-	-	Olsonjam808	*	-	
+
+wb/eng/00/eng_0029	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	Olsonjam808	*	(5)	
+wb/eng/00/eng_0029	0	1	trust	VBP	(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	2	the	DT	(S(NP*	-	-	-	Olsonjam808	*	(7	
+wb/eng/00/eng_0029	0	3	Guardian	NNP	*)	-	-	-	Olsonjam808	(MISC)	7)	
+wb/eng/00/eng_0029	0	4	more	JJR	(ADJP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	5	than	IN	(SBAR*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	6	I	PRP	(S(NP*)	-	-	-	Olsonjam808	*	(5)	
+wb/eng/00/eng_0029	0	7	trust	VBP	(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	8	random	JJ	(NP(NP*	-	-	-	Olsonjam808	*	(9	
+wb/eng/00/eng_0029	0	9	rude	JJ	*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	10	guy	NN	*)	-	-	-	Olsonjam808	*	9)	
+wb/eng/00/eng_0029	0	11	on	IN	(PP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	12	Twitter	NNP	(NP*)))))))))	-	-	-	Olsonjam808	(ORGANIZATION)	-	
+wb/eng/00/eng_0029	0	13	.	.	*))	-	-	-	Olsonjam808	*	-	
+
+wb/eng/00/eng_0029	0	0	@Olsonjam808	NN	(ROOT(S(S(NP*	-	-	-	BillPrus	(HANDLE*	-	
+wb/eng/00/eng_0029	0	1	@lulumcflew	NN	*	-	-	-	BillPrus	*)	-	
+wb/eng/00/eng_0029	0	2	Mensch	NN	*)	-	-	-	BillPrus	*	(0)	
+wb/eng/00/eng_0029	0	3	was	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	4	a	DT	(NP(NP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	5	recent	JJ	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	6	member	NN	*)	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	7	of	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	8	U.K.	NNP	(NP*	-	-	-	BillPrus	(ORGANIZATION*	(14	
+wb/eng/00/eng_0029	0	9	Parliament	NNP	*)))))	-	-	-	BillPrus	*)	14)	
+wb/eng/00/eng_0029	0	10	,	,	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	11	was	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	12	Mueller	NNP	(NP(NP*)	-	-	-	BillPrus	(PERSON)	-	
+wb/eng/00/eng_0029	0	13	of	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	14	U.K.	NNP	(NP*)))	-	-	-	BillPrus	(LOCATION)	(14)	
+wb/eng/00/eng_0029	0	15	now	RB	(ADVP*))	-	-	-	BillPrus	(DATE)	-	
+wb/eng/00/eng_0029	0	16	indepenant	JJ	(NP*	-	-	-	BillPrus	*	(0	
+wb/eng/00/eng_0029	0	17	reporter	NN	*)	-	-	-	BillPrus	(TITLE)	0)	
+wb/eng/00/eng_0029	0	18	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	She	PRP	(ROOT(S(NP*)	-	-	-	BillPrus	*	(0)	
+wb/eng/00/eng_0029	0	1	is	VBZ	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	2	3	CD	(NP(NP*	-	-	-	BillPrus	(DURATION*	-	
+wb/eng/00/eng_0029	0	3	months	NNS	*)	-	-	-	BillPrus	*)	-	
+wb/eng/00/eng_0029	0	4	ahead	RB	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	5	of	IN	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	6	news	NN	(NP*))))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	7	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	The	DT	(ROOT(S(NP*	-	-	-	BillPrus	*	(7	
+wb/eng/00/eng_0029	0	1	Guardian	NNP	*)	-	-	-	BillPrus	(MISC)	7)	
+wb/eng/00/eng_0029	0	2	will	MD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	3	publish	VB	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	4	hit	NN	(NP*	-	-	-	BillPrus	*	(3	
+wb/eng/00/eng_0029	0	5	pieces	NNS	*)	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	6	from	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	7	non	JJ	(NP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	8	reporters	NNS	*))	-	-	-	BillPrus	*	3)	
+wb/eng/00/eng_0029	0	9	if	IN	(SBAR*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	10	it	PRP	(S(NP*)	-	-	-	BillPrus	*	(3)	
+wb/eng/00/eng_0029	0	11	fits	VBZ	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	12	their	PRP$	(NP*	-	-	-	BillPrus	*	(7)	
+wb/eng/00/eng_0029	0	13	narrative	NN	*))))))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	14	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	Some	DT	(ROOT(S(NP*)	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	1	have	VBP	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	2	been	VBN	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	3	exposed	VBN	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	4	as	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	5	being	VBG	(S(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	6	paid	VBN	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	7	by	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	8	Russians	NNPS	(NP*)))))))))	-	-	-	BillPrus	(MISC)	-	
+wb/eng/00/eng_0029	0	9	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	@BillPrus	NN	(ROOT(S(NP(NP*	-	-	-	Olsonjam808	(HANDLE*	-	
+wb/eng/00/eng_0029	0	1	@lulumcflew	NN	*)	-	-	-	Olsonjam808	*)	-	
+wb/eng/00/eng_0029	0	2	Who	WP	(SBAR(WHNP*)	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	3	told	VBD	(S(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	4	you	PRP	(S(NP*)	-	-	-	Olsonjam808	*	(9)	
+wb/eng/00/eng_0029	0	5	Mensch	NNP	(NP*))))))	-	-	-	Olsonjam808	*	(0)	
+wb/eng/00/eng_0029	0	6	was	VBD	(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	7	the	DT	(NP(NP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	8	Mueller	NNP	*)	-	-	-	Olsonjam808	(PERSON)	-	
+wb/eng/00/eng_0029	0	9	of	IN	(PP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	10	UK	NNP	(NP*))))	-	-	-	Olsonjam808	(COUNTRY)	(14)	
+wb/eng/00/eng_0029	0	11	?	.	*))	-	-	-	Olsonjam808	*	-	
+
+wb/eng/00/eng_0029	0	0	@Olsonjam808	NN	(ROOT(S(NP*	-	-	-	BillPrus	(HANDLE*	-	
+wb/eng/00/eng_0029	0	1	@lulumcflew	NN	*)	-	-	-	BillPrus	*)	-	
+wb/eng/00/eng_0029	0	2	Their	PRP$	(NP*)	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	3	was	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	4	a	DT	(NP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	5	cell	NN	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	6	phone	NN	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	7	scandal	NN	*))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	8	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	The	DT	(ROOT(S(NP(NP*	-	-	-	BillPrus	*	(11	
+wb/eng/00/eng_0029	0	1	Fox	NNP	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	2	news	NN	*)	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	3	of	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	4	U.K.	NNP	(NP*)))	-	-	-	BillPrus	(LOCATION)	(14)|11)	
+wb/eng/00/eng_0029	0	5	was	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	6	breaking	VBG	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	7	into	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	8	peoples	NNS	(NP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	9	cell	NN	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	10	phones	NNS	*))))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	11	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	A	DT	(ROOT(S(S(NP*	-	-	-	BillPrus	*	(1	
+wb/eng/00/eng_0029	0	1	little	JJ	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	2	girl	NN	*)	-	-	-	BillPrus	*	1)	
+wb/eng/00/eng_0029	0	3	disappeared	VBD	(VP*))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	4	and	CC	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	5	the	DT	(S(NP*	-	-	-	BillPrus	*	(11	
+wb/eng/00/eng_0029	0	6	news	NN	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	7	service	NN	*)	-	-	-	BillPrus	*	11)	
+wb/eng/00/eng_0029	0	8	broke	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	9	into	IN	(PP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	10	her	PRP$	(NP*	-	-	-	BillPrus	*	(1)	
+wb/eng/00/eng_0029	0	11	cell	NN	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	12	phone	NN	*))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	13	making	VBG	(S(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	14	her	PRP$	(S(NP*	-	-	-	BillPrus	*	(1)	
+wb/eng/00/eng_0029	0	15	family	NN	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	16	and	CC	*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	17	Scottland	NNP	*	-	-	-	BillPrus	(PERSON)	-	
+wb/eng/00/eng_0029	0	18	yard	NN	*)	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	19	think	VB	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	20	she	PRP	(SBAR(S(NP*)	-	-	-	BillPrus	*	(1)	
+wb/eng/00/eng_0029	0	21	was	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	22	alive	JJ	(ADJP*))))))))))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	23	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	She	PRP	(ROOT(S(NP*)	-	-	-	BillPrus	*	(1)	
+wb/eng/00/eng_0029	0	1	was	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	2	not	RB	*)	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	3	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	The	DT	(ROOT(S(NP*	-	-	-	BillPrus	*	(14	
+wb/eng/00/eng_0029	0	1	UK	NNP	*	-	-	-	BillPrus	(COUNTRY)	-	
+wb/eng/00/eng_0029	0	2	govt	NN	*)	-	-	-	BillPrus	*	14)	
+wb/eng/00/eng_0029	0	3	investigated	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	4	Louise	NNP	(SBAR(S(NP*)	-	-	-	BillPrus	(PERSON)	(0)	
+wb/eng/00/eng_0029	0	5	led	VBD	(VP*	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	6	it	PRP	(NP*)))))	-	-	-	BillPrus	*	-	
+wb/eng/00/eng_0029	0	7	.	.	*))	-	-	-	BillPrus	*	-	
+
+wb/eng/00/eng_0029	0	0	@BillPrus	NN	(ROOT(S(NP*)	-	-	-	Olsonjam808	(HANDLE)	-	
+wb/eng/00/eng_0029	0	1	@lulumcflew	VBD	(VP(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	2	Yeah	UH	(NP*))	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	3	,	,	*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	4	Murdoch	NNP	(NP(NP*	-	-	-	Olsonjam808	(PERSON)	(2|(12	
+wb/eng/00/eng_0029	0	5	's	POS	*)	-	-	-	Olsonjam808	*	2)	
+wb/eng/00/eng_0029	0	6	paper	NN	*))	-	-	-	Olsonjam808	*	12)	
+wb/eng/00/eng_0029	0	7	...	:	*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	8	.	.	*))	-	-	-	Olsonjam808	*	-	
+
+wb/eng/00/eng_0029	0	0	News	NN	(ROOT(NP(NP*)	-	-	-	Olsonjam808	*	(12	
+wb/eng/00/eng_0029	0	1	of	IN	(PP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	2	the	DT	(NP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	3	World	NNP	*))	-	-	-	Olsonjam808	(ORGANIZATION)	12)	
+wb/eng/00/eng_0029	0	4	.	.	*))	-	-	-	Olsonjam808	*	-	
+
+wb/eng/00/eng_0029	0	0	Murdoch	NNP	(ROOT(S(NP*)	-	-	-	Olsonjam808	(PERSON)	(2)	
+wb/eng/00/eng_0029	0	1	hired	VBD	(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	2	her	PRP$	(NP*)	-	-	-	Olsonjam808	*	(0)	
+wb/eng/00/eng_0029	0	3	after	IN	(PP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	4	that	DT	(NP*)))	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	5	...	:	*))	-	-	-	Olsonjam808	*	-	
+
+wb/eng/00/eng_0029	0	0	curious	JJ	(ROOT(S(S(ADJP*))	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	1	,	,	*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	2	he	PRP	(NP*)	-	-	-	Olsonjam808	*	(2)	
+wb/eng/00/eng_0029	0	3	's	VBZ	(VP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	4	not	RB	*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	5	usually	RB	(ADVP*)	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	6	a	DT	(NP*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	7	forgiving	JJ	*	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	8	guy	NN	*))	-	-	-	Olsonjam808	*	-	
+wb/eng/00/eng_0029	0	9	.	.	*))	-	-	-	Olsonjam808	*	-	
+
+#end document

@@ -1,0 +1,76 @@
+#begin document (182_950379317061672962.branch3.); part 146
+182_950379317061672962.branch3.	146	0	Hearing	VBG	(ROOT(S(S(VP*	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	1	the	DT	(NP*	ne/none/none	sbj	-	mlombardiNFL	*	(2
+182_950379317061672962.branch3.	146	2	Lions	NNPS	*)))	-	-	-	mlombardiNFL	(ORGANIZATION)	2)
+182_950379317061672962.branch3.	146	3	get	VBP	(VP*	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	4	their	PRP$	(NP*	defnp/none/none|ppos/anaphora/nominal	dir_obj|dir_obj	-	mlombardiNFL	*	(0|(2)
+182_950379317061672962.branch3.	146	5	coach	NN	*)	-	-	-	mlombardiNFL	(TITLE)	0)
+182_950379317061672962.branch3.	146	6	in	IN	(PP*	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	7	the	DT	(NP*	-	-	-	mlombardiNFL	(DATE*	-
+182_950379317061672962.branch3.	146	8	next	JJ	*	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	9	day	NN	*	-	-	-	mlombardiNFL	*)	-
+182_950379317061672962.branch3.	146	10	or	CC	*	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	11	so	RB	*)))	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	12	.	.	*))	-	-	-	mlombardiNFL	*	-
+
+182_950379317061672962.branch3.	146	0	Wo	MD	(ROOT(S(VP*	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	1	n't	RB	*	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	2	be	VB	(VP*	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	3	a	DT	(NP*	indefnp/none/none	dir_obj	-	mlombardiNFL	*	(3
+182_950379317061672962.branch3.	146	4	surprise	NN	*)	-	-	-	mlombardiNFL	*	3)
+182_950379317061672962.branch3.	146	5	either	RB	(ADVP*)))	-	-	-	mlombardiNFL	*	-
+182_950379317061672962.branch3.	146	6	.	.	*))	-	-	-	mlombardiNFL	*	-
+
+182_950379317061672962.branch3.	146	0	@mlombardiNFL	NN	(ROOT(FRAG(NP(NP*	-	-	-	iamdoofie	(HANDLE*	-
+182_950379317061672962.branch3.	146	1	@GRONKorDlE	NN	*)	-	-	-	iamdoofie	*)	-
+182_950379317061672962.branch3.	146	2	So	IN	(SBAR(S(ADVP*)	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	3	it	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	iamdoofie	*	(0)
+182_950379317061672962.branch3.	146	4	's	VBZ	(VP*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	5	matt	NN	(NP*	ne/none/none	copula_rel	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	6	Patricia	NNP	*)))))))	-	-	-	iamdoofie	(PERSON)	-
+
+182_950379317061672962.branch3.	146	0	@iamdoofie	NN	(ROOT(S(NP(NP*	-	-	-	MJoLucier	(HANDLE*	-
+182_950379317061672962.branch3.	146	1	@mlombardiNFL	NN	*	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	2	@GRONKorDlE	NN	*)	-	-	-	MJoLucier	*)	-
+182_950379317061672962.branch3.	146	3	I	PRP	(SBAR(S(NP*)	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	4	really	RB	(ADVP*)	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	5	do	VBP	(VP*	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	6	n't	RB	*	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	7	think	VB	(VP*	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	8	patricia	NN	(NP*))))))	ne/none/none	sbj	-	MJoLucier	*	(0)
+182_950379317061672962.branch3.	146	9	will	MD	(VP*	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	10	be	VB	(VP*	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	11	a	DT	(NP*	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	12	good	JJ	*	-	-	-	MJoLucier	*	-
+182_950379317061672962.branch3.	146	13	head	NN	*	-	-	-	MJoLucier	(TITLE*	-
+182_950379317061672962.branch3.	146	14	coach	NN	*)))))	-	-	-	MJoLucier	*)	-
+
+182_950379317061672962.branch3.	146	0	@MJoLucier	NN	(ROOT(FRAG(NP(NP*	-	-	-	iamdoofie	(HANDLE*	-
+182_950379317061672962.branch3.	146	1	@mlombardiNFL	NN	*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	2	@GRONKorDlE	NN	*)	-	-	-	iamdoofie	*)	-
+182_950379317061672962.branch3.	146	3	I	PRP	(SBAR(S(S(NP*)	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	4	'm	VBP	(VP*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	5	not	RB	*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	6	saying	VBG	(VP*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	7	weather	NN	(NP*))))	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	8	or	CC	*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	9	not	RB	(S(SBAR*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	10	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	iamdoofie	*	(0)
+182_950379317061672962.branch3.	146	11	will	MD	(VP*)))	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	12	he	PRP	(NP*)	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	13	just	RB	(ADVP*)	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	14	said	VBD	(VP*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	15	it	PRP	(SBAR(S(S(NP*)	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	16	wo	MD	(VP*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	17	n't	RB	*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	18	be	VB	(VP*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	19	a	DT	(NP*	indefnp/none/none	dir_obj	-	iamdoofie	*	(3
+182_950379317061672962.branch3.	146	20	suprise	NN	*))))	-	-	-	iamdoofie	*	3)
+182_950379317061672962.branch3.	146	21	and	CC	*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	22	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	iamdoofie	*	(0)
+182_950379317061672962.branch3.	146	23	was	VBD	(VP*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	24	the	DT	(NP*	defnp/none/none	copula_rel	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	25	lead	JJ	*	-	-	-	iamdoofie	*	-
+182_950379317061672962.branch3.	146	26	candidate	NN	*))))))))))))	-	-	-	iamdoofie	(TITLE)	-
+
+#end document

@@ -1,0 +1,147 @@
+#begin document (160_950366065468608512.branch12.); part 127
+160_950366065468608512.branch12.	127	0	You	PRP	(ROOT(S(NP*)	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	1	ca	MD	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	2	n't	RB	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	3	win	VB	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	4	a	DT	(NP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	5	test	NN	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	6	match	NN	*)	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	7	with	IN	(PP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	8	an	DT	(NP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	9	ODI	NNP	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	10	team	NN	*))))	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	11	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	Period	NN	(ROOT(NP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	1	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	Shikhar	NNP	(ROOT(S(NP*	ne/none/none	sbj	-	kaul_vivek	(PERSON*	-
+160_950366065468608512.branch12.	127	1	Dhawan	NNP	*	-	-	-	kaul_vivek	*)	-
+160_950366065468608512.branch12.	127	2	and	CC	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	3	Rohit	NNP	*	-	-	-	kaul_vivek	(PERSON*	-
+160_950366065468608512.branch12.	127	4	Sharma	NNP	*)	-	-	-	kaul_vivek	*)	-
+160_950366065468608512.branch12.	127	5	are	VBP	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	6	dead	JJ	(ADJP*	defnp/none/none	copula_rel	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	7	pitch	NN	(SBAR(S(NP*)	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	8	bullies	VBZ	(VP*)))))	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	9	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	Virat	NNP	(ROOT(S(NP*)	ne/none/none	sbj	-	kaul_vivek	(PERSON)	(2)
+160_950366065468608512.branch12.	127	1	ca	MD	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	2	n't	RB	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	3	play	VB	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	4	the	DT	(NP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	5	swinging	VBG	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	6	ball	NN	*)))	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	7	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	And	CC	(ROOT(S*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	1	India	NNP	(NP*)	-	-	-	kaul_vivek	(COUNTRY)	-
+160_950366065468608512.branch12.	127	2	were	VBD	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	3	one	CD	(ADJP(NP*	-	-	-	kaul_vivek	(NUMBER)	-
+160_950366065468608512.branch12.	127	4	batsman	NN	*)	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	5	short	JJ	*))	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	6	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	@kaul_vivek	NNP	(ROOT(S(NP*	-	-	-	Shravanbhat	(PERSON*	-
+160_950366065468608512.branch12.	127	1	Kohli	NNP	*)	ne/none/none	sbj	-	Shravanbhat	*)	(2)
+160_950366065468608512.branch12.	127	2	has	VBZ	(VP*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	3	scored	VBN	(VP*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	4	a	DT	(NP(NP*	indefnp/none/none	dir_obj	-	Shravanbhat	*	(4
+160_950366065468608512.branch12.	127	5	great	JJ	(ADJP*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	6	100	CD	(NP-TMP*)	-	-	-	Shravanbhat	(NUMBER)	4)
+160_950366065468608512.branch12.	127	7	against	IN	(PP*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	8	top	JJ	(NP*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	9	quality	NN	*)))	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	10	swing	NN	*)	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	11	in	IN	(PP*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	12	SA	NNP	(NP*)))	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	13	on	IN	(PP*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	14	the	DT	(NP*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	15	last	JJ	*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	16	tour	NN	*	-	-	-	Shravanbhat	*	-
+160_950366065468608512.branch12.	127	17	though	IN	*))))))	-	-	-	Shravanbhat	*	-
+
+160_950366065468608512.branch12.	127	0	@Shravanbhat	NNP	(ROOT(S(NP*	-	-	-	kaul_vivek	(HANDLE)	-
+160_950366065468608512.branch12.	127	1	Kohli	NNP	*)	ne/none/none	sbj	-	kaul_vivek	(PERSON)	(2)
+160_950366065468608512.branch12.	127	2	is	VBZ	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	3	a	DT	(NP*	indefnp/none/none	copula_rel	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	4	great	JJ	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	5	ODI	NNP	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	6	batsman	NN	*))	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	7	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	By	IN	(ROOT(FRAG(PP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	1	far	RB	(NP(NP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	2	the	DT	*)	defnp/none/none	copula_rel	-	kaul_vivek	*	(2
+160_950366065468608512.branch12.	127	3	best	JJS	(NP*)))	-	-	-	kaul_vivek	*	2)
+160_950366065468608512.branch12.	127	4	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	Test	NN	(ROOT(S(NP(NP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	1	matches	NNS	*)	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	2	he	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	kaul_vivek	*	(2)
+160_950366065468608512.branch12.	127	3	still	RB	(ADVP*)	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	4	has	VBZ	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	5	n't	RB	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	6	won	VBN	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	7	matches	NNS	(NP*)	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	8	as	IN	(PP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	9	he	PRP	(NP*)))))))	ppers/anaphora/nominal	sbj	-	kaul_vivek	*	(2)
+160_950366065468608512.branch12.	127	10	has	VBZ	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	11	in	IN	(VP(PP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	12	ODIs	NNP	(NP*))))	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	13	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	@kaul_vivek	NN	(ROOT(S(S(NP-TMP(NP*)	-	-	-	daftari	(HANDLE*	-
+160_950366065468608512.branch12.	127	1	@Shravanbhat	NN	(NP*))	-	-	-	daftari	*)	-
+160_950366065468608512.branch12.	127	2	That	WDT	(NP*)	pds/anaphora/nominal	sbj	-	daftari	*	(4)
+160_950366065468608512.branch12.	127	3	was	VBD	(VP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	4	an	DT	(NP*	indefnp/none/none	copula_rel	-	daftari	*	-
+160_950366065468608512.branch12.	127	5	epic	NN	*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	6	hundred	CD	*)))	-	-	-	daftari	(NUMBER)	-
+160_950366065468608512.branch12.	127	7	,	,	*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	8	but	CC	*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	9	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	daftari	*	(2)
+160_950366065468608512.branch12.	127	10	has	VBZ	(VP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	11	come	VBN	(VP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	12	short	RB	(ADVP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	13	during	IN	(PP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	14	crunch	NN	(NP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	15	time	NN	*)	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	16	again	RB	(ADVP*))))))	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	17	.	.	*))	-	-	-	daftari	*	-
+
+160_950366065468608512.branch12.	127	0	Smith	NNP	(ROOT(S(NP*)	ne/none/none	sbj	-	daftari	(PERSON)	(5)
+160_950366065468608512.branch12.	127	1	would	MD	(VP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	2	have	VB	(VP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	3	delivered	VBN	(VP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	4	,	,	*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	5	like	IN	(PP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	6	a	DT	(NP*	-	-	-	daftari	*	-
+160_950366065468608512.branch12.	127	7	boss	NN	*)))))	-	-	-	daftari	(TITLE)	-
+160_950366065468608512.branch12.	127	8	.	.	*))	-	-	-	daftari	*	-
+
+160_950366065468608512.branch12.	127	0	@daftari	NN	(ROOT(S(NP*)	-	-	-	kaul_vivek	(HANDLE*	-
+160_950366065468608512.branch12.	127	1	@Shravanbhat	NN	(VP*	-	-	-	kaul_vivek	*)	-
+160_950366065468608512.branch12.	127	2	Yes	UH	(NP*))	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	3	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	He	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	kaul_vivek	*	(2)
+160_950366065468608512.branch12.	127	1	is	VBZ	(VP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	2	a	DT	(NP*	indefnp/none/none	copula_rel	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	3	good	JJ	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	4	Test	NN	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	5	batsman	NN	*))	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	6	.	.	*))	-	-	-	kaul_vivek	*	-
+
+160_950366065468608512.branch12.	127	0	Not	RB	(ROOT(S(NP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	1	a	DT	(NP(NP*	indefnp/none/none	dir_obj	-	kaul_vivek	*	(5
+160_950366065468608512.branch12.	127	2	great	JJ	*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	3	one	CD	*)	-	-	-	kaul_vivek	(NUMBER)	5)
+160_950366065468608512.branch12.	127	4	like	IN	(PP*	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	5	Steve	NNP	(NP*	ne/none/none	other/other	-	kaul_vivek	(PERSON*	(5
+160_950366065468608512.branch12.	127	6	Smith	NNP	*))))	-	-	-	kaul_vivek	*)	5)
+160_950366065468608512.branch12.	127	7	is	VBZ	(VP*)	-	-	-	kaul_vivek	*	-
+160_950366065468608512.branch12.	127	8	.	.	*))	-	-	-	kaul_vivek	*	-
+
+#end document

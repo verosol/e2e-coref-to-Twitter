@@ -1,0 +1,223 @@
+#begin document (109_950331314607046656.branch2.); part 87
+109_950331314607046656.branch2.	87	0	I	PRP	(ROOT(S(NP*)	ppers/exophora/nominal	sbj	-	utalk2myhand	*	(13)
+109_950331314607046656.branch2.	87	1	seeing	VBG	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	this	DT	(NP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	already	RB	(ADVP*))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	4	...	:	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	Ykw	NN	(ROOT(S(NP*)	ne/none/none	sbj	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	1	is	VBZ	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	a	DT	(NP(NP*	indefnp/none/none	copula_rel	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	bigger	JJR	*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	4	star	NN	*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	than	IN	(PP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	6	patriot	NN	(NP*))))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	7	...	:	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	@utalk2myhand	RB	(ROOT(FRAG(FRAG(ADVP*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	1	%emoji	FW	(ADVP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	2	%emoji	FW	*))	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	3	%emoji	FW	*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	4	sure	JJ	(FRAG(ADJP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	5	?	.	*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	6	...	:	*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	7	.	.	*))	-	-	-	Katrinaonly21	*	-
+
+109_950331314607046656.branch2.	87	0	i	LS	(ROOT(S(NP(NP*	ppers/exophora/nominal	sbj	-	Katrinaonly21	*	(10)
+109_950331314607046656.branch2.	87	1	guess	NN	*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	2	both	CC	(ADVP*))	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	3	are	VBP	(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	4	gon	VBG	(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	5	na	TO	(S(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	6	suffer	VB	(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	7	heavy	JJ	(SBAR(S(NP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	8	duty	NN	*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	9	%emoji	NNS	*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	10	%emoji	VBP	(VP*))))))))))	-	-	-	Katrinaonly21	*	-
+
+109_950331314607046656.branch2.	87	0	@Katrinaonly21	NN	(ROOT(X(SBARQ(WHNP(WHNP*)	-	-	-	utalk2myhand	(HANDLE)	-
+109_950331314607046656.branch2.	87	1	Nah	NN	*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	.	.	*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	.	.	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	Man	NN	(ROOT(S(NP(NP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	1	with	IN	(PP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	the	DT	(NP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	pad	NN	*)))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	4	will	MD	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	suffer	VB	(VP*))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	6	.	.	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	The	DT	(ROOT(S(NP(NP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	1	vat	NN	*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	with	IN	(PP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	the	DT	(NP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	4	pad	NN	*)))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	will	MD	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	6	do	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	7	good	JJ	(ADJP*)))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	8	.	.	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	People	NNS	(ROOT(S(S(NP*)	defnp/none/none	sbj	-	utalk2myhand	*	(8)
+109_950331314607046656.branch2.	87	1	will	MD	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	be	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	bias	NN	(NP(NP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	4	in	IN	(PP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	favor	NN	(NP*)))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	6	to	TO	(PP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	7	the	DT	(NP*	defnp/none/none	prep_phrase	-	utalk2myhand	*	(1
+109_950331314607046656.branch2.	87	8	later	JJ	*)))))	-	-	-	utalk2myhand	*	1)
+109_950331314607046656.branch2.	87	9	and	CC	*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	10	even	RB	(S(SBAR*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	11	if	IN	*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	12	it	PRP	(S(NP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	13	is	VBZ	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	14	a	DT	(NP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	15	bad	JJ	*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	16	film	NN	*))))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	17	they	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	utalk2myhand	*	(8)
+109_950331314607046656.branch2.	87	18	'll	MD	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	19	call	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	20	it	PRP	(NP*)	ppers/anaphora/nominal	dir_obj	-	utalk2myhand	*	(1)
+109_950331314607046656.branch2.	87	21	cult	NN	(NP*	-	-	-	utalk2myhand	(RELIGION)	-
+109_950331314607046656.branch2.	87	22	classic	NN	*))))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	23	.	.	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	@utalk2myhand	NN	(ROOT(S(NP*)	-	-	-	Katrinaonly21	(HANDLE)	-
+109_950331314607046656.branch2.	87	1	Lets	VBZ	(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	2	see	VB	(S(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	3	what	WP	(SBAR(WHNP*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	4	happens	VBZ	(S(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	5	lol	NN	(NP(NP*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	6	...	:	*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	7	but	CC	(PP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	8	recovering	VBG	(S(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	9	that	DT	(NP(NP*	defnp/none/none	dir_obj	-	Katrinaonly21	*	(4
+109_950331314607046656.branch2.	87	10	big	JJ	*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	11	a	DT	(SBAR(S(NP(NP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	12	budget	NN	*)	-	-	-	Katrinaonly21	*	4)
+109_950331314607046656.branch2.	87	13	with	IN	(PP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	14	clash	NN	(NP*)))	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	15	seems	VBZ	(VP*)))))))))))	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	16	...	:	*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	17	%emoji	FW	(ADVP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	18	%emoji	FW	*))))))	-	-	-	Katrinaonly21	*	-
+
+109_950331314607046656.branch2.	87	0	@Katrinaonly21	NN	(ROOT(S(NP(NP*)	-	-	-	utalk2myhand	(HANDLE)	-
+109_950331314607046656.branch2.	87	1	They	PRP	(NP*))	ppers/anaphora/nominal	sbj	-	utalk2myhand	*	(8)
+109_950331314607046656.branch2.	87	2	already	RB	(ADVP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	started	VBD	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	4	to	TO	(S(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	understate	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	6	the	DT	(NP*	defnp/none/none	dir_obj	-	utalk2myhand	*	(4
+109_950331314607046656.branch2.	87	7	budget	NN	*)))))	-	-	-	utalk2myhand	*	4)
+109_950331314607046656.branch2.	87	8	...	:	*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	9	.	.	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	Now	RB	(ROOT(NP(NP(NP*)	-	-	-	utalk2myhand	(DATE)	-
+109_950331314607046656.branch2.	87	1	apparently	RB	(ADVP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	for	IN	(PP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	some	DT	(NP*	indefnp/none/none	prep_phrase	-	utalk2myhand	*	(5
+109_950331314607046656.branch2.	87	4	people	NNS	*))	-	-	-	utalk2myhand	*	5)
+109_950331314607046656.branch2.	87	5	it	PRP	(SBAR(S(NP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	6	need	MD	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	7	only	RB	(ADVP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	8	180cr	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	9	to	TO	(S(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	10	be	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	11	a	DT	(NP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	12	hit	NN	*)))))))))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	13	...	:	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	So	RB	(ROOT(S(SBAR(S(S*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	1	to	TO	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	prove	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	it	PRP	(NP*))))	ppers/anaphora/nominal	sbj	-	utalk2myhand	*	(1)
+109_950331314607046656.branch2.	87	4	is	VBZ	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	a	DT	(NP*	indefnp/none/none	copula_rel	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	6	hit	NN	*))))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	7	they	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	utalk2myhand	*	(5)
+109_950331314607046656.branch2.	87	8	'll	MD	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	9	do	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	10	anything	NN	(NP*)))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	11	...	:	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	Slbee	NNP	(ROOT(S(NP(NP*	defnp/none/none|ne/none/none	sbj|sbj	-	utalk2myhand	(PERSON)	(16|(0
+109_950331314607046656.branch2.	87	1	's	POS	*)	-	-	-	utalk2myhand	*	0)
+109_950331314607046656.branch2.	87	2	targeted	VBN	(ADJP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	audiences	NNS	*)	-	-	-	utalk2myhand	*	16)
+109_950331314607046656.branch2.	87	4	are	VBP	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	fools	NNS	(NP*))	defnp/none/none	copula_rel	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	6	.	.	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	If	IN	(ROOT(S(SBAR*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	1	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	utalk2myhand	*	(0)
+109_950331314607046656.branch2.	87	2	says	VBZ	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	rabbits	NNS	(SBAR(S(NP*)	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	4	has	VBZ	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	3	CD	(NP*	-	-	-	utalk2myhand	(NUMBER)	-
+109_950331314607046656.branch2.	87	6	legs	NNS	*)))))))	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	7	these	DT	(NP*	indefnp/none/none	sbj	-	utalk2myhand	*	(16
+109_950331314607046656.branch2.	87	8	fools	NNS	*)	-	-	-	utalk2myhand	*	16)
+109_950331314607046656.branch2.	87	9	will	MD	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	10	believe	VB	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	11	him	PRP	(NP*)))	ppers/anaphora/nominal	dir_obj	-	utalk2myhand	*	(0)
+109_950331314607046656.branch2.	87	12	.	.	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	@utalk2myhand	RB	(ROOT(ADJP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	1	%emoji	FW	(SBAR(S(NP*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	2	%emoji	FW	(VP(S(NP(NP(NP(NP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	3	%emoji	FW	*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	4	u	FW	*)	ppers/anaphora/nominal	sbj	-	Katrinaonly21	*	(13)
+109_950331314607046656.branch2.	87	5	are	VBP	(SBAR(S(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	6	another	DT	(NP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	7	level	NN	*)))))	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	8	yaar	NN	(PRN(NP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	9	!	.	*)))	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	10	%emoji	FW	(NP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	11	%emoji	FW	*))))))))	-	-	-	Katrinaonly21	*	-
+
+109_950331314607046656.branch2.	87	0	I	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	Katrinaonly21	*	(10)
+109_950331314607046656.branch2.	87	1	know	VBP	(VP*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	2	...	:	*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	3	.	.	*))	-	-	-	Katrinaonly21	*	-
+
+109_950331314607046656.branch2.	87	0	fools	NNS	(ROOT(NP*	defnp/none/none	other/appositive	-	Katrinaonly21	*	(16)
+109_950331314607046656.branch2.	87	1	...	:	*))	-	-	-	Katrinaonly21	*	-
+
+109_950331314607046656.branch2.	87	0	%emoji	NNS	(ROOT(S(NP*)	defnp/none/none	sbj	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	1	are	VBP	(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	2	fools	NNS	(NP*))	defnp/none/none	copula_rel	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	3	...	:	*))	-	-	-	Katrinaonly21	*	-
+
+109_950331314607046656.branch2.	87	0	they	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	Katrinaonly21	*	(16)
+109_950331314607046656.branch2.	87	1	think	VBP	(VP(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	2	less	JJR	(ADJP*))	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	3	but	CC	*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	4	talk	VBP	(VP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	5	a	DT	(NP*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	6	lot	NN	*)))))	-	-	-	Katrinaonly21	*	-
+
+109_950331314607046656.branch2.	87	0	@Katrinaonly21	NN	(ROOT(S(NP*)	-	-	-	utalk2myhand	(HANDLE)	-
+109_950331314607046656.branch2.	87	1	I	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	utalk2myhand	*	(13)
+109_950331314607046656.branch2.	87	2	've	VBP	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	been	VBN	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	4	observing	VBG	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	5	these	DT	(NP(NP*	defnp/none/none	dir_obj	-	utalk2myhand	*	(16
+109_950331314607046656.branch2.	87	6	so	RB	*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	7	called	VBN	*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	8	fans	NNS	*)	-	-	-	utalk2myhand	*	16)
+109_950331314607046656.branch2.	87	9	since	IN	(PP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	10	2013	CD	(NP*))))))	-	-	-	utalk2myhand	(DATE)	-
+109_950331314607046656.branch2.	87	11	.	.	*))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	I	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	utalk2myhand	*	(13)
+109_950331314607046656.branch2.	87	1	know	VBP	(VP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	2	a	DT	(NP*	-	-	-	utalk2myhand	*	-
+109_950331314607046656.branch2.	87	3	lot	NN	*))))	-	-	-	utalk2myhand	*	-
+
+109_950331314607046656.branch2.	87	0	@utalk2myhand	RB	(ROOT(FRAG(SBAR*	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	1	**	SYM	(FRAG(X*)	-	-	-	Katrinaonly21	*	-
+109_950331314607046656.branch2.	87	2	history	NN	(NP*)))))	-	-	-	Katrinaonly21	*	-
+
+#end document

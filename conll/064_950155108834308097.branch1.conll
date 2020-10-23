@@ -1,0 +1,101 @@
+#begin document (064_950155108834308097.branch1.); part 45
+064_950155108834308097.branch1.	45	0	I	PRP	(ROOT(SINV(ADVP*	-	-	-	consbyname	*	-
+064_950155108834308097.branch1.	45	1	so	RB	*)	-	-	-	consbyname	*	-
+064_950155108834308097.branch1.	45	2	hope	VBP	(VP*	-	-	-	consbyname	*	-
+064_950155108834308097.branch1.	45	3	that	DT	(SBAR(S(NP*)	pds/exophora/nominal	sbj	-	consbyname	*	(1)
+064_950155108834308097.branch1.	45	4	's	VBZ	(VP*	-	-	-	consbyname	*	-
+064_950155108834308097.branch1.	45	5	true	JJ	(ADJP*))	-	-	-	consbyname	*	-
+064_950155108834308097.branch1.	45	6	.	.	*)))	-	-	-	consbyname	*	-
+064_950155108834308097.branch1.	45	7	https://t.co/XGN4s9U0nM	NN	(NP*)))	-	-	-	consbyname	(URL)	-
+
+064_950155108834308097.branch1.	45	0	@consbyname	JJ	(ROOT(S(ADVP(NP*	-	-	-	HetdoxEconomics	(HANDLE)	-
+064_950155108834308097.branch1.	45	1	https://t.co/JioNf5zcx5	NN	*)	-	-	-	HetdoxEconomics	(URL)	-
+064_950155108834308097.branch1.	45	2	Sadly	RB	*)	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	3	it	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	HetdoxEconomics	*	(1)
+064_950155108834308097.branch1.	45	4	is	VBZ	(VP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	5	untrue	JJ	(ADJP*))	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	6	.	.	*))	-	-	-	HetdoxEconomics	*	-
+
+064_950155108834308097.branch1.	45	0	I	PRP	(ROOT(S(NP*)	ppers/exophora/nominal	sbj	-	HetdoxEconomics	*	(6)
+064_950155108834308097.branch1.	45	1	got	VBD	(VP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	2	the	DT	(NP*	defnp/none/none	dir_obj	-	HetdoxEconomics	*	(1
+064_950155108834308097.branch1.	45	3	story	NN	*)	-	-	-	HetdoxEconomics	*	1)
+064_950155108834308097.branch1.	45	4	from	IN	(PP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	5	Michael	NNP	(NP*	ne/none/none	prep_phrase	-	HetdoxEconomics	(PERSON*	(3
+064_950155108834308097.branch1.	45	6	Hudson	NNP	*))	-	-	-	HetdoxEconomics	*)	3)
+064_950155108834308097.branch1.	45	7	so	IN	(SBAR*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	8	I	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	HetdoxEconomics	*	(6)
+064_950155108834308097.branch1.	45	9	took	VBD	(VP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	10	it	PRP	(NP*)	ppers/anaphora/nominal	dir_obj	-	HetdoxEconomics	*	(1)
+064_950155108834308097.branch1.	45	11	on	IN	(PP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	12	faith	NN	(NP*))))))))	-	-	-	HetdoxEconomics	*	-
+
+064_950155108834308097.branch1.	45	0	@HetdoxEconomics	NNS	(ROOT(S(NP*)	-	-	-	ProfSteveKeen	(HANDLE)	-
+064_950155108834308097.branch1.	45	1	@consbyname	VBP	(VP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	2	My	PRP$	(NP(NP*	defnp/none/none	other/appositive	-	ProfSteveKeen	*	(3
+064_950155108834308097.branch1.	45	3	good	JJ	*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	4	mate	NN	*)	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	5	Michael	NNP	(SBAR(S(NP*	ne/none/none	sbj	-	ProfSteveKeen	(PERSON*	-
+064_950155108834308097.branch1.	45	6	Hudson	NNP	*)	-	-	-	ProfSteveKeen	*)	3)
+064_950155108834308097.branch1.	45	7	does	VBZ	(VP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	8	occasionally	RB	(ADVP*)	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	9	get	VB	(VP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	10	anecdotes	NNS	(NP(NP(NP*)	defnp/none/none	dir_obj	-	ProfSteveKeen	*	(4)
+064_950155108834308097.branch1.	45	11	confused	VBN	(VP*))	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	12	,	,	*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	13	especially	RB	*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	14	those	DT	(NP(NP*)	pds/anaphora/nominal	sbj	-	ProfSteveKeen	*	(4)
+064_950155108834308097.branch1.	45	15	recounted	VBN	(VP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	16	in	IN	(PP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	17	an	DT	(NP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	18	Australian	JJ	*	-	-	-	ProfSteveKeen	(NATIONALITY)	-
+064_950155108834308097.branch1.	45	19	accent	NN	*)))))))))))	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	20	.	.	*))	-	-	-	ProfSteveKeen	*	-
+
+064_950155108834308097.branch1.	45	0	He	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	ProfSteveKeen	*	(3)
+064_950155108834308097.branch1.	45	1	's	VBZ	(VP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	2	great	JJ	(ADJP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	3	on	IN	(PP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	4	historical	JJ	(NP(NP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	5	facts	NNS	*)	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	6	on	IN	(PP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	7	money	NN	(NP*))	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	8	,	,	*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	9	of	IN	(PP*	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	10	course	NN	(NP*))))))	-	-	-	ProfSteveKeen	*	-
+064_950155108834308097.branch1.	45	11	.	.	*))	-	-	-	ProfSteveKeen	*	-
+
+064_950155108834308097.branch1.	45	0	@ProfSteveKeen	JJ	(ROOT(FRAG(ADJP*	-	-	-	HetdoxEconomics	(HANDLE*	-
+064_950155108834308097.branch1.	45	1	@consbyname	JJ	*)	-	-	-	HetdoxEconomics	*)	-
+064_950155108834308097.branch1.	45	2	He	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	HetdoxEconomics	*	(3)
+064_950155108834308097.branch1.	45	3	is	VBZ	(VP*))	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	4	.	.	*))	-	-	-	HetdoxEconomics	*	-
+
+064_950155108834308097.branch1.	45	0	You	PRP	(ROOT(S(NP*)	ppers/exophora/nominal	sbj	-	HetdoxEconomics	*	(7)
+064_950155108834308097.branch1.	45	1	are	VBP	(VP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	2	both	DT	(NP(NP*	other/anaphora/nominal	other/appositive	-	HetdoxEconomics	*	(7)
+064_950155108834308097.branch1.	45	3	major	JJ	*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	4	parts	NNS	*)	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	5	of	IN	(PP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	6	my	PRP$	(NP(NP*	ppos/anaphora/nominal	prep_phrase	-	HetdoxEconomics	*	(6)
+064_950155108834308097.branch1.	45	7	learning	NN	*)	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	8	of	IN	(PP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	9	the	DT	(NP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	10	dismal	JJ	*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	11	science	NN	*))))))	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	12	.	.	*))	-	-	-	HetdoxEconomics	*	-
+
+064_950155108834308097.branch1.	45	0	Thank	VB	(ROOT(S(VP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	1	you	PRP	(NP*)	ppers/anaphora/nominal	dir_obj	-	HetdoxEconomics	*	(7)
+064_950155108834308097.branch1.	45	2	for	IN	(PP(PP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	3	your	PRP$	(FRAG(NP*	ppos/anaphora/nominal	prep_phrase	-	HetdoxEconomics	*	(7)
+064_950155108834308097.branch1.	45	4	work	NN	*)	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	5	!	.	*))	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	6	-LRB-	-LRB-	(PRN*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	7	and	CC	*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	8	the	DT	(FRAG(NP*	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	9	Minsky	NNP	*)	-	-	-	HetdoxEconomics	(PERSON)	-
+064_950155108834308097.branch1.	45	10	program	NN	(NP*))	-	-	-	HetdoxEconomics	*	-
+064_950155108834308097.branch1.	45	11	-RRB-	-RRB-	*)))))	-	-	-	HetdoxEconomics	*	-
+
+#end document

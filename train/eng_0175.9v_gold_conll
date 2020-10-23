@@ -1,0 +1,80 @@
+#begin document (wb/eng/00/eng_0175); part 000
+wb/eng/00/eng_0175	0	0	You	PRP	(ROOT(S(NP*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	1	do	VBP	(VP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	2	got	VBD	(SBAR(S(VP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	3	a	DT	(SBAR(FRAG(NP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	4	good	JJ	*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	5	point	NN	*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	6	there	RB	(ADVP*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	7	.	.	*))))))	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	8	.	.	*))	-	-	-	JaybillsGames	*	-	
+
+wb/eng/00/eng_0175	0	0	Hey	UH	(ROOT(S(INTJ*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	1	@SkyFan91	NN	(VP*	-	-	-	JaybillsGames	(HANDLE)	(1)	
+wb/eng/00/eng_0175	0	2	,	,	(VP(PRN*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	3	do	VBP	(S(VP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	4	you	PRP	(S(NP*)	-	-	-	JaybillsGames	*	(1)	
+wb/eng/00/eng_0175	0	5	think	VB	(VP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	6	they	PRP	(SBAR(S(NP*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	7	'd	MD	(VP*))))))))	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	8	nerf	VB	*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	9	him	PRP	(NP*)	-	-	-	JaybillsGames	*	(2)	
+wb/eng/00/eng_0175	0	10	though	IN	(PP*)))	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	11	?	.	*))	-	-	-	JaybillsGames	*	-	
+
+wb/eng/00/eng_0175	0	0	Acti	NNP	(ROOT(S(NP*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	1	likes	VBZ	(VP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	2	doing	VBG	(SBAR(S(VP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	3	that	IN	(PP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	4	whenever	WRB	(FRAG(WHADVP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	5	a	DT	(NP(NP*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	6	new	JJ	*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	7	Sky	NNP	(NP*)))	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	8	drops	NNS	(NP*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	9	.	.	*)))	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	10	%emoji	FW	(NP-TMP(NP*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	11	https://t.co/4H93GrNdjX	NN	(NP*)))))))	-	-	-	JaybillsGames	(URL)	-	
+
+wb/eng/00/eng_0175	0	0	@JaybillsGames	NNS	(ROOT(NP(NP*)	-	-	-	SkyFan91	(HANDLE)	-	
+wb/eng/00/eng_0175	0	1	Depends	NNS	(NP*)	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	2	.	.	*))	-	-	-	SkyFan91	*	-	
+
+wb/eng/00/eng_0175	0	0	He	PRP	(ROOT(S(NP*)	-	-	-	SkyFan91	*	(2)	
+wb/eng/00/eng_0175	0	1	is	VBZ	(VP*	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	2	a	DT	(NP*	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	3	sensei	NN	*)	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	4	so	IN	(SBAR*	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	5	it	PRP	(S(NP*)	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	6	could	MD	(VP*	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	7	go	VB	(VP*	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	8	either	DT	(NP*	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	9	way	NN	*))))))))	-	-	-	SkyFan91	*	-	
+
+wb/eng/00/eng_0175	0	0	@SkyFan91	NN	(ROOT(NP(NP*)	-	-	-	JaybillsGames	(HANDLE)	-	
+wb/eng/00/eng_0175	0	1	Nerf	NN	(NP(NP*	-	-	-	JaybillsGames	(MISC*	-	
+wb/eng/00/eng_0175	0	2	Cortex	NN	*)	-	-	-	JaybillsGames	*)	-	
+wb/eng/00/eng_0175	0	3	,	,	*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	4	not	RB	*	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	5	him	PRP	(NP*))	-	-	-	JaybillsGames	*	(2)	
+wb/eng/00/eng_0175	0	6	.	.	*))	-	-	-	JaybillsGames	*	-	
+
+wb/eng/00/eng_0175	0	0	LMAO	NNP	(ROOT(FRAG(NP*)	-	-	-	JaybillsGames	*	-	
+wb/eng/00/eng_0175	0	1	.	.	*))	-	-	-	JaybillsGames	*	-	
+
+wb/eng/00/eng_0175	0	0	@JaybillsGames	NNS	(ROOT(S(NP*	-	-	-	ZoeGraceHarris	(HANDLE*	-	
+wb/eng/00/eng_0175	0	1	@SkyFan91	NN	*)	-	-	-	ZoeGraceHarris	*)	-	
+wb/eng/00/eng_0175	0	2	do	VBP	(VP*	-	-	-	ZoeGraceHarris	*	-	
+wb/eng/00/eng_0175	0	3	not	RB	*	-	-	-	ZoeGraceHarris	*	-	
+wb/eng/00/eng_0175	0	4	nerf	VB	(VP*	-	-	-	ZoeGraceHarris	*	-	
+wb/eng/00/eng_0175	0	5	my	PRP$	(NP*	-	-	-	ZoeGraceHarris	*	-	
+wb/eng/00/eng_0175	0	6	wife	NN	*)))))	-	-	-	ZoeGraceHarris	*	-	
+
+wb/eng/00/eng_0175	0	0	@ZoeGraceHarris	NNP	(ROOT(S(NP(NP*	-	-	-	SkyFan91	(HANDLE*	-	
+wb/eng/00/eng_0175	0	1	@JaybillsGames	NNPS	*	-	-	-	SkyFan91	*)	-	
+wb/eng/00/eng_0175	0	2	Nerf	NNP	*	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	3	Aku	NNP	*	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	4	Aku	NNP	*)	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	5	everyone	NN	(NP*))	-	-	-	SkyFan91	*	-	
+wb/eng/00/eng_0175	0	6	wins	VBZ	(VP*)))	-	-	-	SkyFan91	*	-	
+
+#end document

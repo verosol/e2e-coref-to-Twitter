@@ -1,0 +1,245 @@
+#begin document (015_947317600362684416.branch708.); part 11
+015_947317600362684416.branch708.	11	0	Florida	NNP	(ROOT(S(NP*	defnp/none/none	other/appositive	-	lulumcflew	(STATE_OR_PROVINCE)	-
+015_947317600362684416.branch708.	11	1	Rep.	NNP	*	-	-	-	lulumcflew	(TITLE)	-
+015_947317600362684416.branch708.	11	2	Matt	NNP	*	ne/none/none	sbj	-	lulumcflew	(PERSON*	-
+015_947317600362684416.branch708.	11	3	Gaetz	NNP	*)	-	-	-	lulumcflew	*)	-
+015_947317600362684416.branch708.	11	4	was	VBD	(VP*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	5	literally	RB	(ADVP*)	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	6	the	DT	(NP*	defnp/none/none	copula_rel	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	7	only	JJ	*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	8	person	NN	*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	9	to	TO	(S(VP*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	10	vote	VB	(VP*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	11	against	IN	(PP*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	12	an	DT	(NP*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	13	anti-human	JJ	*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	14	trafficking	NN	*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	15	bill	NN	*	-	-	-	lulumcflew	*	-
+015_947317600362684416.branch708.	11	16	https://t.co/T6v0YBOSbT	NN	*)))))))))	-	-	-	lulumcflew	(URL)	-
+
+015_947317600362684416.branch708.	11	0	@lulumcflew	NN	(ROOT(NP*	-	-	-	BillPrus	(HANDLE)	-
+015_947317600362684416.branch708.	11	1	https://t.co/tdjQ7VijTE	NN	*))	-	-	-	BillPrus	(URL)	-
+
+015_947317600362684416.branch708.	11	0	@BillPrus	NN	(ROOT(SINV(VP(NP(NP*	-	-	-	Olsonjam808	(HANDLE*	-
+015_947317600362684416.branch708.	11	1	@lulumcflew	NN	*)	-	-	-	Olsonjam808	*)	-
+015_947317600362684416.branch708.	11	2	Not	RB	(ADVP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	3	everything	NN	(NP*)))	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	4	bad	JJ	(ADJP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	5	you	PRP	(SBAR(S(NP*)	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	6	hear	VBP	(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	7	about	IN	(SBAR*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	8	Trump	NNP	(S(NP*)	-	-	-	Olsonjam808	(PERSON)	-
+015_947317600362684416.branch708.	11	9	is	VBZ	(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	10	true	JJ	(ADJP*)))))))))	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	11	:	:	*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	12	https://t.co/3RlDvqPLa8	NN	(NP*)))	-	-	-	Olsonjam808	(URL)	-
+
+015_947317600362684416.branch708.	11	0	@Olsonjam808	NN	(ROOT(S(NP(NP(NP*	-	-	-	BillPrus	(HANDLE*	-
+015_947317600362684416.branch708.	11	1	@lulumcflew	NN	*)	-	-	-	BillPrus	*)	-
+015_947317600362684416.branch708.	11	2	That	WDT	(NP*	defnp/none/none	sbj	-	BillPrus	*	(0
+015_947317600362684416.branch708.	11	3	whole	JJ	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	4	article	NN	*))	-	-	-	BillPrus	*	0)
+015_947317600362684416.branch708.	11	5	and	CC	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	6	its	PRP$	(NP*	ppos/anaphora/nominal	sbj	-	BillPrus	*	(0)
+015_947317600362684416.branch708.	11	7	RIS	NNP	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	8	writer	NN	*))	-	-	-	BillPrus	(TITLE)	-
+015_947317600362684416.branch708.	11	9	has	VBZ	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	10	been	VBN	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	11	debunked	VBN	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	12	long	RB	(ADVP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	13	ago	RB	*))))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	14	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	Run	NNP	(ROOT(NP(NP*)	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	1	along	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	2	troll	NN	(NP*))	defnp/none/none	other/vocative	-	BillPrus	*	(5)
+015_947317600362684416.branch708.	11	3	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	@BillPrus	NN	(ROOT(NP(NP*	-	-	-	Olsonjam808	(HANDLE*	-
+015_947317600362684416.branch708.	11	1	@lulumcflew	NN	*	-	-	-	Olsonjam808	*)	-
+015_947317600362684416.branch708.	11	2	Uh	NN	*)	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	3	...	:	*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	4	documentation	NN	(NP*)	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	5	?	.	*))	-	-	-	Olsonjam808	*	-
+
+015_947317600362684416.branch708.	11	0	I	PRP	(ROOT(S(NP*)	ppers/exophora/nominal	sbj	-	Olsonjam808	*	(5)
+015_947317600362684416.branch708.	11	1	trust	VBP	(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	2	the	DT	(S(NP*	ne/none/none	dir_obj	-	Olsonjam808	*	(7
+015_947317600362684416.branch708.	11	3	Guardian	NNP	*)	-	-	-	Olsonjam808	(MISC)	7)
+015_947317600362684416.branch708.	11	4	more	JJR	(ADJP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	5	than	IN	(SBAR*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	6	I	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	Olsonjam808	*	(5)
+015_947317600362684416.branch708.	11	7	trust	VBP	(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	8	random	JJ	(NP(NP*	defnp/none/none	dir_obj	-	Olsonjam808	*	(9
+015_947317600362684416.branch708.	11	9	rude	JJ	*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	10	guy	NN	*)	-	-	-	Olsonjam808	*	9)
+015_947317600362684416.branch708.	11	11	on	IN	(PP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	12	Twitter	NNP	(NP*)))))))))	-	-	-	Olsonjam808	(ORGANIZATION)	-
+015_947317600362684416.branch708.	11	13	.	.	*))	-	-	-	Olsonjam808	*	-
+
+015_947317600362684416.branch708.	11	0	@Olsonjam808	NN	(ROOT(S(S(NP*	-	-	-	BillPrus	(HANDLE*	-
+015_947317600362684416.branch708.	11	1	@lulumcflew	NN	*	-	-	-	BillPrus	*)	-
+015_947317600362684416.branch708.	11	2	Mensch	NN	*)	ne/none/none	sbj	-	BillPrus	*	(0)
+015_947317600362684416.branch708.	11	3	was	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	4	a	DT	(NP(NP*	indefnp/none/none	copula_rel	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	5	recent	JJ	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	6	member	NN	*)	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	7	of	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	8	U.K.	NNP	(NP*	defnp/none/none	prep_phrase	-	BillPrus	(ORGANIZATION*	(14
+015_947317600362684416.branch708.	11	9	Parliament	NNP	*)))))	-	-	-	BillPrus	*)	14)
+015_947317600362684416.branch708.	11	10	,	,	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	11	was	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	12	Mueller	NNP	(NP(NP*)	defnp/none/none	copula_rel	-	BillPrus	(PERSON)	-
+015_947317600362684416.branch708.	11	13	of	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	14	U.K.	NNP	(NP*)))	ne/none/none	prep_phrase	-	BillPrus	(LOCATION)	(14)
+015_947317600362684416.branch708.	11	15	now	RB	(ADVP*))	-	-	-	BillPrus	(DATE)	-
+015_947317600362684416.branch708.	11	16	indepenant	JJ	(NP*	indefnp/none/none	copula_rel	-	BillPrus	*	(0
+015_947317600362684416.branch708.	11	17	reporter	NN	*)	-	-	-	BillPrus	(TITLE)	0)
+015_947317600362684416.branch708.	11	18	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	She	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	BillPrus	*	(0)
+015_947317600362684416.branch708.	11	1	is	VBZ	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	2	3	CD	(NP(NP*	-	-	-	BillPrus	(DURATION*	-
+015_947317600362684416.branch708.	11	3	months	NNS	*)	-	-	-	BillPrus	*)	-
+015_947317600362684416.branch708.	11	4	ahead	RB	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	5	of	IN	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	6	news	NN	(NP*))))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	7	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	The	DT	(ROOT(S(NP*	ne/none/none	sbj	-	BillPrus	*	(7
+015_947317600362684416.branch708.	11	1	Guardian	NNP	*)	-	-	-	BillPrus	(MISC)	7)
+015_947317600362684416.branch708.	11	2	will	MD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	3	publish	VB	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	4	hit	NN	(NP*	indefnp/none/none	dir_obj	-	BillPrus	*	(3
+015_947317600362684416.branch708.	11	5	pieces	NNS	*)	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	6	from	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	7	non	JJ	(NP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	8	reporters	NNS	*))	-	-	-	BillPrus	*	3)
+015_947317600362684416.branch708.	11	9	if	IN	(SBAR*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	10	it	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	BillPrus	*	(3)
+015_947317600362684416.branch708.	11	11	fits	VBZ	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	12	their	PRP$	(NP*	ppos/anaphora/nominal	dir_obj	-	BillPrus	*	(7)
+015_947317600362684416.branch708.	11	13	narrative	NN	*))))))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	14	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	Some	DT	(ROOT(S(NP*)	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	1	have	VBP	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	2	been	VBN	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	3	exposed	VBN	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	4	as	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	5	being	VBG	(S(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	6	paid	VBN	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	7	by	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	8	Russians	NNPS	(NP*)))))))))	-	-	-	BillPrus	(MISC)	-
+015_947317600362684416.branch708.	11	9	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	@BillPrus	NN	(ROOT(S(NP(NP*	-	-	-	Olsonjam808	(HANDLE*	-
+015_947317600362684416.branch708.	11	1	@lulumcflew	NN	*)	-	-	-	Olsonjam808	*)	-
+015_947317600362684416.branch708.	11	2	Who	WP	(SBAR(WHNP*)	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	3	told	VBD	(S(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	4	you	PRP	(S(NP*)	ppers/anaphora/nominal	dir_obj	-	Olsonjam808	*	(9)
+015_947317600362684416.branch708.	11	5	Mensch	NNP	(NP*))))))	ne/none/none	sbj	-	Olsonjam808	*	(0)
+015_947317600362684416.branch708.	11	6	was	VBD	(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	7	the	DT	(NP(NP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	8	Mueller	NNP	*)	defnp/none/none	copula_rel	-	Olsonjam808	(PERSON)	-
+015_947317600362684416.branch708.	11	9	of	IN	(PP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	10	UK	NNP	(NP*))))	ne/none/none	prep_phrase	-	Olsonjam808	(COUNTRY)	(14)
+015_947317600362684416.branch708.	11	11	?	.	*))	-	-	-	Olsonjam808	*	-
+
+015_947317600362684416.branch708.	11	0	@Olsonjam808	NN	(ROOT(S(NP*	-	-	-	BillPrus	(HANDLE*	-
+015_947317600362684416.branch708.	11	1	@lulumcflew	NN	*)	-	-	-	BillPrus	*)	-
+015_947317600362684416.branch708.	11	2	Their	PRP$	(NP*)	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	3	was	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	4	a	DT	(NP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	5	cell	NN	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	6	phone	NN	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	7	scandal	NN	*))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	8	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	The	DT	(ROOT(S(NP(NP*	defnp/none/none	sbj	-	BillPrus	*	(11
+015_947317600362684416.branch708.	11	1	Fox	NNP	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	2	news	NN	*)	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	3	of	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	4	U.K.	NNP	(NP*)))	ne/none/none	prep_phrase	-	BillPrus	(LOCATION)	(14)|11)
+015_947317600362684416.branch708.	11	5	was	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	6	breaking	VBG	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	7	into	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	8	peoples	NNS	(NP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	9	cell	NN	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	10	phones	NNS	*))))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	11	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	A	DT	(ROOT(S(S(NP*	indefnp/none/none	sbj	-	BillPrus	*	(1
+015_947317600362684416.branch708.	11	1	little	JJ	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	2	girl	NN	*)	-	-	-	BillPrus	*	1)
+015_947317600362684416.branch708.	11	3	disappeared	VBD	(VP*))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	4	and	CC	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	5	the	DT	(S(NP*	defnp/none/none	sbj	-	BillPrus	*	(11
+015_947317600362684416.branch708.	11	6	news	NN	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	7	service	NN	*)	-	-	-	BillPrus	*	11)
+015_947317600362684416.branch708.	11	8	broke	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	9	into	IN	(PP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	10	her	PRP$	(NP*	ppos/anaphora/nominal	prep_phrase	-	BillPrus	*	(1)
+015_947317600362684416.branch708.	11	11	cell	NN	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	12	phone	NN	*))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	13	making	VBG	(S(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	14	her	PRP$	(S(NP*	ppos/anaphora/nominal	dir_obj	-	BillPrus	*	(1)
+015_947317600362684416.branch708.	11	15	family	NN	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	16	and	CC	*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	17	Scottland	NNP	*	-	-	-	BillPrus	(PERSON)	-
+015_947317600362684416.branch708.	11	18	yard	NN	*)	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	19	think	VB	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	20	she	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	BillPrus	*	(1)
+015_947317600362684416.branch708.	11	21	was	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	22	alive	JJ	(ADJP*))))))))))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	23	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	She	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	BillPrus	*	(1)
+015_947317600362684416.branch708.	11	1	was	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	2	not	RB	*)	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	3	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	The	DT	(ROOT(S(NP*	defnp/none/none	sbj	-	BillPrus	*	(14
+015_947317600362684416.branch708.	11	1	UK	NNP	*	-	-	-	BillPrus	(COUNTRY)	-
+015_947317600362684416.branch708.	11	2	govt	NN	*)	-	-	-	BillPrus	*	14)
+015_947317600362684416.branch708.	11	3	investigated	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	4	Louise	NNP	(SBAR(S(NP*)	ne/none/none	sbj	-	BillPrus	(PERSON)	(0)
+015_947317600362684416.branch708.	11	5	led	VBD	(VP*	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	6	it	PRP	(NP*)))))	-	-	-	BillPrus	*	-
+015_947317600362684416.branch708.	11	7	.	.	*))	-	-	-	BillPrus	*	-
+
+015_947317600362684416.branch708.	11	0	@BillPrus	NN	(ROOT(S(NP*)	-	-	-	Olsonjam808	(HANDLE)	-
+015_947317600362684416.branch708.	11	1	@lulumcflew	VBD	(VP(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	2	Yeah	UH	(NP*))	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	3	,	,	*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	4	Murdoch	NNP	(NP(NP*	ne/none/none|defnp/none/none	other/other|other/other	-	Olsonjam808	(PERSON)	(2|(12
+015_947317600362684416.branch708.	11	5	's	POS	*)	-	-	-	Olsonjam808	*	2)
+015_947317600362684416.branch708.	11	6	paper	NN	*))	-	-	-	Olsonjam808	*	12)
+015_947317600362684416.branch708.	11	7	...	:	*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	8	.	.	*))	-	-	-	Olsonjam808	*	-
+
+015_947317600362684416.branch708.	11	0	News	NN	(ROOT(NP(NP*)	ne/none/none	other/other	-	Olsonjam808	*	(12
+015_947317600362684416.branch708.	11	1	of	IN	(PP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	2	the	DT	(NP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	3	World	NNP	*))	-	-	-	Olsonjam808	(ORGANIZATION)	12)
+015_947317600362684416.branch708.	11	4	.	.	*))	-	-	-	Olsonjam808	*	-
+
+015_947317600362684416.branch708.	11	0	Murdoch	NNP	(ROOT(S(NP*)	ne/none/none	sbj	-	Olsonjam808	(PERSON)	(2)
+015_947317600362684416.branch708.	11	1	hired	VBD	(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	2	her	PRP$	(NP*)	ppers/anaphora/nominal	dir_obj	-	Olsonjam808	*	(0)
+015_947317600362684416.branch708.	11	3	after	IN	(PP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	4	that	DT	(NP*)))	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	5	...	:	*))	-	-	-	Olsonjam808	*	-
+
+015_947317600362684416.branch708.	11	0	curious	JJ	(ROOT(S(S(ADJP*))	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	1	,	,	*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	2	he	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	Olsonjam808	*	(2)
+015_947317600362684416.branch708.	11	3	's	VBZ	(VP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	4	not	RB	*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	5	usually	RB	(ADVP*)	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	6	a	DT	(NP*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	7	forgiving	JJ	*	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	8	guy	NN	*))	-	-	-	Olsonjam808	*	-
+015_947317600362684416.branch708.	11	9	.	.	*))	-	-	-	Olsonjam808	*	-
+
+#end document

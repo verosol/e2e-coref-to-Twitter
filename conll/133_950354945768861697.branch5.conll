@@ -1,0 +1,126 @@
+#begin document (133_950354945768861697.branch5.); part 104
+133_950354945768861697.branch5.	104	0	do	VB	(ROOT(SQ(VP(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	1	you	PRP	(SBAR(S(NP*)	ppers/exophora/nominal	sbj	-	collnsmith	*	(1)
+133_950354945768861697.branch5.	104	2	ever	RB	(ADVP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	3	start	VBP	(VP*	-	-	-	collnsmith	(DATE*	-
+133_950354945768861697.branch5.	104	4	the	DT	(S(NP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	5	day	NN	*)	-	-	-	collnsmith	*)	-
+133_950354945768861697.branch5.	104	6	world-weary	JJ	(ADJP*))))))	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	7	and	CC	*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	8	imagine	VB	(VP(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	9	instead	RB	(ADVP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	10	that	IN	(SBAR*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	11	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	collnsmith	*	(1)
+133_950354945768861697.branch5.	104	12	were	VBD	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	13	starting	VBG	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	14	a	DT	(NP(NP*	-	-	-	collnsmith	(DURATION*	-
+133_950354945768861697.branch5.	104	15	day	NN	*)	-	-	-	collnsmith	*)	-
+133_950354945768861697.branch5.	104	16	of	IN	(PP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	17	kindergarten	NN	(NP*))))))))	defnp/none/none	prep_phrase	-	collnsmith	*	(3)
+133_950354945768861697.branch5.	104	18	,	,	*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	19	then	RB	*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	20	feebly	RB	(VP(ADVP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	21	try	VB	*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	22	to	TO	(PP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	23	graft	NN	(NP*))	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	24	the	DT	(NP(NP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	25	imagined	VBN	*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	26	serenity	NN	*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	27	onto	IN	(PP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	28	your	PRP$	(NP*	ppos/anaphora/nominal	prep_phrase	-	collnsmith	*	(1)
+133_950354945768861697.branch5.	104	29	current	JJ	*	-	-	-	collnsmith	(DATE)	-
+133_950354945768861697.branch5.	104	30	day	NN	*))))))	-	-	-	collnsmith	(DURATION)	-
+133_950354945768861697.branch5.	104	31	?	.	*))	-	-	-	collnsmith	*	-
+
+133_950354945768861697.branch5.	104	0	It	PRP	(ROOT(S(NP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	1	does	VBZ	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	2	n't	RB	*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	3	work	VB	(VP*))))	-	-	-	collnsmith	*	-
+
+133_950354945768861697.branch5.	104	0	@collnsmith	NN	(ROOT(FRAG(NP(NP*)	-	-	-	jcernelli	(HANDLE)	-
+133_950354945768861697.branch5.	104	1	I	PRP	(SBAR(S(NP*)	ppers/exophora/nominal	sbj	-	jcernelli	*	(5)
+133_950354945768861697.branch5.	104	2	do	VBP	(VP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	3	n't	RB	*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	4	think	VB	(VP(VP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	5	I	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	jcernelli	*	(5)
+133_950354945768861697.branch5.	104	6	was	VBD	(VP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	7	very	RB	(ADJP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	8	serene	JJ	*)	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	9	in	IN	(PP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	10	kindergarten	NN	(NP*)))	defnp/none/none	prep_phrase	-	jcernelli	*	(3)
+133_950354945768861697.branch5.	104	11	.	.	*)))	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	12	%emoji	FW	(NP*))))))))	-	-	-	jcernelli	*	-
+
+133_950354945768861697.branch5.	104	0	@jcernelli	NNS	(ROOT(S(NP(NP*)	-	-	-	collnsmith	(HANDLE)	-
+133_950354945768861697.branch5.	104	1	I	PRP	(SBAR(S(NP*)	ppers/exophora/nominal	sbj	-	collnsmith	*	(8)
+133_950354945768861697.branch5.	104	2	was	VBD	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	3	serene	JJ	(ADJP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	4	until	IN	(PP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	5	interacting	VBG	(S(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	6	with	IN	(PP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	7	others	NNS	(NP*))))))))))	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	8	became	VBD	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	9	inevitable	JJ	(NP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	10	lol	NN	*))))	-	-	-	collnsmith	*	-
+
+133_950354945768861697.branch5.	104	0	@collnsmith	NN	(ROOT(S(NP*)	-	-	-	jcernelli	(HANDLE)	-
+133_950354945768861697.branch5.	104	1	I	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	jcernelli	*	(5)
+133_950354945768861697.branch5.	104	2	was	VBD	(VP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	3	scared	VBN	(VP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	4	of	IN	(PP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	5	the	DT	(NP*	defnp/none/none	prep_phrase	-	jcernelli	*	(9
+133_950354945768861697.branch5.	104	6	teacher	NN	*))))	-	-	-	jcernelli	(TITLE)	9)
+133_950354945768861697.branch5.	104	7	.	.	*))	-	-	-	jcernelli	*	-
+
+133_950354945768861697.branch5.	104	0	She	PRP	(ROOT(S(S(NP*)	ppers/anaphora/nominal	sbj	-	jcernelli	*	(9)
+133_950354945768861697.branch5.	104	1	was	VBD	(VP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	2	really	RB	(ADJP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	3	nice	JJ	*)))	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	4	but	CC	*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	5	I	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	jcernelli	*	(5)
+133_950354945768861697.branch5.	104	6	was	VBD	(VP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	7	always	RB	(ADVP*)	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	8	super	JJ	(ADJP(ADJP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	9	shy	JJ	*)	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	10	with	IN	(PP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	11	adults	NNS	(NP*)))))	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	12	?	.	*))	-	-	-	jcernelli	*	-
+
+133_950354945768861697.branch5.	104	0	@jcernelli	NNS	(ROOT(S(NP(NP*)	-	-	-	collnsmith	(HANDLE)	-
+133_950354945768861697.branch5.	104	1	What	WDT	(SBAR(WHNP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	2	gives	VBZ	(S(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	3	it	PRP	(NP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	4	serenity	NN	(NP(NP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	5	for	IN	(PP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	6	me	PRP	(NP*)))))))	ppers/anaphora/nominal	prep_phrase	-	collnsmith	*	(8)
+133_950354945768861697.branch5.	104	7	is	VBZ	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	8	how	WRB	(SBAR(WHADVP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	9	competely	RB	(S(ADVP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	10	enveloped	VBN	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	11	in	IN	(PP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	12	my	PRP$	(NP(NP*	ppos/anaphora/nominal	prep_phrase	-	collnsmith	*	(8)
+133_950354945768861697.branch5.	104	13	own	JJ	*	other/anaphora/nominal	prep_phrase	-	collnsmith	*	(8)
+133_950354945768861697.branch5.	104	14	world	NN	*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	15	i	FW	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	collnsmith	*	(8)
+133_950354945768861697.branch5.	104	16	could	MD	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	17	be	VB	(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	18	%emoji	NNS	(NP*)))))))))))))	-	-	-	collnsmith	*	-
+
+133_950354945768861697.branch5.	104	0	ca	MD	(ROOT(SINV(VP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	1	n't	RB	*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	2	even	RB	(ADVP*)	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	3	remember	VB	(VP*))	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	4	the	DT	(NP*	-	-	-	collnsmith	*	-
+133_950354945768861697.branch5.	104	5	teacher	NN	*)))	-	-	-	collnsmith	(TITLE)	-
+
+133_950354945768861697.branch5.	104	0	@collnsmith	NNP	(ROOT(UCP(NP*)	-	-	-	jcernelli	(HANDLE)	-
+133_950354945768861697.branch5.	104	1	But	CC	*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	2	teach	VB	(S(VP*	defnp/none/none	dir_obj	-	jcernelli	*	(9)
+133_950354945768861697.branch5.	104	3	aside	RB	(ADVP*)	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	4	yeah	JJ	(NP(NP*)	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	5	it	PRP	(SBAR(S(NP*)	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	6	was	VBD	(VP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	7	pretty	RB	(ADJP*	-	-	-	jcernelli	*	-
+133_950354945768861697.branch5.	104	8	serene	JJ	*)))))))))	-	-	-	jcernelli	*	-
+
+#end document

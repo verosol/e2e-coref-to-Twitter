@@ -1,0 +1,95 @@
+#begin document (wb/eng/00/eng_0095); part 000
+wb/eng/00/eng_0095	0	0	It	PRP	(ROOT(S(NP*)	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	1	's	VBZ	(VP*	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	2	my	PRP$	(NP*	-	-	-	tom_watson	*	(0)	
+wb/eng/00/eng_0095	0	3	birthday	NN	*	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	4	today	NN	*))	-	-	-	tom_watson	(DATE)	-	
+wb/eng/00/eng_0095	0	5	.	.	*))	-	-	-	tom_watson	*	-	
+
+wb/eng/00/eng_0095	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	tom_watson	*	(0)	
+wb/eng/00/eng_0095	0	1	have	VBP	(VP*	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	2	one	CD	(NP(NP(NP*	-	-	-	tom_watson	(NUMBER)	-	
+wb/eng/00/eng_0095	0	3	piece	NN	*)	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	4	of	IN	(PP*	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	5	advice	NN	(FRAG(NP(NP*)	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	6	to	TO	(PP*	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	7	myself	PRP	(NP*)))	-	-	-	tom_watson	*	(0)	
+wb/eng/00/eng_0095	0	8	.	.	*)))	-	-	-	tom_watson	*	-	
+wb/eng/00/eng_0095	0	9	https://t.co/VjTSSMfF62	NN	*))))	-	-	-	tom_watson	(URL)	-	
+
+wb/eng/00/eng_0095	0	0	@tom_watson	NN	(ROOT(NP(NP*)	-	-	-	DeeSuCee	(HANDLE)	-	
+wb/eng/00/eng_0095	0	1	Happy	JJ	(NP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	2	birthday	NN	*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	3	Mr	NN	*	-	-	-	DeeSuCee	*	(0	
+wb/eng/00/eng_0095	0	4	Watson	NNP	*)	-	-	-	DeeSuCee	(PERSON)	0)	
+wb/eng/00/eng_0095	0	5	.	.	*))	-	-	-	DeeSuCee	*	-	
+
+wb/eng/00/eng_0095	0	0	New	NNP	(ROOT(NP(NP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	1	resolution	NN	*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	2	sugestion	NN	*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	3	for	IN	(PP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	4	you	PRP	(NP*))	-	-	-	DeeSuCee	*	(0)	
+wb/eng/00/eng_0095	0	5	.	.	*))	-	-	-	DeeSuCee	*	-	
+
+wb/eng/00/eng_0095	0	0	Start	NNP	(ROOT(NP(NP*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	1	telling	VBG	(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	2	the	DT	(NP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	3	truth	NN	*))	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	4	.	.	*))	-	-	-	DeeSuCee	*	-	
+
+wb/eng/00/eng_0095	0	0	@DeeSuCee	NN	(ROOT(S(NP(NP*	-	-	-	villagenotts	(HANDLE*	-	
+wb/eng/00/eng_0095	0	1	@tom_watson	NN	*	-	-	-	villagenotts	*)	-	
+wb/eng/00/eng_0095	0	2	Dave	NNP	*)	-	-	-	villagenotts	(PERSON)	(4	
+wb/eng/00/eng_0095	0	3	you	PRP	(SBAR(S(NP*)	-	-	-	villagenotts	*	4)	
+wb/eng/00/eng_0095	0	4	are	VBP	(VP*	-	-	-	villagenotts	*	-	
+wb/eng/00/eng_0095	0	5	an	DT	(NP*)))))	-	-	-	villagenotts	*	-	
+wb/eng/00/eng_0095	0	6	idiot	VBP	(VP*	-	-	-	villagenotts	*	-	
+wb/eng/00/eng_0095	0	7	he	PRP	(SBAR(S(NP*)	-	-	-	villagenotts	*	(0)	
+wb/eng/00/eng_0095	0	8	's	VBZ	(VP*	-	-	-	villagenotts	*	-	
+wb/eng/00/eng_0095	0	9	an	DT	(NP*	-	-	-	villagenotts	*	-	
+wb/eng/00/eng_0095	0	10	Honourable	JJ	*	-	-	-	villagenotts	*	-	
+wb/eng/00/eng_0095	0	11	MP	NN	*)))))))	-	-	-	villagenotts	*	-	
+
+wb/eng/00/eng_0095	0	0	@villagenotts	NNS	(ROOT(X(NP*)	-	-	-	DeeSuCee	(HANDLE*	-	
+wb/eng/00/eng_0095	0	1	@tom_watson	NNP	(SBAR(NP*	-	-	-	DeeSuCee	*)	-	
+wb/eng/00/eng_0095	0	2	Well	NNP	*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	3	if	IN	*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	4	he	PRP	(S(NP*)	-	-	-	DeeSuCee	*	(0)	
+wb/eng/00/eng_0095	0	5	is	VBZ	(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	6	that	IN	(SBAR*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	7	honourable	JJ	(S(NP(NP*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	8	he	PRP	(SBAR(S(NP*)	-	-	-	DeeSuCee	*	(0)	
+wb/eng/00/eng_0095	0	9	should	MD	(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	10	stop	VB	(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	11	being	VBG	(S(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	12	party	NN	(NP*))))))))	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	13	to	TO	(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	14	deliberate	VB	(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	15	lies	NNS	(NP*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	16	like	IN	(PP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	17	''	''	*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	18	hundreds	NNS	(NP(NP*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	19	of	IN	(PP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	20	nurses	NNS	(NP(NP*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	21	queueing	VBG	(VP*)))))	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	22	at	IN	(PP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	23	food	NN	(NP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	24	banks	NNS	*))	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	25	''	''	*)))))))))	-	-	-	DeeSuCee	*	-	
+
+wb/eng/00/eng_0095	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	DeeSuCee	*	(4)	
+wb/eng/00/eng_0095	0	1	may	MD	(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	2	be	VB	(VP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	3	an	DT	(NP(NP(NP*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	4	idiot	VBP	(SBAR(S(VP*))))	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	5	but	CC	(CONJP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	6	not	RB	*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	7	a	DT	(NP(NP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	8	lemming	VBG	*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	9	hypocrite	NN	*)	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	10	following	VBG	(PP*	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	11	Labour	NN	(NP(NP*)	-	-	-	DeeSuCee	(ORGANIZATION)	-	
+wb/eng/00/eng_0095	0	12	lies	VBZ	(VP*)))))))	-	-	-	DeeSuCee	*	-	
+wb/eng/00/eng_0095	0	13	.	.	*))	-	-	-	DeeSuCee	*	-	
+
+#end document

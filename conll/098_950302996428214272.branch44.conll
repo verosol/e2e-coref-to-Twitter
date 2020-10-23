@@ -1,0 +1,95 @@
+#begin document (098_950302996428214272.branch44.); part 77
+098_950302996428214272.branch44.	77	0	It	PRP	(ROOT(S(NP*)	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	1	's	VBZ	(VP*	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	2	my	PRP$	(NP*	ppos/exophora/nominal	copula_rel	-	tom_watson	*	(0)
+098_950302996428214272.branch44.	77	3	birthday	NN	*	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	4	today	NN	*))	-	-	-	tom_watson	(DATE)	-
+098_950302996428214272.branch44.	77	5	.	.	*))	-	-	-	tom_watson	*	-
+
+098_950302996428214272.branch44.	77	0	I	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	tom_watson	*	(0)
+098_950302996428214272.branch44.	77	1	have	VBP	(VP*	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	2	one	CD	(NP(NP(NP*	-	-	-	tom_watson	(NUMBER)	-
+098_950302996428214272.branch44.	77	3	piece	NN	*)	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	4	of	IN	(PP*	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	5	advice	NN	(FRAG(NP(NP*)	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	6	to	TO	(PP*	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	7	myself	PRP	(NP*)))	prefl/anaphora/nominal	prep_phrase	-	tom_watson	*	(0)
+098_950302996428214272.branch44.	77	8	.	.	*)))	-	-	-	tom_watson	*	-
+098_950302996428214272.branch44.	77	9	https://t.co/VjTSSMfF62	NN	*))))	-	-	-	tom_watson	(URL)	-
+
+098_950302996428214272.branch44.	77	0	@tom_watson	NN	(ROOT(NP(NP*)	-	-	-	DeeSuCee	(HANDLE)	-
+098_950302996428214272.branch44.	77	1	Happy	JJ	(NP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	2	birthday	NN	*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	3	Mr	NN	*	ne/none/none	other/vocative	-	DeeSuCee	*	(0
+098_950302996428214272.branch44.	77	4	Watson	NNP	*)	-	-	-	DeeSuCee	(PERSON)	0)
+098_950302996428214272.branch44.	77	5	.	.	*))	-	-	-	DeeSuCee	*	-
+
+098_950302996428214272.branch44.	77	0	New	NNP	(ROOT(NP(NP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	1	resolution	NN	*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	2	sugestion	NN	*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	3	for	IN	(PP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	4	you	PRP	(NP*))	ppers/anaphora/nominal	prep_phrase	-	DeeSuCee	*	(0)
+098_950302996428214272.branch44.	77	5	.	.	*))	-	-	-	DeeSuCee	*	-
+
+098_950302996428214272.branch44.	77	0	Start	NNP	(ROOT(NP(NP*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	1	telling	VBG	(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	2	the	DT	(NP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	3	truth	NN	*))	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	4	.	.	*))	-	-	-	DeeSuCee	*	-
+
+098_950302996428214272.branch44.	77	0	@DeeSuCee	NN	(ROOT(S(NP(NP*	-	-	-	villagenotts	(HANDLE*	-
+098_950302996428214272.branch44.	77	1	@tom_watson	NN	*	-	-	-	villagenotts	*)	-
+098_950302996428214272.branch44.	77	2	Dave	NNP	*)	ne/none/none	other/appositive	-	villagenotts	(PERSON)	(4
+098_950302996428214272.branch44.	77	3	you	PRP	(SBAR(S(NP*)	ppers/exophora/nominal	sbj	-	villagenotts	*	4)
+098_950302996428214272.branch44.	77	4	are	VBP	(VP*	-	-	-	villagenotts	*	-
+098_950302996428214272.branch44.	77	5	an	DT	(NP*)))))	indefnp/none/none	copula_rel	-	villagenotts	*	-
+098_950302996428214272.branch44.	77	6	idiot	VBP	(VP*	-	-	-	villagenotts	*	-
+098_950302996428214272.branch44.	77	7	he	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	villagenotts	*	(0)
+098_950302996428214272.branch44.	77	8	's	VBZ	(VP*	-	-	-	villagenotts	*	-
+098_950302996428214272.branch44.	77	9	an	DT	(NP*	indefnp/none/none	copula_rel	-	villagenotts	*	-
+098_950302996428214272.branch44.	77	10	Honourable	JJ	*	-	-	-	villagenotts	*	-
+098_950302996428214272.branch44.	77	11	MP	NN	*)))))))	-	-	-	villagenotts	*	-
+
+098_950302996428214272.branch44.	77	0	@villagenotts	NNS	(ROOT(X(NP*)	-	-	-	DeeSuCee	(HANDLE*	-
+098_950302996428214272.branch44.	77	1	@tom_watson	NNP	(SBAR(NP*	-	-	-	DeeSuCee	*)	-
+098_950302996428214272.branch44.	77	2	Well	NNP	*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	3	if	IN	*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	4	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	DeeSuCee	*	(0)
+098_950302996428214272.branch44.	77	5	is	VBZ	(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	6	that	IN	(SBAR*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	7	honourable	JJ	(S(NP(NP*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	8	he	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	DeeSuCee	*	(0)
+098_950302996428214272.branch44.	77	9	should	MD	(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	10	stop	VB	(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	11	being	VBG	(S(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	12	party	NN	(NP*))))))))	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	13	to	TO	(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	14	deliberate	VB	(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	15	lies	NNS	(NP*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	16	like	IN	(PP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	17	''	''	*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	18	hundreds	NNS	(NP(NP*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	19	of	IN	(PP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	20	nurses	NNS	(NP(NP*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	21	queueing	VBG	(VP*)))))	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	22	at	IN	(PP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	23	food	NN	(NP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	24	banks	NNS	*))	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	25	''	''	*)))))))))	-	-	-	DeeSuCee	*	-
+
+098_950302996428214272.branch44.	77	0	I	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	DeeSuCee	*	(4)
+098_950302996428214272.branch44.	77	1	may	MD	(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	2	be	VB	(VP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	3	an	DT	(NP(NP(NP*)	indefnp/none/none	copula_rel	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	4	idiot	VBP	(SBAR(S(VP*))))	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	5	but	CC	(CONJP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	6	not	RB	*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	7	a	DT	(NP(NP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	8	lemming	VBG	*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	9	hypocrite	NN	*)	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	10	following	VBG	(PP*	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	11	Labour	NN	(NP(NP*)	-	-	-	DeeSuCee	(ORGANIZATION)	-
+098_950302996428214272.branch44.	77	12	lies	VBZ	(VP*)))))))	-	-	-	DeeSuCee	*	-
+098_950302996428214272.branch44.	77	13	.	.	*))	-	-	-	DeeSuCee	*	-
+
+#end document

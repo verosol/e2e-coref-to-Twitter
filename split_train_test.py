@@ -36,10 +36,12 @@ def main():
                             a=begin
                             towrite.append(a)
                         elif '#begin' not in a and '#end' not in a and a!='\n':
-                            a=a.split('\t')
+                            a=a.strip('\n').split('\t')
+                            a[6] = '-'
+                            a[7] = '-'
                             a[0]=n
                             a[1]='0'
-                            a = a[0:11]+[a[12]]+['\n']
+                            a = a+['\n']
                             a='\t'.join(a)
                             towrite.append(a)
                         else:

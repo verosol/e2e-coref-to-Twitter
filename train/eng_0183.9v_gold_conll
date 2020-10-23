@@ -1,0 +1,101 @@
+#begin document (wb/eng/00/eng_0183); part 000
+wb/eng/00/eng_0183	0	0	''	''	(ROOT(S(VP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	1	Wow	UH	(NP*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	2	this	DT	(NP(NP*	-	-	-	JimMFelton	*	(2	
+wb/eng/00/eng_0183	0	3	passport	NN	*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	4	's	POS	*)	-	-	-	JimMFelton	*	2)	
+wb/eng/00/eng_0183	0	5	fancy	NN	*))	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	6	.	.	*))	-	-	-	JimMFelton	*	-	
+
+wb/eng/00/eng_0183	0	0	Must	MD	(ROOT(S(VP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	1	have	VB	(VP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	2	some	DT	(NP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	3	kickass	NN	*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	4	features	NNS	*)))	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	5	.	.	*))	-	-	-	JimMFelton	*	-	
+
+wb/eng/00/eng_0183	0	0	How	WRB	(ROOT(SBARQ(WHNP(WHADJP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	1	many	JJ	*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	2	countries	NNS	*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	3	do	VBP	(SQ*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	4	you	PRP	(NP*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	5	have	VB	(VP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	6	the	DT	(NP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	7	right	NN	*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	8	to	TO	(S(VP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	9	work	VB	(VP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	10	in	IN	(PP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	11	on	IN	(PP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	12	this	DT	(NP*	-	-	-	JimMFelton	*	(2	
+wb/eng/00/eng_0183	0	13	bad	JJ	*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	14	boy	NN	*)))))))))	-	-	-	JimMFelton	*	2)	
+wb/eng/00/eng_0183	0	15	?	.	*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	16	''	''	*))	-	-	-	JimMFelton	*	-	
+
+wb/eng/00/eng_0183	0	0	''	''	(ROOT(S(VP*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	1	1	CD	*	-	-	-	JimMFelton	(NUMBER)	-	
+wb/eng/00/eng_0183	0	2	''	''	*))	-	-	-	JimMFelton	*	-	
+
+wb/eng/00/eng_0183	0	0	''	''	(ROOT(NP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	1	Huh	NNP	*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	2	.	.	*))	-	-	-	JimMFelton	*	-	
+
+wb/eng/00/eng_0183	0	0	Still	RB	(ROOT(NP(NP*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	1	,	,	*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	2	blue	JJ	(NP(NP*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	3	though	IN	(ADJP*))	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	4	...	:	*))	-	-	-	JimMFelton	*	-	
+
+wb/eng/00/eng_0183	0	0	Pretty	NNP	(ROOT(FRAG(NP(NP(NP*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	1	fucking	RB	(PP*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	2	snazzy	JJ	(ADJP*))	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	3	.	.	*	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	4	''	''	*)	-	-	-	JimMFelton	*	-	
+wb/eng/00/eng_0183	0	5	https://t.co/DrB14V2XI8	NN	(NP*))))	-	-	-	JimMFelton	(URL)	-	
+
+wb/eng/00/eng_0183	0	0	@JimMFelton	NN	(ROOT(S(NP*	-	-	-	patriciaohara	(HANDLE*	-	
+wb/eng/00/eng_0183	0	1	@MattGrahamKent	NN	*)	-	-	-	patriciaohara	*)	-	
+wb/eng/00/eng_0183	0	2	used	VBN	(VP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	3	to	TO	(S(VP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	4	be	VB	(VP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	5	black	JJ	(ADJP(ADJP(ADJP(ADJP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	6	though	IN	*)	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	7	-	:	(PRN*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	8	that	IN	(SBAR*	-	-	-	patriciaohara	*	(3	
+wb/eng/00/eng_0183	0	9	old	JJ	(FRAG(NP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	10	blighty	NN	*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	11	passport	NN	*)))	-	-	-	patriciaohara	*	3)	
+wb/eng/00/eng_0183	0	12	-	:	*))	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	13	not	RB	(ADJP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	14	blue	JJ	*))	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	15	-	:	*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	16	black	JJ	(ADJP*))))))))	-	-	-	patriciaohara	(PERSON)	-	
+
+wb/eng/00/eng_0183	0	0	@patriciaohara	NN	(ROOT(FRAG(NP(NP*	-	-	-	MattGrahamKent	(HANDLE*	-	
+wb/eng/00/eng_0183	0	1	@JimMFelton	NN	*)	-	-	-	MattGrahamKent	*)	-	
+wb/eng/00/eng_0183	0	2	I	PRP	(SBAR(S(NP*)	-	-	-	MattGrahamKent	*	-	
+wb/eng/00/eng_0183	0	3	think	VBP	(VP*	-	-	-	MattGrahamKent	*	-	
+wb/eng/00/eng_0183	0	4	it	PRP	(SBAR(S(NP*)	-	-	-	MattGrahamKent	*	(3)	
+wb/eng/00/eng_0183	0	5	was	VBD	(VP*	-	-	-	MattGrahamKent	*	-	
+wb/eng/00/eng_0183	0	6	blue	JJ	(ADJP*	-	-	-	MattGrahamKent	*	-	
+wb/eng/00/eng_0183	0	7	in	IN	(PP*	-	-	-	MattGrahamKent	*	-	
+wb/eng/00/eng_0183	0	8	1892	CD	(NP*))))))))))))	-	-	-	MattGrahamKent	(DATE)	-	
+
+wb/eng/00/eng_0183	0	0	@MattGrahamKent	JJ	(ROOT(FRAG(NP*	-	-	-	patriciaohara	(HANDLE*	-	
+wb/eng/00/eng_0183	0	1	@JimMFelton	NN	*	-	-	-	patriciaohara	*)	-	
+wb/eng/00/eng_0183	0	2	hahaah	NN	*)	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	3	like	IN	(PP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	4	tory	JJ	(NP(NP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	5	policies	NNS	*)	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	6	-	:	(PRN*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	7	progress	NN	(S(NP*)	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	8	is	VBZ	(VP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	9	about	IN	(PP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	10	going	VBG	(S(VP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	11	backwards	RB	(ADVP*	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	12	now	RB	*))))))	-	-	-	patriciaohara	(DATE)	-	
+wb/eng/00/eng_0183	0	13	-	:	*)	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	14	who	WP	(SBAR(WHNP*)	-	-	-	patriciaohara	*	-	
+wb/eng/00/eng_0183	0	15	knew	VBD	(S(VP*)))))))	-	-	-	patriciaohara	*	-	
+
+#end document

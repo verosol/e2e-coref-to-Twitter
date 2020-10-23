@@ -1,0 +1,70 @@
+#begin document (166_950372762480271360.branch11.); part 132
+166_950372762480271360.branch11.	132	0	Ann	NNP	(ROOT(NP(NP*	ne/none/none	sbj	-	PinkNews	(PERSON*	(0
+166_950372762480271360.branch11.	132	1	Widdecombe	NNP	*)	-	-	-	PinkNews	*)	0)
+166_950372762480271360.branch11.	132	2	rows	NNS	(NP(NP(NP*)	-	-	-	PinkNews	*	-
+166_950372762480271360.branch11.	132	3	with	IN	(PP*	-	-	-	PinkNews	*	-
+166_950372762480271360.branch11.	132	4	Courtney	NNP	(NP*	-	-	-	PinkNews	(PERSON*	-
+166_950372762480271360.branch11.	132	5	Act	NNP	*)))	-	-	-	PinkNews	*)	-
+166_950372762480271360.branch11.	132	6	and	CC	*	-	-	-	PinkNews	*	-
+166_950372762480271360.branch11.	132	7	India	NNP	(NP(NP*	-	-	-	PinkNews	(COUNTRY)	-
+166_950372762480271360.branch11.	132	8	Willoughby	NNP	*)	-	-	-	PinkNews	(PERSON)	-
+166_950372762480271360.branch11.	132	9	over	IN	(PP*	-	-	-	PinkNews	*	-
+166_950372762480271360.branch11.	132	10	same-sex	JJ	(NP*	defnp/none/none	prep_phrase	-	PinkNews	*	(1
+166_950372762480271360.branch11.	132	11	marriage	NN	*	-	-	-	PinkNews	*	1)
+166_950372762480271360.branch11.	132	12	https://t.co/bTeIjuTyMB	NN	*))))))	-	-	-	PinkNews	(URL)	-
+
+166_950372762480271360.branch11.	132	0	@PinkNews	NNS	(ROOT(S(NP*)	-	-	-	PaddyOdoors79	(HANDLE)	-
+166_950372762480271360.branch11.	132	1	She	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	PaddyOdoors79	*	(0)
+166_950372762480271360.branch11.	132	2	is	VBZ	(VP*	-	-	-	PaddyOdoors79	*	-
+166_950372762480271360.branch11.	132	3	entitled	VBN	(VP*	-	-	-	PaddyOdoors79	*	-
+166_950372762480271360.branch11.	132	4	to	TO	(PP*	-	-	-	PaddyOdoors79	*	-
+166_950372762480271360.branch11.	132	5	her	PRP$	(NP*	ppos/anaphora/nominal	indir_obj	-	PaddyOdoors79	*	(0)
+166_950372762480271360.branch11.	132	6	opinion	NN	*))))	-	-	-	PaddyOdoors79	*	-
+166_950372762480271360.branch11.	132	7	.	.	*))	-	-	-	PaddyOdoors79	*	-
+
+166_950372762480271360.branch11.	132	0	@PaddyOdoors79	NN	(ROOT(FRAG(NP(NP*	-	-	-	jamiebluebox	(HANDLE*	-
+166_950372762480271360.branch11.	132	1	@PinkNews	NNS	*)	-	-	-	jamiebluebox	*)	-
+166_950372762480271360.branch11.	132	2	She	PRP	(SBAR(S(S(NP*)	ppers/anaphora/nominal	sbj	-	jamiebluebox	*	(0)
+166_950372762480271360.branch11.	132	3	does	VBZ	(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	4	n't	RB	*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	5	have	VB	(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	6	to	TO	(S(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	7	agree	VB	(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	8	with	IN	(PP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	9	same	JJ	(NP*	defnp/none/none	prep_phrase	-	jamiebluebox	*	(1
+166_950372762480271360.branch11.	132	10	sex	NN	*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	11	marriage	NN	*))))))))	-	-	-	jamiebluebox	*	1)
+166_950372762480271360.branch11.	132	12	,	,	*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	13	but	CC	*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	14	she	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	jamiebluebox	*	(0)
+166_950372762480271360.branch11.	132	15	should	MD	(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	16	accept	VB	(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	17	the	DT	(NP(NP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	18	reality	NN	*)	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	19	of	IN	(PP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	20	it	PRP	(NP*)))))))))))	ppers/anaphora/nominal	prep_phrase	-	jamiebluebox	*	(1)
+
+166_950372762480271360.branch11.	132	0	@jamiebluebox	NN	(ROOT(S(NP*	-	-	-	PaddyOdoors79	(HANDLE*	-
+166_950372762480271360.branch11.	132	1	@PinkNews	NNS	*)	-	-	-	PaddyOdoors79	*)	-
+166_950372762480271360.branch11.	132	2	She	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	PaddyOdoors79	*	(0)
+166_950372762480271360.branch11.	132	3	can	MD	(VP*	-	-	-	PaddyOdoors79	*	-
+166_950372762480271360.branch11.	132	4	accept	VB	(VP*	-	-	-	PaddyOdoors79	*	-
+166_950372762480271360.branch11.	132	5	whatever	WDT	(SBAR(WHNP*)	-	-	-	PaddyOdoors79	*	-
+166_950372762480271360.branch11.	132	6	she	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	PaddyOdoors79	*	(0)
+166_950372762480271360.branch11.	132	7	wants	VBZ	(VP*)))))	-	-	-	PaddyOdoors79	*	-
+166_950372762480271360.branch11.	132	8	.	.	*))	-	-	-	PaddyOdoors79	*	-
+
+166_950372762480271360.branch11.	132	0	@PaddyOdoors79	NN	(ROOT(S(NP*	-	-	-	jamiebluebox	(HANDLE*	-
+166_950372762480271360.branch11.	132	1	@PinkNews	NNP	*	-	-	-	jamiebluebox	*)	-
+166_950372762480271360.branch11.	132	2	Well	NNP	*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	3	two	CD	(NP*	defnp/none/none	sbj	-	jamiebluebox	(NUMBER)	(2
+166_950372762480271360.branch11.	132	4	gay	JJ	*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	5	people	NNS	*))	-	-	-	jamiebluebox	*	2)
+166_950372762480271360.branch11.	132	6	can	MD	(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	7	get	VB	(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	8	married	VBN	(VP*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	9	if	IN	(SBAR*	-	-	-	jamiebluebox	*	-
+166_950372762480271360.branch11.	132	10	they	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	jamiebluebox	*	(2)
+166_950372762480271360.branch11.	132	11	want	VBP	(VP*))))))))	-	-	-	jamiebluebox	*	-
+
+#end document

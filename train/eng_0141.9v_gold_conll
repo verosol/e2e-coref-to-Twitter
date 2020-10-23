@@ -1,0 +1,78 @@
+#begin document (wb/eng/00/eng_0141); part 000
+wb/eng/00/eng_0141	0	0	Agree	VB	(ROOT(SINV(VP*	-	-	-	MockingTheDraft	*	-	
+wb/eng/00/eng_0141	0	1	or	CC	(NP(SBAR(FRAG*	-	-	-	MockingTheDraft	*	-	
+wb/eng/00/eng_0141	0	2	disagree	VB	(VP*)	-	-	-	MockingTheDraft	*	-	
+wb/eng/00/eng_0141	0	3	?	.	*))))	-	-	-	MockingTheDraft	*	-	
+wb/eng/00/eng_0141	0	4	https://t.co/kbgl85I7Fp	NN	(NP*)))	-	-	-	MockingTheDraft	(URL)	-	
+
+wb/eng/00/eng_0141	0	0	@MockingTheDraft	NN	(ROOT(S(NP(NP*	-	-	-	ChrisJBSnow	(HANDLE)	-	
+wb/eng/00/eng_0141	0	1	Agree	NN	*)	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	2	,	,	*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	3	height	NN	(NP*))	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	4	would	MD	(VP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	5	be	VB	(VP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	6	a	DT	(NP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	7	major	JJ	*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	8	issue	NN	*)))	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	9	.	.	*))	-	-	-	ChrisJBSnow	*	-	
+
+wb/eng/00/eng_0141	0	0	@ChrisJBSnow	NN	(ROOT(FRAG(NP(NP*	-	-	-	cmilner2	(HANDLE*	-	
+wb/eng/00/eng_0141	0	1	@MockingTheDraft	NN	*)	-	-	-	cmilner2	*)	-	
+wb/eng/00/eng_0141	0	2	He	PRP	(SBAR(S(NP*)	-	-	-	cmilner2	*	(0)	
+wb/eng/00/eng_0141	0	3	's	VBZ	(VP*	-	-	-	cmilner2	*	-	
+wb/eng/00/eng_0141	0	4	6	CD	(NP(NP*)	-	-	-	cmilner2	(NUMBER)	-	
+wb/eng/00/eng_0141	0	5	'	''	(VP*	-	-	-	cmilner2	*	-	
+wb/eng/00/eng_0141	0	6	3	CD	(NP-TMP*)))))))))	-	-	-	cmilner2	(NUMBER)	-	
+
+wb/eng/00/eng_0141	0	0	@cmilner2	NN	(ROOT(S(NP*	-	-	-	ChrisJBSnow	(HANDLE*	-	
+wb/eng/00/eng_0141	0	1	@MockingTheDraft	NN	*	-	-	-	ChrisJBSnow	*)	-	
+wb/eng/00/eng_0141	0	2	Hmm	NN	*)	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	3	,	,	*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	4	should	MD	(VP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	5	be	VB	(VP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	6	a	DT	(NP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	7	consideration	NN	*)	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	8	then	RB	(ADVP*)))	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	9	.	.	*))	-	-	-	ChrisJBSnow	*	-	
+
+wb/eng/00/eng_0141	0	0	Lets	VBZ	(ROOT(S(VP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	1	see	VB	(VP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	2	what	WP	(UCP(SBAR(WHNP*)	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	3	happens	VBZ	(S(VP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	4	at	IN	(SBAR(S(NP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	5	the	DT	*)	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	6	combine	VBP	(VP*))))))	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	7	and	CC	*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	8	in	IN	(PP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	9	the	DT	(NP*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	10	meeting	NN	*	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	11	rooms	NNS	*)))))	-	-	-	ChrisJBSnow	*	-	
+wb/eng/00/eng_0141	0	12	.	.	*))	-	-	-	ChrisJBSnow	*	-	
+
+wb/eng/00/eng_0141	0	0	@ChrisJBSnow	NN	(ROOT(S(NP(NP*	-	-	-	bdbsport	(HANDLE*	-	
+wb/eng/00/eng_0141	0	1	@cmilner2	NN	*	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	2	@MockingTheDraft	NN	*)	-	-	-	bdbsport	*)	-	
+wb/eng/00/eng_0141	0	3	I	PRP	(SBAR(S(NP*)	-	-	-	bdbsport	*	(1)	
+wb/eng/00/eng_0141	0	4	'm	VBP	(VP*	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	5	not	RB	*	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	6	saying	VBG	(VP*	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	7	anything	NN	(NP*)	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	8	until	IN	(PP*	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	9	I	PRP	(NP*)))))))	-	-	-	bdbsport	*	(1)	
+wb/eng/00/eng_0141	0	10	hear	VBP	(VP*	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	11	his	PRP$	(NP*	-	-	-	bdbsport	*	(0)	
+wb/eng/00/eng_0141	0	12	hand	NN	*	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	13	size	NN	*))	-	-	-	bdbsport	*	-	
+wb/eng/00/eng_0141	0	14	.	.	*))	-	-	-	bdbsport	*	-	
+
+wb/eng/00/eng_0141	0	0	@bdbsport	NN	(ROOT(S(NP*	-	-	-	cmilner2	(HANDLE*	-	
+wb/eng/00/eng_0141	0	1	@ChrisJBSnow	NN	*	-	-	-	cmilner2	*	-	
+wb/eng/00/eng_0141	0	2	@MockingTheDraft	NN	*)	-	-	-	cmilner2	*)	-	
+wb/eng/00/eng_0141	0	3	Will	MD	(VP*	-	-	-	cmilner2	*	-	
+wb/eng/00/eng_0141	0	4	be	VB	(VP*	-	-	-	cmilner2	*	-	
+wb/eng/00/eng_0141	0	5	interesting	JJ	(ADJP*	-	-	-	cmilner2	*	-	
+wb/eng/00/eng_0141	0	6	to	TO	(S(VP*	-	-	-	cmilner2	*	-	
+wb/eng/00/eng_0141	0	7	find	VB	(VP*	-	-	-	cmilner2	*	-	
+wb/eng/00/eng_0141	0	8	out	RP	(PRT*)))))))))	-	-	-	cmilner2	*	-	
+
+#end document

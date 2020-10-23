@@ -1,0 +1,101 @@
+#begin document (wb/eng/00/eng_0063); part 000
+wb/eng/00/eng_0063	0	0	I	PRP	(ROOT(SINV(ADVP*	-	-	-	consbyname	*	-	
+wb/eng/00/eng_0063	0	1	so	RB	*)	-	-	-	consbyname	*	-	
+wb/eng/00/eng_0063	0	2	hope	VBP	(VP*	-	-	-	consbyname	*	-	
+wb/eng/00/eng_0063	0	3	that	DT	(SBAR(S(NP*)	-	-	-	consbyname	*	(1)	
+wb/eng/00/eng_0063	0	4	's	VBZ	(VP*	-	-	-	consbyname	*	-	
+wb/eng/00/eng_0063	0	5	true	JJ	(ADJP*))	-	-	-	consbyname	*	-	
+wb/eng/00/eng_0063	0	6	.	.	*)))	-	-	-	consbyname	*	-	
+wb/eng/00/eng_0063	0	7	https://t.co/XGN4s9U0nM	NN	(NP*)))	-	-	-	consbyname	(URL)	-	
+
+wb/eng/00/eng_0063	0	0	@consbyname	JJ	(ROOT(S(ADVP(NP*	-	-	-	HetdoxEconomics	(HANDLE)	-	
+wb/eng/00/eng_0063	0	1	https://t.co/JioNf5zcx5	NN	*)	-	-	-	HetdoxEconomics	(URL)	-	
+wb/eng/00/eng_0063	0	2	Sadly	RB	*)	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	3	it	PRP	(NP*)	-	-	-	HetdoxEconomics	*	(1)	
+wb/eng/00/eng_0063	0	4	is	VBZ	(VP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	5	untrue	JJ	(ADJP*))	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	6	.	.	*))	-	-	-	HetdoxEconomics	*	-	
+
+wb/eng/00/eng_0063	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	HetdoxEconomics	*	(6)	
+wb/eng/00/eng_0063	0	1	got	VBD	(VP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	2	the	DT	(NP*	-	-	-	HetdoxEconomics	*	(1	
+wb/eng/00/eng_0063	0	3	story	NN	*)	-	-	-	HetdoxEconomics	*	1)	
+wb/eng/00/eng_0063	0	4	from	IN	(PP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	5	Michael	NNP	(NP*	-	-	-	HetdoxEconomics	(PERSON*	(3	
+wb/eng/00/eng_0063	0	6	Hudson	NNP	*))	-	-	-	HetdoxEconomics	*)	3)	
+wb/eng/00/eng_0063	0	7	so	IN	(SBAR*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	8	I	PRP	(S(NP*)	-	-	-	HetdoxEconomics	*	(6)	
+wb/eng/00/eng_0063	0	9	took	VBD	(VP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	10	it	PRP	(NP*)	-	-	-	HetdoxEconomics	*	(1)	
+wb/eng/00/eng_0063	0	11	on	IN	(PP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	12	faith	NN	(NP*))))))))	-	-	-	HetdoxEconomics	*	-	
+
+wb/eng/00/eng_0063	0	0	@HetdoxEconomics	NNS	(ROOT(S(NP*)	-	-	-	ProfSteveKeen	(HANDLE)	-	
+wb/eng/00/eng_0063	0	1	@consbyname	VBP	(VP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	2	My	PRP$	(NP(NP*	-	-	-	ProfSteveKeen	*	(3	
+wb/eng/00/eng_0063	0	3	good	JJ	*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	4	mate	NN	*)	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	5	Michael	NNP	(SBAR(S(NP*	-	-	-	ProfSteveKeen	(PERSON*	-	
+wb/eng/00/eng_0063	0	6	Hudson	NNP	*)	-	-	-	ProfSteveKeen	*)	3)	
+wb/eng/00/eng_0063	0	7	does	VBZ	(VP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	8	occasionally	RB	(ADVP*)	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	9	get	VB	(VP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	10	anecdotes	NNS	(NP(NP(NP*)	-	-	-	ProfSteveKeen	*	(4)	
+wb/eng/00/eng_0063	0	11	confused	VBN	(VP*))	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	12	,	,	*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	13	especially	RB	*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	14	those	DT	(NP(NP*)	-	-	-	ProfSteveKeen	*	(4)	
+wb/eng/00/eng_0063	0	15	recounted	VBN	(VP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	16	in	IN	(PP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	17	an	DT	(NP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	18	Australian	JJ	*	-	-	-	ProfSteveKeen	(NATIONALITY)	-	
+wb/eng/00/eng_0063	0	19	accent	NN	*)))))))))))	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	20	.	.	*))	-	-	-	ProfSteveKeen	*	-	
+
+wb/eng/00/eng_0063	0	0	He	PRP	(ROOT(S(NP*)	-	-	-	ProfSteveKeen	*	(3)	
+wb/eng/00/eng_0063	0	1	's	VBZ	(VP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	2	great	JJ	(ADJP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	3	on	IN	(PP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	4	historical	JJ	(NP(NP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	5	facts	NNS	*)	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	6	on	IN	(PP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	7	money	NN	(NP*))	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	8	,	,	*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	9	of	IN	(PP*	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	10	course	NN	(NP*))))))	-	-	-	ProfSteveKeen	*	-	
+wb/eng/00/eng_0063	0	11	.	.	*))	-	-	-	ProfSteveKeen	*	-	
+
+wb/eng/00/eng_0063	0	0	@ProfSteveKeen	JJ	(ROOT(FRAG(ADJP*	-	-	-	HetdoxEconomics	(HANDLE*	-	
+wb/eng/00/eng_0063	0	1	@consbyname	JJ	*)	-	-	-	HetdoxEconomics	*)	-	
+wb/eng/00/eng_0063	0	2	He	PRP	(S(NP*)	-	-	-	HetdoxEconomics	*	(3)	
+wb/eng/00/eng_0063	0	3	is	VBZ	(VP*))	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	4	.	.	*))	-	-	-	HetdoxEconomics	*	-	
+
+wb/eng/00/eng_0063	0	0	You	PRP	(ROOT(S(NP*)	-	-	-	HetdoxEconomics	*	(7)	
+wb/eng/00/eng_0063	0	1	are	VBP	(VP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	2	both	DT	(NP(NP*	-	-	-	HetdoxEconomics	*	(7)	
+wb/eng/00/eng_0063	0	3	major	JJ	*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	4	parts	NNS	*)	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	5	of	IN	(PP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	6	my	PRP$	(NP(NP*	-	-	-	HetdoxEconomics	*	(6)	
+wb/eng/00/eng_0063	0	7	learning	NN	*)	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	8	of	IN	(PP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	9	the	DT	(NP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	10	dismal	JJ	*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	11	science	NN	*))))))	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	12	.	.	*))	-	-	-	HetdoxEconomics	*	-	
+
+wb/eng/00/eng_0063	0	0	Thank	VB	(ROOT(S(VP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	1	you	PRP	(NP*)	-	-	-	HetdoxEconomics	*	(7)	
+wb/eng/00/eng_0063	0	2	for	IN	(PP(PP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	3	your	PRP$	(FRAG(NP*	-	-	-	HetdoxEconomics	*	(7)	
+wb/eng/00/eng_0063	0	4	work	NN	*)	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	5	!	.	*))	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	6	-LRB-	-LRB-	(PRN*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	7	and	CC	*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	8	the	DT	(FRAG(NP*	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	9	Minsky	NNP	*)	-	-	-	HetdoxEconomics	(PERSON)	-	
+wb/eng/00/eng_0063	0	10	program	NN	(NP*))	-	-	-	HetdoxEconomics	*	-	
+wb/eng/00/eng_0063	0	11	-RRB-	-RRB-	*)))))	-	-	-	HetdoxEconomics	*	-	
+
+#end document

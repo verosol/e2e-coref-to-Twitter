@@ -1,0 +1,179 @@
+#begin document (134_950355508925407232.branch1.); part 105
+134_950355508925407232.branch1.	105	0	If	IN	(ROOT(NP(S(SBAR*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	1	you	PRP	(S(NP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	are	VBP	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	free	JJ	(ADJP*))))	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	4	,	,	*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	5	Let	VB	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	6	's	PRP	(S(NP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	7	talk	VB	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	8	about	IN	(PP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	9	chess	NN	(NP(NP(NP*)	defnp/none/none	prep_phrase	-	chess_chat	*	(18)
+134_950355508925407232.branch1.	105	10	with	IN	(PP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	11	me	PRP	(FRAG(NP*)	ppers/exophora/nominal	prep_phrase	-	chess_chat	*	(19)
+134_950355508925407232.branch1.	105	12	!	.	*)))	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	13	-	:	*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	14	chess_chat	NN	(NP*)))))))))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	@chess_chat	NNP	(ROOT(S(NP(NP*)	-	-	-	calimike41	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Who	WP	(SBAR(WHNP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	2	do	VBP	(S(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	3	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	calimike41	*	(19)
+134_950355508925407232.branch1.	105	4	think	VB	(VP*))))))	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	5	is	VBZ	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	6	better	JJR	(ADVP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	7	Fischer	NNP	(NP*	-	-	-	calimike41	(PERSON)	-
+134_950355508925407232.branch1.	105	8	or	CC	*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	9	Carlsen	NNP	*	defnp/none/none	sbj	-	calimike41	(PERSON)	(5)
+134_950355508925407232.branch1.	105	10	%emoji	NNS	*))))	-	-	-	calimike41	*	-
+
+134_950355508925407232.branch1.	105	0	@calimike41	NN	(ROOT(S(NP*)	-	-	-	chess_chat	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Good	JJ	(ADJP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	!	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	The	DT	(ROOT(S(NP(NP*	defnp/none/none	sbj	-	chess_chat	*	(2
+134_950355508925407232.branch1.	105	1	only	JJ	*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	one	NN	*)	-	-	-	chess_chat	(NUMBER)	-
+134_950355508925407232.branch1.	105	3	who	WP	(SBAR(WHNP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	4	can	MD	(S(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	5	stop	VB	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	6	Magnus	NNP	(NP*))))))	ne/none/none	dir_obj	-	chess_chat	(PERSON)	2)|(5)
+134_950355508925407232.branch1.	105	7	is	VBZ	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	8	Nakamura	NNP	(NP*))	ne/none/none	copula_rel	-	chess_chat	(PERSON)	-
+134_950355508925407232.branch1.	105	9	.	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	I	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	chess_chat	*	(19)
+134_950355508925407232.branch1.	105	1	think	VBP	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	so	RB	(ADVP*))	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	.	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	But	CC	(ROOT(S*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	1	he	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	chess_chat	*	(2)
+134_950355508925407232.branch1.	105	2	never	RB	(ADVP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	won	VBD	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	4	a	DT	(NP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	5	classical	JJ	*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	6	time	NN	*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	7	control	NN	*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	8	against	IN	(PP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	9	Magnus	NNP	(NP*)))	ne/none/none	prep_phrase	-	chess_chat	(PERSON)	(5)
+134_950355508925407232.branch1.	105	10	.	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	@chess_chat	NN	(ROOT(S(NP(NP*)	-	-	-	calimike41	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	How	WRB	(SBAR(WHADVP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	2	can	MD	(S(VP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	3	I	PRP	(NP*))))	ppers/exophora/nominal	sbj	-	calimike41	*	(9)
+134_950355508925407232.branch1.	105	4	become	VB	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	5	a	DT	(NP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	6	ChessMaster	NNP	*))	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	7	?	.	*))	-	-	-	calimike41	*	-
+
+134_950355508925407232.branch1.	105	0	@calimike41	NN	(ROOT(S(NP*)	-	-	-	chess_chat	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Do	VBP	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	n't	RB	*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	worry	VB	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	4	yourself	PRP	(NP*)	prefl/anaphora/nominal	dir_obj	-	chess_chat	*	(9)
+134_950355508925407232.branch1.	105	5	about	IN	(PP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	6	that	DT	(NP*))))	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	7	!	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	@chess_chat	NN	(ROOT(S(NP*)	-	-	-	calimike41	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Why	WRB	(ADVP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	2	would	MD	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	3	you	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	calimike41	*	(19)
+134_950355508925407232.branch1.	105	4	say	VB	(S(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	5	that	DT	(NP*))))	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	6	.	.	*))	-	-	-	calimike41	*	-
+
+134_950355508925407232.branch1.	105	0	@calimike41	NN	(ROOT(FRAG(NP(NP*	-	-	-	chess_chat	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	hahaha	NN	*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	Who	WP	(SBAR(WHNP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	do	VBP	(S(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	4	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	chess_chat	*	(9)
+134_950355508925407232.branch1.	105	5	work	VB	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	6	for	IN	(PP*)))))))	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	7	?	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	@chess_chat	NNP	(ROOT(FRAG(NP*)	-	-	-	calimike41	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Who	WP	(SBAR(WHNP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	2	is	VBZ	(S(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	3	typing	VBG	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	4	this	DT	(NP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	5	??????	NN	*)))))))	-	-	-	calimike41	*	-
+
+134_950355508925407232.branch1.	105	0	@calimike41	NN	(ROOT(FRAG(NP(NP*)	-	-	-	chess_chat	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Who	WP	(SBAR(WHNP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	am	VBP	(S(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	I	PRP	(NP*)))))	ppers/anaphora/nominal	sbj	-	chess_chat	*	(19)
+134_950355508925407232.branch1.	105	4	?	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	@chess_chat	NNP	(ROOT(FRAG(NP*)	-	-	-	calimike41	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Who	WP	(SBAR(WHNP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	2	are	VBP	(S(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	3	you	PRP	(NP*))))))	ppers/anaphora/nominal	sbj	-	calimike41	*	(19)
+
+134_950355508925407232.branch1.	105	0	@calimike41	NN	(ROOT(FRAG(NP(NP*)	-	-	-	chess_chat	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Who	WP	(SBAR(WHNP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	am	VBP	(S(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	I	PRP	(NP*)))))	ppers/anaphora/nominal	sbj	-	chess_chat	*	(19)
+134_950355508925407232.branch1.	105	4	?	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	@chess_chat	NN	(ROOT(FRAG(NP(NP*)	-	-	-	calimike41	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	What	WDT	(SBAR(WHNP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	2	made	VBD	(S(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	3	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	calimike41	*	(19)
+134_950355508925407232.branch1.	105	4	go	VB	(VP(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	5	on	IN	(PP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	6	Twitter	NNP	(NP*)))	-	-	-	calimike41	(ORGANIZATION)	-
+134_950355508925407232.branch1.	105	7	and	CC	*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	8	talk	VB	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	9	about	IN	(PP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	10	chess	NN	(NP*)))))))))	defnp/none/none	prep_phrase	-	calimike41	*	(18)
+134_950355508925407232.branch1.	105	11	?	.	*))	-	-	-	calimike41	*	-
+
+134_950355508925407232.branch1.	105	0	@calimike41	NN	(ROOT(S(S(NP*	-	-	-	chess_chat	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Not	RB	*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	knowing	VBG	(VP*))	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	,	,	*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	4	I	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	chess_chat	*	(19)
+134_950355508925407232.branch1.	105	5	can	MD	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	6	not	RB	*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	7	say	VB	(VP*))	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	8	.	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	@chess_chat	NNP	(ROOT(S(NP(NP*)	-	-	-	calimike41	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Who	WP	(SBAR(WHNP*)	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	2	do	VBP	(S(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	3	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	calimike41	*	(19)
+134_950355508925407232.branch1.	105	4	think	VB	(VP*))))))	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	5	is	VBZ	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	6	the	DT	(NP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	7	best	JJS	*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	8	chess	NN	*	-	-	-	calimike41	(TITLE*	-
+134_950355508925407232.branch1.	105	9	player	NN	*))	-	-	-	calimike41	*)	-
+134_950355508925407232.branch1.	105	10	?	.	*))	-	-	-	calimike41	*	-
+
+134_950355508925407232.branch1.	105	0	@calimike41	NN	(ROOT(FRAG(NP(NP*)	-	-	-	chess_chat	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Who	WP	(SBAR(WHNP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	2	am	VBP	(S(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	I	PRP	(NP*)))))	ppers/anaphora/nominal	sbj	-	chess_chat	*	(19)
+134_950355508925407232.branch1.	105	4	?	.	*))	-	-	-	chess_chat	*	-
+
+134_950355508925407232.branch1.	105	0	@chess_chat	NN	(ROOT(S(NP*)	-	-	-	calimike41	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	Do	VBP	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	2	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	calimike41	*	(19)
+134_950355508925407232.branch1.	105	3	want	VB	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	4	to	TO	(S(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	5	talk	VB	(VP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	6	about	IN	(PP*	-	-	-	calimike41	*	-
+134_950355508925407232.branch1.	105	7	chess	NN	(NP*))))))))	defnp/none/none	prep_phrase	-	calimike41	*	(18)
+134_950355508925407232.branch1.	105	8	?	.	*))	-	-	-	calimike41	*	-
+
+134_950355508925407232.branch1.	105	0	@calimike41	NN	(ROOT(FRAG(NP(NP*)	-	-	-	chess_chat	(HANDLE)	-
+134_950355508925407232.branch1.	105	1	I	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	chess_chat	*	(19)
+134_950355508925407232.branch1.	105	2	can	MD	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	3	only	RB	(ADVP*)	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	4	imagine	VB	(VP*	-	-	-	chess_chat	*	-
+134_950355508925407232.branch1.	105	5	%smiley	NN	(NP*))))))))	-	-	-	chess_chat	*	-
+
+#end document

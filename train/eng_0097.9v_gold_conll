@@ -1,0 +1,114 @@
+#begin document (wb/eng/00/eng_0097); part 000
+wb/eng/00/eng_0097	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	mattcolville	*	(1)	
+wb/eng/00/eng_0097	0	1	just	RB	(ADVP*)	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	2	remembered	VBD	(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	3	being	VBG	(S(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	4	a	DT	(NP*	-	-	-	mattcolville	*	(2	
+wb/eng/00/eng_0097	0	5	kid	NN	*)))	-	-	-	mattcolville	*	2)	
+wb/eng/00/eng_0097	0	6	after	IN	(PP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	7	seeing	VBG	(S(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	8	Superman	NNP	(NP(NP(NP*	-	-	-	mattcolville	(PERSON)	-	
+wb/eng/00/eng_0097	0	9	'	POS	*)	-	-	-	mattcolville	(DATE*	-	
+wb/eng/00/eng_0097	0	10	78	CD	(NP*))	-	-	-	mattcolville	*)	-	
+wb/eng/00/eng_0097	0	11	and	CC	*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	12	how	WRB	(SBAR(WHNP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	13	much	JJ	*)	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	14	I	PRP	(S(NP*)	-	-	-	mattcolville	*	(1)	
+wb/eng/00/eng_0097	0	15	loved	VBD	(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	16	and	CC	(ADVP*)	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	17	*	SYM	(X*)))))	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	18	emulated	VBN	(S(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	19	*	SYM	(S(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	20	Lex	NNP	(NP*	-	-	-	mattcolville	(PERSON*	(0	
+wb/eng/00/eng_0097	0	21	Luthor	NNP	*)))))))))	-	-	-	mattcolville	*)	0)	
+wb/eng/00/eng_0097	0	22	.	.	*))	-	-	-	mattcolville	*	-	
+
+wb/eng/00/eng_0097	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	mattcolville	*	(1)	
+wb/eng/00/eng_0097	0	1	quoted	VBD	(VP(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	2	his	PRP$	(NP*	-	-	-	mattcolville	*	(0)	
+wb/eng/00/eng_0097	0	3	dialog	NN	*))	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	4	and	CC	*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	5	tried	VBD	(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	6	to	TO	(S(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	7	act	VB	(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	8	like	IN	(PP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	9	him	PRP	(NP*)))))))	-	-	-	mattcolville	*	(0)	
+wb/eng/00/eng_0097	0	10	.	.	*))	-	-	-	mattcolville	*	-	
+
+wb/eng/00/eng_0097	0	0	Man	NN	(ROOT(S(NP*)	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	1	I	PRP	(NP*)	-	-	-	mattcolville	*	(1)	
+wb/eng/00/eng_0097	0	2	loved	VBD	(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	3	bad	JJ	(NP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	4	guys	NNS	*)	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	5	when	WRB	(SBAR(WHADVP*)	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	6	I	PRP	(S(NP*)	-	-	-	mattcolville	*	(1)	
+wb/eng/00/eng_0097	0	7	was	VBD	(VP*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	8	a	DT	(NP*	-	-	-	mattcolville	*	(2	
+wb/eng/00/eng_0097	0	9	kid	NN	*)))))	-	-	-	mattcolville	*	2)	
+wb/eng/00/eng_0097	0	10	!	.	*))	-	-	-	mattcolville	*	-	
+
+wb/eng/00/eng_0097	0	0	Lex	NNP	(ROOT(NP(NP*	-	-	-	mattcolville	(PERSON*	(0	
+wb/eng/00/eng_0097	0	1	Luthor	NNP	*)	-	-	-	mattcolville	*)	0)	
+wb/eng/00/eng_0097	0	2	,	,	*	-	-	-	mattcolville	*	-	
+wb/eng/00/eng_0097	0	3	Darth	NNP	(NP*	-	-	-	mattcolville	(PERSON*	-	
+wb/eng/00/eng_0097	0	4	Vader	NNP	*)	-	-	-	mattcolville	*)	-	
+wb/eng/00/eng_0097	0	5	.	.	*))	-	-	-	mattcolville	*	-	
+
+wb/eng/00/eng_0097	0	0	@mattcolville	NN	(ROOT(S(NP*	-	-	-	bfam91	(HANDLE)	-	
+wb/eng/00/eng_0097	0	1	I	NN	*)	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	2	did	VBD	(VP*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	3	the	DT	(NP*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	4	same	JJ	*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	5	thing	NN	*)	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	6	with	IN	(PP*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	7	the	DT	(NP*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	8	Batman	NNP	*	-	-	-	bfam91	(TITLE)	-	
+wb/eng/00/eng_0097	0	9	Animated	NNP	*	-	-	-	bfam91	(MISC*	-	
+wb/eng/00/eng_0097	0	10	Series	NNP	*))	-	-	-	bfam91	*)	-	
+wb/eng/00/eng_0097	0	11	in	IN	(PP*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	12	the	DT	(NP(NP*)	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	13	90	CD	(NP*	-	-	-	bfam91	(NUMBER)	-	
+wb/eng/00/eng_0097	0	14	's	POS	*))))	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	15	.	.	*))	-	-	-	bfam91	*	-	
+
+wb/eng/00/eng_0097	0	0	The	DT	(ROOT(S(NP*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	1	villains	NNS	*)	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	2	were	VBD	(VP*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	3	so	RB	(VP(ADVP*	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	4	well	RB	*)	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	5	written	VBN	*))	-	-	-	bfam91	*	-	
+wb/eng/00/eng_0097	0	6	.	.	*))	-	-	-	bfam91	*	-	
+
+wb/eng/00/eng_0097	0	0	@bfam91	NN	(ROOT(S(NP*	-	-	-	JustinOSmith12	(HANDLE*	-	
+wb/eng/00/eng_0097	0	1	@mattcolville	NN	*	-	-	-	JustinOSmith12	*)	-	
+wb/eng/00/eng_0097	0	2	TAS	NN	*)	-	-	-	JustinOSmith12	*	(7)	
+wb/eng/00/eng_0097	0	3	remains	VBZ	(VP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	4	to	TO	(PP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	5	me	PRP	(NP*))	-	-	-	JustinOSmith12	*	(5)	
+wb/eng/00/eng_0097	0	6	the	DT	(NP(NP*	-	-	-	JustinOSmith12	*	(7	
+wb/eng/00/eng_0097	0	7	best	JJS	*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	8	rendition	NN	*)	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	9	of	IN	(PP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	10	Batman	NNP	(NP*))	-	-	-	JustinOSmith12	(PERSON)	7)	
+wb/eng/00/eng_0097	0	11	,	,	*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	12	just	RB	(ADVP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	13	for	IN	(PP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	14	that	DT	(NP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	15	reason	NN	*)))))	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	16	.	.	*))	-	-	-	JustinOSmith12	*	-	
+
+wb/eng/00/eng_0097	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	JustinOSmith12	*	(5)	
+wb/eng/00/eng_0097	0	1	like	VBP	(VP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	2	how	WRB	(SBAR(WHADVP*)	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	3	the	DT	(S(NP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	4	Arkham	NNP	*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	5	games	NNS	*)	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	6	were	VBD	(VP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	7	the	DT	(NP(NP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	8	successor	NN	*)	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	9	of	IN	(PP*	-	-	-	JustinOSmith12	*	-	
+wb/eng/00/eng_0097	0	10	that	DT	(NP*	-	-	-	JustinOSmith12	*	(7	
+wb/eng/00/eng_0097	0	11	series	NN	*)))))))	-	-	-	JustinOSmith12	*	7)	
+wb/eng/00/eng_0097	0	12	.	.	*))	-	-	-	JustinOSmith12	*	-	
+
+#end document

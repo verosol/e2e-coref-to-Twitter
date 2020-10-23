@@ -1,0 +1,100 @@
+#begin document (wb/eng/00/eng_0076); part 000
+wb/eng/00/eng_0076	0	0	Oprah	NNP	(ROOT(S(S(NP*)	-	-	-	Karnythia	(PERSON)	(0)	
+wb/eng/00/eng_0076	0	1	is	VBZ	(VP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	2	lovely	JJ	(ADJP*)))	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	3	,	,	*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	4	she	PRP	(NP*)	-	-	-	Karnythia	*	(0)	
+wb/eng/00/eng_0076	0	5	is	VBZ	(VP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	6	n't	RB	*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	7	qualified	VBN	(ADJP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	8	to	TO	(S(VP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	9	be	VB	(VP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	10	President	NNP	(NP*)	-	-	-	Karnythia	(TITLE)	(1)	
+wb/eng/00/eng_0076	0	11	though	IN	(ADVP*))))))	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	12	.	.	*))	-	-	-	Karnythia	*	-	
+
+wb/eng/00/eng_0076	0	0	Can	MD	(ROOT(SQ*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	1	we	PRP	(NP*)	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	2	stop	VB	(VP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	3	with	IN	(PP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	4	the	DT	(NP(NP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	5	cult	NN	*)	-	-	-	Karnythia	(RELIGION)	-	
+wb/eng/00/eng_0076	0	6	of	IN	(PP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	7	personality	NN	(NP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	8	approach	NN	*))))	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	9	to	TO	(PP*	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	10	politics	NNS	(NP*)))	-	-	-	Karnythia	*	-	
+wb/eng/00/eng_0076	0	11	?	.	*))	-	-	-	Karnythia	*	-	
+
+wb/eng/00/eng_0076	0	0	@Karnythia	NN	(ROOT(FRAG(NP(NP*	-	-	-	kennisgoodman	(HANDLE*	-	
+wb/eng/00/eng_0076	0	1	@TheRealRodneyF	NN	*)	-	-	-	kennisgoodman	*)	-	
+wb/eng/00/eng_0076	0	2	She	PRP	(SBAR(S(NP*)	-	-	-	kennisgoodman	*	(0)	
+wb/eng/00/eng_0076	0	3	not	RB	*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	4	qualified	VBD	(VP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	5	to	TO	(PP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	6	he	PRP	(NP(NP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	7	president	NN	*)	-	-	-	kennisgoodman	(TITLE)	(1)	
+wb/eng/00/eng_0076	0	8	why	WRB	(FRAG(WHADVP*))))))))	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	9	?	.	*))	-	-	-	kennisgoodman	*	-	
+
+wb/eng/00/eng_0076	0	0	@kennisgoodman	NN	(ROOT(S(NP(NP*)	-	-	-	TheRealRodneyF	(HANDLE)	-	
+wb/eng/00/eng_0076	0	1	She	PRP	(SBAR(S(NP*)	-	-	-	TheRealRodneyF	*	(0)	
+wb/eng/00/eng_0076	0	2	has	VBZ	(VP*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	3	n't	RB	*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	4	done	VBN	(VP*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	5	anything	NN	(NP*)	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	6	to	TO	(PP*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	7	b	NN	(NP*)))))))	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	8	qualified	VBD	(VP*)))	-	-	-	TheRealRodneyF	*	-	
+
+wb/eng/00/eng_0076	0	0	@TheRealRodneyF	NN	(ROOT(S(NP(NP*)	-	-	-	kennisgoodman	(HANDLE)	-	
+wb/eng/00/eng_0076	0	1	You	PRP	(ADVP*))	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	2	do	VBP	(VP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	3	n't	RB	*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	4	need	VB	(VP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	5	to	TO	(S(VP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	6	be	VB	(VP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	7	a	DT	(NP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	8	politician	NN	*	-	-	-	kennisgoodman	(TITLE)	-	
+wb/eng/00/eng_0076	0	9	to	TO	(S(VP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	10	be	VB	(VP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	11	in	IN	(PP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	12	office	NN	(NP*)))))))))))	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	13	.	.	*))	-	-	-	kennisgoodman	*	-	
+
+wb/eng/00/eng_0076	0	0	People	NNS	(ROOT(S(S(NP*)	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	1	only	RB	(VP(ADVP*)	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	2	making	VBG	*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	3	that	DT	(NP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	4	argument	NN	*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	5	cus	NN	*)))	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	6	she	PRP	(NP*)	-	-	-	kennisgoodman	*	(0)	
+wb/eng/00/eng_0076	0	7	's	VBZ	(VP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	8	a	DT	(NP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	9	black	JJ	*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	10	woman	NN	*))	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	11	.	.	*))	-	-	-	kennisgoodman	*	-	
+
+wb/eng/00/eng_0076	0	0	@kennisgoodman	NN	(ROOT(FRAG(NP(NP*)	-	-	-	TheRealRodneyF	(HANDLE)	-	
+wb/eng/00/eng_0076	0	1	She	PRP	(SBAR(S(NP*)	-	-	-	TheRealRodneyF	*	(0)	
+wb/eng/00/eng_0076	0	2	do	VBP	(VP*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	3	n't	RB	*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	4	want	VB	(VP*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	5	the	DT	(NP*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	6	presidential	JJ	*	-	-	-	TheRealRodneyF	*	-	
+wb/eng/00/eng_0076	0	7	smoke	NN	*))))))))	-	-	-	TheRealRodneyF	*	-	
+
+wb/eng/00/eng_0076	0	0	@TheRealRodneyF	NNP	(ROOT(NP*	-	-	-	kennisgoodman	(HANDLE)	-	
+wb/eng/00/eng_0076	0	1	Shoot	NNP	*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	2	.	.	*))	-	-	-	kennisgoodman	*	-	
+
+wb/eng/00/eng_0076	0	0	I	PRP	(ROOT(S(S(NP*)	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	1	do	VBP	(VP*))	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	2	,	,	*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	3	lowkey	JJ	(FRAG(ADJP*))	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	4	.	.	*))	-	-	-	kennisgoodman	*	-	
+
+wb/eng/00/eng_0076	0	0	Lol	NN	(ROOT(NP*	-	-	-	kennisgoodman	*	-	
+wb/eng/00/eng_0076	0	1	.	.	*))	-	-	-	kennisgoodman	*	-	
+
+#end document

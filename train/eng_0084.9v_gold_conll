@@ -1,0 +1,64 @@
+#begin document (wb/eng/00/eng_0084); part 000
+wb/eng/00/eng_0084	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	1	honestly	RB	(ADVP*)	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	2	ca	MD	(VP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	3	n't	RB	*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	4	get	VB	(VP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	5	enough	RB	(NP(NP*)	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	6	of	IN	(PP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	7	this	DT	(NP*	-	-	-	_Tamsey	*	(0	
+wb/eng/00/eng_0084	0	8	girl	NN	*)))))	-	-	-	_Tamsey	*	0)	
+wb/eng/00/eng_0084	0	9	.	.	*))	-	-	-	_Tamsey	*	-	
+
+wb/eng/00/eng_0084	0	0	Baby	NNP	(ROOT(S(NP*	-	-	-	_Tamsey	*	(0	
+wb/eng/00/eng_0084	0	1	girl	NN	*)	-	-	-	_Tamsey	*	0)	
+wb/eng/00/eng_0084	0	2	is	VBZ	(VP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	3	a	DT	(NP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	4	star	NN	*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	5	%emoji	FW	(ADJP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	6	#djaeazy	FW	*)	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	7	https://t.co/YkpbqKKLwp	NN	*))))	-	-	-	_Tamsey	(URL)	-	
+
+wb/eng/00/eng_0084	0	0	@_Tamsey	NN	(ROOT(FRAG(NP(NP*)	-	-	-	belle_noire	(HANDLE)	-	
+wb/eng/00/eng_0084	0	1	I	PRP	(SBAR(S(NP*)	-	-	-	belle_noire	*	(1)	
+wb/eng/00/eng_0084	0	2	love	VBP	(VP*))))	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	3	that	IN	(X(X*)	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	4	look	NN	(NP(NP*)	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	5	of	IN	(PP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	6	satisfaction	NN	(NP(NP*)	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	7	on	IN	(PP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	8	her	PRP$	(NP*	-	-	-	belle_noire	*	(0)	
+wb/eng/00/eng_0084	0	9	face	NN	*))))	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	10	when	WRB	(SBAR(WHADVP*)	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	11	she	PRP	(S(NP*)	-	-	-	belle_noire	*	(0)	
+wb/eng/00/eng_0084	0	12	figures	VBZ	(VP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	13	something	NN	(NP*)	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	14	out	IN	(PP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	15	!!	.	(NP*)))))))))	-	-	-	belle_noire	*	-	
+
+wb/eng/00/eng_0084	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	belle_noire	*	(1)	
+wb/eng/00/eng_0084	0	1	love	VBP	(VP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	2	that	IN	(SBAR*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	3	she	PRP	(S(NP*)	-	-	-	belle_noire	*	(0)	
+wb/eng/00/eng_0084	0	4	's	VBZ	(VP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	5	experiencing	VBG	(VP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	6	that	IN	(SBAR*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	7	feeling	NN	(S(NP(NP*)	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	8	of	IN	(PP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	9	success	NN	(NP(NP*)	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	10	at	IN	(PP*	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	11	6	CD	(NP*	-	-	-	belle_noire	(DURATION*	-	
+wb/eng/00/eng_0084	0	12	years	NNS	*)))))	-	-	-	belle_noire	*	-	
+wb/eng/00/eng_0084	0	13	old	JJ	(ADJP*))))))))	-	-	-	belle_noire	*)	-	
+wb/eng/00/eng_0084	0	14	!	.	*))	-	-	-	belle_noire	*	-	
+
+wb/eng/00/eng_0084	0	0	@belle_noire	JJ	(ROOT(S(ADVP*)	-	-	-	_Tamsey	(HANDLE)	-	
+wb/eng/00/eng_0084	0	1	She	PRP	(NP*)	-	-	-	_Tamsey	*	(0)	
+wb/eng/00/eng_0084	0	2	is	VBZ	(VP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	3	a	DT	(NP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	4	JOY	NN	*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	5	to	TO	(S(VP*	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	6	watch	VB	(VP*)))))	-	-	-	_Tamsey	*	-	
+wb/eng/00/eng_0084	0	7	!!	.	*))	-	-	-	_Tamsey	*	-	
+
+#end document

@@ -1,0 +1,91 @@
+#begin document (wb/eng/00/eng_0058); part 000
+wb/eng/00/eng_0058	0	0	https://t.co/WRDNJaRdW0	NN	(ROOT(NP*))	-	-	-	ShitpostBot5000	(URL)	-	
+
+wb/eng/00/eng_0058	0	0	@ShitpostBot5000	NN	(ROOT(S(NP*)	-	-	-	badwifigod	(HANDLE)	-	
+wb/eng/00/eng_0058	0	1	GET	VBP	(VP*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	2	NAGITO	NNP	(NP*	-	-	-	badwifigod	*	(2)	
+wb/eng/00/eng_0058	0	3	OFF	NNP	*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	4	MY	NNP	*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	5	TL	NNP	*))))	-	-	-	badwifigod	*	-	
+
+wb/eng/00/eng_0058	0	0	@badwifigod	NN	(ROOT(NP(NP*)	-	-	-	MarkTheWeeb	(HANDLE*	-	
+wb/eng/00/eng_0058	0	1	@ShitpostBot5000	NN	(NP(NP*)	-	-	-	MarkTheWeeb	*)	-	
+wb/eng/00/eng_0058	0	2	nagito	NN	(NP(NP*	-	-	-	MarkTheWeeb	*	(2	
+wb/eng/00/eng_0058	0	3	's	POS	*)	-	-	-	MarkTheWeeb	*	2)	
+wb/eng/00/eng_0058	0	4	hot	JJ	*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	5	dom	NN	*))))	-	-	-	MarkTheWeeb	*	-	
+
+wb/eng/00/eng_0058	0	0	@MarkTheWeeb	NN	(ROOT(NP(NP*	-	-	-	badwifigod	(HANDLE*	-	
+wb/eng/00/eng_0058	0	1	@ShitpostBot5000	NN	*)	-	-	-	badwifigod	*)	-	
+wb/eng/00/eng_0058	0	2	MARK	NNP	(NP(NP*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	3	YOURE	NNP	*)	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	4	UNDER	IN	(RRC(PP*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	5	ARREST	NNP	(NP*))	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	6	FOR	IN	(PP*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	7	THE	DT	(NP*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	8	10TH	CD	*	-	-	-	badwifigod	(ORDINAL)	-	
+wb/eng/00/eng_0058	0	9	TIME	NN	*)	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	10	NOW	RB	(ADVP*))))))	-	-	-	badwifigod	(DATE)	-	
+
+wb/eng/00/eng_0058	0	0	@badwifigod	NN	(ROOT(NP(NP*	-	-	-	MarkTheWeeb	(HANDLE*	-	
+wb/eng/00/eng_0058	0	1	@ShitpostBot5000	NN	*)	-	-	-	MarkTheWeeb	*)	-	
+wb/eng/00/eng_0058	0	2	for	IN	(PP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	3	being	VBG	(S(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	4	gay	JJ	(NP(NP*)	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	5	for	IN	(PP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	6	nagito	NN	(NP*))))))	-	-	-	MarkTheWeeb	*	(2)	
+wb/eng/00/eng_0058	0	7	?	.	*))	-	-	-	MarkTheWeeb	*	-	
+
+wb/eng/00/eng_0058	0	0	@MarkTheWeeb	NN	(ROOT(NP(NP(NP*	-	-	-	badwifigod	(HANDLE*	-	
+wb/eng/00/eng_0058	0	1	@ShitpostBot5000	NN	*	-	-	-	badwifigod	*)	-	
+wb/eng/00/eng_0058	0	2	NAGITO	NNP	*	-	-	-	badwifigod	*	(2)	
+wb/eng/00/eng_0058	0	3	KILLED	NNP	*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	4	CHIAKI	NNP	*)	-	-	-	badwifigod	(PERSON)	(1)	
+wb/eng/00/eng_0058	0	5	HE	PRP	(NP*))	-	-	-	badwifigod	*	(2)	
+wb/eng/00/eng_0058	0	6	CAN	NNP	(NP(NP*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	7	NEVER	NNP	*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	8	REPAY	NNP	*)	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	9	FOR	IN	(PP*	-	-	-	badwifigod	*	-	
+wb/eng/00/eng_0058	0	10	THAT	DT	(NP*)))))	-	-	-	badwifigod	*	-	
+
+wb/eng/00/eng_0058	0	0	@badwifigod	NN	(ROOT(S(NP(NP*	-	-	-	MarkTheWeeb	(HANDLE*	-	
+wb/eng/00/eng_0058	0	1	@ShitpostBot5000	NN	*)	-	-	-	MarkTheWeeb	*)	-	
+wb/eng/00/eng_0058	0	2	actually	RB	(SBAR(S(ADVP*)	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	3	,	,	*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	4	she	PRP	(NP*)	-	-	-	MarkTheWeeb	*	(1)	
+wb/eng/00/eng_0058	0	5	kinda	VBD	(VP*))))	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	6	did	VBD	(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	7	that	DT	(NP(NP*)	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	8	herself	PRP	(SBAR(S(S(NP*)	-	-	-	MarkTheWeeb	*	(1)	
+wb/eng/00/eng_0058	0	9	,	,	*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	10	nagito	NN	(NP*)	-	-	-	MarkTheWeeb	*	(2)	
+wb/eng/00/eng_0058	0	11	was	VBD	(VP(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	12	trying	VBG	(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	13	to	TO	(S(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	14	save	VB	(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	15	her	PRP	(NP*))))))	-	-	-	MarkTheWeeb	*	(1)	
+wb/eng/00/eng_0058	0	16	,	,	*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	17	but	CC	*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	18	failed	VBD	(VP*)))	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	19	,	,	*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	20	also	RB	(S(ADVP*)	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	21	RL	NN	(NP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	22	chiaki	NN	*)	-	-	-	MarkTheWeeb	*	(1)	
+wb/eng/00/eng_0058	0	23	was	VBD	(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	24	killed	VBN	(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	25	by	IN	(PP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	26	chise	NN	(NP*))))))))	-	-	-	MarkTheWeeb	*	(4)	
+wb/eng/00/eng_0058	0	27	pretty	RB	(ADVP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	28	sure	RB	*)	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	29	,	,	*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	30	so	IN	(SBAR*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	31	no	DT	(S(NP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	32	youre	NN	*)	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	33	wrong	JJ	(ADJP*))))))	-	-	-	MarkTheWeeb	*	-	
+
+wb/eng/00/eng_0058	0	0	@badwifigod	NN	(ROOT(NP(NP*)	-	-	-	MarkTheWeeb	(HANDLE*	-	
+wb/eng/00/eng_0058	0	1	@ShitpostBot5000	NN	(NP(NP*)	-	-	-	MarkTheWeeb	*)	-	
+wb/eng/00/eng_0058	0	2	*	SYM	(SBAR(S(VP*	-	-	-	MarkTheWeeb	*	-	
+wb/eng/00/eng_0058	0	3	chisa	FW	(NP*)))))))	-	-	-	MarkTheWeeb	*	(4)	
+
+#end document

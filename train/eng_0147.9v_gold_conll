@@ -1,0 +1,41 @@
+#begin document (wb/eng/00/eng_0147); part 000
+wb/eng/00/eng_0147	0	0	Any	DT	(ROOT(S(NP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	1	F/A	NNP	*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	2	's	POS	*)	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	3	want	VBP	(VP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	4	to	TO	(S(VP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	5	form	VB	(VP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	6	a	DT	(S(NP(NP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	7	team	NN	*)	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	8	for	IN	(PP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	9	Birmingham	NNP	(NP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	10	@IGFesports	NNPS	*	-	-	-	Axis_Fy	(HANDLE)	-	
+wb/eng/00/eng_0147	0	11	Dm	NNP	*)))	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	12	me	PRP	(NP*))	-	-	-	Axis_Fy	*	(1)	
+wb/eng/00/eng_0147	0	13	if	IN	(SBAR*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	14	so	RB	(S(NP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	15	Retweets	JJ	*)	-	-	-	Axis_Fy	(PERSON*	-	
+wb/eng/00/eng_0147	0	16	Appreciated	VBN	(VP*)))))))))	-	-	-	Axis_Fy	*)	-	
+
+wb/eng/00/eng_0147	0	0	@Axis_Fy	NN	(ROOT(NP(NP*	-	-	-	SCreatiive	(HANDLE*	-	
+wb/eng/00/eng_0147	0	1	@IGFesports	NNS	*)	-	-	-	SCreatiive	*	-	
+wb/eng/00/eng_0147	0	2	@ShoutsAlot	NN	(NP*)))	-	-	-	SCreatiive	*)	-	
+
+wb/eng/00/eng_0147	0	0	@SCreatiive	JJ	(ROOT(NP(NP(ADJP*	-	-	-	Axis_Fy	(HANDLE)	-	
+wb/eng/00/eng_0147	0	1	I	PRP	(SBAR(S(NP*)	-	-	-	Axis_Fy	*	(1)	
+wb/eng/00/eng_0147	0	2	do	VBP	(VP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	3	n't	RB	*))))	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	4	team	NN	*)	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	5	with	IN	(PP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	6	ppl	NN	(NP(NP*)	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	7	with	IN	(PP*	-	-	-	Axis_Fy	*	-	
+wb/eng/00/eng_0147	0	8	egos	NNS	(NP*))))))	-	-	-	Axis_Fy	*	-	
+
+wb/eng/00/eng_0147	0	0	@Axis_Fy	NN	(ROOT(S(NP(NP*	-	-	-	rhegs123_	(HANDLE*	-	
+wb/eng/00/eng_0147	0	1	@SCreatiive	NN	*)	-	-	-	rhegs123_	*)	-	
+wb/eng/00/eng_0147	0	2	And	CC	*	-	-	-	rhegs123_	*	-	
+wb/eng/00/eng_0147	0	3	his	PRP$	(NP*))	-	-	-	rhegs123_	*	-	
+wb/eng/00/eng_0147	0	4	is	VBZ	(VP*	-	-	-	rhegs123_	*	-	
+wb/eng/00/eng_0147	0	5	massiveeee	NN	(NP*))))	-	-	-	rhegs123_	*	-	
+
+#end document

@@ -1,0 +1,74 @@
+#begin document (097_950302431417597952.branch16.); part 76
+097_950302431417597952.branch16.	76	0	Highlight	VB	(ROOT(S(VP*	ne/none/none	sbj	-	OH_mes	*	(4)
+097_950302431417597952.branch16.	76	1	Yoseob	NNP	(SBAR(S(NP(NP*)	-	-	-	OH_mes	(PERSON)	-
+097_950302431417597952.branch16.	76	2	-LRB-	-LRB-	(PRN*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	3	and	CC	*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	4	probably	RB	(ADVP*)	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	5	another	DT	(NP*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	6	member	NN	*)	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	7	-RRB-	-RRB-	*))	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	8	will	MD	(VP*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	9	reportedly	RB	(ADVP*)	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	10	participate	VB	(VP*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	11	in	IN	(PP*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	12	2018	CD	(NP*	-	-	-	OH_mes	(DATE)	-
+097_950302431417597952.branch16.	76	13	Idol	NNP	*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	14	Star	NNP	*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	15	Athletics	NNP	*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	16	Championships	NNP	*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	17	bowling	NN	*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	18	event	NN	*	-	-	-	OH_mes	*	-
+097_950302431417597952.branch16.	76	19	https://t.co/P780kd0lCk	NN	*	-	-	-	OH_mes	(URL*	-
+097_950302431417597952.branch16.	76	20	https://t.co/Rc7LNfbSHN	NN	*)))))))))	-	-	-	OH_mes	*)	-
+
+097_950302431417597952.branch16.	76	0	@OH_mes	NNS	(ROOT(S(NP*)	-	-	-	victeenstax	(HANDLE)	-
+097_950302431417597952.branch16.	76	1	hope	VBP	(VP*	-	-	-	victeenstax	*	-
+097_950302431417597952.branch16.	76	2	chan	NN	(PRN(S(NP*)	ne/none/none	sbj	-	victeenstax	(RELIGION)	(0)
+097_950302431417597952.branch16.	76	3	can	MD	(VP*	-	-	-	victeenstax	*	-
+097_950302431417597952.branch16.	76	4	meet	VB	(VP*	-	-	-	victeenstax	*	-
+097_950302431417597952.branch16.	76	5	his	PRP$	(PP(NP*)	ppos/anaphora/nominal|defnp/none/none	dir_obj|dir_obj	-	victeenstax	*	(0)|(4
+097_950302431417597952.branch16.	76	6	role	NN	(NP(NP*)	-	-	-	victeenstax	*	-
+097_950302431417597952.branch16.	76	7	model	NN	(NP*)))	-	-	-	victeenstax	(TITLE)	-
+097_950302431417597952.branch16.	76	8	grp	NN	(NP(NP*)	-	-	-	victeenstax	*	4)
+097_950302431417597952.branch16.	76	9	again	RB	(FRAG(ADVP*	-	-	-	victeenstax	*	-
+097_950302431417597952.branch16.	76	10	:	:	*)))	-	-	-	victeenstax	*	-
+097_950302431417597952.branch16.	76	11	''	''	*)))	-	-	-	victeenstax	*	-
+097_950302431417597952.branch16.	76	12	-RRB-	-RRB-	*)	-	-	-	victeenstax	*	-
+097_950302431417597952.branch16.	76	13	https://t.co/sQeXfsVTcU	NN	(NP*))))	-	-	-	victeenstax	(URL)	-
+
+097_950302431417597952.branch16.	76	0	@victeenstax	NN	(ROOT(FRAG(NP(NP*	-	-	-	miracleguanlin	(HANDLE*	-
+097_950302431417597952.branch16.	76	1	@OH_mes	NNS	*)	-	-	-	miracleguanlin	*)	-
+097_950302431417597952.branch16.	76	2	Who	WP	(SBAR(FRAG(SBAR(WHNP*)	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	3	is	VBZ	(S(VP*	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	4	he	PRP	(NP*))))	ppers/anaphora/nominal	copula_rel	-	miracleguanlin	*	(0)
+097_950302431417597952.branch16.	76	5	?	.	*)))	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	6	^	SYM	(X(X*)	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	7	^	SYM	(ADJP*))))	-	-	-	miracleguanlin	*	-
+
+097_950302431417597952.branch16.	76	0	@victeenstax	NN	(ROOT(NP(NP(NP*	-	-	-	miracleguanlin	(HANDLE*	-
+097_950302431417597952.branch16.	76	1	@OH_mes	NNS	*)	-	-	-	miracleguanlin	*)	-
+097_950302431417597952.branch16.	76	2	Ah	UH	(SBAR(S(VP(NP(INTJ*)	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	3	i	FW	(NP*))))))	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	4	just	RB	(SBAR(FRAG(ADJP*	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	5	remembered	VBN	*)	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	6	.	.	*))	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	7	.	.	*))	-	-	-	miracleguanlin	*	-
+
+097_950302431417597952.branch16.	76	0	They	PRP	(ROOT(S(NP*)	ppers/exophora/nominal	sbj	-	miracleguanlin	*	(3)
+097_950302431417597952.branch16.	76	1	said	VBD	(VP*	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	2	that	IN	(SBAR*	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	3	they	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	miracleguanlin	*	(3)
+097_950302431417597952.branch16.	76	4	saw	VBD	(VP*	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	5	HIGHLIGHT	NNP	(NP*)	ne/none/none	dir_obj	-	miracleguanlin	*	(4)
+097_950302431417597952.branch16.	76	6	as	IN	(PP*	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	7	a	DT	(NP*	indefnp/none/none	other/other	-	miracleguanlin	*	(4
+097_950302431417597952.branch16.	76	8	role	NN	*	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	9	model	NN	*))))))	-	-	-	miracleguanlin	(TITLE)	4)
+097_950302431417597952.branch16.	76	10	.	.	*))	-	-	-	miracleguanlin	*	-
+
+097_950302431417597952.branch16.	76	0	Btw	NN	(ROOT(FRAG(NP*)	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	1	thank	VB	(VP*	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	2	you	PRP	(SBAR(S(NP*)	-	-	-	miracleguanlin	*	-
+097_950302431417597952.branch16.	76	3	%emoji	VBP	(VP*))))))	-	-	-	miracleguanlin	*	-
+
+#end document

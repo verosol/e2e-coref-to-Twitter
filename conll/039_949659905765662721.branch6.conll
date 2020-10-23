@@ -1,0 +1,73 @@
+#begin document (039_949659905765662721.branch6.); part 29
+039_949659905765662721.branch6.	29	0	appreciation	NN	(ROOT(S(NP(NP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	1	tweet	NN	*)	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	2	for	IN	(PP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	3	one	CD	(NP(NP*)	indefnp/none/none	sbj	-	roumanticpoetry	(NUMBER)	(0
+039_949659905765662721.branch6.	29	4	of	IN	(PP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	5	the	DT	(NP(NP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	6	most	RBS	(ADJP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	7	underrated	JJ	*)	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	8	lesbian	JJ	*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	9	characters	NNS	*)	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	10	of	IN	(PP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	11	tv	NN	(NP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	12	history	NN	*)))))))	-	-	-	roumanticpoetry	*	0)
+039_949659905765662721.branch6.	29	13	,	,	*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	14	susan	NN	(NP(NP*)	ne/none/none	sbj	-	roumanticpoetry	*	(0)
+039_949659905765662721.branch6.	29	15	was	VBD	(SBAR(S(VP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	16	a	DT	(NP(NP*	indefnp/none/none	copula_rel	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	17	real	JJ	*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	18	badass	NN	*)	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	19	with	IN	(PP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	20	killer	NN	(NP*)))))))	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	21	looks	VBZ	(VP(VP*)	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	22	and	CC	*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	23	took	VBD	(VP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	24	NONE	NN	(NP(NP*)	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	25	of	IN	(PP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	26	ross	NN	(NP(NP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	27	'	''	*)	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	28	sexist	JJ	(ADJP*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	29	homophobic	JJ	*)	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	30	bullshit	NN	*	-	-	-	roumanticpoetry	*	-
+039_949659905765662721.branch6.	29	31	https://t.co/ku3yCbi3AT	NN	*)))))))	-	-	-	roumanticpoetry	(URL)	-
+
+039_949659905765662721.branch6.	29	0	@roumanticpoetry	NN	(ROOT(FRAG(NP(NP*	-	-	-	lilyaIexandra	(HANDLE*	-
+039_949659905765662721.branch6.	29	1	@sothepennydrops	NNS	*)	-	-	-	lilyaIexandra	*)	-
+039_949659905765662721.branch6.	29	2	i	FW	(SBAR(S(NP*)	ppers/exophora/nominal	sbj	-	lilyaIexandra	*	(1)
+039_949659905765662721.branch6.	29	3	know	VBP	(VP*	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	4	you	PRP	(SBAR(S(NP*)	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	5	've	VBP	(VP*	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	6	liked	VBD	(VP*	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	7	it	PRP	(NP*)	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	8	but	CC	(PP*	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	9	fuckin	JJ	(NP*	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	10	PREACH	NN	*))))))))))))	-	-	-	lilyaIexandra	*	-
+
+039_949659905765662721.branch6.	29	0	@lilyaIexandra	NN	(ROOT(NP(NP*)	-	-	-	sothepennydrops	(HANDLE*	-
+039_949659905765662721.branch6.	29	1	@roumanticpoetry	JJ	(NP*	-	-	-	sothepennydrops	*)	-
+039_949659905765662721.branch6.	29	2	RIGHT	NN	*)	-	-	-	sothepennydrops	*	-
+039_949659905765662721.branch6.	29	3	??	.	*))	-	-	-	sothepennydrops	*	-
+
+039_949659905765662721.branch6.	29	0	She	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	sothepennydrops	*	(0)
+039_949659905765662721.branch6.	29	1	was	VBD	(VP*	-	-	-	sothepennydrops	*	-
+039_949659905765662721.branch6.	29	2	the	DT	(NP*	defnp/none/none	copula_rel	-	sothepennydrops	*	-
+039_949659905765662721.branch6.	29	3	best	JJS	*))	-	-	-	sothepennydrops	*	-
+039_949659905765662721.branch6.	29	4	!!	.	*))	-	-	-	sothepennydrops	*	-
+
+039_949659905765662721.branch6.	29	0	@sothepennydrops	NNS	(ROOT(S(NP*)	-	-	-	lilyaIexandra	(HANDLE)	-
+039_949659905765662721.branch6.	29	1	@roumanticpoetry	VBP	(VP*	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	2	she	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	lilyaIexandra	*	(0)
+039_949659905765662721.branch6.	29	3	's	VBZ	(VP*	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	4	the	DT	(NP(NP*	defnp/none/none	copula_rel	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	5	love	NN	*)	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	6	of	IN	(PP*	-	-	-	lilyaIexandra	*	-
+039_949659905765662721.branch6.	29	7	my	PRP$	(NP*	ppos/anaphora/nominal	prep_phrase	-	lilyaIexandra	*	(1)
+039_949659905765662721.branch6.	29	8	life	NN	*)))))))))	-	-	-	lilyaIexandra	*	-
+
+039_949659905765662721.branch6.	29	0	@lilyaIexandra	NN	(ROOT(FRAG(NP*	-	-	-	sothepennydrops	(HANDLE*	-
+039_949659905765662721.branch6.	29	1	@roumanticpoetry	NN	*)	-	-	-	sothepennydrops	*)	-
+039_949659905765662721.branch6.	29	2	literally	RB	(NP*	-	-	-	sothepennydrops	*	-
+039_949659905765662721.branch6.	29	3	same	JJ	*)))	-	-	-	sothepennydrops	*	-
+
+#end document

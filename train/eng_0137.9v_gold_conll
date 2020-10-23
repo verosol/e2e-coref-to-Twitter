@@ -1,0 +1,61 @@
+#begin document (wb/eng/00/eng_0137); part 000
+wb/eng/00/eng_0137	0	0	Went	VBD	(ROOT(S(VP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	1	to	TO	(PP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	2	the	DT	(NP(NP*	-	-	-	McCormickDaniel	(DATE*	-	
+wb/eng/00/eng_0137	0	3	new	JJ	*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	4	second	JJ	*	-	-	-	McCormickDaniel	*)	-	
+wb/eng/00/eng_0137	0	5	screen	NN	*)	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	6	at	IN	(PP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	7	the	DT	(NP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	8	Rio	NNP	*))))	-	-	-	McCormickDaniel	(LOCATION)	-	
+wb/eng/00/eng_0137	0	9	last	JJ	(NP-TMP*	-	-	-	McCormickDaniel	(DATE*	-	
+wb/eng/00/eng_0137	0	10	night	NN	*))	-	-	-	McCormickDaniel	*)	-	
+wb/eng/00/eng_0137	0	11	.	.	*))	-	-	-	McCormickDaniel	*	-	
+
+wb/eng/00/eng_0137	0	0	Couple	NN	(ROOT(FRAG(NP*)	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	1	behind	IN	(PP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	2	me	PRP	(S(S(NP*)	-	-	-	McCormickDaniel	*	(4)	
+wb/eng/00/eng_0137	0	3	spoke	VBD	(VP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	4	through	IN	(PP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	5	the	DT	(NP*	-	-	-	McCormickDaniel	*	(2	
+wb/eng/00/eng_0137	0	6	whole	JJ	*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	7	film	NN	*))))	-	-	-	McCormickDaniel	*	2)	
+wb/eng/00/eng_0137	0	8	and	CC	*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	9	I	PRP	(S(NP*)	-	-	-	McCormickDaniel	*	(4)	
+wb/eng/00/eng_0137	0	10	think	VBP	(VP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	11	she	PRP	(SBAR(S(NP*)	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	12	gave	VBD	(VP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	13	him	PRP	(NP*)	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	14	a	DT	(NP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	15	handjob	NN	*))))))))))	-	-	-	McCormickDaniel	*	-	
+
+wb/eng/00/eng_0137	0	0	@McCormickDaniel	NNP	(ROOT(FRAG(NP(NP*)	-	-	-	Roisin_OConnor	(HANDLE)	-	
+wb/eng/00/eng_0137	0	1	What	WP	(SBAR(WHNP*)	-	-	-	Roisin_OConnor	*	-	
+wb/eng/00/eng_0137	0	2	was	VBD	(S(VP*	-	-	-	Roisin_OConnor	*	-	
+wb/eng/00/eng_0137	0	3	the	DT	(NP*	-	-	-	Roisin_OConnor	*	(2	
+wb/eng/00/eng_0137	0	4	film	NN	*)))))	-	-	-	Roisin_OConnor	*	2)	
+wb/eng/00/eng_0137	0	5	?	.	*))	-	-	-	Roisin_OConnor	*	-	
+
+wb/eng/00/eng_0137	0	0	@Roisin_OConnor	NNP	(ROOT(NP(NP*	-	-	-	McCormickDaniel	(HANDLE)	-	
+wb/eng/00/eng_0137	0	1	Jupiter	NNP	*	-	-	-	McCormickDaniel	*	(2	
+wb/eng/00/eng_0137	0	2	's	POS	*)	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	3	moon	NN	*))	-	-	-	McCormickDaniel	*	2)	
+
+wb/eng/00/eng_0137	0	0	@McCormickDaniel	NNP	(ROOT(NP(NP*	-	-	-	Roisin_OConnor	(HANDLE)	-	
+wb/eng/00/eng_0137	0	1	Pun	NNP	*)	-	-	-	Roisin_OConnor	*	-	
+wb/eng/00/eng_0137	0	2	city	NN	(NP*)))	-	-	-	Roisin_OConnor	*	-	
+
+wb/eng/00/eng_0137	0	0	@Roisin_OConnor	NN	(ROOT(FRAG(NP(NP*)	-	-	-	McCormickDaniel	(HANDLE)	-	
+wb/eng/00/eng_0137	0	1	I	PRP	(SBAR(S(NP*)	-	-	-	McCormickDaniel	*	(4)	
+wb/eng/00/eng_0137	0	2	think	VBP	(VP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	3	it	PRP	(SBAR(S(NP*)	-	-	-	McCormickDaniel	*	(2)	
+wb/eng/00/eng_0137	0	4	is	VBZ	(VP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	5	not	RB	*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	6	a	DT	(NP(NP*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	7	great	JJ	*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	8	film	NN	*)	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	9	-	:	*	-	-	-	McCormickDaniel	*	-	
+wb/eng/00/eng_0137	0	10	my	PRP$	(NP*	-	-	-	McCormickDaniel	*	(4)	
+wb/eng/00/eng_0137	0	11	review	NN	*)))))))))))	-	-	-	McCormickDaniel	*	-	
+
+#end document

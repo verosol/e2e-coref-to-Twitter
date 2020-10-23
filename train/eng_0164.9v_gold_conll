@@ -1,0 +1,76 @@
+#begin document (wb/eng/00/eng_0164); part 000
+wb/eng/00/eng_0164	0	0	Hearing	VBG	(ROOT(S(S(VP*	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	1	the	DT	(NP*	-	-	-	mlombardiNFL	*	(2	
+wb/eng/00/eng_0164	0	2	Lions	NNPS	*)))	-	-	-	mlombardiNFL	(ORGANIZATION)	2)	
+wb/eng/00/eng_0164	0	3	get	VBP	(VP*	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	4	their	PRP$	(NP*	-	-	-	mlombardiNFL	*	(0|(2)	
+wb/eng/00/eng_0164	0	5	coach	NN	*)	-	-	-	mlombardiNFL	(TITLE)	0)	
+wb/eng/00/eng_0164	0	6	in	IN	(PP*	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	7	the	DT	(NP*	-	-	-	mlombardiNFL	(DATE*	-	
+wb/eng/00/eng_0164	0	8	next	JJ	*	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	9	day	NN	*	-	-	-	mlombardiNFL	*)	-	
+wb/eng/00/eng_0164	0	10	or	CC	*	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	11	so	RB	*)))	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	12	.	.	*))	-	-	-	mlombardiNFL	*	-	
+
+wb/eng/00/eng_0164	0	0	Wo	MD	(ROOT(S(VP*	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	1	n't	RB	*	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	2	be	VB	(VP*	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	3	a	DT	(NP*	-	-	-	mlombardiNFL	*	(3	
+wb/eng/00/eng_0164	0	4	surprise	NN	*)	-	-	-	mlombardiNFL	*	3)	
+wb/eng/00/eng_0164	0	5	either	RB	(ADVP*)))	-	-	-	mlombardiNFL	*	-	
+wb/eng/00/eng_0164	0	6	.	.	*))	-	-	-	mlombardiNFL	*	-	
+
+wb/eng/00/eng_0164	0	0	@mlombardiNFL	NN	(ROOT(FRAG(NP(NP*	-	-	-	iamdoofie	(HANDLE*	-	
+wb/eng/00/eng_0164	0	1	@GRONKorDlE	NN	*)	-	-	-	iamdoofie	*)	-	
+wb/eng/00/eng_0164	0	2	So	IN	(SBAR(S(ADVP*)	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	3	it	PRP	(NP*)	-	-	-	iamdoofie	*	(0)	
+wb/eng/00/eng_0164	0	4	's	VBZ	(VP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	5	matt	NN	(NP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	6	Patricia	NNP	*)))))))	-	-	-	iamdoofie	(PERSON)	-	
+
+wb/eng/00/eng_0164	0	0	@iamdoofie	NN	(ROOT(S(NP(NP*	-	-	-	MJoLucier	(HANDLE*	-	
+wb/eng/00/eng_0164	0	1	@mlombardiNFL	NN	*	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	2	@GRONKorDlE	NN	*)	-	-	-	MJoLucier	*)	-	
+wb/eng/00/eng_0164	0	3	I	PRP	(SBAR(S(NP*)	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	4	really	RB	(ADVP*)	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	5	do	VBP	(VP*	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	6	n't	RB	*	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	7	think	VB	(VP*	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	8	patricia	NN	(NP*))))))	-	-	-	MJoLucier	*	(0)	
+wb/eng/00/eng_0164	0	9	will	MD	(VP*	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	10	be	VB	(VP*	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	11	a	DT	(NP*	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	12	good	JJ	*	-	-	-	MJoLucier	*	-	
+wb/eng/00/eng_0164	0	13	head	NN	*	-	-	-	MJoLucier	(TITLE*	-	
+wb/eng/00/eng_0164	0	14	coach	NN	*)))))	-	-	-	MJoLucier	*)	-	
+
+wb/eng/00/eng_0164	0	0	@MJoLucier	NN	(ROOT(FRAG(NP(NP*	-	-	-	iamdoofie	(HANDLE*	-	
+wb/eng/00/eng_0164	0	1	@mlombardiNFL	NN	*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	2	@GRONKorDlE	NN	*)	-	-	-	iamdoofie	*)	-	
+wb/eng/00/eng_0164	0	3	I	PRP	(SBAR(S(S(NP*)	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	4	'm	VBP	(VP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	5	not	RB	*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	6	saying	VBG	(VP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	7	weather	NN	(NP*))))	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	8	or	CC	*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	9	not	RB	(S(SBAR*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	10	he	PRP	(S(NP*)	-	-	-	iamdoofie	*	(0)	
+wb/eng/00/eng_0164	0	11	will	MD	(VP*)))	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	12	he	PRP	(NP*)	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	13	just	RB	(ADVP*)	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	14	said	VBD	(VP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	15	it	PRP	(SBAR(S(S(NP*)	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	16	wo	MD	(VP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	17	n't	RB	*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	18	be	VB	(VP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	19	a	DT	(NP*	-	-	-	iamdoofie	*	(3	
+wb/eng/00/eng_0164	0	20	suprise	NN	*))))	-	-	-	iamdoofie	*	3)	
+wb/eng/00/eng_0164	0	21	and	CC	*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	22	he	PRP	(S(NP*)	-	-	-	iamdoofie	*	(0)	
+wb/eng/00/eng_0164	0	23	was	VBD	(VP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	24	the	DT	(NP*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	25	lead	JJ	*	-	-	-	iamdoofie	*	-	
+wb/eng/00/eng_0164	0	26	candidate	NN	*))))))))))))	-	-	-	iamdoofie	(TITLE)	-	
+
+#end document

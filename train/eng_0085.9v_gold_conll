@@ -1,0 +1,87 @@
+#begin document (wb/eng/00/eng_0085); part 000
+wb/eng/00/eng_0085	0	0	Good	JJ	(ROOT(S(NP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	1	morning	NN	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	2	@GaryBarlow	NN	*	-	-	-	TT_Sisters	(HANDLE)	(3)	
+wb/eng/00/eng_0085	0	3	,	,	*)	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	4	had	VBD	(VP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	5	an	DT	(NP(NP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	6	early	JJ	(ADJP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	7	but	CC	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	8	good	JJ	*)	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	9	start	NN	*)	-	-	-	TT_Sisters	(DATE*	-	
+wb/eng/00/eng_0085	0	10	of	IN	(PP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	11	the	DT	(NP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	12	week	NN	*	-	-	-	TT_Sisters	*)	-	
+wb/eng/00/eng_0085	0	13	%emoji	NNS	*))))))	-	-	-	TT_Sisters	*	-	
+
+wb/eng/00/eng_0085	0	0	Have	VBP	(ROOT(SINV(VP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	1	a	DT	(NP(NP*)	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	2	good	JJ	(FRAG(NP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	3	day	NN	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	4	!	.	*))))	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	5	#barlowsbootcamp	JJ	(NP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	6	https://t.co/zyxN0QgKvz	NN	*)))	-	-	-	TT_Sisters	(URL)	-	
+
+wb/eng/00/eng_0085	0	0	@TT_Sisters	NNS	(ROOT(S(NP*	-	-	-	Catheri70427878	(HANDLE*	-	
+wb/eng/00/eng_0085	0	1	@GaryBarlow	NN	*)	-	-	-	Catheri70427878	*)	-	
+wb/eng/00/eng_0085	0	2	Do	VBP	(VP*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	3	you	PRP	(S(NP*)	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	4	know	VB	(VP*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	5	if	IN	(SBAR*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	6	the	DT	(S(NP*	-	-	-	Catheri70427878	*	(3	
+wb/eng/00/eng_0085	0	7	loverly	JJ	*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	8	Gary	NNP	*	-	-	-	Catheri70427878	(PERSON*	(3	
+wb/eng/00/eng_0085	0	9	Barlow	NNP	*)	-	-	-	Catheri70427878	*)	3)|3)	
+wb/eng/00/eng_0085	0	10	is	VBZ	(VP*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	11	doing	VBG	(VP*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	12	a	DT	(NP*	-	-	-	Catheri70427878	*	(1	
+wb/eng/00/eng_0085	0	13	keepfit	JJ	*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	14	dvd	NN	*))))))))))	-	-	-	Catheri70427878	*	1)	
+
+wb/eng/00/eng_0085	0	0	thanks	NNS	(ROOT(UCP(FRAG(NP(NP*)	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	1	anyway	RB	(ADVP*)))	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	2	and	CC	*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	3	when	WRB	(SBAR(WHADVP*)	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	4	can	MD	(S(VP*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	5	I	PRP	(ADVP*)	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	6	buy	VB	(VP*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	7	,	,	*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	8	the	DT	(NP*	-	-	-	Catheri70427878	*	(1	
+wb/eng/00/eng_0085	0	9	DVD	NN	*)	-	-	-	Catheri70427878	*	1)	
+wb/eng/00/eng_0085	0	10	,	,	*	-	-	-	Catheri70427878	*	-	
+wb/eng/00/eng_0085	0	11	xx	NN	(NP*)))))))	-	-	-	Catheri70427878	*	-	
+
+wb/eng/00/eng_0085	0	0	@Catheri70427878	NN	(ROOT(S(NP*	-	-	-	TT_Sisters	(HANDLE*	-	
+wb/eng/00/eng_0085	0	1	@GaryBarlow	NN	*)	-	-	-	TT_Sisters	*)	-	
+wb/eng/00/eng_0085	0	2	Would	MD	(VP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	3	love	VB	(VP(VP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	4	that	IN	(ADVP*))	-	-	-	TT_Sisters	*	(2)	
+wb/eng/00/eng_0085	0	5	,	,	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	6	but	CC	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	7	not	RB	(VP(ADJP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	8	sure	JJ	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	9	about	IN	(PP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	10	it	PRP	(NP*)))	-	-	-	TT_Sisters	*	(2)	
+wb/eng/00/eng_0085	0	11	%emoji	IN	(PP*))))))	-	-	-	TT_Sisters	*	-	
+
+wb/eng/00/eng_0085	0	0	Check	VB	(ROOT(SINV(VP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	1	out	RP	(PRT*)	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	2	his	PRP$	(NP(NP*	-	-	-	TT_Sisters	*	(3)	
+wb/eng/00/eng_0085	0	3	twitter	NN	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	4	,	,	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	5	instagram	NN	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	6	and	CC	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	7	facebook	NN	*)	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	8	page	NN	(FRAG(NP(NP*)	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	9	,	,	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	10	he	PRP	(NP(NP(NP*)	-	-	-	TT_Sisters	*	(3)	
+wb/eng/00/eng_0085	0	11	`	``	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	12	s	NNS	(NP*))	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	13	posting	VBG	(VP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	14	amazing	JJ	(NP*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	15	workout	NN	*	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	16	videos	NNS	*))))	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	17	!	.	*)))	-	-	-	TT_Sisters	*	-	
+wb/eng/00/eng_0085	0	18	xx	NN	(NP*)))	-	-	-	TT_Sisters	*	-	
+
+#end document

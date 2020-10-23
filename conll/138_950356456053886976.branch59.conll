@@ -1,0 +1,239 @@
+#begin document (138_950356456053886976.branch59.); part 108
+138_950356456053886976.branch59.	108	0	No	DT	(ROOT(S(NP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	1	conservative	NN	*)	-	-	-	MattWalshBlog	(IDEOLOGY)	-
+138_950356456053886976.branch59.	108	2	should	MD	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	3	vote	VB	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	4	for	IN	(PP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	5	Oprah	NNP	(NP*))))	ne/none/none	sbj	-	MattWalshBlog	(PERSON)	(0)
+138_950356456053886976.branch59.	108	6	.	.	*))	-	-	-	MattWalshBlog	*	-
+
+138_950356456053886976.branch59.	108	0	She	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	MattWalshBlog	*	(0)
+138_950356456053886976.branch59.	108	1	's	VBZ	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	2	a	DT	(NP*	indefnp/none/none	copula_rel	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	3	rabid	JJ	*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	4	leftist	JJ	*))	-	-	-	MattWalshBlog	(IDEOLOGY)	-
+138_950356456053886976.branch59.	108	5	.	.	*))	-	-	-	MattWalshBlog	*	-
+
+138_950356456053886976.branch59.	108	0	But	CC	(ROOT(S*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	1	the	DT	(NP(NP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	2	attitude	NN	*)	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	3	expressed	VBN	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	4	below	IN	(PP*)))	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	5	is	VBZ	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	6	exactly	RB	(SBAR(WHADVP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	7	why	WRB	*)	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	8	Republicans	NNS	(S(NP*)	-	-	-	MattWalshBlog	(MISC)	-
+138_950356456053886976.branch59.	108	9	are	VBP	(VP(VP*)	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	10	and	CC	*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	11	should	MD	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	12	be	VB	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	13	worried	VBN	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	14	about	IN	(PP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	15	an	DT	(NP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	16	Oprah	NNP	*	ne/none/none	prep_phrase	-	MattWalshBlog	(MISC)	(0)
+138_950356456053886976.branch59.	108	17	candidacy	NN	*)))))))))	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	18	.	.	*))	-	-	-	MattWalshBlog	*	-
+
+138_950356456053886976.branch59.	108	0	Many	JJ	(ROOT(S(NP*	defnp/none/none	sbj	-	MattWalshBlog	*	(2
+138_950356456053886976.branch59.	108	1	Repubs	NNPS	*)	-	-	-	MattWalshBlog	(MISC)	2)
+138_950356456053886976.branch59.	108	2	will	MD	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	3	vote	VB	(VP(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	4	for	IN	(PP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	5	her	PRP$	(NP*))	ppers/anaphora/nominal	indir_obj	-	MattWalshBlog	*	(0)
+138_950356456053886976.branch59.	108	6	because	IN	(SBAR*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	7	they	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	MattWalshBlog	*	(2)
+138_950356456053886976.branch59.	108	8	're	VBP	(VP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	9	fans	NNS	(NP(NP*)	defnp/none/none	copula_rel	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	10	of	IN	(PP*	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	11	her	PRP$	(NP*	ppos/anaphora/nominal	indir_obj	-	MattWalshBlog	*	(0)
+138_950356456053886976.branch59.	108	12	brand	NN	*)))))	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	13	.	.	*))	-	-	-	MattWalshBlog	*	-
+138_950356456053886976.branch59.	108	14	https://t.co/rvCeQlEIPa	NN	(NP*)))))	-	-	-	MattWalshBlog	(URL)	-
+
+138_950356456053886976.branch59.	108	0	@MattWalshBlog	NN	(ROOT(S(NP*)	-	-	-	deletewheat	(HANDLE)	-
+138_950356456053886976.branch59.	108	1	I	PRP	(NP*)	ppers/exophora/nominal	sbj	-	deletewheat	*	(23)
+138_950356456053886976.branch59.	108	2	am	VBP	(VP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	3	smart	JJ	(ADJP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	4	and	CC	*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	5	strong	JJ	*))	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	6	.	.	*))	-	-	-	deletewheat	*	-
+
+138_950356456053886976.branch59.	108	0	Christian	JJ	(ROOT(S(NP*)	defnp/none/none	copula_rel	-	deletewheat	(RELIGION)	-
+138_950356456053886976.branch59.	108	1	conservative	JJ	(ADJP*)	-	-	-	deletewheat	(IDEOLOGY)	-
+138_950356456053886976.branch59.	108	2	.	.	*))	-	-	-	deletewheat	*	-
+
+138_950356456053886976.branch59.	108	0	Woman	NNP	(ROOT(FRAG(NP*)	defnp/none/none	prep_phrase	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	1	.	.	*))	-	-	-	deletewheat	*	-
+
+138_950356456053886976.branch59.	108	0	None	NN	(ROOT(S(NP(NP*)	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	1	of	IN	(PP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	2	that	DT	(NP*)))	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	3	makes	VBZ	(VP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	4	me	PRP	(S(NP*)	ppers/anaphora/nominal	dir_obj	-	deletewheat	*	(23)
+138_950356456053886976.branch59.	108	5	the	DT	(NP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	6	ideal	JJ	*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	7	president	NN	*)))	-	-	-	deletewheat	(TITLE)	-
+138_950356456053886976.branch59.	108	8	.	.	*))	-	-	-	deletewheat	*	-
+
+138_950356456053886976.branch59.	108	0	@deletewheat	NN	(ROOT(S(NP*)	-	-	-	JFtheHat	(HANDLE*	-
+138_950356456053886976.branch59.	108	1	@MattWalshBlog	NN	(VP*	-	-	-	JFtheHat	*)	-
+138_950356456053886976.branch59.	108	2	''	''	*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	Smart	JJ	(NP*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	''	''	*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	5	...	:	*))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	''	''	(ROOT(FRAG(PP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	1	Christian	NNP	(NP*	-	-	-	JFtheHat	(RELIGION)	-
+138_950356456053886976.branch59.	108	2	''	''	*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	...	:	*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	.	.	*))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	Only	RB	(ROOT(S(NP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	1	one	PRP	*)	-	-	-	JFtheHat	(NUMBER)	-
+138_950356456053886976.branch59.	108	2	can	MD	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	be	VB	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	true	JJ	(NP(ADJP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	5	I	PRP	(SBAR(S(NP*)	ppers/exophora/nominal	sbj	-	JFtheHat	*	(15)
+138_950356456053886976.branch59.	108	6	'm	VBP	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	7	afraid	JJ	(ADJP*))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	8	.	.	*)))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	9	#religionisforfools	NNS	*)))))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	@JFtheHat	NN	(ROOT(FRAG(NP(NP*	-	-	-	deletewheat	(HANDLE*	-
+138_950356456053886976.branch59.	108	1	@MattWalshBlog	NN	*)	-	-	-	deletewheat	*)	-
+138_950356456053886976.branch59.	108	2	Then	RB	(SBAR(S*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	3	you	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	deletewheat	*	(15)
+138_950356456053886976.branch59.	108	4	are	VBP	(VP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	5	neither	DT	(NP*)))))))	-	-	-	deletewheat	*	-
+
+138_950356456053886976.branch59.	108	0	@deletewheat	NN	(ROOT(S(NP(NP(NP*	-	-	-	JFtheHat	(HANDLE*	-
+138_950356456053886976.branch59.	108	1	@MattWalshBlog	NN	*)	-	-	-	JFtheHat	*)	-
+138_950356456053886976.branch59.	108	2	Smart	JJ	(ADJP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	enough	JJ	*))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	to	TO	(SBAR(S(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	5	know	VB	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	6	religion	NN	(NP*))))))	defnp/none/none	sbj	-	JFtheHat	*	(12)
+138_950356456053886976.branch59.	108	7	is	VBZ	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	8	a	DT	(NP*	indefnp/none/none	copula_rel	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	9	made	VBN	(ADJP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	10	up	RP	(PRT*))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	11	fantasy	NN	*))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	12	.	.	*))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	May	MD	(ROOT(SINV(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	1	I	PRP	(ADVP*)	ppers/anaphora/nominal	sbj	-	JFtheHat	*	(15)
+138_950356456053886976.branch59.	108	2	ask	VB	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	what	WP	(SBAR(WHNP*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	makes	VBZ	(S(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	5	you	PRP	(NP*))))))	ppers/anaphora/nominal	dir_obj	-	JFtheHat	*	(23)
+138_950356456053886976.branch59.	108	6	a	DT	(NP(NP*	indefnp/none/none	dir_obj	-	JFtheHat	*	(23
+138_950356456053886976.branch59.	108	7	believer	NN	*)	-	-	-	JFtheHat	*	23)
+138_950356456053886976.branch59.	108	8	in	IN	(PP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	9	the	DT	(NP(NP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	10	absence	NN	*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	11	of	IN	(PP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	12	any	DT	(NP(NP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	13	evidence	NN	*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	14	whatsoever	RB	*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	15	?	.	*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	16	#Genuine	JJ	(ADJP*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	17	#Question	NN	*)))))))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	@JFtheHat	NN	(ROOT(NP(NP(NP*	-	-	-	deletewheat	(HANDLE*	-
+138_950356456053886976.branch59.	108	1	@MattWalshBlog	NN	*)	-	-	-	deletewheat	*)	-
+138_950356456053886976.branch59.	108	2	My	PRP$	(NP*))	ppos/anaphora/nominal	sbj	-	deletewheat	*	(23)
+138_950356456053886976.branch59.	108	3	knowing	VBG	(VP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	4	there	EX	(SBAR(S(NP*)	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	5	is	VBZ	(VP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	6	an	DT	(NP(NP*	ne/none/none	sbj	-	deletewheat	*	(1
+138_950356456053886976.branch59.	108	7	all	DT	(ADJP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	8	powerful	JJ	*)	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	9	God	NNP	*)	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	10	that	WDT	(SBAR(WHNP*)	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	11	created	VBD	(S(VP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	12	all	DT	(SBAR(S(NP*)	-	-	-	deletewheat	*	1)
+138_950356456053886976.branch59.	108	13	is	VBZ	(VP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	14	not	RB	*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	15	a	DT	(NP*	indefnp/none/none	dir_obj	-	deletewheat	*	(12
+138_950356456053886976.branch59.	108	16	religion	NN	*))))))))))))	-	-	-	deletewheat	*	12)
+138_950356456053886976.branch59.	108	17	.	.	*))	-	-	-	deletewheat	*	-
+
+138_950356456053886976.branch59.	108	0	I	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	deletewheat	*	(23)
+138_950356456053886976.branch59.	108	1	know	VBP	(VP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	2	His	PRP$	(NP*	defnp/none/none|ppos/anaphora/nominal	dir_obj|dir_obj	-	deletewheat	*	(25|(1)
+138_950356456053886976.branch59.	108	3	existence	NN	*)	-	-	-	deletewheat	*	25)
+138_950356456053886976.branch59.	108	4	by	IN	(PP*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	5	my	PRP$	(NP(NP*	defnp/none/none|ppos/anaphora/nominal	prep_phrase|prep_phrase	-	deletewheat	*	(24|(23)
+138_950356456053886976.branch59.	108	6	own	JJ	*)	-	-	-	deletewheat	*	24)
+138_950356456053886976.branch59.	108	7	and	CC	*	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	8	yours	PRP$	(NP*))))	-	-	-	deletewheat	*	-
+138_950356456053886976.branch59.	108	9	.	.	*))	-	-	-	deletewheat	*	-
+
+138_950356456053886976.branch59.	108	0	@deletewheat	NN	(ROOT(NP(NP*	-	-	-	JFtheHat	(HANDLE*	-
+138_950356456053886976.branch59.	108	1	@MattWalshBlog	NN	*	-	-	-	JFtheHat	*)	-
+138_950356456053886976.branch59.	108	2	Thanks	NNS	*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	for	IN	(PP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	your	PRP$	(NP*	ppos/anaphora/nominal	prep_phrase	-	JFtheHat	*	(23)
+138_950356456053886976.branch59.	108	5	reply	NN	*))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	6	.	.	*))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	To	TO	(ROOT(S(S(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	1	''	''	*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	2	know	VB	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	''	''	*)))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	is	VBZ	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	5	to	TO	(S(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	6	possess	VB	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	7	knowledge	NN	(NP*)))))	defnp/none/none	dir_obj	-	JFtheHat	*	(17)
+138_950356456053886976.branch59.	108	8	.	.	*))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	Knowledge	NN	(ROOT(S(NP*)	defnp/none/none	sbj	-	JFtheHat	*	(17)
+138_950356456053886976.branch59.	108	1	is	VBZ	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	2	based	VBN	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	on	IN	(PP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	demonstrable	JJ	(NP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	5	facts	NNS	*))))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	6	.	.	*))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	When	WRB	(ROOT(S(SBAR(WHADVP*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	1	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	JFtheHat	*	(23)
+138_950356456053886976.branch59.	108	2	say	VBP	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	''	''	*)))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	I	PRP	(PRN(S(NP*)	ppers/anaphora/nominal	sbj	-	JFtheHat	*	(23)
+138_950356456053886976.branch59.	108	5	know	VBP	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	6	''	''	*))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	7	,	,	*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	8	you	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	JFtheHat	*	(23)
+138_950356456053886976.branch59.	108	9	should	MD	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	10	be	VB	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	11	saying	VBG	(S(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	12	''	''	*))))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	13	I	PRP	(PRN(S(NP*)	ppers/anaphora/nominal	sbj	-	JFtheHat	*	(23)
+138_950356456053886976.branch59.	108	14	believe	VBP	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	15	''	''	*))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	16	,	,	*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	17	as	IN	(SBAR*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	18	you	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	JFtheHat	*	(23)
+138_950356456053886976.branch59.	108	19	have	VBP	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	20	not	RB	*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	21	demonstrated	VBN	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	22	any	DT	(NP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	23	facts	NNS	*)))))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	24	.	.	*))	-	-	-	JFtheHat	*	-
+
+138_950356456053886976.branch59.	108	0	*	SYM	(ROOT(SBAR(X*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	1	Please	UH	(S(NP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	2	explain	VB	(S(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	3	how	WRB	(FRAG(SBAR(WHADVP*)	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	4	your	PRP$	(S(NP*	defnp/none/none|ppos/anaphora/nominal	sbj|sbj	-	JFtheHat	*	(24|(23)
+138_950356456053886976.branch59.	108	5	existence	NN	*)	-	-	-	JFtheHat	*	24)
+138_950356456053886976.branch59.	108	6	''	''	*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	7	proves	VBZ	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	8	''	''	(VP(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	9	Gods	NNS	(NP-TMP*))	defnp/none/none|ne/none/none	dir_obj|dir_obj	-	JFtheHat	*	(25|(1)
+138_950356456053886976.branch59.	108	10	existence	NN	(PP*))))	-	-	-	JFtheHat	*	25)
+138_950356456053886976.branch59.	108	11	?	.	*)))))	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	12	*	SYM	(VP*	-	-	-	JFtheHat	*	-
+138_950356456053886976.branch59.	108	13	#logicfail	NN	(NP*)))))	-	-	-	JFtheHat	*	-
+
+#end document

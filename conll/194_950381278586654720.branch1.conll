@@ -1,0 +1,80 @@
+#begin document (194_950381278586654720.branch1.); part 157
+194_950381278586654720.branch1.	157	0	You	PRP	(ROOT(S(NP*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	1	do	VBP	(VP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	2	got	VBD	(SBAR(S(VP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	3	a	DT	(SBAR(FRAG(NP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	4	good	JJ	*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	5	point	NN	*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	6	there	RB	(ADVP*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	7	.	.	*))))))	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	8	.	.	*))	-	-	-	JaybillsGames	*	-
+
+194_950381278586654720.branch1.	157	0	Hey	UH	(ROOT(S(INTJ*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	1	@SkyFan91	NN	(VP*	ne/none/none	other/vocative	-	JaybillsGames	(HANDLE)	(1)
+194_950381278586654720.branch1.	157	2	,	,	(VP(PRN*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	3	do	VBP	(S(VP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	4	you	PRP	(S(NP*)	ppers/exophora/nominal	sbj	-	JaybillsGames	*	(1)
+194_950381278586654720.branch1.	157	5	think	VB	(VP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	6	they	PRP	(SBAR(S(NP*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	7	'd	MD	(VP*))))))))	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	8	nerf	VB	*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	9	him	PRP	(NP*)	ppers/exophora/nominal	dir_obj	-	JaybillsGames	*	(2)
+194_950381278586654720.branch1.	157	10	though	IN	(PP*)))	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	11	?	.	*))	-	-	-	JaybillsGames	*	-
+
+194_950381278586654720.branch1.	157	0	Acti	NNP	(ROOT(S(NP*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	1	likes	VBZ	(VP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	2	doing	VBG	(SBAR(S(VP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	3	that	IN	(PP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	4	whenever	WRB	(FRAG(WHADVP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	5	a	DT	(NP(NP*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	6	new	JJ	*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	7	Sky	NNP	(NP*)))	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	8	drops	NNS	(NP*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	9	.	.	*)))	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	10	%emoji	FW	(NP-TMP(NP*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	11	https://t.co/4H93GrNdjX	NN	(NP*)))))))	-	-	-	JaybillsGames	(URL)	-
+
+194_950381278586654720.branch1.	157	0	@JaybillsGames	NNS	(ROOT(NP(NP*)	-	-	-	SkyFan91	(HANDLE)	-
+194_950381278586654720.branch1.	157	1	Depends	NNS	(NP*)	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	2	.	.	*))	-	-	-	SkyFan91	*	-
+
+194_950381278586654720.branch1.	157	0	He	PRP	(ROOT(S(NP*)	ppers/anaphora/nominal	sbj	-	SkyFan91	*	(2)
+194_950381278586654720.branch1.	157	1	is	VBZ	(VP*	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	2	a	DT	(NP*	indefnp/none/none	copula_rel	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	3	sensei	NN	*)	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	4	so	IN	(SBAR*	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	5	it	PRP	(S(NP*)	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	6	could	MD	(VP*	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	7	go	VB	(VP*	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	8	either	DT	(NP*	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	9	way	NN	*))))))))	-	-	-	SkyFan91	*	-
+
+194_950381278586654720.branch1.	157	0	@SkyFan91	NN	(ROOT(NP(NP*)	-	-	-	JaybillsGames	(HANDLE)	-
+194_950381278586654720.branch1.	157	1	Nerf	NN	(NP(NP*	-	-	-	JaybillsGames	(MISC*	-
+194_950381278586654720.branch1.	157	2	Cortex	NN	*)	-	-	-	JaybillsGames	*)	-
+194_950381278586654720.branch1.	157	3	,	,	*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	4	not	RB	*	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	5	him	PRP	(NP*))	ppers/anaphora/nominal	dir_obj	-	JaybillsGames	*	(2)
+194_950381278586654720.branch1.	157	6	.	.	*))	-	-	-	JaybillsGames	*	-
+
+194_950381278586654720.branch1.	157	0	LMAO	NNP	(ROOT(FRAG(NP*)	-	-	-	JaybillsGames	*	-
+194_950381278586654720.branch1.	157	1	.	.	*))	-	-	-	JaybillsGames	*	-
+
+194_950381278586654720.branch1.	157	0	@JaybillsGames	NNS	(ROOT(S(NP*	-	-	-	ZoeGraceHarris	(HANDLE*	-
+194_950381278586654720.branch1.	157	1	@SkyFan91	NN	*)	-	-	-	ZoeGraceHarris	*)	-
+194_950381278586654720.branch1.	157	2	do	VBP	(VP*	-	-	-	ZoeGraceHarris	*	-
+194_950381278586654720.branch1.	157	3	not	RB	*	-	-	-	ZoeGraceHarris	*	-
+194_950381278586654720.branch1.	157	4	nerf	VB	(VP*	-	-	-	ZoeGraceHarris	*	-
+194_950381278586654720.branch1.	157	5	my	PRP$	(NP*	-	-	-	ZoeGraceHarris	*	-
+194_950381278586654720.branch1.	157	6	wife	NN	*)))))	-	-	-	ZoeGraceHarris	*	-
+
+194_950381278586654720.branch1.	157	0	@ZoeGraceHarris	NNP	(ROOT(S(NP(NP*	-	-	-	SkyFan91	(HANDLE*	-
+194_950381278586654720.branch1.	157	1	@JaybillsGames	NNPS	*	-	-	-	SkyFan91	*)	-
+194_950381278586654720.branch1.	157	2	Nerf	NNP	*	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	3	Aku	NNP	*	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	4	Aku	NNP	*)	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	5	everyone	NN	(NP*))	-	-	-	SkyFan91	*	-
+194_950381278586654720.branch1.	157	6	wins	VBZ	(VP*)))	-	-	-	SkyFan91	*	-
+
+#end document

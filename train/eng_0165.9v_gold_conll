@@ -1,0 +1,52 @@
+#begin document (wb/eng/00/eng_0165); part 000
+wb/eng/00/eng_0165	0	0	still	RB	(ROOT(FRAG(S(ADVP*)	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	1	waiting	VBG	(VP*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	2	for	IN	(PP*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	3	this	DT	(NP*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	4	corker	NN	*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	5	https://t.co/PVZmQKnn5H	NN	*))))))	-	-	-	ThePipLad	(URL)	-	
+
+wb/eng/00/eng_0165	0	0	@ThePipLad	NNP	(ROOT(S(NP*)	-	-	-	TheCincast	(HANDLE)	-	
+wb/eng/00/eng_0165	0	1	Do	VBP	(VP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	2	you	PRP	(S(NP*)	-	-	-	TheCincast	*	(1)	
+wb/eng/00/eng_0165	0	3	reckon	VB	(VP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	4	Brad	NNP	(SBAR(S(NP*)	-	-	-	TheCincast	(PERSON)	(0)	
+wb/eng/00/eng_0165	0	5	will	MD	(VP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	6	come	VB	(VP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	7	on	IN	(PP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	8	Bamboozled	NNP	(NP*)))))))))	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	9	?	.	*))	-	-	-	TheCincast	*	-	
+
+wb/eng/00/eng_0165	0	0	@TheCincast	NN	(ROOT(S(NP(NP*)	-	-	-	ThePipLad	(HANDLE)	-	
+wb/eng/00/eng_0165	0	1	I	PRP	(RRC(ADJP(NP*)	-	-	-	ThePipLad	*	(1)	
+wb/eng/00/eng_0165	0	2	bloody	JJ	*)	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	3	well	RB	(ADVP*)))	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	4	hope	VBP	(VP*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	5	so	IN	(ADVP*))))	-	-	-	ThePipLad	*	-	
+
+wb/eng/00/eng_0165	0	0	@ThePipLad	NNP	(ROOT(FRAG(NP(NP*)	-	-	-	TheCincast	(HANDLE)	-	
+wb/eng/00/eng_0165	0	1	He	PRP	(SBAR(S(S(NP*)	-	-	-	TheCincast	*	(0)	
+wb/eng/00/eng_0165	0	2	was	VBD	(VP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	3	gon	VBG	(VP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	4	na	TO	(S(VP*))	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	5	like	IN	(PP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	6	1	CD	(NP*)))))	-	-	-	TheCincast	(NUMBER)	-	
+wb/eng/00/eng_0165	0	7	and	CC	*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	8	half	DT	(ADVP(NP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	9	year	NN	*)	-	-	-	TheCincast	(DATE*	-	
+wb/eng/00/eng_0165	0	10	ago	IN	*)	-	-	-	TheCincast	*)	-	
+wb/eng/00/eng_0165	0	11	but	CC	(S*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	12	then	RB	(ADVP*)	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	13	he	PRP	(NP*)	-	-	-	TheCincast	*	(0)	
+wb/eng/00/eng_0165	0	14	quickscoped	VBD	(VP*	-	-	-	TheCincast	*	-	
+wb/eng/00/eng_0165	0	15	me	PRP	(NP*))))))))	-	-	-	TheCincast	*	-	
+
+wb/eng/00/eng_0165	0	0	@TheCincast	NN	(ROOT(S(NP*)	-	-	-	ThePipLad	(HANDLE)	-	
+wb/eng/00/eng_0165	0	1	could	MD	(VP*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	2	have	VB	(VP*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	3	been	VBN	(VP*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	4	the	DT	(NP*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	5	big	JJ	*	-	-	-	ThePipLad	*	-	
+wb/eng/00/eng_0165	0	6	break	NN	*))))))	-	-	-	ThePipLad	*	-	
+
+#end document

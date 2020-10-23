@@ -1,0 +1,101 @@
+#begin document (066_950175852775596033.branch1.); part 47
+066_950175852775596033.branch1.	47	0	I	PRP	(ROOT(NP(NP(NP*)	ppers/exophora/nominal	sbj	-	habibihusa	*	(5)
+066_950175852775596033.branch1.	47	1	really	RB	(SBAR(FRAG(ADVP*)	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	2	just	RB	(ADJP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	3	wan	VB	(SBAR(S(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	4	na	TO	(S(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	5	see	VB	(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	6	everyone	NN	(S(NP*)	indefnp/none/none	dir_obj	-	habibihusa	*	(4)
+066_950175852775596033.branch1.	47	7	eat	VB	(VP*)))))))))	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	8	...	:	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	9	family	NN	(NP(NP*)	defnp/none/none	dir_obj	-	habibihusa	*	(4
+066_950175852775596033.branch1.	47	10	,	,	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	11	friends	NNS	(NP*)	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	12	,	,	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	13	acquaintances	NNS	(NP*)	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	14	,	,	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	15	strangers	NNS	(NP*)	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	16	,	,	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	17	enemies	NNS	(NP*)))))	-	-	-	habibihusa	*	4)
+066_950175852775596033.branch1.	47	18	...	:	*))	-	-	-	habibihusa	*	-
+
+066_950175852775596033.branch1.	47	0	Just	RB	(ROOT(S(VP(ADVP*)	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	1	want	VB	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	2	everyone	NN	(NP*)	indefnp/none/none	dir_obj	-	habibihusa	*	(4)
+066_950175852775596033.branch1.	47	3	to	TO	(S(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	4	flourish	VB	(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	5	in	IN	(PP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	6	one	CD	(NP(NP*	-	-	-	habibihusa	(NUMBER)	-
+066_950175852775596033.branch1.	47	7	way	NN	*)	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	8	or	CC	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	9	another	DT	(NP*)))))))))	-	-	-	habibihusa	*	-
+
+066_950175852775596033.branch1.	47	0	@habibihusa	NN	(ROOT(FRAG(NP*)	-	-	-	bshahid331	(HANDLE)	-
+066_950175852775596033.branch1.	47	1	Except	IN	(PP*	-	-	-	bshahid331	*	-
+066_950175852775596033.branch1.	47	2	for	IN	(PP*	-	-	-	bshahid331	*	-
+066_950175852775596033.branch1.	47	3	that	DT	(NP(NP*	-	-	-	bshahid331	*	-
+066_950175852775596033.branch1.	47	4	night	NN	*)	-	-	-	bshahid331	(TIME)	-
+066_950175852775596033.branch1.	47	5	I	PRP	(SBAR(S(NP*)	ppers/exophora/nominal	sbj	-	bshahid331	*	(1)
+066_950175852775596033.branch1.	47	6	wanted	VBD	(VP*	-	-	-	bshahid331	*	-
+066_950175852775596033.branch1.	47	7	Cookout	NNP	(NP*)))))))))	defnp/none/none	dir_obj	-	bshahid331	(PERSON)	(3)
+
+066_950175852775596033.branch1.	47	0	@bshahid331	NN	(ROOT(S(NP*	-	-	-	shizmayne	(HANDLE*	-
+066_950175852775596033.branch1.	47	1	@habibihusa	NN	*)	-	-	-	shizmayne	*)	-
+066_950175852775596033.branch1.	47	2	That	WDT	(NP*)	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	3	's	VBZ	(VP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	4	like	IN	(PP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	5	85	CD	(NP(NP*	-	-	-	shizmayne	(PERCENT*	-
+066_950175852775596033.branch1.	47	6	%	NN	*)	-	-	-	shizmayne	*)	-
+066_950175852775596033.branch1.	47	7	of	IN	(PP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	8	nights	NNS	(NP*))))	-	-	-	shizmayne	(TIME)	-
+066_950175852775596033.branch1.	47	9	though	IN	(ADVP*))	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	10	.	.	*))	-	-	-	shizmayne	*	-
+
+066_950175852775596033.branch1.	47	0	And	CC	(ROOT(S*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	1	I	PRP	(NP*)	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	2	'm	VBP	(VP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	3	being	VBG	(VP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	4	generous	JJ	(NP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	5	btw	NN	*)))	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	6	.	.	*))	-	-	-	shizmayne	*	-
+
+066_950175852775596033.branch1.	47	0	More	JJR	(ROOT(FRAG(ADJP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	1	like	IN	(PP*))	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	2	closer	JJR	(ADJP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	3	to	TO	(PP*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	4	100	CD	(NP*)))))	-	-	-	shizmayne	(NUMBER)	-
+
+066_950175852775596033.branch1.	47	0	@shizmayne	NN	(ROOT(FRAG(NP(NP*	-	-	-	habibihusa	(HANDLE*	-
+066_950175852775596033.branch1.	47	1	@bshahid331	NN	*)	-	-	-	habibihusa	*)	-
+066_950175852775596033.branch1.	47	2	the	DT	(NP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	3	fact	NN	*))	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	4	that	IN	(SBAR*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	5	he	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	habibihusa	*	(1)
+066_950175852775596033.branch1.	47	6	wants	VBZ	(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	7	cookout	NN	(NP(NP*)	defnp/none/none	dir_obj	-	habibihusa	*	(3)
+066_950175852775596033.branch1.	47	8	or	CC	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	9	the	DT	(NP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	10	fact	NN	*))	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	11	that	IN	(SBAR*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	12	I	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	habibihusa	*	(5)
+066_950175852775596033.branch1.	47	13	wan	VBP	(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	14	na	TO	(S(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	15	see	VB	(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	16	everyone	NN	(S(NP*)	indefnp/none/none	dir_obj	-	habibihusa	*	(4)
+066_950175852775596033.branch1.	47	17	eat	VB	(VP*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	18	lol	NN	(NP*))))))))))))))	-	-	-	habibihusa	*	-
+
+066_950175852775596033.branch1.	47	0	@habibihusa	NN	(ROOT(NP*	-	-	-	shizmayne	(HANDLE*	-
+066_950175852775596033.branch1.	47	1	@bshahid331	NN	*	-	-	-	shizmayne	*)	-
+066_950175852775596033.branch1.	47	2	...	:	*	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	3	.	.	*))	-	-	-	shizmayne	*	-
+
+066_950175852775596033.branch1.	47	0	Both	CC	(ROOT(FRAG(WHNP*)	-	-	-	shizmayne	*	-
+066_950175852775596033.branch1.	47	1	?	.	*))	-	-	-	shizmayne	*	-
+
+066_950175852775596033.branch1.	47	0	@shizmayne	NN	(ROOT(FRAG(NP*	-	-	-	habibihusa	(HANDLE*	-
+066_950175852775596033.branch1.	47	1	@bshahid331	NN	*	-	-	-	habibihusa	*)	-
+066_950175852775596033.branch1.	47	2	Fair	NN	*	-	-	-	habibihusa	*	-
+066_950175852775596033.branch1.	47	3	lol	NN	*)))	-	-	-	habibihusa	*	-
+
+#end document

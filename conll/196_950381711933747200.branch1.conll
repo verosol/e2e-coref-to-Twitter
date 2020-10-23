@@ -1,0 +1,48 @@
+#begin document (196_950381711933747200.branch1.); part 159
+196_950381711933747200.branch1.	159	0	oh	UH	(ROOT(SINV(FRAG(INTJ*))	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	1	nice	JJ	(VP(ADVP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	2	gabby	NN	(NP*))	ne/none/none	sbj	-	quadlutzes	*	(0)
+196_950381711933747200.branch1.	159	3	is	VBZ	*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	4	making	VBG	(VP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	5	some	DT	(NP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	6	good	JJ	*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	7	life	NN	*)))	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	8	choices	NNS	(NP*)))	-	-	-	quadlutzes	*	-
+
+196_950381711933747200.branch1.	159	0	i	LS	(ROOT(FRAG(NP*	ppers/exophora/nominal	sbj	-	quadlutzes	*	(1)
+196_950381711933747200.branch1.	159	1	wonder	NN	*)	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	2	if	IN	(SBAR*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	3	she	PRP	(S(NP*)	ppers/anaphora/nominal	sbj	-	quadlutzes	*	(0)
+196_950381711933747200.branch1.	159	4	's	VBZ	(VP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	5	still	RB	(ADVP*)	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	6	planning	VBG	(VP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	7	4T	NN	(NP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	8	%emoji	NNS	*)))))))	-	-	-	quadlutzes	*	-
+
+196_950381711933747200.branch1.	159	0	@quadlutzes	NNS	(ROOT(SINV(VP(NP(NP*)	-	-	-	zmcadler	(HANDLE)	-
+196_950381711933747200.branch1.	159	1	Yes	UH	(FRAG(INTJ*)))	-	-	-	zmcadler	*	-
+196_950381711933747200.branch1.	159	2	please	VB	(ADJP*))	-	-	-	zmcadler	*	-
+196_950381711933747200.branch1.	159	3	we	PRP	(VP(ADVP*)	-	-	-	zmcadler	*	-
+196_950381711933747200.branch1.	159	4	need	VBP	*)	-	-	-	zmcadler	*	-
+196_950381711933747200.branch1.	159	5	quads	NNS	(NP(NP*)	-	-	-	zmcadler	*	-
+196_950381711933747200.branch1.	159	6	in	IN	(PP*	-	-	-	zmcadler	*	-
+196_950381711933747200.branch1.	159	7	ladies	NNS	(NP(NP*)	-	-	-	zmcadler	*	-
+196_950381711933747200.branch1.	159	8	skating	VBG	(VP*	-	-	-	zmcadler	*	-
+196_950381711933747200.branch1.	159	9	%emoji	NNS	(NP*)))))))	-	-	-	zmcadler	*	-
+
+196_950381711933747200.branch1.	159	0	@zmcadler	VB	(ROOT(S(S(VP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	1	her	PRP	(NP*)	ppos/anaphora/nominal	sbj	-	quadlutzes	*	(0)
+196_950381711933747200.branch1.	159	2	3Ts	NNS	(SBAR(S(NP*)	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	3	are	VBP	(VP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	4	amazing	JJ	(ADJP*))))))	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	5	,	,	*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	6	i	FW	(NP*)	ppers/anaphora/nominal	sbj	-	quadlutzes	*	(1)
+196_950381711933747200.branch1.	159	7	'm	VBP	(VP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	8	looking	VBG	(VP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	9	forward	RB	(ADVP*)	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	10	to	TO	(PP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	11	seeing	VBG	(S(VP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	12	this	DT	(NP*	-	-	-	quadlutzes	*	-
+196_950381711933747200.branch1.	159	13	%emoji	NN	*))))))))	-	-	-	quadlutzes	*	-
+
+#end document

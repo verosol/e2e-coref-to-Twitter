@@ -1,0 +1,247 @@
+#begin document (wb/eng/00/eng_0188); part 000
+wb/eng/00/eng_0188	0	0	@huntsdc	NN	(ROOT(FRAG(NP(NP*)	-	-	-	goonerneal	(HANDLE)	-	
+wb/eng/00/eng_0188	0	1	hi	UH	(SBAR(S(PRN(SINV(FRAG(INTJ*))	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	can	MD	(VP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	3	you	PRP	(NP*)))	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	4	let	VB	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	5	me	PRP	(S(NP*)	-	-	-	goonerneal	*	(27)	
+wb/eng/00/eng_0188	0	6	know	VB	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	7	who	WP	(SBAR(WHNP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	8	is	VBZ	(S(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	9	responsible	JJ	(ADJP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	10	for	IN	(SBAR*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	11	the	DT	(S(NP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	12	drains	VBZ	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	13	around	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	14	St	NNP	(NP*	-	-	-	goonerneal	(LOCATION*	-	
+wb/eng/00/eng_0188	0	15	Neots	NNP	*))))))))))))))))	-	-	-	goonerneal	*)	-	
+
+wb/eng/00/eng_0188	0	0	please	VB	(ROOT(S(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	1	been	VBN	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	like	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	3	this	DT	(NP*))	-	-	-	goonerneal	*	(24)	
+wb/eng/00/eng_0188	0	4	for	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	5	a	DT	(NP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	6	long	JJ	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	7	time	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	8	https://t.co/fobuW5YVS0	NN	*))))))	-	-	-	goonerneal	(URL)	-	
+
+wb/eng/00/eng_0188	0	0	@goonerneal	JJ	(ROOT(S(ADJP*	-	-	-	huntsdc	(HANDLE)	-	
+wb/eng/00/eng_0188	0	1	Hi	UH	(SBAR(S(INTJ*)	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	2	,	,	*	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	3	@CambsCC	NN	(NP(NP*)	-	-	-	huntsdc	(HANDLE)	-	
+wb/eng/00/eng_0188	0	4	or	CC	*	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	5	@AnglianWater	NN	(NP*))	-	-	-	huntsdc	(HANDLE)	-	
+wb/eng/00/eng_0188	0	6	may	MD	(VP*	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	7	be	VB	(VP*	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	8	able	JJ	(ADJP*	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	9	to	TO	(S(VP*	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	10	help	VB	(VP*	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	11	you	PRP	(NP*))))))))))	-	-	-	huntsdc	*	(27)	
+wb/eng/00/eng_0188	0	12	.	.	*))	-	-	-	huntsdc	*	-	
+
+wb/eng/00/eng_0188	0	0	Thank	VB	(ROOT(S(VP*	-	-	-	huntsdc	*	-	
+wb/eng/00/eng_0188	0	1	you	PRP	(NP*))))	-	-	-	huntsdc	*	(27)	
+
+wb/eng/00/eng_0188	0	0	@huntsdc	NN	(ROOT(S(NP(NP*	-	-	-	goonerneal	(HANDLE*	-	
+wb/eng/00/eng_0188	0	1	@CambsCC	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	@AnglianWater	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	3	@CambsCC	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	4	@AnglianWater	NN	*)	-	-	-	goonerneal	*)	-	
+wb/eng/00/eng_0188	0	5	hi	UH	(SBAR(S(INTJ*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	6	any	DT	(NP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	7	chance	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	8	somebody	NN	*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	9	could	MD	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	10	take	VB	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	11	a	DT	(NP*	-	-	-	goonerneal	*	(23	
+wb/eng/00/eng_0188	0	12	look	NN	*)	-	-	-	goonerneal	*	23)	
+wb/eng/00/eng_0188	0	13	at	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	14	this	DT	(NP*)))))))	-	-	-	goonerneal	*	(24)	
+wb/eng/00/eng_0188	0	15	please	VB	(VP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	16	?	.	*))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	Thanks	NNS	(ROOT(NP*))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	@goonerneal	JJ	(ROOT(S(NP(NP*	-	-	-	AnglianWater	(HANDLE*	-	
+wb/eng/00/eng_0188	0	1	@huntsdc	NN	*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	2	@CambsCC	NN	(PP(NP(NP*)	-	-	-	AnglianWater	*)	-	
+wb/eng/00/eng_0188	0	3	Hi	UH	(FRAG(INTJ*)))	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	4	Neal	NNP	(NP(NP*)	-	-	-	AnglianWater	(PERSON)	(27)	
+wb/eng/00/eng_0188	0	5	,	,	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	6	if	IN	(SBAR*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	7	you	PRP	(S(NP*)	-	-	-	AnglianWater	*	(27)	
+wb/eng/00/eng_0188	0	8	can	MD	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	9	let	VB	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	10	me	PRP	(S(NP*)	-	-	-	AnglianWater	*	(26)	
+wb/eng/00/eng_0188	0	11	know	VB	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	12	your	PRP$	(S(NP*	-	-	-	AnglianWater	*	(27)	
+wb/eng/00/eng_0188	0	13	full	JJ	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	14	address	NN	*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	15	I	PRP	(NP*)))))))))))	-	-	-	AnglianWater	*	(26)	
+wb/eng/00/eng_0188	0	16	'll	MD	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	17	have	VB	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	18	a	DT	(NP*	-	-	-	AnglianWater	*	(23	
+wb/eng/00/eng_0188	0	19	look	NN	*)	-	-	-	AnglianWater	*	23)	
+wb/eng/00/eng_0188	0	20	into	IN	(PP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	21	this	DT	(NP*))))	-	-	-	AnglianWater	*	(24)	
+wb/eng/00/eng_0188	0	22	.	.	*))	-	-	-	AnglianWater	*	-	
+
+wb/eng/00/eng_0188	0	0	Thanks	NNS	(ROOT(NP(NP*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	1	,	,	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	2	Sam	NNP	(NP*	-	-	-	AnglianWater	(PERSON*	(26)	
+wb/eng/00/eng_0188	0	3	https://t.co/y94x1oGRLL	NNP	*)))	-	-	-	AnglianWater	*)	-	
+
+wb/eng/00/eng_0188	0	0	@AnglianWater	NN	(ROOT(S(NP*	-	-	-	goonerneal	(HANDLE*	-	
+wb/eng/00/eng_0188	0	1	@huntsdc	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	@CambsCC	NN	*)	-	-	-	goonerneal	*)	-	
+wb/eng/00/eng_0188	0	3	Hi	UH	(VP(NP(INTJ*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	4	Sam	NNP	(NP*)))	-	-	-	goonerneal	(PERSON)	(26)	
+wb/eng/00/eng_0188	0	5	.	.	*))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	Thanks	NNS	(ROOT(NP(NP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	1	for	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	getting	VBG	(S(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	3	back	RB	(ADVP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	4	to	TO	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	5	me	PRP	(NP*)))))	-	-	-	goonerneal	*	(27)	
+wb/eng/00/eng_0188	0	6	.	.	*))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	It	PRP	(ROOT(NP(NP*)	-	-	-	goonerneal	*	(16)	
+wb/eng/00/eng_0188	0	1	outside	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	12	CD	(NP*	-	-	-	goonerneal	(NUMBER)	(16	
+wb/eng/00/eng_0188	0	3	Greenfield	NNP	*	-	-	-	goonerneal	(ORGANIZATION*	-	
+wb/eng/00/eng_0188	0	4	St	NNP	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	5	Neots	NNP	*))	-	-	-	goonerneal	*)	16)	
+wb/eng/00/eng_0188	0	6	.	.	*))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	Thanks	NNS	(ROOT(NP(NP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	1	https://t.co/dWTjlsm02r	NN	(NP*)))	-	-	-	goonerneal	(URL)	-	
+
+wb/eng/00/eng_0188	0	0	@AnglianWater	NN	(ROOT(FRAG(NP(NP*	-	-	-	goonerneal	(HANDLE*	-	
+wb/eng/00/eng_0188	0	1	@huntsdc	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	@CambsCC	NN	*)	-	-	-	goonerneal	*)	-	
+wb/eng/00/eng_0188	0	3	PS	NNP	(SBAR(S(NP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	4	it	PRP	*)	-	-	-	goonerneal	*	(16)	
+wb/eng/00/eng_0188	0	5	's	VBZ	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	6	outside	JJ	(ADVP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	7	my	PRP$	(NP*	-	-	-	goonerneal	*	(27)	
+wb/eng/00/eng_0188	0	8	in-laws	NNS	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	9	house	NN	*)))))))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	goonerneal	*	(27)	
+wb/eng/00/eng_0188	0	1	live	VBP	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	across	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	3	the	DT	(NP(NP*	-	-	-	goonerneal	*	(21	
+wb/eng/00/eng_0188	0	4	road	NN	*)	-	-	-	goonerneal	*	21)	
+wb/eng/00/eng_0188	0	5	on	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	6	Princes	NNPS	(NP*	-	-	-	goonerneal	(LOCATION*	-	
+wb/eng/00/eng_0188	0	7	Drive	NNP	*)))))	-	-	-	goonerneal	*)	-	
+wb/eng/00/eng_0188	0	8	.	.	*))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	@goonerneal	JJ	(ROOT(S(NP*	-	-	-	AnglianWater	(HANDLE*	-	
+wb/eng/00/eng_0188	0	1	@huntsdc	NN	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	2	@CambsCC	NN	*	-	-	-	AnglianWater	*)	-	
+wb/eng/00/eng_0188	0	3	Thanks	NNS	*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	4	,	,	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	5	is	VBZ	(S(VP(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	6	it	PRP	(NP*)	-	-	-	AnglianWater	*	(20)	
+wb/eng/00/eng_0188	0	7	still	RB	(S(VP(ADVP*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	8	leaking	VBG	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	9	out	RP	(PRT*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	10	at	IN	(PP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	11	the	DT	(NP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	12	moment	NN	*)))))	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	13	or	CC	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	14	has	VBZ	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	15	it	PRP	(NP*))))	-	-	-	AnglianWater	*	(20)	
+wb/eng/00/eng_0188	0	16	stopped	VBD	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	17	now	RB	(ADVP*))	-	-	-	AnglianWater	(DATE)	-	
+wb/eng/00/eng_0188	0	18	?	.	*))	-	-	-	AnglianWater	*	-	
+
+wb/eng/00/eng_0188	0	0	And	CC	(ROOT(SQ*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	1	is	VBZ	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	2	there	EX	(NP*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	3	a	DT	(NP(NP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	4	smell	NN	*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	5	at	IN	(PP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	6	all	DT	(NP(NP*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	7	or	CC	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	8	does	VBZ	(S(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	9	it	PRP	(S(NP*)	-	-	-	AnglianWater	*	(20)	
+wb/eng/00/eng_0188	0	10	seem	VB	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	11	to	TO	(S(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	12	be	VB	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	13	rain	NN	(NP*	-	-	-	AnglianWater	*	(20	
+wb/eng/00/eng_0188	0	14	water	NN	*)))))))))))	-	-	-	AnglianWater	*	20)	
+wb/eng/00/eng_0188	0	15	?	.	*))	-	-	-	AnglianWater	*	-	
+
+wb/eng/00/eng_0188	0	0	@AnglianWater	NN	(ROOT(NP(NP*	-	-	-	goonerneal	(HANDLE*	-	
+wb/eng/00/eng_0188	0	1	@huntsdc	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	@CambsCC	NN	*	-	-	-	goonerneal	*)	-	
+wb/eng/00/eng_0188	0	3	Pretty	NNP	*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	4	sure	JJ	(ADJP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	5	it	PRP	(SBAR(S(NP*)	-	-	-	goonerneal	*	(20)	
+wb/eng/00/eng_0188	0	6	's	VBZ	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	7	rain	NN	(NP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	8	water	NN	*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	9	as	IN	(SBAR*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	10	it	PRP	(S(NP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	11	only	RB	(ADVP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	12	happens	VBZ	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	13	when	WRB	(NP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	14	it	PRP	(NP-TMP(NP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	15	rains	NNS	(NP*)))))))))	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	16	.	.	*))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	It	PRP	(ROOT(S(NP*)	-	-	-	goonerneal	*	(20)	
+wb/eng/00/eng_0188	0	1	then	RB	(VP(ADVP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	goes	VBZ	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	3	down	IN	(ADVP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	4	the	DT	(NP*	-	-	-	goonerneal	*	(21	
+wb/eng/00/eng_0188	0	5	road	NN	*))	-	-	-	goonerneal	*	21)	
+wb/eng/00/eng_0188	0	6	straight	RB	(ADVP*)	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	7	into	IN	(PP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	8	the	DT	(NP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	9	gully	NN	*)))))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	@goonerneal	JJ	(ROOT(NP(S(NP*	-	-	-	AnglianWater	(HANDLE*	-	
+wb/eng/00/eng_0188	0	1	@huntsdc	NN	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	2	@CambsCC	NN	*	-	-	-	AnglianWater	*)	-	
+wb/eng/00/eng_0188	0	3	Thanks	NNS	*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	4	,	,	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	5	I	PRP	(NP*)	-	-	-	AnglianWater	*	(26)	
+wb/eng/00/eng_0188	0	6	'll	MD	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	7	get	VB	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	8	someone	NN	(NP*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	9	out	IN	(ADVP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	10	in	IN	(PP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	11	the	DT	(NP-TMP*	-	-	-	AnglianWater	(DURATION*	-	
+wb/eng/00/eng_0188	0	12	next	JJ	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	13	3	CD	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	14	days	NNS	*)))	-	-	-	AnglianWater	*)	-	
+wb/eng/00/eng_0188	0	15	to	TO	(S(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	16	take	VB	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	17	a	DT	(NP*	-	-	-	AnglianWater	*	(23	
+wb/eng/00/eng_0188	0	18	look	NN	*)	-	-	-	AnglianWater	*	23)	
+wb/eng/00/eng_0188	0	19	at	IN	(PP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	20	this	DT	(NP(NP*)	-	-	-	AnglianWater	*	(24)	
+wb/eng/00/eng_0188	0	21	and	CC	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	22	the	DT	(NP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	23	reference	NN	*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	24	number	NN	*)))	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	25	for	IN	(SBAR*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	26	that	DT	(S(NP*)	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	27	is	VBZ	(VP*	-	-	-	AnglianWater	*	-	
+wb/eng/00/eng_0188	0	28	54439396	CD	(NP*))))))))))))	-	-	-	AnglianWater	(NUMBER)	-	
+
+wb/eng/00/eng_0188	0	0	@AnglianWater	NN	(ROOT(S(NP*	-	-	-	goonerneal	(HANDLE*	-	
+wb/eng/00/eng_0188	0	1	@huntsdc	NN	*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	2	@CambsCC	NN	*)	-	-	-	goonerneal	*)	-	
+wb/eng/00/eng_0188	0	3	Thank	VB	(VP*	-	-	-	goonerneal	*	-	
+wb/eng/00/eng_0188	0	4	you	PRP	(NP*))	-	-	-	goonerneal	*	(26)	
+wb/eng/00/eng_0188	0	5	.	.	*))	-	-	-	goonerneal	*	-	
+
+wb/eng/00/eng_0188	0	0	Neal	NNP	(ROOT(NP*))	-	-	-	goonerneal	(PERSON)	(27)	
+
+#end document

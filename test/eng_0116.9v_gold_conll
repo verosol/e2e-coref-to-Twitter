@@ -1,0 +1,56 @@
+#begin document (wb/eng/00/eng_0116); part 000
+wb/eng/00/eng_0116	0	0	Fire	NNP	(ROOT(S(NP*)	-	-	-	Independent	(CAUSE_OF_DEATH)	-	
+wb/eng/00/eng_0116	0	1	breaks	VBZ	(VP*	-	-	-	Independent	*	-	
+wb/eng/00/eng_0116	0	2	out	RP	(PRT*)	-	-	-	Independent	*	-	
+wb/eng/00/eng_0116	0	3	at	IN	(PP*	-	-	-	Independent	*	-	
+wb/eng/00/eng_0116	0	4	Trump	NNP	(NP*	-	-	-	Independent	(LOCATION)	-	
+wb/eng/00/eng_0116	0	5	Tower	NNP	*	-	-	-	Independent	(CITY)	-	
+wb/eng/00/eng_0116	0	6	https://t.co/woDafKpen3	NN	*)))))	-	-	-	Independent	(URL)	-	
+
+wb/eng/00/eng_0116	0	0	@Independent	JJ	(ROOT(S(NP(ADJP*	-	-	-	gianniizzo81	(HANDLE)	-	
+wb/eng/00/eng_0116	0	1	I	PRP	(SBAR(S(NP*)	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	2	'm	VBP	(VP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	3	sure	JJ	(ADJP*)))))	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	4	#HillaryClinton	NN	*)	-	-	-	gianniizzo81	*	(2)	
+wb/eng/00/eng_0116	0	5	is	VBZ	(VP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	6	behind	IN	(ADVP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	7	this	DT	*)	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	8	somehow	RB	(ADVP*)	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	9	now	RB	(SBAR*	-	-	-	gianniizzo81	(DATE)	-	
+wb/eng/00/eng_0116	0	10	she	PRP	(S(NP*)	-	-	-	gianniizzo81	*	(2)	
+wb/eng/00/eng_0116	0	11	's	VBZ	(VP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	12	being	VBG	(VP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	13	investigated	VBN	(VP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	14	for	IN	(SBAR*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	15	been	VBN	(FRAG(VP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	16	the	DT	(NP*	-	-	-	gianniizzo81	*	(2	
+wb/eng/00/eng_0116	0	17	criminal	JJ	(ADJP*	-	-	-	gianniizzo81	*	2)	
+wb/eng/00/eng_0116	0	18	she	PRP	(SBAR(S(NP*)	-	-	-	gianniizzo81	*	(2)	
+wb/eng/00/eng_0116	0	19	is	VBZ	(VP*)	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	20	.	.	*)))	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	21	#LockHerUp	NN	*))))))))))))	-	-	-	gianniizzo81	*	-	
+
+wb/eng/00/eng_0116	0	0	@gianniizzo81	NN	(ROOT(NP(NP(NP*)	-	-	-	riosangria	(HANDLE*	-	
+wb/eng/00/eng_0116	0	1	@Independent	JJ	(RRC(ADJP*)	-	-	-	riosangria	*)	-	
+wb/eng/00/eng_0116	0	2	Very	RB	(ADVP*)))	-	-	-	riosangria	*	-	
+wb/eng/00/eng_0116	0	3	bad	JJ	(NP(NP*	-	-	-	riosangria	*	-	
+wb/eng/00/eng_0116	0	4	Hillary	NNP	*)	-	-	-	riosangria	(PERSON)	(2)	
+wb/eng/00/eng_0116	0	5	for	IN	(PP*	-	-	-	riosangria	*	-	
+wb/eng/00/eng_0116	0	6	sure	JJ	(NP*	-	-	-	riosangria	*	-	
+wb/eng/00/eng_0116	0	7	criminal	NN	*)))))	-	-	-	riosangria	*	-	
+
+wb/eng/00/eng_0116	0	0	@riosangria	NN	(ROOT(S(NP*)	-	-	-	gianniizzo81	(HANDLE*	-	
+wb/eng/00/eng_0116	0	1	@Independent	JJ	(ADJP*	-	-	-	gianniizzo81	*)	-	
+wb/eng/00/eng_0116	0	2	It	PRP	(SBAR(S(NP*)	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	3	's	VBZ	(VP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	4	only	RB	(SBAR*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	5	because	IN	*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	6	of	IN	(S(PP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	7	Obama	NNP	(NP*))	-	-	-	gianniizzo81	(PERSON)	-	
+wb/eng/00/eng_0116	0	8	she	PRP	(NP*)	-	-	-	gianniizzo81	*	(2)	
+wb/eng/00/eng_0116	0	9	is	VBZ	(VP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	10	n't	RB	*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	11	in	IN	(PP*	-	-	-	gianniizzo81	*	-	
+wb/eng/00/eng_0116	0	12	jail	NN	(NP*)))))))))))	-	-	-	gianniizzo81	*	-	
+
+#end document

@@ -1,0 +1,91 @@
+#begin document (wb/eng/00/eng_0061); part 000
+wb/eng/00/eng_0061	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	Iettertodaddy	*	(8)	
+wb/eng/00/eng_0061	0	1	have	VBP	(VP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	2	a	DT	(NP(NP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	3	personal	JJ	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	4	,	,	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	5	emotional	JJ	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	6	reason	NN	*)	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	7	for	IN	(PP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	8	my	PRP$	(NP(NP*	-	-	-	Iettertodaddy	*	(8)	
+wb/eng/00/eng_0061	0	9	love	NN	*)	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	10	for	IN	(PP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	11	Justine	NNP	(NP*	-	-	-	Iettertodaddy	(PERSON*	(9	
+wb/eng/00/eng_0061	0	12	Greening	NNP	*))))))	-	-	-	Iettertodaddy	*)	9)	
+wb/eng/00/eng_0061	0	13	.	.	*))	-	-	-	Iettertodaddy	*	-	
+
+wb/eng/00/eng_0061	0	0	She	PRP	(ROOT(S(S(NP*)	-	-	-	Iettertodaddy	*	(9)	
+wb/eng/00/eng_0061	0	1	came	VBD	(VP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	2	out	RP	(PRT*)	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	3	on	IN	(PP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	4	Pride	NN	(NP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	5	day	NN	*))))	-	-	-	Iettertodaddy	(DURATION)	-	
+wb/eng/00/eng_0061	0	6	,	,	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	7	and	CC	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	8	it	PRP	(S(NP*)	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	9	gave	VBD	(VP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	10	me	PRP	(NP*)	-	-	-	Iettertodaddy	*	(8)	
+wb/eng/00/eng_0061	0	11	confidence	NN	(NP*)))	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	12	.	.	*))	-	-	-	Iettertodaddy	*	-	
+
+wb/eng/00/eng_0061	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	Iettertodaddy	*	(8)	
+wb/eng/00/eng_0061	0	1	came	VBD	(VP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	2	out	RP	(PRT*)	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	3	to	TO	(PP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	4	my	PRP$	(NP*	-	-	-	Iettertodaddy	*	(1|(8)	
+wb/eng/00/eng_0061	0	5	Mum	NNP	(NAC(NP*)	-	-	-	Iettertodaddy	*	1)	
+wb/eng/00/eng_0061	0	6	the	DT	(NP*	-	-	-	Iettertodaddy	(DATE*	-	
+wb/eng/00/eng_0061	0	7	next	JJ	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	8	day	NN	*))	-	-	-	Iettertodaddy	*)	-	
+wb/eng/00/eng_0061	0	9	%smiley	NN	*)))))	-	-	-	Iettertodaddy	*	-	
+
+wb/eng/00/eng_0061	0	0	I	PRP	(ROOT(S(S(NP*)	-	-	-	Iettertodaddy	*	(8)	
+wb/eng/00/eng_0061	0	1	told	VBD	(VP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	2	her	PRP	(NP*)	-	-	-	Iettertodaddy	*	(1)	
+wb/eng/00/eng_0061	0	3	at	IN	(PP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	4	Conference	NN	(NP*))))	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	5	and	CC	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	6	she	PRP	(S(NP*)	-	-	-	Iettertodaddy	*	(1)	
+wb/eng/00/eng_0061	0	7	gave	VBD	(VP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	8	me	PRP	(NP*)	-	-	-	Iettertodaddy	*	(8)	
+wb/eng/00/eng_0061	0	9	a	DT	(NP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	10	huge	JJ	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	11	hug	NN	*)))	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	12	.	.	*))	-	-	-	Iettertodaddy	*	-	
+
+wb/eng/00/eng_0061	0	0	She	PRP	(ROOT(S(NP*)	-	-	-	Iettertodaddy	*	(12)	
+wb/eng/00/eng_0061	0	1	's	VBZ	(VP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	2	the	DT	(NP(NP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	3	Queen	NN	*)	-	-	-	Iettertodaddy	(TITLE)	-	
+wb/eng/00/eng_0061	0	4	of	IN	(PP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	5	my	PRP$	(NP*	-	-	-	Iettertodaddy	*	(8)	
+wb/eng/00/eng_0061	0	6	life	NN	*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	7	tbh	NN	*))))	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	8	.	.	*))	-	-	-	Iettertodaddy	*	-	
+
+wb/eng/00/eng_0061	0	0	@Iettertodaddy	JJ	(ROOT(S(S(ADJP*	-	-	-	Jam_Bake	(HANDLE)	-	
+wb/eng/00/eng_0061	0	1	This	DT	(SBAR(S(NP*)	-	-	-	Jam_Bake	*	(10)	
+wb/eng/00/eng_0061	0	2	is	VBZ	(VP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	3	fantastic	JJ	(NP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	4	Helen	NNP	*))))))	-	-	-	Jam_Bake	(PERSON)	(8)	
+wb/eng/00/eng_0061	0	5	,	,	*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	6	I	PRP	(NP*)	-	-	-	Jam_Bake	*	(11)	
+wb/eng/00/eng_0061	0	7	'm	VBP	(VP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	8	sure	JJ	(ADJP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	9	she	PRP	(SBAR(S(NP*)	-	-	-	Jam_Bake	*	(12)	
+wb/eng/00/eng_0061	0	10	would	MD	(VP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	11	have	VB	(VP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	12	been	VBN	(VP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	13	so	RB	(ADJP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	14	pleased	JJ	*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	15	to	TO	(S(VP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	16	hear	VB	(VP*	-	-	-	Jam_Bake	*	-	
+wb/eng/00/eng_0061	0	17	this	DT	(NP*))))))))))))	-	-	-	Jam_Bake	*	(10)	
+wb/eng/00/eng_0061	0	18	!	.	*))	-	-	-	Jam_Bake	*	-	
+
+wb/eng/00/eng_0061	0	0	@Jam_Bake	NNP	(ROOT(FRAG(NP*)	-	-	-	Iettertodaddy	(HANDLE)	-	
+wb/eng/00/eng_0061	0	1	Thank	VB	(VP*	-	-	-	Iettertodaddy	*	-	
+wb/eng/00/eng_0061	0	2	you	PRP	(S(NP*)	-	-	-	Iettertodaddy	*	(11)	
+wb/eng/00/eng_0061	0	3	%smiley	VB	(VP*)))))	-	-	-	Iettertodaddy	*	-	
+
+#end document

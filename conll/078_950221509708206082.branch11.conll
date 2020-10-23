@@ -1,0 +1,100 @@
+#begin document (078_950221509708206082.branch11.); part 58
+078_950221509708206082.branch11.	58	0	Oprah	NNP	(ROOT(S(S(NP*)	ne/none/none	sbj	-	Karnythia	(PERSON)	(0)
+078_950221509708206082.branch11.	58	1	is	VBZ	(VP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	2	lovely	JJ	(ADJP*)))	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	3	,	,	*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	4	she	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	Karnythia	*	(0)
+078_950221509708206082.branch11.	58	5	is	VBZ	(VP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	6	n't	RB	*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	7	qualified	VBN	(ADJP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	8	to	TO	(S(VP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	9	be	VB	(VP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	10	President	NNP	(NP*)	defnp/none/none	dir_obj	-	Karnythia	(TITLE)	(1)
+078_950221509708206082.branch11.	58	11	though	IN	(ADVP*))))))	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	12	.	.	*))	-	-	-	Karnythia	*	-
+
+078_950221509708206082.branch11.	58	0	Can	MD	(ROOT(SQ*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	1	we	PRP	(NP*)	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	2	stop	VB	(VP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	3	with	IN	(PP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	4	the	DT	(NP(NP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	5	cult	NN	*)	-	-	-	Karnythia	(RELIGION)	-
+078_950221509708206082.branch11.	58	6	of	IN	(PP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	7	personality	NN	(NP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	8	approach	NN	*))))	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	9	to	TO	(PP*	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	10	politics	NNS	(NP*)))	-	-	-	Karnythia	*	-
+078_950221509708206082.branch11.	58	11	?	.	*))	-	-	-	Karnythia	*	-
+
+078_950221509708206082.branch11.	58	0	@Karnythia	NN	(ROOT(FRAG(NP(NP*	-	-	-	kennisgoodman	(HANDLE*	-
+078_950221509708206082.branch11.	58	1	@TheRealRodneyF	NN	*)	-	-	-	kennisgoodman	*)	-
+078_950221509708206082.branch11.	58	2	She	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	kennisgoodman	*	(0)
+078_950221509708206082.branch11.	58	3	not	RB	*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	4	qualified	VBD	(VP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	5	to	TO	(PP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	6	he	PRP	(NP(NP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	7	president	NN	*)	defnp/none/none	dir_obj	-	kennisgoodman	(TITLE)	(1)
+078_950221509708206082.branch11.	58	8	why	WRB	(FRAG(WHADVP*))))))))	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	9	?	.	*))	-	-	-	kennisgoodman	*	-
+
+078_950221509708206082.branch11.	58	0	@kennisgoodman	NN	(ROOT(S(NP(NP*)	-	-	-	TheRealRodneyF	(HANDLE)	-
+078_950221509708206082.branch11.	58	1	She	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	TheRealRodneyF	*	(0)
+078_950221509708206082.branch11.	58	2	has	VBZ	(VP*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	3	n't	RB	*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	4	done	VBN	(VP*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	5	anything	NN	(NP*)	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	6	to	TO	(PP*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	7	b	NN	(NP*)))))))	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	8	qualified	VBD	(VP*)))	-	-	-	TheRealRodneyF	*	-
+
+078_950221509708206082.branch11.	58	0	@TheRealRodneyF	NN	(ROOT(S(NP(NP*)	-	-	-	kennisgoodman	(HANDLE)	-
+078_950221509708206082.branch11.	58	1	You	PRP	(ADVP*))	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	2	do	VBP	(VP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	3	n't	RB	*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	4	need	VB	(VP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	5	to	TO	(S(VP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	6	be	VB	(VP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	7	a	DT	(NP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	8	politician	NN	*	-	-	-	kennisgoodman	(TITLE)	-
+078_950221509708206082.branch11.	58	9	to	TO	(S(VP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	10	be	VB	(VP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	11	in	IN	(PP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	12	office	NN	(NP*)))))))))))	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	13	.	.	*))	-	-	-	kennisgoodman	*	-
+
+078_950221509708206082.branch11.	58	0	People	NNS	(ROOT(S(S(NP*)	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	1	only	RB	(VP(ADVP*)	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	2	making	VBG	*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	3	that	DT	(NP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	4	argument	NN	*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	5	cus	NN	*)))	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	6	she	PRP	(NP*)	ppers/anaphora/nominal	sbj	-	kennisgoodman	*	(0)
+078_950221509708206082.branch11.	58	7	's	VBZ	(VP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	8	a	DT	(NP*	indefnp/none/none	copula_rel	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	9	black	JJ	*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	10	woman	NN	*))	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	11	.	.	*))	-	-	-	kennisgoodman	*	-
+
+078_950221509708206082.branch11.	58	0	@kennisgoodman	NN	(ROOT(FRAG(NP(NP*)	-	-	-	TheRealRodneyF	(HANDLE)	-
+078_950221509708206082.branch11.	58	1	She	PRP	(SBAR(S(NP*)	ppers/anaphora/nominal	sbj	-	TheRealRodneyF	*	(0)
+078_950221509708206082.branch11.	58	2	do	VBP	(VP*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	3	n't	RB	*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	4	want	VB	(VP*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	5	the	DT	(NP*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	6	presidential	JJ	*	-	-	-	TheRealRodneyF	*	-
+078_950221509708206082.branch11.	58	7	smoke	NN	*))))))))	-	-	-	TheRealRodneyF	*	-
+
+078_950221509708206082.branch11.	58	0	@TheRealRodneyF	NNP	(ROOT(NP*	-	-	-	kennisgoodman	(HANDLE)	-
+078_950221509708206082.branch11.	58	1	Shoot	NNP	*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	2	.	.	*))	-	-	-	kennisgoodman	*	-
+
+078_950221509708206082.branch11.	58	0	I	PRP	(ROOT(S(S(NP*)	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	1	do	VBP	(VP*))	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	2	,	,	*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	3	lowkey	JJ	(FRAG(ADJP*))	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	4	.	.	*))	-	-	-	kennisgoodman	*	-
+
+078_950221509708206082.branch11.	58	0	Lol	NN	(ROOT(NP*	-	-	-	kennisgoodman	*	-
+078_950221509708206082.branch11.	58	1	.	.	*))	-	-	-	kennisgoodman	*	-
+
+#end document

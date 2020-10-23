@@ -1,0 +1,129 @@
+#begin document (wb/eng/00/eng_0057); part 000
+wb/eng/00/eng_0057	0	0	AWFUL	NNP	(ROOT(SINV(FRAG(NP(NP*)	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	1	:	:	*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	2	New	NNP	(NP(NP(NP(NP*	-	-	-	NIVIsa4031	(ORGANIZATION*	(3	
+wb/eng/00/eng_0057	0	3	Trump	NNP	*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	4	Book	NNP	*	-	-	-	NIVIsa4031	*)	3)	
+wb/eng/00/eng_0057	0	5	's	POS	*)	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	6	Fire	NN	*	-	-	-	NIVIsa4031	(CAUSE_OF_DEATH)	-	
+wb/eng/00/eng_0057	0	7	%emoji	NN	*)	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	8	&	CC	*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	9	Fury	NN	(NP*))	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	10	,	,	*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	11	Passage	NN	(NP*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	12	everyone	NN	*))))	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	13	missed	VBD	(VP*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	14	that	IN	(SBAR*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	15	Proves	NNP	(S(NP*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	16	It	PRP	*)	-	-	-	NIVIsa4031	*	(3)	
+wb/eng/00/eng_0057	0	17	's	VBZ	(VP*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	18	A	DT	(NP*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	19	Fake	JJ	*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	20	[	NN	*	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	21	LOOK	NN	*)))))	-	-	-	NIVIsa4031	*	-	
+wb/eng/00/eng_0057	0	22	]	CD	(NP*	-	-	-	NIVIsa4031	(NUMBER)	-	
+wb/eng/00/eng_0057	0	23	https://t.co/rEbJb2VFA3	NN	*	-	-	-	NIVIsa4031	(URL*	-	
+wb/eng/00/eng_0057	0	24	https://t.co/2RlUwLiMIN	NN	*)))	-	-	-	NIVIsa4031	*)	-	
+
+wb/eng/00/eng_0057	0	0	@NIVIsa4031	NN	(ROOT(S(NP*)	-	-	-	RockerC96ci	(HANDLE)	-	
+wb/eng/00/eng_0057	0	1	I	PRP	(NP*)	-	-	-	RockerC96ci	*	(7)	
+wb/eng/00/eng_0057	0	2	watched	VBD	(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	3	a	DT	(NP(NP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	4	small	JJ	*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	5	portion	NN	*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	6	of	IN	(PP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	7	meet	VB	(S(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	8	the	DT	(NP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	9	press	NN	*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	10	with	IN	(PP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	11	this	DT	(NP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	12	hashtag	NN	*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	13	talking	NN	*)))))))	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	14	.	.	*))	-	-	-	RockerC96ci	*	-	
+
+wb/eng/00/eng_0057	0	0	With	IN	(ROOT(S(PP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	1	30	CD	(NP(NP*	-	-	-	RockerC96ci	(DURATION*	-	
+wb/eng/00/eng_0057	0	2	years	NNS	*)	-	-	-	RockerC96ci	*)	-	
+wb/eng/00/eng_0057	0	3	of	IN	(PP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	4	law	NN	(NP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	5	enforcement	NN	*))))	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	6	,	,	*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	7	I	PRP	(NP*)	-	-	-	RockerC96ci	*	(7)	
+wb/eng/00/eng_0057	0	8	have	VBP	(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	9	interviewed	VBN	(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	10	and	CC	*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	11	interrogated	VBN	*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	12	a	DT	(NP(NP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	13	lot	NN	*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	14	of	IN	(PP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	15	ppl	NN	(NP*)))))	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	16	.	.	*))	-	-	-	RockerC96ci	*	-	
+
+wb/eng/00/eng_0057	0	0	A	DT	(ROOT(S(NP(NP*	-	-	-	RockerC96ci	*	(0	
+wb/eng/00/eng_0057	0	1	one	CD	*	-	-	-	RockerC96ci	(DURATION*	-	
+wb/eng/00/eng_0057	0	2	year	NN	*	-	-	-	RockerC96ci	*)	-	
+wb/eng/00/eng_0057	0	3	veteran	NN	*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	4	in	IN	(PP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	5	LE	NNP	(NP*)))	-	-	-	RockerC96ci	*	0)	
+wb/eng/00/eng_0057	0	6	would	MD	(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	7	be	VB	(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	8	able	JJ	(ADJP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	9	to	TO	(S(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	10	pick	VB	(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	11	up	RP	(PRT*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	12	on	IN	(PP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	13	the	DT	(NP(NP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	14	deception	NN	*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	15	he	PRP	(SBAR(S(NP*)	-	-	-	RockerC96ci	*	(0)	
+wb/eng/00/eng_0057	0	16	was	VBD	(VP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	17	spewing	VBG	(VP*))))))))))))	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	18	.	.	*))	-	-	-	RockerC96ci	*	-	
+
+wb/eng/00/eng_0057	0	0	Body	NN	(ROOT(NP(NP*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	1	language	NN	(NP(NP*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	2	and	CC	*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	3	movements	NNS	(NP*))	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	4	.	.	*))	-	-	-	RockerC96ci	*	-	
+
+wb/eng/00/eng_0057	0	0	@RockerC96ci	NN	(ROOT(NP(NP*)	-	-	-	lil883sportyy	(HANDLE*	-	
+wb/eng/00/eng_0057	0	1	@NIVIsa4031	NN	(NP*	-	-	-	lil883sportyy	*)	-	
+wb/eng/00/eng_0057	0	2	Boom	NN	*)	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	3	!	.	*))	-	-	-	lil883sportyy	*	-	
+
+wb/eng/00/eng_0057	0	0	Absolutely	RB	(ROOT(FRAG(ADVP*)	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	1	!	.	*))	-	-	-	lil883sportyy	*	-	
+
+wb/eng/00/eng_0057	0	0	@lil883sportyy	NN	(ROOT(NP(NP*	-	-	-	RockerC96ci	(HANDLE*	-	
+wb/eng/00/eng_0057	0	1	@NIVIsa4031	NN	*)	-	-	-	RockerC96ci	*)	-	
+wb/eng/00/eng_0057	0	2	Nice	JJ	(NP*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	3	bike	NN	*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	4	!!!!	.	*))	-	-	-	RockerC96ci	*	-	
+
+wb/eng/00/eng_0057	0	0	This	DT	(ROOT(FRAG(NP(NP*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	1	my	PRP$	(NP(NP*	-	-	-	RockerC96ci	*	(7)	
+wb/eng/00/eng_0057	0	2	wife	NN	*	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	3	's	POS	*)	-	-	-	RockerC96ci	*	-	
+wb/eng/00/eng_0057	0	4	https://t.co/hLantU93pZ	NN	*))))	-	-	-	RockerC96ci	(URL)	-	
+
+wb/eng/00/eng_0057	0	0	@RockerC96ci	NN	(ROOT(NP(NP*)	-	-	-	lil883sportyy	(HANDLE*	-	
+wb/eng/00/eng_0057	0	1	@NIVIsa4031	NN	(NP(NP*)	-	-	-	lil883sportyy	*)	-	
+wb/eng/00/eng_0057	0	2	Thanks	NNS	(NP*))	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	3	!	.	*))	-	-	-	lil883sportyy	*	-	
+
+wb/eng/00/eng_0057	0	0	Nice	JJ	(ROOT(FRAG(ADJP*)	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	1	!	.	*))	-	-	-	lil883sportyy	*	-	
+
+wb/eng/00/eng_0057	0	0	Hey	UH	(ROOT(NP*	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	1	...	:	*))	-	-	-	lil883sportyy	*	-	
+
+wb/eng/00/eng_0057	0	0	Thank	VB	(ROOT(S(VP*	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	1	you	PRP	(NP*)	-	-	-	lil883sportyy	*	(7)	
+wb/eng/00/eng_0057	0	2	for	IN	(PP*	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	3	your	PRP$	(NP*	-	-	-	lil883sportyy	*	(7)	
+wb/eng/00/eng_0057	0	4	service	NN	*)))	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	5	.	.	*))	-	-	-	lil883sportyy	*	-	
+
+wb/eng/00/eng_0057	0	0	I	PRP	(ROOT(S(NP*)	-	-	-	lil883sportyy	*	-	
+wb/eng/00/eng_0057	0	1	#BackTheBlue	VBP	(VP*)))	-	-	-	lil883sportyy	*	-	
+
+#end document

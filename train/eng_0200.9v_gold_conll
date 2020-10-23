@@ -1,0 +1,45 @@
+#begin document (wb/eng/00/eng_0200); part 000
+wb/eng/00/eng_0200	0	0	it	PRP	(ROOT(S(NP*)	-	-	-	ningiou	*	-	
+wb/eng/00/eng_0200	0	1	begins	VBZ	(VP*	-	-	-	ningiou	*	-	
+wb/eng/00/eng_0200	0	2	https://t.co/WvHOf80rbz	NN	(NP*))))	-	-	-	ningiou	(URL)	-	
+
+wb/eng/00/eng_0200	0	0	@ningiou	NN	(ROOT(S(NP*	-	-	-	ImFarux	(HANDLE*	-	
+wb/eng/00/eng_0200	0	1	@rrin_reen	NNS	*)	-	-	-	ImFarux	*)	-	
+wb/eng/00/eng_0200	0	2	ehh	VBP	(VP*	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	3	what	WP	(SBAR(WHNP*)	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	4	manga	NN	(S(NP*)	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	5	is	VBZ	(VP*	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	6	the	DT	(NP*	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	7	second	JJ	*	-	-	-	ImFarux	(ORDINAL)	-	
+wb/eng/00/eng_0200	0	8	image	NN	*)))))	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	9	?	.	*))	-	-	-	ImFarux	*	-	
+
+wb/eng/00/eng_0200	0	0	im	NN	(ROOT(NP(NP*)	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	1	curious	JJ	(NP*)))	-	-	-	ImFarux	*	-	
+
+wb/eng/00/eng_0200	0	0	@ImFarux	NN	(ROOT(S(NP*)	-	-	-	rrin_reen	(HANDLE)	-	
+wb/eng/00/eng_0200	0	1	@ningiou	VBZ	(VP*	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	2	it	PRP	(SBAR(S(NP*)	-	-	-	rrin_reen	*	(3)	
+wb/eng/00/eng_0200	0	3	's	VBZ	(VP*	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	4	the	DT	(NP(NP*	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	5	same	JJ	*	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	6	series	NN	*)	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	7	,	,	*	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	8	anime	NN	(NP*	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	9	adaption	NN	*)	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	10	and	CC	*	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	11	the	DT	(NP*	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	12	manga	NN	*))))))	-	-	-	rrin_reen	*	-	
+wb/eng/00/eng_0200	0	13	.	.	*))	-	-	-	rrin_reen	*	-	
+
+wb/eng/00/eng_0200	0	0	Citrus	NNP	(ROOT(NP*))	-	-	-	rrin_reen	*	(3)	
+
+wb/eng/00/eng_0200	0	0	@rrin_reen	JJ	(ROOT(S(NP*	-	-	-	ImFarux	(HANDLE*	-	
+wb/eng/00/eng_0200	0	1	@ningiou	NN	*)	-	-	-	ImFarux	*)	-	
+wb/eng/00/eng_0200	0	2	thank	VB	(VP*	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	3	you	PRP	(NP*)	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	4	so	RB	(ADVP*	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	5	much	RB	*))	-	-	-	ImFarux	*	-	
+wb/eng/00/eng_0200	0	6	!	.	*))	-	-	-	ImFarux	*	-	
+
+#end document
